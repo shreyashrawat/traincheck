@@ -21,9 +21,10 @@ def main():
     at.text_area(key="policy_text").set_value(sample).run()
     at.button(key="audit").click().run()
     assert not at.exception, at.exception
-    successes = [str(s.value) for s in at.success]
-    assert any("8.6/10" in s for s in successes), successes
-    print("app test passed:", successes)
+    texts = [str(m.value) for m in at.markdown] + [str(s.value) for s in at.success]
+    assert any("8.6" in t for t in texts), texts
+    assert any("Clear" in t for t in texts), texts
+    print("app test passed: hero shows 8.6 / Clear")
 
 
 if __name__ == "__main__":

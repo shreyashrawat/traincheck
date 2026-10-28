@@ -1,4 +1,4 @@
-# TrainCheck (v0.3)
+# TrainCheck (v0.4)
 
 An evidence-anchored audit of what AI products' privacy policies actually say
 about training on your data. Paste a policy URL or text, get a per-item audit
@@ -34,26 +34,23 @@ same quote-anchored audit in the browser. Live at the Streamlit URL connected
 to https://github.com/shreyashrawat/traincheck (`streamlit_app.py`).
 `requirements.txt` pins the Cloud runtime deps.
 
-## How a normal user reads it (v0.3 layers)
+## How a normal user reads it (v0.4 visual layers)
 
-The app is built for someone who knows nothing about the rubric:
+Robinhood-style: the eye gets the answer before any text is read.
 
-1. **Policy score out of 10** — how clearly the policy explains what
-   happens to your data (higher = clearer, not safer), plus one plain
-   bottom-line sentence (trains? opt-out?). Training questions count
-   double in the score. Formula: stated = full points, partially
-   stated = half, contradictory / not stated = zero; 22 points max.
-2. **What's missing or unclear** — only the gap items, each in plain
-   language with the exact policy quote and section. No sentence IDs,
-   rule IDs, model names, or decision rules at this layer.
-3. **What you can do next** — actions grounded in the audit: turn
-   training off (with the control location when the policy states it),
-   delete existing data, share less, ask the company, or compare with
-   another app when the score is under 8.
-4. **Compare with another app** — paste a competing policy and see
-   which scores higher, side by side.
+1. **One giant number** — the score, 76px, plus one plain bottom-line
+   sentence. Training questions count double in the score. Formula:
+   stated = full points, partially stated = half, contradictory /
+   not stated = zero; 22 points max.
+2. **A donut + two bars** — the 16 questions as green/amber/red/gray
+   segments with a text legend (never color-only), plus Training
+   clarity (x/6) and Basics clarity (x/10) bars.
+3. **Cards, not walls of text** — each gap and each next action is its
+   own bordered card: bold title, one plain sentence, exact quote.
+4. **Compare, side by side** — two big score metrics and a verdict line.
 5. **Full report (collapsed)** — the 16-item audit plus "Why this
-   decision" detail for anyone who wants to go deeper.
+   decision" detail. Internal info (sentence IDs, sources, decision
+   rules, pipeline manifest) appears ONLY here, never above it.
 
 A built-in "suggest a better alternative" directory is deliberately
 NOT in v0.3: naming alternatives requires a vetted leaderboard, which
@@ -117,6 +114,8 @@ with the exact lines behind it.
   protocol, so both tool accuracy and dataset reliability are measured.
 - `traincheck/score.py` — completeness aggregation + transparency score
   (training questions double-weighted) + score comparison.
+- `traincheck/viz.py` — visual layer: donut chart + progress bars as
+  dependency-free HTML/CSS, semantic colors with text legends.
 - `traincheck/plain.py` — plain-language layer: gap sentences, bottom
   line, next actions. No internal information leaks into these strings.
 - `traincheck/report.py` — Markdown report rendering.
@@ -155,8 +154,9 @@ with the exact lines behind it.
 ## Status
 
 Deployed: public repo https://github.com/shreyashrawat/traincheck, Streamlit
-app live (URL to record). v0.3 adds the normal-user UX: score hero,
-plain-language gaps, next actions, compare mode, collapsed full report.
-Still to come: the annotation sprint (20 policies, double-annotated) — the
-data that trains the classifier and produces the first real accuracy
-numbers — then the user pilot, then the filing evidence bundle.
+app live at https://traincheck-i8xkfknqzbvgpg8tweamcb.streamlit.app. v0.4 is the visual overhaul: giant score hero,
+donut + bars, cards, side-by-side compare, internal detail only in the
+collapsed full report. Still to come: the annotation sprint (20 policies,
+double-annotated) — the data that trains the classifier and produces the
+first real accuracy numbers — then the user pilot, then the filing
+evidence bundle.

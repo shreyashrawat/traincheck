@@ -1,15 +1,16 @@
 """TrainCheck web app (Streamlit Cloud target).
 
-Built for a normal user, in layers:
-1. A score out of 10, with one plain bottom-line sentence.
-2. What's missing or unclear, each with the exact policy quote.
-3. What you can do next.
-4. Compare with another app (paste its policy, see which scores higher).
+Built for a normal user, Robinhood-style: the eye gets the answer before
+any text is read. In order:
+1. One giant number (the score) + one plain sentence.
+2. A donut of the 16 questions + two clarity bars.
+3. Cards: what's missing, what to do next.
+4. Compare with another app, side by side.
 5. Full report, collapsed — the 16-item audit plus "Why this decision"
    detail (sentence IDs, sources, decision rules) for anyone who wants it.
 
 Internal information (sentence IDs, rule IDs, model names, decision
-rules) appears ONLY in layer 5, never in the top layers.
+rules, pipeline manifest) appears ONLY in layer 5, never above it.
 """
 
 import os
@@ -25,15 +26,15 @@ from traincheck.merge import merge_results
 from traincheck.parse import parse_document
 from traincheck.plain import bottom_line, next_actions, plain_problem
 from traincheck.score import compare_scores, summarize, transparency_score
+from traincheck.viz import bar_html, donut_html, hero_css
 
 MODEL_PATH = Path("models/sentence_classifier.joblib")
 
 st.set_page_config(page_title="TrainCheck", page_icon="🔍")
+st.markdown(hero_css(), unsafe_allow_html=True)
 st.title("TrainCheck")
-st.write(
-    "Paste an AI product's privacy policy and see, in seconds, how clearly "
-    "it explains what happens to your data. Not legal advice."
-)
+st.write("Paste an AI product's privacy policy. See in seconds how clearly "
+         "it explains what happens to your data.")
 
 
 def _resolve_api_key():
@@ -138,45 +139,51 @@ if audit:
     score = transparency_score(merged)
     s = summarize(merged)
 
-    # Layer 1: the score.
-    st.success(f"Policy score: {score['score']}/10 ({score['label']})")
-    st.write(bottom_line(merged))
-    st.caption(
-        f"How clearly this policy explains what happens to your data — higher "
-        f"means clearer, not safer. Training questions: {score['training']['clear']}/6 clear. "
-        f"Basics: {score['basics']['clear']}/10 clear. "
-        f"Completeness: {s['stated']}/16 stated, {s['contradictory']} contradictory, "
-        f"{s['partially stated']} partially stated, {s['not stated']} not stated."
-    )
-    st.caption("Documents consulted: " + ", ".join(audit["doc_names"]))
-    st.caption(f"Pipeline {audit['manifest']['pipeline_version']} · "
-               f"input {audit['manifest']['input_sha256'][:12]}")
-    for name, diag in audit["gapfill_diags"]:
-        if diag["upgraded"]:
-            st.caption(f"LLM gap-fill ({name}, {diag['model']}, temp 0): "
-                       f"upgraded {', '.join(diag['upgraded'])}; "
-                       f"dropped {len(diag['dropped'])} unverified quotes.")
+    # Layer 1: one giant number + one plain sentence.
+    st.markdown(f"<div class='tc-hero-num'>{score['score']}</div>",
+                unsafe_allow_html=True)
+    st.markdown(f"<div class='tc-hero-sub'>/ 10 · {score['label']} — "
+                f"{bottom_line(merged)}</div>", unsafe_allow_html=True)
+    st.caption("How clearly this policy explains what happens to your data — "
+               "higher means clearer, not safer.")
 
-    # Layer 2: what's missing or unclear, with exact references.
+    # Layer 2: the picture — donut + two clarity bars.
+    col_donut, col_bars = st.columns([1, 1])
+    with col_donut:
+        st.markdown(donut_html(s, score["score"], score["label"]),
+                    unsafe_allow_html=True)
+    with col_bars:
+        st.write(f"**Training questions: {score['training']['clear']}/6 clear**")
+        st.markdown(bar_html(score["training"]["clear"] / 6),
+                    unsafe_allow_html=True)
+        st.write(f"**Basics: {score['basics']['clear']}/10 clear**")
+        st.markdown(bar_html(score["basics"]["clear"] / 10),
+                    unsafe_allow_html=True)
+        st.caption(f"{s['stated']} of 16 questions answered clearly.")
+
+    # Layer 3a: what's missing or unclear — cards, not a wall of text.
     st.subheader("What's missing or unclear")
     gaps = [(iid, r) for iid, r in merged.items() if plain_problem(iid, r)]
     if not gaps:
         st.write("Nothing missing — every question is answered clearly.")
     for iid, r in gaps:
-        st.write(f"**{iid} — {r['title']}**: {plain_problem(iid, r)}")
-        for q in r["quotes"]:
-            st.write(f"> {q['quote']}")
-            st.caption(f"{q.get('document') or 'Policy'} — {q['section']}")
+        with st.container(border=True):
+            st.write(f"**{iid} — {r['title']}**")
+            st.write(plain_problem(iid, r))
+            for q in r["quotes"]:
+                st.write(f"> {q['quote']}")
+                st.caption(f"{q.get('document') or 'Policy'} — {q['section']}")
 
-    # Layer 3: what you can do next.
+    # Layer 3b: what you can do next — cards.
     st.subheader("What you can do next")
     actions = next_actions(merged, score)
     if not actions:
         st.write("Nothing needed — this policy is clear and states its training stance.")
     for a in actions:
-        st.write(f"**{a['title']}** — {a['detail']}")
+        with st.container(border=True):
+            st.write(f"**{a['title']}** — {a['detail']}")
 
-    # Layer 4: compare with another app.
+    # Layer 4: compare with another app, side by side.
     st.subheader("Compare with another app")
     st.caption("Paste a competing app's policy — the higher score has the clearer policy.")
     cmp_url = st.text_input("Competing app's policy URL")
@@ -188,14 +195,15 @@ if audit:
         else:
             cmp_merged, _, _, _ = _run_audit(cmp_docs, False)
             cmp = compare_scores(merged, cmp_merged)
+            col_a, col_b = st.columns(2)
+            col_a.metric("This app", f"{cmp['a']}/10")
+            col_b.metric("Other app", f"{cmp['b']}/10")
             if cmp["better"] == "tie":
                 st.write(f"It's a tie — both score {cmp['a']}/10.")
             elif cmp["better"] == "A":
-                st.write(f"This app scores higher: {cmp['a']}/10 vs {cmp['b']}/10 "
-                         f"(by {cmp['delta']}).")
+                st.write(f"This app scores higher by {cmp['delta']}.")
             else:
-                st.write(f"The other app scores higher: {cmp['b']}/10 vs {cmp['a']}/10 "
-                         f"(by {cmp['delta']}).")
+                st.write(f"The other app scores higher by {cmp['delta']}.")
             st.write("Other app: " + bottom_line(cmp_merged))
 
     # Layer 5: full report, collapsed.
@@ -224,3 +232,11 @@ if audit:
                         st.write(f"> {ev['quote']} (candidate, review only)")
                         st.caption(f"{doc_name} — {ev['section']} · {ev['sentence_id']} · "
                                    f"via {ev['source']} (confidence {ev['confidence']})")
+        st.caption("Documents consulted: " + ", ".join(audit["doc_names"]))
+        st.caption(f"Pipeline {audit['manifest']['pipeline_version']} · "
+                   f"input {audit['manifest']['input_sha256'][:12]}")
+        for name, diag in audit["gapfill_diags"]:
+            if diag["upgraded"]:
+                st.caption(f"LLM gap-fill ({name}, {diag['model']}, temp 0): "
+                           f"upgraded {', '.join(diag['upgraded'])}; "
+                           f"dropped {len(diag['dropped'])} unverified quotes.")
