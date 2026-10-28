@@ -44,6 +44,9 @@ then connect it at share.streamlit.io and pick `streamlit_app.py`.
   are dropped, never trusted), and plain-language explanations attached to
   verified quotes. Takes any `callable(prompt) -> str` client; no API key
   needed to use or test it. A live model client is still to be wired in.
+- `traincheck/evaluate.py` — evaluation harness: per-item and overall
+  accuracy, confusion counts, and Cohen's kappa for the double-annotation
+  protocol, so both tool accuracy and dataset reliability are measured.
 - `traincheck/score.py` — completeness aggregation.
 - `traincheck/report.py` — Markdown report rendering.
 - `traincheck/cli.py` — command-line audit tool.
