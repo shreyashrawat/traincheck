@@ -29,15 +29,21 @@ def merge_results(per_doc_results):
                 quotes.append(qq)
         if item_id == "T1" and any(v in TRAIN_VALUES for v in values) and "does_not_train" in values:
             state, value = "contradictory", "conflicting statements across documents"
+            rule = "cross-document-contradiction"
         elif "contradictory" in states:
             state, value = "contradictory", "conflicting statements"
+            rule = "contradictory-wins"
         elif "stated" in states:
             state = "stated"
             value = next((v for v in values if v is not None), None)
+            rule = "stated-wins"
         elif "partially stated" in states:
             state = "partially stated"
             value = next((v for v in values if v is not None), None)
+            rule = "partially-stated-wins"
         else:
             state, value = "not stated", None
-        merged[item_id] = {"title": title, "state": state, "value": value, "quotes": quotes}
+            rule = "not-stated"
+        merged[item_id] = {"title": title, "state": state, "value": value,
+                           "quotes": quotes, "decision_rule": rule}
     return merged

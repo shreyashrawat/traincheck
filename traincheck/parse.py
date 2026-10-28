@@ -31,6 +31,16 @@ def parse_document(text):
     sections = [s for s in sections if s["text"]]
     for s in sections:
         s["sentences"] = _sentences(s["text"])
+    # Stable sentence IDs (S1, S2, ...) across the whole document. Every
+    # downstream layer — rules, ML candidates, LLM quotes — refers to these
+    # IDs, which is what makes "which lines caused this decision" answerable.
+    n = 0
+    for s in sections:
+        ids = []
+        for _ in s["sentences"]:
+            n += 1
+            ids.append(f"S{n}")
+        s["sentence_ids"] = ids
     date = None
     for pat in _DATE:
         m = pat.search(text)

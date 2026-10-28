@@ -1,0 +1,169 @@
+{
+  "policy_id": "sample-policy",
+  "source_url": "",
+  "annotator": "YOUR_NAME",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Sample Policy (SYNTHETIC \u2014 for testing detectors only)\n\nEffective as of October 1, 2026.\n\n## Data We Collect\n\nWe collect account information and content you provide, including prompts and uploads.\n\n## How We Use Data\n\nWe may use your prompts and uploads to train and improve our AI models by default. We share data with third-party service providers who help operate the service. We use encryption and other security measures to protect your data.\n\n## Your Choices\n\nYou can opt out of training in Settings > Privacy > Model Training. You may access, correct, or delete your data at any time.\n\n## Retention\n\nWe retain data used for training for up to 2 years. Some prompts may be reviewed by humans for safety. Opting out does not affect data already used for training.\n\n## Enterprise and API\n\nThese training terms do not apply to our API and Enterprise plans, which are covered by separate terms.\n\n## Policy Changes and Transfers\n\nWe may update this policy from time to time and will notify you of material changes. We may transfer data internationally to countries where we operate. We honor Do Not Track signals in your browser.\n\n## Frequently Asked Questions\n\nWe do not use your data to train our models.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Sample Policy (SYNTHETIC \u2014 for testing detectors only)",
+          "text": "Effective as of October 1, 2026.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Data We Collect",
+          "text": "We collect account information and content you provide, including prompts and uploads.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "How We Use Data",
+          "text": "We may use your prompts and uploads to train and improve our AI models by default.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "How We Use Data",
+          "text": "We share data with third-party service providers who help operate the service.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "How We Use Data",
+          "text": "We use encryption and other security measures to protect your data.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "Your Choices",
+          "text": "You can opt out of training in Settings > Privacy > Model Training.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "Your Choices",
+          "text": "You may access, correct, or delete your data at any time.",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Retention",
+          "text": "We retain data used for training for up to 2 years.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "Retention",
+          "text": "Some prompts may be reviewed by humans for safety.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "Retention",
+          "text": "Opting out does not affect data already used for training.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Enterprise and API",
+          "text": "These training terms do not apply to our API and Enterprise plans, which are covered by separate terms.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "Policy Changes and Transfers",
+          "text": "We may update this policy from time to time and will notify you of material changes.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "Policy Changes and Transfers",
+          "text": "We may transfer data internationally to countries where we operate.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "Policy Changes and Transfers",
+          "text": "We honor Do Not Track signals in your browser.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "Frequently Asked Questions",
+          "text": "We do not use your data to train our models.",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

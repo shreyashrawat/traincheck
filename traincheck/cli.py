@@ -7,7 +7,10 @@ import re
 import sys
 import urllib.request
 
+from .clients import client_from_env
+from .decisions import audit_manifest, build_decision_records
 from .detectors import detect_all
+from .gapfill import gapfill_doc_results
 from .parse import parse_document
 from .report import render_markdown
 
@@ -35,12 +38,27 @@ def main(argv=None):
     group.add_argument("--text", help="path to a plain-text policy file")
     group.add_argument("--url", help="policy URL to fetch")
     ap.add_argument("--json", action="store_true", help="print machine-readable JSON")
+    ap.add_argument("--gapfill", action="store_true",
+                    help="LLM gap-fill for unresolved items (needs OPENAI_API_KEY)")
     args = ap.parse_args(argv)
     text = fetch_url(args.url) if args.url else open(args.text, encoding="utf-8").read()
     doc = parse_document(text)
     results = detect_all(doc)
+    models = {}
+    if args.gapfill:
+        client, model_name = client_from_env()
+        if client is None:
+            print("gap-fill needs OPENAI_API_KEY in the environment", file=sys.stderr)
+            return 2
+        results, diag = gapfill_doc_results(results, doc, text, client, model_name)
+        models = {"llm": model_name, "gapfill": diag}
     if args.json:
-        print(json.dumps({"effective_date": doc["effective_date"], "items": results}, indent=2))
+        print(json.dumps({
+            "effective_date": doc["effective_date"],
+            "items": results,
+            "decisions": build_decision_records(results),
+            "manifest": audit_manifest([text], models),
+        }, indent=2))
     else:
         print(render_markdown(doc, results))
     return 0

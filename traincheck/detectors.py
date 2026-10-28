@@ -10,17 +10,19 @@ import re
 
 
 def _iter_sentences(doc):
+    """Yield (sentence, section_title, sentence_id) for every sentence."""
     for sec in doc["sections"]:
-        for sent in sec["sentences"]:
-            yield sent, sec["title"]
+        ids = sec.get("sentence_ids") or [None] * len(sec["sentences"])
+        for sent, sid in zip(sec["sentences"], ids):
+            yield sent, sec["title"], sid
 
 
 def _find(doc, regexes):
     hits = []
-    for sent, title in _iter_sentences(doc):
+    for sent, title, sid in _iter_sentences(doc):
         for rx in regexes:
             if rx.search(sent):
-                hits.append({"quote": sent, "section": title})
+                hits.append({"quote": sent, "section": title, "sentence_id": sid})
                 break
     return hits
 
@@ -44,11 +46,11 @@ T1_NEG = _rx([
 
 def detect_t1(doc):
     pos, neg = [], []
-    for sent, title in _iter_sentences(doc):
+    for sent, title, sid in _iter_sentences(doc):
         if any(rx.search(sent) for rx in T1_NEG):
-            neg.append({"quote": sent, "section": title})
+            neg.append({"quote": sent, "section": title, "sentence_id": sid})
         elif any(rx.search(sent) for rx in T1_POS):
-            pos.append({"quote": sent, "section": title})
+            pos.append({"quote": sent, "section": title, "sentence_id": sid})
     if pos and neg:
         return {"state": "contradictory", "value": "conflicting statements", "quotes": pos + neg}
     if pos:
@@ -62,12 +64,12 @@ def detect_t1(doc):
 def _training_scoped(doc, regexes):
     """Hits from sentences that also mention training/models."""
     hits = []
-    for sent, title in _iter_sentences(doc):
+    for sent, title, sid in _iter_sentences(doc):
         if not re.search(r"\btrain(?:ing)?\b|\bmodels?\b", sent, re.I):
             continue
         for rx in regexes:
             if rx.search(sent):
-                hits.append({"quote": sent, "section": title})
+                hits.append({"quote": sent, "section": title, "sentence_id": sid})
                 break
     return hits
 
@@ -87,7 +89,7 @@ def detect_t2(doc):
     # Control location only counts when tied to a training sentence, so a
     # marketing-settings sentence is not misreported as the training control.
     location = None
-    for sent, _title in _iter_sentences(doc):
+    for sent, _title, _sid in _iter_sentences(doc):
         if re.search(r"\btrain(?:ing)?\b", sent, re.I) and re.search(r"settings|privacy dashboard|https?://", sent, re.I):
             location = sent
             break
@@ -112,15 +114,15 @@ INPUT_PATTERNS = {
 
 
 def detect_t3(doc, trains):
-    training_sents = [(s, t) for s, t in _iter_sentences(doc)
+    training_sents = [(s, t, sid) for s, t, sid in _iter_sentences(doc)
                       if re.search(r"\btrain(?:ing)?\b", s, re.I)]
     found, quotes = [], []
     for name, pat in INPUT_PATTERNS.items():
         rx = re.compile(pat, re.I)
-        for sent, title in training_sents:
+        for sent, title, sid in training_sents:
             if rx.search(sent):
                 found.append(name)
-                quotes.append({"quote": sent, "section": title})
+                quotes.append({"quote": sent, "section": title, "sentence_id": sid})
                 break
     if trains and found:
         return {"state": "stated", "value": found, "quotes": quotes}
@@ -131,15 +133,15 @@ def detect_t3(doc, trains):
 
 def detect_t4(doc):
     dur = re.compile(r"(\d+\s*(?:days?|months?|years?))", re.I)
-    for sent, title in _iter_sentences(doc):
+    for sent, title, sid in _iter_sentences(doc):
         if re.search(r"\btrain(?:ing)?\b", sent, re.I):
             m = dur.search(sent)
             if m:
-                return {"state": "stated", "value": m.group(1), "quotes": [{"quote": sent, "section": title}]}
+                return {"state": "stated", "value": m.group(1), "quotes": [{"quote": sent, "section": title, "sentence_id": sid}]}
             if re.search(r"\bindefinitely\b", sent, re.I):
-                return {"state": "stated", "value": "indefinite", "quotes": [{"quote": sent, "section": title}]}
+                return {"state": "stated", "value": "indefinite", "quotes": [{"quote": sent, "section": title, "sentence_id": sid}]}
             if re.search(r"\buntil you (delete|remove)\b", sent, re.I):
-                return {"state": "stated", "value": "until deletion", "quotes": [{"quote": sent, "section": title}]}
+                return {"state": "stated", "value": "until deletion", "quotes": [{"quote": sent, "section": title, "sentence_id": sid}]}
     ret = _find(doc, _rx([r"\bretain\w*\b", r"\bretention\b"]))
     if ret:
         return {"state": "partially stated", "value": "retention mentioned, not tied to training", "quotes": ret[:1]}
@@ -153,10 +155,10 @@ def detect_t5(doc):
         # Scope terms only count in a training/applicability sentence, so a
         # passing mention (e.g. "education information" as a data category)
         # is not misread as a training carve-out.
-        for sent, title in _iter_sentences(doc):
+        for sent, title, sid in _iter_sentences(doc):
             if re.search(pat, sent, re.I) and re.search(r"train|appl|exclud|separate terms|covered by|terms", sent, re.I):
                 scopes[name] = True
-                quotes.append({"quote": sent, "section": title})
+                quotes.append({"quote": sent, "section": title, "sentence_id": sid})
                 break
     carve = _find(doc, _rx([r"\bdoes not apply\b", r"\bdo not apply\b", r"\bexclud", r"\bseparate terms\b"]))
     if scopes:
@@ -226,4 +228,9 @@ def detect_all(doc):
     t6 = detect_t6(doc)
     t6["title"] = T_TITLES["T6"]
     results["T6"] = t6
+    # Provenance: every rule-produced quote is tagged with the item whose
+    # detector produced it, so decision records can say which layer fired.
+    for item_id, r in results.items():
+        for q in r.get("quotes") or []:
+            q.setdefault("source", f"rule:{item_id}")
     return results
