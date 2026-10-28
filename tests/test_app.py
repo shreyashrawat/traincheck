@@ -22,7 +22,7 @@ def main():
     at.button(key="audit").click().run()
     assert not at.exception, at.exception
     successes = [str(s.value) for s in at.success]
-    assert any("14/16" in s for s in successes), successes
+    assert any("8.6/10" in s for s in successes), successes
     print("app test passed:", successes)
 
 

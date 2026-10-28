@@ -12,7 +12,9 @@ from .decisions import audit_manifest, build_decision_records
 from .detectors import detect_all
 from .gapfill import gapfill_doc_results
 from .parse import parse_document
+from .plain import bottom_line, next_actions
 from .report import render_markdown
+from .score import transparency_score
 
 
 def fetch_url(url):
@@ -53,8 +55,12 @@ def main(argv=None):
         results, diag = gapfill_doc_results(results, doc, text, client, model_name)
         models = {"llm": model_name, "gapfill": diag}
     if args.json:
+        sc = transparency_score(results)
         print(json.dumps({
             "effective_date": doc["effective_date"],
+            "score": sc,
+            "bottom_line": bottom_line(results),
+            "actions": next_actions(results, sc),
             "items": results,
             "decisions": build_decision_records(results),
             "manifest": audit_manifest([text], models),

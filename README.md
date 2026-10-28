@@ -1,4 +1,4 @@
-# TrainCheck (v0.2)
+# TrainCheck (v0.3)
 
 An evidence-anchored audit of what AI products' privacy policies actually say
 about training on your data. Paste a policy URL or text, get a per-item audit
@@ -33,6 +33,32 @@ settings page) — training answers often span several documents — and get the
 same quote-anchored audit in the browser. Live at the Streamlit URL connected
 to https://github.com/shreyashrawat/traincheck (`streamlit_app.py`).
 `requirements.txt` pins the Cloud runtime deps.
+
+## How a normal user reads it (v0.3 layers)
+
+The app is built for someone who knows nothing about the rubric:
+
+1. **Policy score out of 10** — how clearly the policy explains what
+   happens to your data (higher = clearer, not safer), plus one plain
+   bottom-line sentence (trains? opt-out?). Training questions count
+   double in the score. Formula: stated = full points, partially
+   stated = half, contradictory / not stated = zero; 22 points max.
+2. **What's missing or unclear** — only the gap items, each in plain
+   language with the exact policy quote and section. No sentence IDs,
+   rule IDs, model names, or decision rules at this layer.
+3. **What you can do next** — actions grounded in the audit: turn
+   training off (with the control location when the policy states it),
+   delete existing data, share less, ask the company, or compare with
+   another app when the score is under 8.
+4. **Compare with another app** — paste a competing policy and see
+   which scores higher, side by side.
+5. **Full report (collapsed)** — the 16-item audit plus "Why this
+   decision" detail for anyone who wants to go deeper.
+
+A built-in "suggest a better alternative" directory is deliberately
+NOT in v0.3: naming alternatives requires a vetted leaderboard, which
+needs the annotated 20-policy set plus human spot-checks first (see
+Design rule 5). Compare mode is the honest version until then.
 
 ## Architecture: models propose, rules decide
 
@@ -89,7 +115,10 @@ with the exact lines behind it.
 - `traincheck/evaluate.py` — evaluation harness: per-item and overall
   accuracy, confusion counts, and Cohen's kappa for the double-annotation
   protocol, so both tool accuracy and dataset reliability are measured.
-- `traincheck/score.py` — completeness aggregation.
+- `traincheck/score.py` — completeness aggregation + transparency score
+  (training questions double-weighted) + score comparison.
+- `traincheck/plain.py` — plain-language layer: gap sentences, bottom
+  line, next actions. No internal information leaks into these strings.
 - `traincheck/report.py` — Markdown report rendering.
 - `traincheck/cli.py` — command-line audit tool (`--json` now includes
   decision records + manifest; `--gapfill` enables the LLM layer).
@@ -126,8 +155,8 @@ with the exact lines behind it.
 ## Status
 
 Deployed: public repo https://github.com/shreyashrawat/traincheck, Streamlit
-app live (URL to record). Rules audit + decision records + annotation
-tooling + ML baseline + LLM gap-fill wiring are in and tested. Still to come:
-the annotation sprint (20 policies, double-annotated) — the data that trains
-the classifier and produces the first real accuracy numbers — then the user
-pilot, then the filing evidence bundle.
+app live (URL to record). v0.3 adds the normal-user UX: score hero,
+plain-language gaps, next actions, compare mode, collapsed full report.
+Still to come: the annotation sprint (20 policies, double-annotated) — the
+data that trains the classifier and produces the first real accuracy
+numbers — then the user pilot, then the filing evidence bundle.

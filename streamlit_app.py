@@ -1,18 +1,15 @@
 """TrainCheck web app (Streamlit Cloud target).
 
-Paste a policy URL or text, optionally add related documents (AI terms,
-FAQ, settings page), and get a quote-anchored audit against rubric v1.0.
+Built for a normal user, in layers:
+1. A score out of 10, with one plain bottom-line sentence.
+2. What's missing or unclear, each with the exact policy quote.
+3. What you can do next.
+4. Compare with another app (paste its policy, see which scores higher).
+5. Full report, collapsed — the 16-item audit plus "Why this decision"
+   detail (sentence IDs, sources, decision rules) for anyone who wants it.
 
-Layers, in order:
-1. Deterministic rules (always run) — the audit.
-2. LLM gap-fill (optional, needs an API key) — fills only items the
-   rules left unresolved, with mechanically verified quotes only.
-3. ML candidates (optional, needs a trained model file) — surfaced for
-   review only; they never change an item's state.
-
-Every item shows a "Why this decision" expansion: the aggregation rule
-that set its state and the exact lines behind it, with each line's
-provenance (rule / ML / LLM).
+Internal information (sentence IDs, rule IDs, model names, decision
+rules) appears ONLY in layer 5, never in the top layers.
 """
 
 import os
@@ -26,17 +23,16 @@ from traincheck.detectors import detect_all
 from traincheck.gapfill import gapfill_doc_results
 from traincheck.merge import merge_results
 from traincheck.parse import parse_document
-from traincheck.score import summarize
+from traincheck.plain import bottom_line, next_actions, plain_problem
+from traincheck.score import compare_scores, summarize, transparency_score
 
 MODEL_PATH = Path("models/sentence_classifier.joblib")
 
 st.set_page_config(page_title="TrainCheck", page_icon="🔍")
 st.title("TrainCheck")
 st.write(
-    "Audit what an AI product's privacy policy actually says about training "
-    "on your data. Every finding is anchored to a verbatim quoted clause, a "
-    "section, and the document it came from. The headline is completeness of "
-    "disclosure, never an 'unsafe company' verdict. Not legal advice."
+    "Paste an AI product's privacy policy and see, in seconds, how clearly "
+    "it explains what happens to your data. Not legal advice."
 )
 
 
@@ -50,28 +46,37 @@ def _resolve_api_key():
     return os.environ.get("OPENAI_API_KEY")
 
 
-if st.button("Load sample policy", key="load_sample"):
-    with open("samples/sample_policy.txt", encoding="utf-8") as f:
-        st.session_state["policy_text"] = f.read()
+def _run_audit(docs, use_llm):
+    """docs: [(name, text)]. Returns (merged, records, manifest, gapfill_diags)."""
+    client, model_name = None, None
+    if use_llm:
+        api_key = _resolve_api_key()
+        if not api_key:
+            st.info("LLM gap-fill is off: add OPENAI_API_KEY to Streamlit "
+                    "secrets (or the environment) to enable it. The "
+                    "rules-only audit below is unaffected.")
+        else:
+            from traincheck.clients import DEFAULT_MODEL, openai_compatible_client
+            model_name = os.environ.get("TRAINCHECK_MODEL", DEFAULT_MODEL)
+            client = openai_compatible_client(api_key, model_name)
+    per_doc = []
+    gapfill_diags = []
+    for name, text in docs:
+        doc = parse_document(text)
+        results = detect_all(doc)
+        if client is not None:
+            results, diag = gapfill_doc_results(results, doc, text, client, model_name)
+            gapfill_diags.append((name, diag))
+        per_doc.append((name, results))
+    merged = merge_results(per_doc)
+    records = build_decision_records(merged)
+    manifest = audit_manifest(
+        [text for _, text in docs],
+        models={"llm": model_name} if model_name else {})
+    return merged, records, manifest, gapfill_diags
 
-url = st.text_input("Policy URL (fetched if provided, otherwise pasted text is used)")
-policy_text = st.text_area("Paste the policy text", key="policy_text", height=280)
 
-st.subheader("Additional documents (optional)")
-st.caption("Training answers often span several documents — an FAQ opt-out is "
-           "missed by a single-document audit. Add AI terms, FAQ, or settings pages here.")
-doc2_name = st.text_input("Document 2 name", "AI terms")
-doc2_text = st.text_area("Document 2 text", height=120, key="doc2")
-doc3_name = st.text_input("Document 3 name", "FAQ / Help page")
-doc3_text = st.text_area("Document 3 text", height=120, key="doc3")
-
-st.subheader("Optional layers")
-use_llm = st.checkbox("Use LLM gap-fill for unresolved items (needs API key)")
-use_ml = False
-if MODEL_PATH.exists():
-    use_ml = st.checkbox("Show ML-surfaced candidate sentences (review only, do not change the audit)")
-
-if st.button("Audit policy", key="audit"):
+def _collect_docs(url, policy_text, doc2_name, doc2_text, doc3_name, doc3_text):
     docs = []
     if url.strip():
         try:
@@ -84,69 +89,126 @@ if st.button("Audit policy", key="audit"):
         docs.append((doc2_name.strip() or "Document 2", doc2_text))
     if doc3_text.strip():
         docs.append((doc3_name.strip() or "Document 3", doc3_text))
+    return docs
+
+
+if st.button("Load sample policy", key="load_sample"):
+    with open("samples/sample_policy.txt", encoding="utf-8") as f:
+        st.session_state["policy_text"] = f.read()
+
+url = st.text_input("Policy URL (fetched if provided, otherwise pasted text is used)")
+policy_text = st.text_area("Paste the policy text", key="policy_text", height=280)
+
+st.subheader("Additional documents for the same app (optional)")
+st.caption("Training answers often span several documents — an FAQ opt-out is "
+           "missed by a single-document audit. Add AI terms, FAQ, or settings pages here.")
+doc2_name = st.text_input("Document 2 name", "AI terms")
+doc2_text = st.text_area("Document 2 text", height=120, key="doc2")
+doc3_name = st.text_input("Document 3 name", "FAQ / Help page")
+doc3_text = st.text_area("Document 3 text", height=120, key="doc3")
+
+with st.expander("Advanced options"):
+    use_llm = st.checkbox("Use LLM gap-fill for unresolved items (needs API key)")
+    use_ml = False
+    if MODEL_PATH.exists():
+        use_ml = st.checkbox("Show ML-surfaced candidate sentences (review only)")
+
+if st.button("Audit policy", key="audit"):
+    docs = _collect_docs(url, policy_text, doc2_name, doc2_text, doc3_name, doc3_text)
     if not docs:
         st.warning("Paste policy text or enter a URL first.")
     else:
-        client, model_name = None, None
-        if use_llm:
-            api_key = _resolve_api_key()
-            if not api_key:
-                st.info("LLM gap-fill is off: add OPENAI_API_KEY to Streamlit "
-                        "secrets (or the environment) to enable it. The "
-                        "rules-only audit below is unaffected.")
-            else:
-                from traincheck.clients import openai_compatible_client
-                from traincheck.clients import DEFAULT_MODEL
-                model_name = os.environ.get("TRAINCHECK_MODEL", DEFAULT_MODEL)
-                client = openai_compatible_client(api_key, model_name)
-        ml_bundle, ml_candidates = None, {}
+        merged, records, manifest, gapfill_diags = _run_audit(docs, use_llm)
+        ml_candidates = {}
         if use_ml:
             from traincheck.ml import load_bundle, predict_candidates
-            ml_bundle = load_bundle(str(MODEL_PATH))
-        per_doc = []
-        gapfill_diags = []
-        for name, text in docs:
-            doc = parse_document(text)
-            results = detect_all(doc)
-            if client is not None:
-                results, diag = gapfill_doc_results(results, doc, text, client, model_name)
-                gapfill_diags.append((name, diag))
-            if ml_bundle is not None:
-                ml_candidates[name] = predict_candidates(ml_bundle, doc)
-            per_doc.append((name, results))
-        merged = merge_results(per_doc)
-        records = build_decision_records(merged)
-        manifest = audit_manifest(
-            [text for _, text in docs],
-            models={"llm": model_name} if model_name else {})
-        s = summarize(merged)
-        st.success(
-            f"Completeness: {s['stated']}/16 items stated, "
-            f"{s['contradictory']} contradictory, "
-            f"{s['partially stated']} partially stated, "
-            f"{s['not stated']} not stated"
-        )
-        st.caption("Documents consulted: " + ", ".join(name for name, _ in docs))
-        st.caption(f"Pipeline {manifest['pipeline_version']} · input {manifest['input_sha256'][:12]}")
-        if gapfill_diags:
-            for name, diag in gapfill_diags:
-                if diag["upgraded"]:
-                    st.caption(f"LLM gap-fill ({name}, {diag['model']}, temp 0): "
-                               f"upgraded {', '.join(diag['upgraded'])}; "
-                               f"dropped {len(diag['dropped'])} unverified quotes.")
+            bundle = load_bundle(str(MODEL_PATH))
+            for name, text in docs:
+                ml_candidates[name] = predict_candidates(bundle, parse_document(text))
+        st.session_state["audit_result"] = {
+            "merged": merged, "records": records, "manifest": manifest,
+            "gapfill_diags": gapfill_diags, "ml_candidates": ml_candidates,
+            "doc_names": [name for name, _ in docs],
+        }
+
+audit = st.session_state.get("audit_result")
+if audit:
+    merged = audit["merged"]
+    records = audit["records"]
+    score = transparency_score(merged)
+    s = summarize(merged)
+
+    # Layer 1: the score.
+    st.success(f"Policy score: {score['score']}/10 ({score['label']})")
+    st.write(bottom_line(merged))
+    st.caption(
+        f"How clearly this policy explains what happens to your data — higher "
+        f"means clearer, not safer. Training questions: {score['training']['clear']}/6 clear. "
+        f"Basics: {score['basics']['clear']}/10 clear. "
+        f"Completeness: {s['stated']}/16 stated, {s['contradictory']} contradictory, "
+        f"{s['partially stated']} partially stated, {s['not stated']} not stated."
+    )
+    st.caption("Documents consulted: " + ", ".join(audit["doc_names"]))
+    st.caption(f"Pipeline {audit['manifest']['pipeline_version']} · "
+               f"input {audit['manifest']['input_sha256'][:12]}")
+    for name, diag in audit["gapfill_diags"]:
+        if diag["upgraded"]:
+            st.caption(f"LLM gap-fill ({name}, {diag['model']}, temp 0): "
+                       f"upgraded {', '.join(diag['upgraded'])}; "
+                       f"dropped {len(diag['dropped'])} unverified quotes.")
+
+    # Layer 2: what's missing or unclear, with exact references.
+    st.subheader("What's missing or unclear")
+    gaps = [(iid, r) for iid, r in merged.items() if plain_problem(iid, r)]
+    if not gaps:
+        st.write("Nothing missing — every question is answered clearly.")
+    for iid, r in gaps:
+        st.write(f"**{iid} — {r['title']}**: {plain_problem(iid, r)}")
+        for q in r["quotes"]:
+            st.write(f"> {q['quote']}")
+            st.caption(f"{q.get('document') or 'Policy'} — {q['section']}")
+
+    # Layer 3: what you can do next.
+    st.subheader("What you can do next")
+    actions = next_actions(merged, score)
+    if not actions:
+        st.write("Nothing needed — this policy is clear and states its training stance.")
+    for a in actions:
+        st.write(f"**{a['title']}** — {a['detail']}")
+
+    # Layer 4: compare with another app.
+    st.subheader("Compare with another app")
+    st.caption("Paste a competing app's policy — the higher score has the clearer policy.")
+    cmp_url = st.text_input("Competing app's policy URL")
+    cmp_text = st.text_area("Or paste the competing app's policy text", height=150, key="cmp_text")
+    if st.button("Compare", key="compare"):
+        cmp_docs = _collect_docs(cmp_url, cmp_text, "", "", "", "")
+        if not cmp_docs:
+            st.warning("Paste the competing app's policy text or enter its URL first.")
+        else:
+            cmp_merged, _, _, _ = _run_audit(cmp_docs, False)
+            cmp = compare_scores(merged, cmp_merged)
+            if cmp["better"] == "tie":
+                st.write(f"It's a tie — both score {cmp['a']}/10.")
+            elif cmp["better"] == "A":
+                st.write(f"This app scores higher: {cmp['a']}/10 vs {cmp['b']}/10 "
+                         f"(by {cmp['delta']}).")
+            else:
+                st.write(f"The other app scores higher: {cmp['b']}/10 vs {cmp['a']}/10 "
+                         f"(by {cmp['delta']}).")
+            st.write("Other app: " + bottom_line(cmp_merged))
+
+    # Layer 5: full report, collapsed.
+    with st.expander("Full report — all 16 questions"):
         rows = []
         for item_id, r in merged.items():
             first = r["quotes"][0] if r["quotes"] else None
-            ev = f"\"{first['quote']}\" ({first['document']} — {first['section']})" if first else ""
+            ev = f"\"{first['quote']}\" ({first.get('document') or 'Policy'} — {first['section']})" if first else ""
             value = r["value"]
             if isinstance(value, (list, dict)):
                 value = str(value)
-            rows.append({
-                "Item": f"{item_id} — {r['title']}",
-                "State": r["state"],
-                "Value": value or "",
-                "Evidence": ev,
-            })
+            rows.append({"Item": f"{item_id} — {r['title']}", "State": r["state"],
+                         "Value": value or "", "Evidence": ev})
         st.table(rows)
         for item_id, rec in records.items():
             with st.expander(f"{item_id} — {rec['title']} ({rec['state']})"):
@@ -157,7 +219,7 @@ if st.button("Audit policy", key="audit"):
                 for ev in rec["evidence"]:
                     st.write(f"> {ev['quote']}")
                     st.caption(f"{ev['document']} — {ev['section']} · {ev['sentence_id']} · via {ev['source']}")
-                for doc_name, cands in ml_candidates.items():
+                for doc_name, cands in audit["ml_candidates"].items():
                     for ev in cands.get(item_id, []):
                         st.write(f"> {ev['quote']} (candidate, review only)")
                         st.caption(f"{doc_name} — {ev['section']} · {ev['sentence_id']} · "

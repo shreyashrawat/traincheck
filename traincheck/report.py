@@ -1,11 +1,15 @@
-"""Render a TrainCheck audit as Markdown."""
+"""Render a TrainCheck audit as Markdown (the full report)."""
 
-from .score import summarize
+from .plain import bottom_line
+from .score import summarize, transparency_score
 
 
 def render_markdown(doc, results):
     s = summarize(results)
+    sc = transparency_score(results)
     lines = ["# TrainCheck audit", ""]
+    lines.append(f"Policy score: {sc['score']}/10 ({sc['label']})")
+    lines.append(bottom_line(results))
     lines.append(f"Effective date: {doc['effective_date'] or 'not found'}")
     lines.append(
         f"Completeness: {s['stated']}/16 items stated, "
