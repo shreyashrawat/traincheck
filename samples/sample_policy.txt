@@ -1,0 +1,31 @@
+# Sample Policy (SYNTHETIC — for testing detectors only)
+
+Effective as of October 1, 2026.
+
+## Data We Collect
+
+We collect account information and content you provide, including prompts and uploads.
+
+## How We Use Data
+
+We may use your prompts and uploads to train and improve our AI models by default. We share data with third-party service providers who help operate the service. We use encryption and other security measures to protect your data.
+
+## Your Choices
+
+You can opt out of training in Settings > Privacy > Model Training. You may access, correct, or delete your data at any time.
+
+## Retention
+
+We retain data used for training for up to 2 years. Some prompts may be reviewed by humans for safety. Opting out does not affect data already used for training.
+
+## Enterprise and API
+
+These training terms do not apply to our API and Enterprise plans, which are covered by separate terms.
+
+## Policy Changes and Transfers
+
+We may update this policy from time to time and will notify you of material changes. We may transfer data internationally to countries where we operate. We honor Do Not Track signals in your browser.
+
+## Frequently Asked Questions
+
+We do not use your data to train our models.

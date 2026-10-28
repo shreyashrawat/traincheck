@@ -1,0 +1,25 @@
+# TrainCheck audit
+
+Effective date: October 16, 2026
+Completeness: 9/16 items stated, 0 contradictory, 3 partially stated, 4 not stated
+
+Headline: completeness of disclosure, not safety. Not legal advice — verify against the current policy.
+
+| Item | State | Value | Evidence |
+|---|---|---|---|
+| C1 — First Party Collection/Use | stated |  | "This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information." (Google Privacy Policy) |
+| C2 — Third Party Sharing/Collection | stated |  | "The activity information we collect may include: Terms you search for Videos you watch Views and interactions with content and ads Media (like images, files, audio and video) from your interactions Purchase activity People with whom you communicate or share content Activity on third-party sites and apps that use our services Chrome browsing history you’ve synced with your Google Account If you use our services to make and receive calls or send and receive messages , we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages." (Your activity) |
+| C3 — User Choice/Control | stated |  | "Privacy Checkup Looking to change your privacy settings?" (Google Privacy Policy) |
+| C4 — User Access, Edit, and Deletion | stated |  | "This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information." (Google Privacy Policy) |
+| C5 — Data Retention | stated |  | "close Overview Privacy Policy Data transfer frameworks Key terms Partners Updates Terms of Service Technologies FAQ Privacy Policy Introduction Information Google collects Why Google collects data Your privacy controls Sharing your information Keeping your information secure Exporting & deleting your information Retaining your information Compliance & cooperation with regulators About this policy Related privacy practices Data transfer frameworks Key terms Partners Updates" (Privacy & Terms) |
+| C6 — Data Security | stated |  | "We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse ." (Your location information) |
+| C7 — Policy Change | not stated |  |  |
+| C8 — Do Not Track | not stated |  |  |
+| C9 — International and Specific Audiences | not stated |  |  |
+| C10 — Other provisions | stated |  | "And if you have any questions about this Privacy Policy, you can contact us ." (Contents) |
+| T1 — Trains by default? | stated | trains | "For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities." (Business purposes for which information may be used or disclosed) |
+| T2 — Choice and where it lives | partially stated | opt-out found but not tied to training | "Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising." (U.S. state law requirements) |
+| T3 — What inputs count | partially stated | training stated, input types not specified |  |
+| T4 — Retention for training | partially stated | retention mentioned, not tied to training | "close Overview Privacy Policy Data transfer frameworks Key terms Partners Updates Terms of Service Technologies FAQ Privacy Policy Introduction Information Google collects Why Google collects data Your privacy controls Sharing your information Keeping your information secure Exporting & deleting your information Retaining your information Compliance & cooperation with regulators About this policy Related privacy practices Data transfer frameworks Key terms Partners Updates" (Privacy & Terms) |
+| T5 — Scope: consumer vs API vs enterprise | stated | {'scopes': ['education'], 'carve_out': False} | "The following privacy notices provide additional information about some Google services: Payments Fiber Gemini Apps Google Fi Google Workspace for Education Read Along YouTube Kids Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country) Family Link privacy guide for children & teens Voice and Audio Collection from Children’s Features on the Google Assistant If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the Google Cloud Privacy Notice ." (Specific Google services) |
+| T6 — Human review and retroactivity | not stated |  |  |
