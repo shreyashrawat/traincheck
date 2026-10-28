@@ -39,6 +39,11 @@ then connect it at share.streamlit.io and pick `streamlit_app.py`.
 - `traincheck/detectors.py` — high-precision detectors. T1–T6 are the fully
   specified novel items; core-10 detectors are provisional keyword baselines
   (labels pinned from the OPP-115 schema at annotation setup).
+- `traincheck/llm.py` — model-agnostic LLM layer: quote-or-abstain
+  extraction prompt, mechanical verbatim verification (non-matching quotes
+  are dropped, never trusted), and plain-language explanations attached to
+  verified quotes. Takes any `callable(prompt) -> str` client; no API key
+  needed to use or test it. A live model client is still to be wired in.
 - `traincheck/score.py` — completeness aggregation.
 - `traincheck/report.py` — Markdown report rendering.
 - `traincheck/cli.py` — command-line audit tool.
