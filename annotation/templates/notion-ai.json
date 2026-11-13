@@ -1,0 +1,1381 @@
+{
+  "policy_id": "notion-ai",
+  "source_url": "https://www.notion.com/en-GB/trust/privacy-policy",
+  "annotator": "TEMPLATE",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy | Notion\n\nNotion has updated its Privacy Policy effective April 10, 2025. To view the previous version of Notion's Privacy Policy, click the link below: Privacy Policy (Deprecated April 10, 2025)\n\nNotion's Privacy Policy describes how Notion collects, uses, and discloses your information.\n\nThis Privacy Policy also explains your choices surrounding how we use your personal information, which include how you can object to certain uses of the information and how you can access and update certain information.\n\n**Here are some important definitions to help you understand our terms and this Privacy Policy:**\n\nNotion Labs, Inc., and our relevant affiliates are referred to as \"Notion,\" \"we,\" \"us,\" and \"our.\"\n\nOur public websites, including www.notion.so, are referred to as the \"Website.\"\n\nOur online software-as-service platform including any related APIs provided by Notion, together with all related mobile and desktop applications are collectively referred to as the \"Services.\"\n\nContent submitted, posted or modified by users in the Service is organized into separated sections that are referred to as \"Workspaces.\"\n\n1. Information we collect\n2. How we use your information\n3. Disclosing your information\n4. International data transfers\n5. Your choices\n6. Your privacy rights\n7. Data retention\n8. Security of your information\n9. Third-party websites/applications\n10. Children's information\n11. Supervisory authority\n12. Additional information for California residents\n13. Data privacy framework\n14. Changes to our privacy policy\n\n## 1. Information we collect\n\nWe collect information when you provide it to us, when you use our Website or Services, and when other sources provide it to us, as further described below.\n\n**A. Information You Provide to Us**\n\n**Account Creation:** When you create an account or otherwise use the Services, we collect information such as your name, email address, password, role within your team or enterprise, and an optional profile photo.\n\n**Your Communications with Us:** We collect information from you such as email address, phone number, or mailing address when you request information about our Services, register for our newsletter, request customer or technical support, or otherwise communicate with us. We also collect the contents of messages or attachments that you may send to us, as well as other information you choose to provide, and that may be associated with your communications.\n\n**Payment Information:** When you purchase a subscription to the Services, you will need to provide payment information (e.g., financial account details, shipping information) to process your subscription. We use third-party payment providers to process payments on the Services. We may receive information associated with your payment information, such as billing address and transaction information, but we do not directly store payment information on the Services. Payment information is stored and processed by our payment providers on our behalf.\n\n**Surveys:** We may contact you to participate in surveys. If you decide to participate, you may be asked to provide certain information which may include contact information and other information about you.\n\n**Interactive Features:** We may offer interactive features such as forums, blogs, chat and messaging services, and social media pages. We and others who use our Website or Services may collect the information you submit or make available through these interactive features. Any content you provide via the public sections of these features will be considered \"public\" and is not subject to the privacy protections referenced herein. By using these interactive features, you understand that the information provided by you may be viewed and used by third parties for their own purposes.\n\n**Registration for Sweepstakes or Contests:** We may run sweepstakes and contests. Contact information you provide may be used to inform you about the sweepstakes or contest and for other promotional, marketing and business purposes.\n\n**Conferences, Trade Shows, and Other Events:** We may attend conferences, trade shows, and other events where we collect contact information from individuals who interact with or express an interest in the Services.\n\n**Job Applications.** We may post job openings and opportunities on the Website or Services. If you reply to one of these postings by submitting your application, CV and/or cover letter to us, we will collect and use your information to assess your qualifications.\n\n**B. Information Collected Automatically**\n\n**Automatic Data Collection:** We keep track of certain information about you when you visit and interact with our Website or Services. This information may include your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred general location based off of your IP address), Internet service provider, pages that you visit before, during and after using the Website or Services, information about the links you click, information about how you interact with the Website or Services, including the frequency and duration of your activities, and other information about how you use the Website or Services. Information we collect may be associated with accounts and other devices.\n\n**Cookies, Pixel Tags/Web Beacons, and Analytics Information:** We, as well as third parties that provide content, advertising, or other functionality on the Services, may use cookies, pixel tags, local storage, and other technologies (\"Technologies\") to automatically collect information through the Website or Services. Technologies are essentially small data files placed on your devices that allow us and our partners to record certain pieces of information whenever you visit or interact with our Services. For more information regarding these Technologies, please see our Cookie Notice.\n\n**Analytics:** We may also use third-party service providers to collect and process analytics and other information on our Website or Services. These third-party service providers may use Technologies to collect and store analytics and other information. They have their own privacy policies addressing how they use the analytics and other information and we do not have access to, nor control over, third parties' use of cookies or other tracking technologies. For more information regarding third-party cookies, please see our Cookie Notice.\n\n**Advertising:** In using the Website or Services, we may allow select third party advertising technology partners to place Technologies on the browser of your device to collect information about you as discussed above. These third parties (e.g., ad networks and ad servers) may use this information to serve relevant content and advertising to you as you browse the Internet, and access their own Technologies on your browser to assist in this activity. If you are interested in more information about these online advertising activities, and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the Network Advertising Initiative's Consumer Opt-Out link, the Digital Advertising Alliance's Consumer Opt-Out link, or Your Online Choices to opt-out of receiving tailored advertising from companies that participate in those programs. We do not control these opt-out links or whether any particular company chooses to participate in these opt-out programs. We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms. You can also opt out of certain online advertising activities by following the instructions in the \"Your Choices\" and \"Your Privacy Rights\" sections below. Please note that if you use these mechanisms, you may still see advertising on our Website or Services or across the Internet, but it will not be tailored to you based on your online behavior over time.\n\n**C. Information from Other Sources**\n\nWe may obtain information about you from other sources, including through third-party services and organizations. For example, if you access our Website or Services through a third-party application, such as a social networking site or a third-party login service, we may collect information about you from that third party that you have made available via your privacy settings. In addition, if you register a Notion account or associate a Notion account with an email address provisioned by your organization, we may obtain information from third party data enrichment providers to help us to better tailor business-to-business marketing and sales outreach to you.\n\nShould you choose to use the Google Contacts feature within our Services, we will have the ability to view your contacts via the Google People API. The sole use of this data is to populate the auto-completion of your contacts when sending invitation emails. Notion will not use this data for any other purpose.\n\nNotion Calendar requires you to authorize access to your calendar and events data held in your third party calendar service. Such third party calendar service is a Non-Notion Service as that term is defined in the Agreement. Should you choose to authorize an integration with your calendar provider, we will store your userID for that calendar provider and the authorization token to connect to the calendar provider's API to give you the ability to use Notion Calendar to store, view and edit data from your calendars, and autocomplete contacts when you create events.\n\nYou may also choose to integrate Notion Calendar with your third party conferencing provider. Such conferencing provider is a Non-Notion Service as that term is defined in the Agreement. Should you choose to authorize an integration with your conference provider, you will have the ability to add conferencing meetings to your calendar events, and to view and store any information associated with conferencing meeting invitations in Notion Calendar.\n\nGmail API, Directory API, Workspace API, and Calendar API user data: To provide the Notion Mail Services to you: (a) we receive and send your email message content through the Gmail API; (b) we receive and process your contact and reply suggestions through the Directory API; (c) we receive your workspace member contact data through the Workspace API; and (d) receive your event response data (e.g. yes, no, maybe) through the Calendar API. All of this data from Google is processed to provide the requested Notion Mail functionality to you. Notion only processes Workspace API user data to provide the Notion Mail Services. We do not process Workspace API user data to develop, improve, or train generalized AI and/or ML models. Notion Mail's use of the Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.\n\n## 2. How we use your information\n\nWe use your information for a variety of business purposes, including to:\n\n**Provide the Services or Requested Information, such as:**\n\n- Fulfilling our contract with you;\n- Identifying and communicating with you, including providing newsletters and marketing materials;\n- Managing your information;\n- Processing your payments (which are processed and stored by our third-party payment processors on our behalf) and otherwise servicing your purchase orders;\n- Responding to questions, comments, and other requests;\n- Providing access to certain areas, functionalities, and features of our Services; and\n- Answering requests for customer or technical support.\n\n**Serve Administrative and Communication Purposes, such as:**\n\n- Pursuing legitimate interests, such as research and development (including marketing research), network and information security, and fraud prevention;\n- Sending communications about new product features, promotions, Notion's strategic partners, and other news about Notion;\n- Measuring interest and engagement in our Services, including analyzing your usage of the Services;\n- Developing new products and services and improving the Services;\n- Ensuring internal quality control and safety;\n- Authenticating and verifying individual identities;\n- Carrying out audits;\n- Communicating with you about your account, activities on our Services and Privacy Policy changes;\n- Preventing and prosecuting potentially prohibited or illegal activities;\n- Enforcing our agreements; and\n- Complying with our legal obligations\n\n**Facilitating Collaboration in a Workspace:** If you join a Workspace owned by another user or organization, or collaborate with other users on Notion, Notion may share basic information about you such as your name, email address, profile picture, Workspace name and Workspace ID with the other users or organizations.\n\n**Managing Workspaces for Organizations:** If you register a Notion account or associate a Notion account with an email address provisioned by your organization, Notion may share information about you and any Workspaces owned or managed by you with your organization. Such information could include your name, email address, and profile picture, as well as the Workspace name, Workspace ID, membership size, creation date of your Workspace, email address, and content within your Workspace with your organization. If you registered to use Notion's Services with such an email address, but you do not use the Services in connection with your organization and you do not wish for this information to be shared with your organization, you may transfer your account to a different email address. For information on how to change the email address associated with your Notion account please follow the instructions here: https://www.notion.so/help/account-settings. If you would like additional assistance, please contact team@makenotion.com.\n\n**Marketing of Products and Services:** In accordance with applicable legal requirements, we may use your information to tailor and provide you with content and advertisements. If you have any questions about our marketing practices or if you would like to opt out of the use of your information for marketing purposes, you may contact us as set forth below.\n\n**Consent:** We may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent.\n\n**De-identified and Aggregated Information Use:** We may use de-identified and/or aggregated information that can no longer be reasonably linked to you or your device from the information we collect. De-identified and/or aggregated information is not subject to this Privacy Policy, and we may use and disclose such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes.\n\n**Process Information on Behalf of Our Customers:** Our customers may choose to use our Services to process certain data of their own, which may contain information from or about you. Such personal information that is processed by us on behalf of our customers, and our privacy practices will be governed by the contracts that we have in place with our customers, not this Privacy Policy.\n\nIf you have any questions or concerns about how such information is handled or would like to exercise your rights, you should contact the person or entity (i.e., the data controller) who has contracted with us to use the Service to process this information. Our customers control the information in these cases and determine the security settings within the account, its access controls and credentials. We will, however, provide assistance to our customers to address any concerns you may have, in accordance with the terms of our contract with them.\n\n**Subprocessors:** For more information regarding our Subprocessors, please see our Subprocessor Page.\n\n**How We Use Automatic Collection Technologies:** Our uses of Technologies fall into the following general categories:\n\n- Operationally Necessary;\n- Performance Related;\n- Functionality Related; and\n- Marketing Related.\n\nFor more information, please see our Cookie Notice.\n\n**Cross-Device Tracking:** Your browsing activity may be tracked across different websites and different devices or apps. For example, we may attempt to match your browsing activity on your mobile device with your browsing activity on your laptop. To do this our technology partners may share data, such as your browsing patterns, geo-location and device identifiers, and will match the information of the browser and devices that appear to be used by the same person.\n\n## 3. Disclosing your information\n\nWe may disclose your information to the following categories of third parties:\n\n**Service Providers:** We may disclose information we collect about you to our third-party service providers. The categories of service providers to whom we entrust your information include service providers for: (i) the provision of the Services; (ii) the provision of information, products, and other services you have requested, including Non-Notion Services as that term is defined in the Agreement; (iii) marketing and advertising; (iv) payment and transaction processing; (v) customer service activities; (vi) the provision of IT and related services; and (vii) fraud prevention and user authentication.\n\n**Business Partners:** At your request, we may provide information to business partners to provide you with a product or service of interest to you. We may also provide information to business partners with whom we jointly offer products or services.\n\n**Affiliates:** We may disclose information to our affiliated entities, who are under common ownership and/or control with us.\n\n**Advertising Partners:** We do not disclose or use your information to advertise any third party's products or services via the Services. However, as explained in detail in the \"Information Collected Automatically\" section above, we may disclose your information to third-party advertising partners to market our own Services and grow our Services' user base, such as to provide targeted marketing about our own Services via third-party services. Please see the \"Your Choices\" and \"Your Rights\" sections below for more information and to opt out.\n\n**We may disclose your information to other third parties, including other users, in the following circumstances:**\n\n**Workspaces Accessible by Other Users:** When you submit information in a workspace that can be accessed by others, such information may be displayed to other users in the same or connected workspaces. For example, your information may be included in your notes or reminders in a workspace which can be viewed by other users collaborating with you in that workspace. Further, your email address or photo may be displayed with your workspace profile to other users collaborating with you in that workspace.\n\n**Organizational Workspaces:** We allow organizations to access the profile information of users within their workspace, including to allow such organization to validate that such user is actually authorized by such organization to use the Services.\n\n**Share Content with Friends or Colleagues:** Our Services may allow you to provide information about your friends, and may allow you to forward or share certain content with a friend or colleague, such as an invitation email. You agree to only provide information about a friend or colleague with their consent. Your name and photo are displayed to users who invite you to a workspace using your email address.\n\n**Disclosures to Protect Us or Others:** We may access, preserve, and disclose any information we store in association with you to external parties if we, in good faith, believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) protect your, our, or others' rights, property, or safety; (iii) enforce our policies or contracts; (iv) collect amounts owed to us; or (v) assist with an investigation and prosecution of suspected or actual illegal activity.\n\n**Disclosure in the Event of Merger, Sale, or Other Asset Transfer:** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of some or all assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.\n\n## 4. International data transfers\n\nAll information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live. When we engage in such transfers, we endeavor to safeguard your information consistent with the requirements of applicable laws.\n\n## 5. Your choices\n\n**General:** You may have the right to object to or opt out of certain uses of your information. Where you have consented to the processing of your information for a specific purpose, you may withdraw that consent at any time by contacting us as described below. Even if you opt out, we may still collect and use your information for other purposes that were not based on your consent.\n\n**Email Communications:** If you receive an email from us and do not want to receive future emails from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. Note that you will continue to receive transaction-related emails regarding products or services you have requested. We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding the Services or updates to this Privacy Policy).\n\n**Mobile Devices:** We may send you push notifications through our Apps. You may at any time opt out from receiving these types of communications by changing the settings on your mobile device. With your consent, we may also collect precise location information if you use our Apps. You may opt out of this collection by changing the settings on your mobile device.\n\n**\"Do Not Track\":** Your browser may offer you a \"Do Not Track\" option, which allows you to signal to operators of websites and web applications that you do not wish such operators to track certain of your online activities over time and/or across different websites. Like most online services, we do not currently respond to Do Not Track signals. However, as discussed below in the \"Your Privacy Rights\" section, we do honor legally-recognized browser-based mechanisms (such as the Global Privacy Control designed to signal your opt out choices under certain state laws).\n\n**Cookies:** You may stop or restrict the placement of Technologies on your device. Notion provides settings for you to update your preferences in our Services. These settings can be found in the footer of our website. If you have a Notion account and are logged in to the Services, you can access your Cookie settings in the \"Settings & Members\" menu under the \"My notifications & settings\" section. For more information, please see our Cookie Notice.\n\n## 6. Your privacy rights\n\nDepending upon your location and in accordance with applicable laws, you may have the right to:\n\n- **Access** information about you consistent with legal requirements. In addition, you may have the right in some cases to receive or have your electronic information transferred to another party.\n- **Request Correction** of your information where it is inaccurate or incomplete.\n- **Request Deletion** of your information, subject to certain exceptions prescribed by law.\n- **Request Restriction or Object to Processing** of your information.\n- **Not be Discriminated Against** by us for exercising your privacy rights.\n\nIf you would like to exercise any of these rights, please contact us as set forth below. We will process such requests in accordance with applicable laws, and in some circumstances may need to deny your request in whole or in party (e.g., if we have a legal obligation to maintain your information for a certain purpose). To protect your privacy, we will take steps to verify your identity before fulfilling your request, such as by requiring you to submit your request via your account. You have the right to submit a request through an authorized agent, but we will require the agent to provide us with your written permission, and we may need to confirm your identity before processing the agent's request.\n\nDepending on your location of residence, you may have the right to appeal our response to your request. In such circumstances, we will inform you of the right to appeal and the appeal process.\n\n**Request restriction on selling or sharing of \"personal information\":** As explained in the \"Information Automatically Collected\" section above, we provide information about your device and online browsing activities to third-party advertising providers for targeted advertising and related purposes, so that we can provide you with more relevant and tailored ads regarding our Services. The disclosure of your information to these third parties to assist us in providing these services may be considered a \"sale\" of personal information under applicable law or the processing/sharing of personal information for targeted advertising purposes.\n\nIf you would like to opt out of our online disclosure such as through cookie and pixel technology of your personal information for purposes that could be considered \"sales\" for those third parties' own commercial purposes, or \"sharing\" for purposes of targeted advertising, please click on the \"Do Not Sell or Share My Info\" link on the bottom of our website footer at www.notion.com.\n\nPlease note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser, (e.g., global privacy control) we recognize such preference in accordance with applicable law.\n\n## 7. Data retention\n\nWe store the information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.\n\n## 8. Security of your information\n\nWe take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unauthorized disclosure.\n\nBy using the Services or providing information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Services, by mail or by sending an email to you.\n\n## 9. Third-party websites/applications\n\nThe Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third-party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.\n\n## 10. Children's information\n\nOur Services are intended for general audiences and are not directed at children. If we become aware that we have collected data without legally valid parental consent from children under an age where such consent is required, we will take reasonable steps to delete it as soon as possible.\n\n## 11. Supervisory authority\n\nIf you are located in the European Economic Area or the UK, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your information violates applicable law.\n\n## 12. Additional information for California residents\n\nIf you are a California resident, the California Consumer Privacy Act (\"CCPA\") requires us to provide you with the following additional information about: (1) the purpose for which we use each category of \"personal information\" (as defined in the CCPA) we collect; and (2) the categories of third parties to which we (a) disclose such personal information for a business purpose, (b) \"share\" personal information for \"cross-context behavioral advertising,\" and/or (c) \"sell\" such personal information. Under the CCPA, \"sharing\" is defined as the targeting of advertising to a consumer based on that consumer's personal information obtained from the consumer's activity across websites, and \"selling\" is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration. Our use of third-party online advertising services, which are described in detail above, may result in the disclosure of online identifiers (e.g., cookie data, IP addresses, device identifiers, and usage information) in a way that may be considered a \"sale\" or \"sharing\" under the CCPA.\n\nFor information about our purposes of use of personal information, see the \"Information we collect\" section above.\n\nFor purposes of the CCPA, we have collected the following categories of consumers' personal information, and disclosed the personal information to the following categories of third parties for a business purpose, in the last 12 months:\n\n| Category | Entities to Which We Have Disclosed Personal Information for a Business Purpose | Entities to Which We Have Sold/Shared Personal Information |\n| --- | --- | --- |\n| Identifiers. | Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent. | Advertising partners |\n| Commercial information. | Affiliates; service providers; entities for legal purposes; entities for business transactions; entities with your consent. | We do not sell/share. |\n| Internet or other electronic network activity. | Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent. | Advertising partners |\n| Geolocation data. (general location information, not precise GPS) | Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent. | Advertising partners |\n| Sensory data. | Affiliates; service providers; entities for legal purposes; entities for business transactions; entities with your consent. | We do not sell/share. |\n| Professional or employment-related information. | Affiliates; service providers; entities for legal purposes; entities for business transactions; entities with your consent. | We do not sell/share. |\n| Inferences drawn from other personal information to create a profile about a consumer. | Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent. | Advertising partners |\n\nYour Choices Regarding \"Sharing\" and \"Selling\": You have the right to opt out of our sale/sharing of your personal information for purposes of online analytics and advertising by clicking on the \"Do Not Sell or Share My Info\" link on our website footer. To opt out of the offline disclosure of your information to third parties for these purposes, please email us at privacy@makenotion.com.\n\nOther CCPA Rights: If we ever offer any financial incentives in exchange for your personal information, we will provide you with appropriate information about such incentives.\n\nThe CCPA also allows you to limit the use or disclosure of your \"sensitive personal information\" (as defined in the CCPA) if your sensitive personal information is used for certain purposes. Please note that we do not use or disclose sensitive personal information other than for business purposes for which you cannot opt out under the CCPA.\n\nPlease see the \"Your Rights\" section of our Policy above for information about the additional rights you have with respect to your personal information under California law and how to exercise them.\n\nRetention of Your Personal Information. Please see the \"Data Retention\" section above.\n\nShine the Light Disclosure: The California \"Shine the Light\" law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we disclose certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. We currently do not disclose your personal information to third parties for their own direct marketing purposes.\n\n## 13. Data privacy framework\n\nNotion Labs, Inc. has certified to the U.S. Department of Commerce that Notion adheres to (1) the EU-U.S. Data Privacy Framework with regard to the processing of personal information received from the European Union, (2) the UK Extension to the EU-U.S. Data Privacy Framework, with regard to the processing of personal information received from the United Kingdom (and Gibraltar), and (3) the Swiss-U.S. Data Privacy Framework with regard to the processing of personal information received from Switzerland (the \"DPF\"). The Federal Trade Commission has jurisdiction over our compliance with the DPF.\n\nWe remain responsible for all the personal information we receive under the DPF and that we subsequently transfer to third parties acting as agents on our behalf if they process personal information in a manner inconsistent with the DPF principles, unless we prove we are not responsible for the event giving rise to the damage.\n\nTo learn more about the DPF program, and to view our certification, please visit https://www.dataprivacyframework.gov/.\n\nIf you have any question about our practices in relation to our participation in the DPF, or should you have any complaint in that regard, we encourage you to contact us directly, as set forth below. For any complaint that we cannot resolve directly Notion Labs, Inc. commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) (for personal information received under the EU-US DPF), the UK Information Commissioner's Office (ICO) and the Gibraltar Regulatory Authority (GRA) (for personal information received under the UK Extension to the EU-US DPF), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) (for personal information received under the Swiss-US DPF). Please contact us if you would like us to direct you to your data protection authority contacts.\n\nYou may, under certain conditions, invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms.\n\nPlease review Annex I of the DPF for additional information: https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2\n\n## 14. Changes to our privacy policy\n\nWe may revise this Privacy Policy from time to time in our sole discretion. If there are any material changes to this Privacy Policy, we will notify you as required by applicable law. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use the Services after the new Privacy Policy takes effect.\n\nContact us: If you have any questions about our privacy practices or this Privacy Policy, please contact us at: Notion Labs, Inc. 685 Market St. San Francisco, CA 94105 United States team@makenotion.com\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Privacy Policy | Notion",
+          "text": "Notion has updated its Privacy Policy effective April 10, 2025.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Privacy Policy | Notion",
+          "text": "To view the previous version of Notion's Privacy Policy, click the link below: Privacy Policy (Deprecated April 10, 2025) Notion's Privacy Policy describes how Notion collects, uses, and discloses your information.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Privacy Policy | Notion",
+          "text": "This Privacy Policy also explains your choices surrounding how we use your personal information, which include how you can object to certain uses of the information and how you can access and update certain information.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "Privacy Policy | Notion",
+          "text": "**Here are some important definitions to help you understand our terms and this Privacy Policy:** Notion Labs, Inc., and our relevant affiliates are referred to as \"Notion,\" \"we,\" \"us,\" and \"our.\" Our public websites, including www.notion.so, are referred to as the \"Website.\" Our online software-as-service platform including any related APIs provided by Notion, together with all related mobile and desktop applications are collectively referred to as the \"Services.\" Content submitted, posted or modified by users in the Service is organized into separated sections that are referred to as \"Workspaces.\" 1.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "Privacy Policy | Notion",
+          "text": "Information we collect 2.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "Privacy Policy | Notion",
+          "text": "How we use your information 3.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "Privacy Policy | Notion",
+          "text": "Disclosing your information 4.",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Privacy Policy | Notion",
+          "text": "International data transfers 5.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "Privacy Policy | Notion",
+          "text": "Your choices 6.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "Privacy Policy | Notion",
+          "text": "Your privacy rights 7.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Privacy Policy | Notion",
+          "text": "Data retention 8.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "Privacy Policy | Notion",
+          "text": "Security of your information 9.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "Privacy Policy | Notion",
+          "text": "Third-party websites/applications 10.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "Privacy Policy | Notion",
+          "text": "Children's information 11.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "Privacy Policy | Notion",
+          "text": "Supervisory authority 12.",
+          "labels": []
+        },
+        {
+          "id": "S16",
+          "section": "Privacy Policy | Notion",
+          "text": "Additional information for California residents 13.",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "Privacy Policy | Notion",
+          "text": "Data privacy framework 14.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "Privacy Policy | Notion",
+          "text": "Changes to our privacy policy",
+          "labels": []
+        },
+        {
+          "id": "S19",
+          "section": "1. Information we collect",
+          "text": "We collect information when you provide it to us, when you use our Website or Services, and when other sources provide it to us, as further described below.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "1. Information we collect",
+          "text": "**A.",
+          "labels": []
+        },
+        {
+          "id": "S21",
+          "section": "1. Information we collect",
+          "text": "Information You Provide to Us** **Account Creation:** When you create an account or otherwise use the Services, we collect information such as your name, email address, password, role within your team or enterprise, and an optional profile photo.",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "1. Information we collect",
+          "text": "**Your Communications with Us:** We collect information from you such as email address, phone number, or mailing address when you request information about our Services, register for our newsletter, request customer or technical support, or otherwise communicate with us.",
+          "labels": []
+        },
+        {
+          "id": "S23",
+          "section": "1. Information we collect",
+          "text": "We also collect the contents of messages or attachments that you may send to us, as well as other information you choose to provide, and that may be associated with your communications.",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "1. Information we collect",
+          "text": "**Payment Information:** When you purchase a subscription to the Services, you will need to provide payment information (e.g., financial account details, shipping information) to process your subscription.",
+          "labels": []
+        },
+        {
+          "id": "S25",
+          "section": "1. Information we collect",
+          "text": "We use third-party payment providers to process payments on the Services.",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "1. Information we collect",
+          "text": "We may receive information associated with your payment information, such as billing address and transaction information, but we do not directly store payment information on the Services.",
+          "labels": []
+        },
+        {
+          "id": "S27",
+          "section": "1. Information we collect",
+          "text": "Payment information is stored and processed by our payment providers on our behalf.",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "1. Information we collect",
+          "text": "**Surveys:** We may contact you to participate in surveys.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "1. Information we collect",
+          "text": "If you decide to participate, you may be asked to provide certain information which may include contact information and other information about you.",
+          "labels": []
+        },
+        {
+          "id": "S30",
+          "section": "1. Information we collect",
+          "text": "**Interactive Features:** We may offer interactive features such as forums, blogs, chat and messaging services, and social media pages.",
+          "labels": []
+        },
+        {
+          "id": "S31",
+          "section": "1. Information we collect",
+          "text": "We and others who use our Website or Services may collect the information you submit or make available through these interactive features.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "1. Information we collect",
+          "text": "Any content you provide via the public sections of these features will be considered \"public\" and is not subject to the privacy protections referenced herein.",
+          "labels": []
+        },
+        {
+          "id": "S33",
+          "section": "1. Information we collect",
+          "text": "By using these interactive features, you understand that the information provided by you may be viewed and used by third parties for their own purposes.",
+          "labels": []
+        },
+        {
+          "id": "S34",
+          "section": "1. Information we collect",
+          "text": "**Registration for Sweepstakes or Contests:** We may run sweepstakes and contests.",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "1. Information we collect",
+          "text": "Contact information you provide may be used to inform you about the sweepstakes or contest and for other promotional, marketing and business purposes.",
+          "labels": []
+        },
+        {
+          "id": "S36",
+          "section": "1. Information we collect",
+          "text": "**Conferences, Trade Shows, and Other Events:** We may attend conferences, trade shows, and other events where we collect contact information from individuals who interact with or express an interest in the Services.",
+          "labels": []
+        },
+        {
+          "id": "S37",
+          "section": "1. Information we collect",
+          "text": "**Job Applications.** We may post job openings and opportunities on the Website or Services.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "1. Information we collect",
+          "text": "If you reply to one of these postings by submitting your application, CV and/or cover letter to us, we will collect and use your information to assess your qualifications.",
+          "labels": []
+        },
+        {
+          "id": "S39",
+          "section": "1. Information we collect",
+          "text": "**B.",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "1. Information we collect",
+          "text": "Information Collected Automatically** **Automatic Data Collection:** We keep track of certain information about you when you visit and interact with our Website or Services.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "1. Information we collect",
+          "text": "This information may include your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising and other unique identifiers, details about your browser, operating system or device, location information (including inferred general location based off of your IP address), Internet service provider, pages that you visit before, during and after using the Website or Services, information about the links you click, information about how you interact with the Website or Services, including the frequency and duration of your activities, and other information about how you use the Website or Services.",
+          "labels": []
+        },
+        {
+          "id": "S42",
+          "section": "1. Information we collect",
+          "text": "Information we collect may be associated with accounts and other devices.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "1. Information we collect",
+          "text": "**Cookies, Pixel Tags/Web Beacons, and Analytics Information:** We, as well as third parties that provide content, advertising, or other functionality on the Services, may use cookies, pixel tags, local storage, and other technologies (\"Technologies\") to automatically collect information through the Website or Services.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "1. Information we collect",
+          "text": "Technologies are essentially small data files placed on your devices that allow us and our partners to record certain pieces of information whenever you visit or interact with our Services.",
+          "labels": []
+        },
+        {
+          "id": "S45",
+          "section": "1. Information we collect",
+          "text": "For more information regarding these Technologies, please see our Cookie Notice.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "1. Information we collect",
+          "text": "**Analytics:** We may also use third-party service providers to collect and process analytics and other information on our Website or Services.",
+          "labels": []
+        },
+        {
+          "id": "S47",
+          "section": "1. Information we collect",
+          "text": "These third-party service providers may use Technologies to collect and store analytics and other information.",
+          "labels": []
+        },
+        {
+          "id": "S48",
+          "section": "1. Information we collect",
+          "text": "They have their own privacy policies addressing how they use the analytics and other information and we do not have access to, nor control over, third parties' use of cookies or other tracking technologies.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "1. Information we collect",
+          "text": "For more information regarding third-party cookies, please see our Cookie Notice.",
+          "labels": []
+        },
+        {
+          "id": "S50",
+          "section": "1. Information we collect",
+          "text": "**Advertising:** In using the Website or Services, we may allow select third party advertising technology partners to place Technologies on the browser of your device to collect information about you as discussed above.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "1. Information we collect",
+          "text": "These third parties (e.g., ad networks and ad servers) may use this information to serve relevant content and advertising to you as you browse the Internet, and access their own Technologies on your browser to assist in this activity.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "1. Information we collect",
+          "text": "If you are interested in more information about these online advertising activities, and how you can generally control cookies from being put on your computer to deliver tailored advertising, you may visit the Network Advertising Initiative's Consumer Opt-Out link, the Digital Advertising Alliance's Consumer Opt-Out link, or Your Online Choices to opt-out of receiving tailored advertising from companies that participate in those programs.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "1. Information we collect",
+          "text": "We do not control these opt-out links or whether any particular company chooses to participate in these opt-out programs.",
+          "labels": []
+        },
+        {
+          "id": "S54",
+          "section": "1. Information we collect",
+          "text": "We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "1. Information we collect",
+          "text": "You can also opt out of certain online advertising activities by following the instructions in the \"Your Choices\" and \"Your Privacy Rights\" sections below.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "1. Information we collect",
+          "text": "Please note that if you use these mechanisms, you may still see advertising on our Website or Services or across the Internet, but it will not be tailored to you based on your online behavior over time.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "1. Information we collect",
+          "text": "**C.",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "1. Information we collect",
+          "text": "Information from Other Sources** We may obtain information about you from other sources, including through third-party services and organizations.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "1. Information we collect",
+          "text": "For example, if you access our Website or Services through a third-party application, such as a social networking site or a third-party login service, we may collect information about you from that third party that you have made available via your privacy settings.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "1. Information we collect",
+          "text": "In addition, if you register a Notion account or associate a Notion account with an email address provisioned by your organization, we may obtain information from third party data enrichment providers to help us to better tailor business-to-business marketing and sales outreach to you.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "1. Information we collect",
+          "text": "Should you choose to use the Google Contacts feature within our Services, we will have the ability to view your contacts via the Google People API.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "1. Information we collect",
+          "text": "The sole use of this data is to populate the auto-completion of your contacts when sending invitation emails.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "1. Information we collect",
+          "text": "Notion will not use this data for any other purpose.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "1. Information we collect",
+          "text": "Notion Calendar requires you to authorize access to your calendar and events data held in your third party calendar service.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "1. Information we collect",
+          "text": "Such third party calendar service is a Non-Notion Service as that term is defined in the Agreement.",
+          "labels": []
+        },
+        {
+          "id": "S66",
+          "section": "1. Information we collect",
+          "text": "Should you choose to authorize an integration with your calendar provider, we will store your userID for that calendar provider and the authorization token to connect to the calendar provider's API to give you the ability to use Notion Calendar to store, view and edit data from your calendars, and autocomplete contacts when you create events.",
+          "labels": []
+        },
+        {
+          "id": "S67",
+          "section": "1. Information we collect",
+          "text": "You may also choose to integrate Notion Calendar with your third party conferencing provider.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "1. Information we collect",
+          "text": "Such conferencing provider is a Non-Notion Service as that term is defined in the Agreement.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "1. Information we collect",
+          "text": "Should you choose to authorize an integration with your conference provider, you will have the ability to add conferencing meetings to your calendar events, and to view and store any information associated with conferencing meeting invitations in Notion Calendar.",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "1. Information we collect",
+          "text": "Gmail API, Directory API, Workspace API, and Calendar API user data: To provide the Notion Mail Services to you: (a) we receive and send your email message content through the Gmail API; (b) we receive and process your contact and reply suggestions through the Directory API; (c) we receive your workspace member contact data through the Workspace API; and (d) receive your event response data (e.g.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "1. Information we collect",
+          "text": "yes, no, maybe) through the Calendar API.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "1. Information we collect",
+          "text": "All of this data from Google is processed to provide the requested Notion Mail functionality to you.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "1. Information we collect",
+          "text": "Notion only processes Workspace API user data to provide the Notion Mail Services.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "1. Information we collect",
+          "text": "We do not process Workspace API user data to develop, improve, or train generalized AI and/or ML models.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "1. Information we collect",
+          "text": "Notion Mail's use of the Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.",
+          "labels": []
+        },
+        {
+          "id": "S76",
+          "section": "2. How we use your information",
+          "text": "We use your information for a variety of business purposes, including to: **Provide the Services or Requested Information, such as:** - Fulfilling our contract with you; - Identifying and communicating with you, including providing newsletters and marketing materials; - Managing your information; - Processing your payments (which are processed and stored by our third-party payment processors on our behalf) and otherwise servicing your purchase orders; - Responding to questions, comments, and other requests; - Providing access to certain areas, functionalities, and features of our Services; and - Answering requests for customer or technical support.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "2. How we use your information",
+          "text": "**Serve Administrative and Communication Purposes, such as:** - Pursuing legitimate interests, such as research and development (including marketing research), network and information security, and fraud prevention; - Sending communications about new product features, promotions, Notion's strategic partners, and other news about Notion; - Measuring interest and engagement in our Services, including analyzing your usage of the Services; - Developing new products and services and improving the Services; - Ensuring internal quality control and safety; - Authenticating and verifying individual identities; - Carrying out audits; - Communicating with you about your account, activities on our Services and Privacy Policy changes; - Preventing and prosecuting potentially prohibited or illegal activities; - Enforcing our agreements; and - Complying with our legal obligations **Facilitating Collaboration in a Workspace:** If you join a Workspace owned by another user or organization, or collaborate with other users on Notion, Notion may share basic information about you such as your name, email address, profile picture, Workspace name and Workspace ID with the other users or organizations.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "2. How we use your information",
+          "text": "**Managing Workspaces for Organizations:** If you register a Notion account or associate a Notion account with an email address provisioned by your organization, Notion may share information about you and any Workspaces owned or managed by you with your organization.",
+          "labels": []
+        },
+        {
+          "id": "S79",
+          "section": "2. How we use your information",
+          "text": "Such information could include your name, email address, and profile picture, as well as the Workspace name, Workspace ID, membership size, creation date of your Workspace, email address, and content within your Workspace with your organization.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "2. How we use your information",
+          "text": "If you registered to use Notion's Services with such an email address, but you do not use the Services in connection with your organization and you do not wish for this information to be shared with your organization, you may transfer your account to a different email address.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "2. How we use your information",
+          "text": "For information on how to change the email address associated with your Notion account please follow the instructions here: https://www.notion.so/help/account-settings.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "2. How we use your information",
+          "text": "If you would like additional assistance, please contact team@makenotion.com.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "2. How we use your information",
+          "text": "**Marketing of Products and Services:** In accordance with applicable legal requirements, we may use your information to tailor and provide you with content and advertisements.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "2. How we use your information",
+          "text": "If you have any questions about our marketing practices or if you would like to opt out of the use of your information for marketing purposes, you may contact us as set forth below.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "2. How we use your information",
+          "text": "**Consent:** We may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "2. How we use your information",
+          "text": "**De-identified and Aggregated Information Use:** We may use de-identified and/or aggregated information that can no longer be reasonably linked to you or your device from the information we collect.",
+          "labels": []
+        },
+        {
+          "id": "S87",
+          "section": "2. How we use your information",
+          "text": "De-identified and/or aggregated information is not subject to this Privacy Policy, and we may use and disclose such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes.",
+          "labels": []
+        },
+        {
+          "id": "S88",
+          "section": "2. How we use your information",
+          "text": "**Process Information on Behalf of Our Customers:** Our customers may choose to use our Services to process certain data of their own, which may contain information from or about you.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "2. How we use your information",
+          "text": "Such personal information that is processed by us on behalf of our customers, and our privacy practices will be governed by the contracts that we have in place with our customers, not this Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "2. How we use your information",
+          "text": "If you have any questions or concerns about how such information is handled or would like to exercise your rights, you should contact the person or entity (i.e., the data controller) who has contracted with us to use the Service to process this information.",
+          "labels": []
+        },
+        {
+          "id": "S91",
+          "section": "2. How we use your information",
+          "text": "Our customers control the information in these cases and determine the security settings within the account, its access controls and credentials.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "2. How we use your information",
+          "text": "We will, however, provide assistance to our customers to address any concerns you may have, in accordance with the terms of our contract with them.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "2. How we use your information",
+          "text": "**Subprocessors:** For more information regarding our Subprocessors, please see our Subprocessor Page.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "2. How we use your information",
+          "text": "**How We Use Automatic Collection Technologies:** Our uses of Technologies fall into the following general categories: - Operationally Necessary; - Performance Related; - Functionality Related; and - Marketing Related.",
+          "labels": []
+        },
+        {
+          "id": "S95",
+          "section": "2. How we use your information",
+          "text": "For more information, please see our Cookie Notice.",
+          "labels": []
+        },
+        {
+          "id": "S96",
+          "section": "2. How we use your information",
+          "text": "**Cross-Device Tracking:** Your browsing activity may be tracked across different websites and different devices or apps.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "2. How we use your information",
+          "text": "For example, we may attempt to match your browsing activity on your mobile device with your browsing activity on your laptop.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "2. How we use your information",
+          "text": "To do this our technology partners may share data, such as your browsing patterns, geo-location and device identifiers, and will match the information of the browser and devices that appear to be used by the same person.",
+          "labels": []
+        },
+        {
+          "id": "S99",
+          "section": "3. Disclosing your information",
+          "text": "We may disclose your information to the following categories of third parties: **Service Providers:** We may disclose information we collect about you to our third-party service providers.",
+          "labels": []
+        },
+        {
+          "id": "S100",
+          "section": "3. Disclosing your information",
+          "text": "The categories of service providers to whom we entrust your information include service providers for: (i) the provision of the Services; (ii) the provision of information, products, and other services you have requested, including Non-Notion Services as that term is defined in the Agreement; (iii) marketing and advertising; (iv) payment and transaction processing; (v) customer service activities; (vi) the provision of IT and related services; and (vii) fraud prevention and user authentication.",
+          "labels": []
+        },
+        {
+          "id": "S101",
+          "section": "3. Disclosing your information",
+          "text": "**Business Partners:** At your request, we may provide information to business partners to provide you with a product or service of interest to you.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "3. Disclosing your information",
+          "text": "We may also provide information to business partners with whom we jointly offer products or services.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "3. Disclosing your information",
+          "text": "**Affiliates:** We may disclose information to our affiliated entities, who are under common ownership and/or control with us.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "3. Disclosing your information",
+          "text": "**Advertising Partners:** We do not disclose or use your information to advertise any third party's products or services via the Services.",
+          "labels": []
+        },
+        {
+          "id": "S105",
+          "section": "3. Disclosing your information",
+          "text": "However, as explained in detail in the \"Information Collected Automatically\" section above, we may disclose your information to third-party advertising partners to market our own Services and grow our Services' user base, such as to provide targeted marketing about our own Services via third-party services.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "3. Disclosing your information",
+          "text": "Please see the \"Your Choices\" and \"Your Rights\" sections below for more information and to opt out.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "3. Disclosing your information",
+          "text": "**We may disclose your information to other third parties, including other users, in the following circumstances:** **Workspaces Accessible by Other Users:** When you submit information in a workspace that can be accessed by others, such information may be displayed to other users in the same or connected workspaces.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "3. Disclosing your information",
+          "text": "For example, your information may be included in your notes or reminders in a workspace which can be viewed by other users collaborating with you in that workspace.",
+          "labels": []
+        },
+        {
+          "id": "S109",
+          "section": "3. Disclosing your information",
+          "text": "Further, your email address or photo may be displayed with your workspace profile to other users collaborating with you in that workspace.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "3. Disclosing your information",
+          "text": "**Organizational Workspaces:** We allow organizations to access the profile information of users within their workspace, including to allow such organization to validate that such user is actually authorized by such organization to use the Services.",
+          "labels": []
+        },
+        {
+          "id": "S111",
+          "section": "3. Disclosing your information",
+          "text": "**Share Content with Friends or Colleagues:** Our Services may allow you to provide information about your friends, and may allow you to forward or share certain content with a friend or colleague, such as an invitation email.",
+          "labels": []
+        },
+        {
+          "id": "S112",
+          "section": "3. Disclosing your information",
+          "text": "You agree to only provide information about a friend or colleague with their consent.",
+          "labels": []
+        },
+        {
+          "id": "S113",
+          "section": "3. Disclosing your information",
+          "text": "Your name and photo are displayed to users who invite you to a workspace using your email address.",
+          "labels": []
+        },
+        {
+          "id": "S114",
+          "section": "3. Disclosing your information",
+          "text": "**Disclosures to Protect Us or Others:** We may access, preserve, and disclose any information we store in association with you to external parties if we, in good faith, believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) protect your, our, or others' rights, property, or safety; (iii) enforce our policies or contracts; (iv) collect amounts owed to us; or (v) assist with an investigation and prosecution of suspected or actual illegal activity.",
+          "labels": []
+        },
+        {
+          "id": "S115",
+          "section": "3. Disclosing your information",
+          "text": "**Disclosure in the Event of Merger, Sale, or Other Asset Transfer:** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of some or all assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.",
+          "labels": []
+        },
+        {
+          "id": "S116",
+          "section": "4. International data transfers",
+          "text": "All information processed by us may be transferred, processed, and stored anywhere in the world, including but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live.",
+          "labels": []
+        },
+        {
+          "id": "S117",
+          "section": "4. International data transfers",
+          "text": "When we engage in such transfers, we endeavor to safeguard your information consistent with the requirements of applicable laws.",
+          "labels": []
+        },
+        {
+          "id": "S118",
+          "section": "5. Your choices",
+          "text": "**General:** You may have the right to object to or opt out of certain uses of your information.",
+          "labels": []
+        },
+        {
+          "id": "S119",
+          "section": "5. Your choices",
+          "text": "Where you have consented to the processing of your information for a specific purpose, you may withdraw that consent at any time by contacting us as described below.",
+          "labels": []
+        },
+        {
+          "id": "S120",
+          "section": "5. Your choices",
+          "text": "Even if you opt out, we may still collect and use your information for other purposes that were not based on your consent.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "5. Your choices",
+          "text": "**Email Communications:** If you receive an email from us and do not want to receive future emails from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails.",
+          "labels": []
+        },
+        {
+          "id": "S122",
+          "section": "5. Your choices",
+          "text": "Note that you will continue to receive transaction-related emails regarding products or services you have requested.",
+          "labels": []
+        },
+        {
+          "id": "S123",
+          "section": "5. Your choices",
+          "text": "We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding the Services or updates to this Privacy Policy).",
+          "labels": []
+        },
+        {
+          "id": "S124",
+          "section": "5. Your choices",
+          "text": "**Mobile Devices:** We may send you push notifications through our Apps.",
+          "labels": []
+        },
+        {
+          "id": "S125",
+          "section": "5. Your choices",
+          "text": "You may at any time opt out from receiving these types of communications by changing the settings on your mobile device.",
+          "labels": []
+        },
+        {
+          "id": "S126",
+          "section": "5. Your choices",
+          "text": "With your consent, we may also collect precise location information if you use our Apps.",
+          "labels": []
+        },
+        {
+          "id": "S127",
+          "section": "5. Your choices",
+          "text": "You may opt out of this collection by changing the settings on your mobile device.",
+          "labels": []
+        },
+        {
+          "id": "S128",
+          "section": "5. Your choices",
+          "text": "**\"Do Not Track\":** Your browser may offer you a \"Do Not Track\" option, which allows you to signal to operators of websites and web applications that you do not wish such operators to track certain of your online activities over time and/or across different websites.",
+          "labels": []
+        },
+        {
+          "id": "S129",
+          "section": "5. Your choices",
+          "text": "Like most online services, we do not currently respond to Do Not Track signals.",
+          "labels": []
+        },
+        {
+          "id": "S130",
+          "section": "5. Your choices",
+          "text": "However, as discussed below in the \"Your Privacy Rights\" section, we do honor legally-recognized browser-based mechanisms (such as the Global Privacy Control designed to signal your opt out choices under certain state laws).",
+          "labels": []
+        },
+        {
+          "id": "S131",
+          "section": "5. Your choices",
+          "text": "**Cookies:** You may stop or restrict the placement of Technologies on your device.",
+          "labels": []
+        },
+        {
+          "id": "S132",
+          "section": "5. Your choices",
+          "text": "Notion provides settings for you to update your preferences in our Services.",
+          "labels": []
+        },
+        {
+          "id": "S133",
+          "section": "5. Your choices",
+          "text": "These settings can be found in the footer of our website.",
+          "labels": []
+        },
+        {
+          "id": "S134",
+          "section": "5. Your choices",
+          "text": "If you have a Notion account and are logged in to the Services, you can access your Cookie settings in the \"Settings & Members\" menu under the \"My notifications & settings\" section.",
+          "labels": []
+        },
+        {
+          "id": "S135",
+          "section": "5. Your choices",
+          "text": "For more information, please see our Cookie Notice.",
+          "labels": []
+        },
+        {
+          "id": "S136",
+          "section": "6. Your privacy rights",
+          "text": "Depending upon your location and in accordance with applicable laws, you may have the right to: - **Access** information about you consistent with legal requirements.",
+          "labels": []
+        },
+        {
+          "id": "S137",
+          "section": "6. Your privacy rights",
+          "text": "In addition, you may have the right in some cases to receive or have your electronic information transferred to another party.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "6. Your privacy rights",
+          "text": "- **Request Correction** of your information where it is inaccurate or incomplete.",
+          "labels": []
+        },
+        {
+          "id": "S139",
+          "section": "6. Your privacy rights",
+          "text": "- **Request Deletion** of your information, subject to certain exceptions prescribed by law.",
+          "labels": []
+        },
+        {
+          "id": "S140",
+          "section": "6. Your privacy rights",
+          "text": "- **Request Restriction or Object to Processing** of your information.",
+          "labels": []
+        },
+        {
+          "id": "S141",
+          "section": "6. Your privacy rights",
+          "text": "- **Not be Discriminated Against** by us for exercising your privacy rights.",
+          "labels": []
+        },
+        {
+          "id": "S142",
+          "section": "6. Your privacy rights",
+          "text": "If you would like to exercise any of these rights, please contact us as set forth below.",
+          "labels": []
+        },
+        {
+          "id": "S143",
+          "section": "6. Your privacy rights",
+          "text": "We will process such requests in accordance with applicable laws, and in some circumstances may need to deny your request in whole or in party (e.g., if we have a legal obligation to maintain your information for a certain purpose).",
+          "labels": []
+        },
+        {
+          "id": "S144",
+          "section": "6. Your privacy rights",
+          "text": "To protect your privacy, we will take steps to verify your identity before fulfilling your request, such as by requiring you to submit your request via your account.",
+          "labels": []
+        },
+        {
+          "id": "S145",
+          "section": "6. Your privacy rights",
+          "text": "You have the right to submit a request through an authorized agent, but we will require the agent to provide us with your written permission, and we may need to confirm your identity before processing the agent's request.",
+          "labels": []
+        },
+        {
+          "id": "S146",
+          "section": "6. Your privacy rights",
+          "text": "Depending on your location of residence, you may have the right to appeal our response to your request.",
+          "labels": []
+        },
+        {
+          "id": "S147",
+          "section": "6. Your privacy rights",
+          "text": "In such circumstances, we will inform you of the right to appeal and the appeal process.",
+          "labels": []
+        },
+        {
+          "id": "S148",
+          "section": "6. Your privacy rights",
+          "text": "**Request restriction on selling or sharing of \"personal information\":** As explained in the \"Information Automatically Collected\" section above, we provide information about your device and online browsing activities to third-party advertising providers for targeted advertising and related purposes, so that we can provide you with more relevant and tailored ads regarding our Services.",
+          "labels": []
+        },
+        {
+          "id": "S149",
+          "section": "6. Your privacy rights",
+          "text": "The disclosure of your information to these third parties to assist us in providing these services may be considered a \"sale\" of personal information under applicable law or the processing/sharing of personal information for targeted advertising purposes.",
+          "labels": []
+        },
+        {
+          "id": "S150",
+          "section": "6. Your privacy rights",
+          "text": "If you would like to opt out of our online disclosure such as through cookie and pixel technology of your personal information for purposes that could be considered \"sales\" for those third parties' own commercial purposes, or \"sharing\" for purposes of targeted advertising, please click on the \"Do Not Sell or Share My Info\" link on the bottom of our website footer at www.notion.com.",
+          "labels": []
+        },
+        {
+          "id": "S151",
+          "section": "6. Your privacy rights",
+          "text": "Please note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser, (e.g., global privacy control) we recognize such preference in accordance with applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S152",
+          "section": "7. Data retention",
+          "text": "We store the information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.",
+          "labels": []
+        },
+        {
+          "id": "S153",
+          "section": "8. Security of your information",
+          "text": "We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S154",
+          "section": "8. Security of your information",
+          "text": "Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us.",
+          "labels": []
+        },
+        {
+          "id": "S155",
+          "section": "8. Security of your information",
+          "text": "To the fullest extent permitted by applicable law, we do not accept liability for unauthorized disclosure.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "8. Security of your information",
+          "text": "By using the Services or providing information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.",
+          "labels": []
+        },
+        {
+          "id": "S157",
+          "section": "8. Security of your information",
+          "text": "If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on the Services, by mail or by sending an email to you.",
+          "labels": []
+        },
+        {
+          "id": "S158",
+          "section": "9. Third-party websites/applications",
+          "text": "The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services.",
+          "labels": []
+        },
+        {
+          "id": "S159",
+          "section": "9. Third-party websites/applications",
+          "text": "These third-party services are not controlled by us.",
+          "labels": []
+        },
+        {
+          "id": "S160",
+          "section": "9. Third-party websites/applications",
+          "text": "We encourage our users to read the privacy policies of each website and application with which they interact.",
+          "labels": []
+        },
+        {
+          "id": "S161",
+          "section": "9. Third-party websites/applications",
+          "text": "We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications.",
+          "labels": []
+        },
+        {
+          "id": "S162",
+          "section": "9. Third-party websites/applications",
+          "text": "Visiting these other websites or applications is at your own risk.",
+          "labels": []
+        },
+        {
+          "id": "S163",
+          "section": "10. Children's information",
+          "text": "Our Services are intended for general audiences and are not directed at children.",
+          "labels": []
+        },
+        {
+          "id": "S164",
+          "section": "10. Children's information",
+          "text": "If we become aware that we have collected data without legally valid parental consent from children under an age where such consent is required, we will take reasonable steps to delete it as soon as possible.",
+          "labels": []
+        },
+        {
+          "id": "S165",
+          "section": "11. Supervisory authority",
+          "text": "If you are located in the European Economic Area or the UK, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your information violates applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S166",
+          "section": "12. Additional information for California residents",
+          "text": "If you are a California resident, the California Consumer Privacy Act (\"CCPA\") requires us to provide you with the following additional information about: (1) the purpose for which we use each category of \"personal information\" (as defined in the CCPA) we collect; and (2) the categories of third parties to which we (a) disclose such personal information for a business purpose, (b) \"share\" personal information for \"cross-context behavioral advertising,\" and/or (c) \"sell\" such personal information.",
+          "labels": []
+        },
+        {
+          "id": "S167",
+          "section": "12. Additional information for California residents",
+          "text": "Under the CCPA, \"sharing\" is defined as the targeting of advertising to a consumer based on that consumer's personal information obtained from the consumer's activity across websites, and \"selling\" is defined as the disclosure of personal information to third parties in exchange for monetary or other valuable consideration.",
+          "labels": []
+        },
+        {
+          "id": "S168",
+          "section": "12. Additional information for California residents",
+          "text": "Our use of third-party online advertising services, which are described in detail above, may result in the disclosure of online identifiers (e.g., cookie data, IP addresses, device identifiers, and usage information) in a way that may be considered a \"sale\" or \"sharing\" under the CCPA.",
+          "labels": []
+        },
+        {
+          "id": "S169",
+          "section": "12. Additional information for California residents",
+          "text": "For information about our purposes of use of personal information, see the \"Information we collect\" section above.",
+          "labels": []
+        },
+        {
+          "id": "S170",
+          "section": "12. Additional information for California residents",
+          "text": "For purposes of the CCPA, we have collected the following categories of consumers' personal information, and disclosed the personal information to the following categories of third parties for a business purpose, in the last 12 months: | Category | Entities to Which We Have Disclosed Personal Information for a Business Purpose | Entities to Which We Have Sold/Shared Personal Information | | --- | --- | --- | | Identifiers.",
+          "labels": []
+        },
+        {
+          "id": "S171",
+          "section": "12. Additional information for California residents",
+          "text": "| Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S172",
+          "section": "12. Additional information for California residents",
+          "text": "| Advertising partners | | Commercial information.",
+          "labels": []
+        },
+        {
+          "id": "S173",
+          "section": "12. Additional information for California residents",
+          "text": "| Affiliates; service providers; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S174",
+          "section": "12. Additional information for California residents",
+          "text": "| We do not sell/share.",
+          "labels": []
+        },
+        {
+          "id": "S175",
+          "section": "12. Additional information for California residents",
+          "text": "| | Internet or other electronic network activity.",
+          "labels": []
+        },
+        {
+          "id": "S176",
+          "section": "12. Additional information for California residents",
+          "text": "| Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S177",
+          "section": "12. Additional information for California residents",
+          "text": "| Advertising partners | | Geolocation data.",
+          "labels": []
+        },
+        {
+          "id": "S178",
+          "section": "12. Additional information for California residents",
+          "text": "(general location information, not precise GPS) | Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S179",
+          "section": "12. Additional information for California residents",
+          "text": "| Advertising partners | | Sensory data.",
+          "labels": []
+        },
+        {
+          "id": "S180",
+          "section": "12. Additional information for California residents",
+          "text": "| Affiliates; service providers; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S181",
+          "section": "12. Additional information for California residents",
+          "text": "| We do not sell/share.",
+          "labels": []
+        },
+        {
+          "id": "S182",
+          "section": "12. Additional information for California residents",
+          "text": "| | Professional or employment-related information.",
+          "labels": []
+        },
+        {
+          "id": "S183",
+          "section": "12. Additional information for California residents",
+          "text": "| Affiliates; service providers; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S184",
+          "section": "12. Additional information for California residents",
+          "text": "| We do not sell/share.",
+          "labels": []
+        },
+        {
+          "id": "S185",
+          "section": "12. Additional information for California residents",
+          "text": "| | Inferences drawn from other personal information to create a profile about a consumer.",
+          "labels": []
+        },
+        {
+          "id": "S186",
+          "section": "12. Additional information for California residents",
+          "text": "| Affiliates; service providers; advertising partners; entities for legal purposes; entities for business transactions; entities with your consent.",
+          "labels": []
+        },
+        {
+          "id": "S187",
+          "section": "12. Additional information for California residents",
+          "text": "| Advertising partners | Your Choices Regarding \"Sharing\" and \"Selling\": You have the right to opt out of our sale/sharing of your personal information for purposes of online analytics and advertising by clicking on the \"Do Not Sell or Share My Info\" link on our website footer.",
+          "labels": []
+        },
+        {
+          "id": "S188",
+          "section": "12. Additional information for California residents",
+          "text": "To opt out of the offline disclosure of your information to third parties for these purposes, please email us at privacy@makenotion.com.",
+          "labels": []
+        },
+        {
+          "id": "S189",
+          "section": "12. Additional information for California residents",
+          "text": "Other CCPA Rights: If we ever offer any financial incentives in exchange for your personal information, we will provide you with appropriate information about such incentives.",
+          "labels": []
+        },
+        {
+          "id": "S190",
+          "section": "12. Additional information for California residents",
+          "text": "The CCPA also allows you to limit the use or disclosure of your \"sensitive personal information\" (as defined in the CCPA) if your sensitive personal information is used for certain purposes.",
+          "labels": []
+        },
+        {
+          "id": "S191",
+          "section": "12. Additional information for California residents",
+          "text": "Please note that we do not use or disclose sensitive personal information other than for business purposes for which you cannot opt out under the CCPA.",
+          "labels": []
+        },
+        {
+          "id": "S192",
+          "section": "12. Additional information for California residents",
+          "text": "Please see the \"Your Rights\" section of our Policy above for information about the additional rights you have with respect to your personal information under California law and how to exercise them.",
+          "labels": []
+        },
+        {
+          "id": "S193",
+          "section": "12. Additional information for California residents",
+          "text": "Retention of Your Personal Information.",
+          "labels": []
+        },
+        {
+          "id": "S194",
+          "section": "12. Additional information for California residents",
+          "text": "Please see the \"Data Retention\" section above.",
+          "labels": []
+        },
+        {
+          "id": "S195",
+          "section": "12. Additional information for California residents",
+          "text": "Shine the Light Disclosure: The California \"Shine the Light\" law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we disclose certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes.",
+          "labels": []
+        },
+        {
+          "id": "S196",
+          "section": "12. Additional information for California residents",
+          "text": "We currently do not disclose your personal information to third parties for their own direct marketing purposes.",
+          "labels": []
+        },
+        {
+          "id": "S197",
+          "section": "13. Data privacy framework",
+          "text": "Notion Labs, Inc.",
+          "labels": []
+        },
+        {
+          "id": "S198",
+          "section": "13. Data privacy framework",
+          "text": "has certified to the U.S.",
+          "labels": []
+        },
+        {
+          "id": "S199",
+          "section": "13. Data privacy framework",
+          "text": "Department of Commerce that Notion adheres to (1) the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S200",
+          "section": "13. Data privacy framework",
+          "text": "Data Privacy Framework with regard to the processing of personal information received from the European Union, (2) the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S201",
+          "section": "13. Data privacy framework",
+          "text": "Data Privacy Framework, with regard to the processing of personal information received from the United Kingdom (and Gibraltar), and (3) the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S202",
+          "section": "13. Data privacy framework",
+          "text": "Data Privacy Framework with regard to the processing of personal information received from Switzerland (the \"DPF\").",
+          "labels": []
+        },
+        {
+          "id": "S203",
+          "section": "13. Data privacy framework",
+          "text": "The Federal Trade Commission has jurisdiction over our compliance with the DPF.",
+          "labels": []
+        },
+        {
+          "id": "S204",
+          "section": "13. Data privacy framework",
+          "text": "We remain responsible for all the personal information we receive under the DPF and that we subsequently transfer to third parties acting as agents on our behalf if they process personal information in a manner inconsistent with the DPF principles, unless we prove we are not responsible for the event giving rise to the damage.",
+          "labels": []
+        },
+        {
+          "id": "S205",
+          "section": "13. Data privacy framework",
+          "text": "To learn more about the DPF program, and to view our certification, please visit https://www.dataprivacyframework.gov/.",
+          "labels": []
+        },
+        {
+          "id": "S206",
+          "section": "13. Data privacy framework",
+          "text": "If you have any question about our practices in relation to our participation in the DPF, or should you have any complaint in that regard, we encourage you to contact us directly, as set forth below.",
+          "labels": []
+        },
+        {
+          "id": "S207",
+          "section": "13. Data privacy framework",
+          "text": "For any complaint that we cannot resolve directly Notion Labs, Inc.",
+          "labels": []
+        },
+        {
+          "id": "S208",
+          "section": "13. Data privacy framework",
+          "text": "commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) (for personal information received under the EU-US DPF), the UK Information Commissioner's Office (ICO) and the Gibraltar Regulatory Authority (GRA) (for personal information received under the UK Extension to the EU-US DPF), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) (for personal information received under the Swiss-US DPF).",
+          "labels": []
+        },
+        {
+          "id": "S209",
+          "section": "13. Data privacy framework",
+          "text": "Please contact us if you would like us to direct you to your data protection authority contacts.",
+          "labels": []
+        },
+        {
+          "id": "S210",
+          "section": "13. Data privacy framework",
+          "text": "You may, under certain conditions, invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms.",
+          "labels": []
+        },
+        {
+          "id": "S211",
+          "section": "13. Data privacy framework",
+          "text": "Please review Annex I of the DPF for additional information: https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2",
+          "labels": []
+        },
+        {
+          "id": "S212",
+          "section": "14. Changes to our privacy policy",
+          "text": "We may revise this Privacy Policy from time to time in our sole discretion.",
+          "labels": []
+        },
+        {
+          "id": "S213",
+          "section": "14. Changes to our privacy policy",
+          "text": "If there are any material changes to this Privacy Policy, we will notify you as required by applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S214",
+          "section": "14. Changes to our privacy policy",
+          "text": "You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use the Services after the new Privacy Policy takes effect.",
+          "labels": []
+        },
+        {
+          "id": "S215",
+          "section": "14. Changes to our privacy policy",
+          "text": "Contact us: If you have any questions about our privacy practices or this Privacy Policy, please contact us at: Notion Labs, Inc.",
+          "labels": []
+        },
+        {
+          "id": "S216",
+          "section": "14. Changes to our privacy policy",
+          "text": "685 Market St.",
+          "labels": []
+        },
+        {
+          "id": "S217",
+          "section": "14. Changes to our privacy policy",
+          "text": "San Francisco, CA 94105 United States team@makenotion.com",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,1819 @@
+{
+  "policy_id": "github-copilot",
+  "source_url": "https://github.com/github/docs/raw/refs/heads/main/content/site-policy/privacy-policies/github-general-privacy-statement.md",
+  "annotator": "TEMPLATE",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# GitHub General Privacy Statement\n\n## GitHub Privacy Statement\n\nEffective date: April 27, 2026\n\nWelcome to the GitHub Privacy Statement. This is where we describe how we handle your \"Personal Data\", which is information that is directly linked or can be linked to you. It applies to the Personal Data that GitHub, Inc. or GitHub B.V., processes as the \"Data Controller\" when you interact with websites, applications, and services that display this Statement (collectively, \"Services\"). This Statement does not apply to services or products that do not display this Statement, such as Previews, where relevant.\n\n### End User Notice: Organization-Provided GitHub Accounts\n\nWhen a school or employer supplies your GitHub account, they assume the role of Data Controller for most Personal Data used in our Services. This enables them to:\n\n* Manage and administer your GitHub account, including adjusting privacy settings.\n* Access and utilize your Personal Data, which includes details on how you use the Services, as well as your content and files.\n\nShould you access a GitHub Service through an account provided by an organization, such as your employer or school, the organization becomes the Data Controller, and this Privacy Statement's direct applicability to you changes. Even so, GitHub remains dedicated to preserving your privacy rights. In such circumstances, GitHub functions as a Data Processor, adhering to the Data Controller's instructions regarding your Personal Data's processing. A Data Protection Agreement governs the relationship between GitHub and the Data Controller. For further details regarding their privacy practices, please refer to the privacy statement of the organization providing your account.\n\nIn cases where your organization grants access to GitHub products, GitHub acts as the Data Controller solely for specific processing activities. These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement. You can review our standard Data Protection Agreement at [GitHub Data Protection Agreement](https://github.com/customer-terms/github-data-protection-agreement). For those limited purposes, this Statement governs the handling of your Personal Data. For all other aspects of GitHub product usage, your organization's policies apply.\n\n### Third Party Access and Data Protection\n\nWhen you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them. Their privacy statements will govern how this data is processed.\n\n## Personal Data We Collect\n\nPersonal Data is collected from you directly, automatically from your device, and also from third parties. The Personal Data GitHub processes when you use the Services depends on variables like how you interact with our Services (such as through web interfaces, desktop or mobile applications), the features you use (such as pull requests, Codespaces, or GitHub Copilot) and your method of accessing the Services (your preferred IDE). Below, we detail the information we collect through each of these channels:\n\n### From You\n\n* Account Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information.\n* User Content and Files: When you use our Services, we collect Personal Data included as part of the information you provide such as code, inputs, AI outputs, text, documents, images, or feedback.\n* Demographic information: In some cases, you provide us with ethnicity, gender, or similar demographic details.\n* Feedback Data: This consists of information you submit through surveys, reviews, or interactive features.\n* Payment Information: For paid subscriptions, we collect details like name, billing address, and payment specifics.\n* Profile Information: We collect information to create a user profile, which may include a photo, additional email addresses, job title, or biography.\n* Sales and Marketing Data: This includes information provided for promotional communications, such as name, email address, and company name.\n* Support Data: When you seek customer support, we collect details like code, text, or multimedia files.\n\n### Automatically\n\n* Buttons, Tools, and Content from Other Companies: Our Services may contain links or buttons that lead to third-party services like Twitter or LinkedIn. Use of these features may result in data collection. Engaging with these buttons, tools, or content may automatically send certain browser information to these companies. Please review the privacy statements of these companies for more information.\n* Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services.\n* Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services. We may also employ third-party Cookies to gather data for interest-based advertising. In some jurisdictions, we only use non-essential cookies after obtaining your consent. See this section for more details and control options.\n* Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks.\n* Geolocation Information: Depending on the Service's functionality, we collect regional geolocation data.\n* Service Usage Information: We collect data about your interactions with the Services, such as IP address, device information, session details, date and time of requests, device type and ID, operating system and application version, information related to your contributions to repositories, and performance of specific features or Services.\n* Website Usage Data: We automatically log data about your Website interactions, including the referring site, date and time of visit, pages viewed, and links clicked.\n\n### From Third Parties\n\n* Information from Other Users of the Services: Other users may share information about you when they submit issues and comments. We may also receive information about you if you are identified as a representative or administrator on your company's account.\n* Publicly Available Sources: We may acquire information about you from publicly available sources.\n* Services you linked to your GitHub account: When you or your administrator integrate third-party apps or services with our Services, we receive information based on your settings with those services. This can include details like your name and email from services like Google for authentication. The information we receive depends on the third-party's settings and privacy policies. Always review these to understand what data is shared with our Services.\n* Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement.\n\n## Processing Purposes: How We Use Your Personal Data\n\nThe Personal Data we process depends on your interaction and access methods with our Services, including the interfaces (web, desktop, mobile apps), features used (pull requests, Codespaces, GitHub Copilot), and your preferred access tools (like your IDE). This section details all the potential ways GitHub may process your Personal Data:\n\n* Business Operations: We use Personal Data for activities like billing, accounting, and compensation. This includes creating aggregated statistical data for internal reporting, financial reporting, revenue planning, capacity planning, and forecast modeling (including product strategy).\n* Communication: We use Personal Data to inform you about new Services, features, offers, promotions, and other pertinent information. This also includes sending confirmations, invoices, technical notices, updates, security alerts, and administrative messages.\n* Inference: We generate new information from other data we collect to derive likely preferences or other characteristics. For instance, we infer your general geographic location based on your IP address.\n* Personalization: We use Personal Data to customize the Service to your preferences, to evaluate the effectiveness of enterprise business ads and promotional communications, and to ensure a seamless and consistent user experience.\n* Safety and Security: To promote safety, integrity, and security across our Services, we process Personal Data, using both automated and, at times, manual techniques for abuse detection, prevention, and violations of terms of service.\n* Service Provision: We use Personal Data to deliver and update our Services as configured and used by You, and to make ongoing personalized experiences and recommendations.\n* Troubleshooting: We use Personal Data to identify and resolve technical issues.\n* Ongoing Service Performance: Personal Data helps us keep the Services up to date and performant, and meet user productivity, reliability, efficacy, quality, privacy, accessibility and security needs.\n* Product Development and Improvement: We use Personal Data to develop and improve our products, services, and technologies, including artificial intelligence and machine learning technologies. This includes improving features, developing new offerings, enhancing safety and security capabilities, and training models. We apply appropriate technical safeguards, including aggregation and de-identification techniques where feasible, to protect your privacy while enabling these improvements.\n* Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes.\n* Delivering Professional Services: We use Personal Data to deliver training, consulting or implementation (\"Professional Services\"). This includes providing technical support, professional planning, advice, guidance, data migration, deployment, and solution/software development services.\n* Improving Professional Services: Enhancing delivery, efficacy, quality, and security of Professional Services and the underlying product(s) based on issues identified while providing Professional Services, including fixing software defects, and otherwise keeping the Professional Services up to date and performant.\n\nWhen carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required.\n\n## Sharing of Personal Data\n\nWe may share Personal Data with the following recipients:\n\n* Abuse and Fraud Prevention Entities: We may disclose Personal Data based on a good faith belief it is needed to prevent fraud, abuse, or attacks on our Services, or to protect the safety of GitHub and our users.\n* Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, legal and compliance obligations, product development and improvement (including training and improving artificial intelligence and machine learning technologies), and for other purposes described in their respective privacy statements. When we share data with affiliates, they will process it in accordance with applicable law and their privacy commitments.\n* GitHub Organization Accounts: If an organization adds you to their GitHub account, we might share Personal Data with that organization to fulfill the commercial relationship. In such a case, your use of the Services is protected by a data protection agreement and terms between your organization and GitHub\n* Competent Authorities: We may disclose Personal Data to authorized law enforcement, regulators, courts, or other public authorities in response to lawful requests or to protect our rights and safety. Please refer to our Guidelines for Legal Requests of User Data for more information.\n* Corporate Transaction Entities: we might disclose Personal Data within the limits of the law and in accordance with this Privacy Statement for strategic business transactions such as sales or a merger.\n* Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services. We may share your data with these partners and resellers where allowed, and with your consent when required.\n* Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services. They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information. Please visit GitHub Subprocessors to see our list of Subprocessors.\n* Visual Studio Code (GitHub Codespaces): GitHub Codespaces and github.dev offer Visual Studio Code in a web browser, where some telemetry is collected by default. Details on telemetry collection are on the [VS Code website](https://code.visualstudio.com/docs/configure/telemetry). To opt out, go to File > Preferences > Settings in the top left menu of VS Code. Opting out will sync this preference across all future web sessions in GitHub Codespaces and github.dev.\n* Other Third-party Applications: Upon your instruction, we may share Personal Data with third-party applications available on our Marketplace. You are responsible for the data you instruct us to share with these applications.\n* Other Users and the Public: Depending on your account settings, we may share Personal Data with other users of the Services and the public. You control what information is made public. To adjust your settings, visit User Settings in your profile. Please be aware that any information you share in a collaborative context may become publicly accessible.\n\n## Private repositories: GitHub Access\n\nIf your GitHub account has private repositories, our ability and rights to access private repository information is set forth in Section E (Private Repositories) of the GitHub Terms of Service.\n\n## Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)\n\nGitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity. The basis varies depending on the data type and the context, including how you access the services. Our processing activities typically fall under these lawful bases:\n\n* Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service.\n* Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties.\n* Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and developing and improving our Services, which include artificial intelligence and machine learning technologies. This is done only when these interests are not overridden by your data protection rights or your fundamental rights and freedoms.\n* Consent: We process data when you have explicitly consented to such processing. When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time. The procedures for withdrawal are detailed in this Statement and available on our website.\n\n## Your Privacy Rights\n\nDepending on your residence location, you may have specific legal rights regarding your Personal Data:\n\n* The right to access the data collected about you\n* The right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposes\n* The right to rectify or update inaccurate or incomplete Personal Data under certain circumstances\n* The right to erase or limit the processing of your Personal Data under specific conditions\n* The right to object to the processing of your Personal Data, as allowed by applicable law\n* The right to withdraw consent, where processing is based on your consent\n* The right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasible\n\nTo exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided. To verify your identity for security, we may request extra information before addressing your data-related request. Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns. Depending on your region, you have the right to complain to your local Data Protection Authority. European users can find authority contacts on the European Data Protection Board website, and UK users on the Information Commissioner's Office website.\n\nWe aim to promptly respond to requests in compliance with legal requirements. Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims.\n\n## International data transfers\n\nGitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations. We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection. When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission under [Commission Implementing Decision 2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj), to help protect your rights and enable these protections to travel with your data. To learn more about the European Commission's decisions on the adequacy of the protection of personal data in the countries where GitHub processes personal data, see this article on the [European Commission website](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).\n\n## Data Privacy Framework (DPF)\n\nGitHub also complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. GitHub has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. GitHub has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy statement and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit <https://www.dataprivacyframework.gov/>.\n\nGitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHub's behalf. GitHub shall remain liable under the DPF Principles if its agent processes such Personal Data in a manner inconsistent with the DPF Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.\n\n### Dispute resolution process\n\nIn compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, GitHub commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension, and the Swiss-U.S. DPF should first contact GitHub at: dpo[at]github[dot]com.\n\nIf you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit <https://go.adr.org/dpf_irm.html> for more information or to file a complaint. The services of the International Centre for Dispute Resolution are provided at no cost to you.\n\nAn individual has the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms. For additional information visit <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>.\n\n### Government Enforcement\n\nGitHub is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under Section 5 of the Federal Trade Commission Act (15 U.S.C. § 45), an organization's failure to abide by commitments to implement the DPF Principles may be challenged as deceptive by the FTC. The FTC has the power to prohibit such misrepresentations through administrative orders or by seeking court orders.\n\n## Security and Retention\n\nGitHub uses appropriate administrative, technical, and physical security controls to protect your Personal Data. We'll retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements. The retention duration depends on the purpose of data collection and any legal obligations.\n\n## Security\n\nGitHub uses administrative, technical, and physical security controls where appropriate to protect your Personal Data.\n\n## Contact Us\n\nContact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com.\n\nOur addresses are:\n\nGitHub B.V.\n\nPrins Bernhardplein 200, Amsterdam\n\n1097JB\n\nThe Netherlands\n\nGitHub, Inc.\n\n88 Colin P. Kelly Jr. St.\n\nSan Francisco, CA 94107\n\nUnited States\n\n## Information for Minors\n\nOur Services are not intended for individuals under the age of 13. We do not intentionally gather Personal Data from such individuals. If you become aware that a minor has provided us with Personal Data, please [notify us](https://support.github.com/contact/privacy).\n\n## Changes to Our Privacy Statement\n\nGitHub may periodically revise this Privacy Statement. If there are material changes to the statement, we will provide at least 30 days prior notice by updating our website or sending an email to your primary email address associated with your GitHub account.\n\n## Translations\n\nBelow are translations of this document into other languages. In the event of any conflict, uncertainty, or apparent inconsistency between any of those versions and the English version, this English version is the controlling version.\n\n### French\n\nCliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf).\n\n### Other translations\n\nFor translations of this statement into other languages, please visit <https://docs.github.com/> and select a language from the drop-down menu under \"English.\"\n\n## Our use of cookies and tracking technologies\n\n### Cookies and tracking technologies\n\nGitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service. For example, we use them to (i) keep you logged in, (ii) remember your preferences, (iii) identify your device for security and fraud purposes, including as needed to maintain the integrity of our Service, (iv) compile statistical reports, and (v) provide information and insight for future development of GitHub. We provide more information about [cookies on GitHub](/site-policy/privacy-policies/github-cookies) that describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies.\n\nFor Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users' interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts. If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant.\n\nOur emails to users may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email communications more effective and to make sure we are not sending you unwanted email.\n\nThe length of time a cookie will stay on your browser or device depends on whether it is a \"persistent\" or \"session\" cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay until they expire or are deleted. The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You may be able to delete cookie data. For more information, see GitHub General Privacy Statement — What are your cookie choices and controls.\n\n#### What are cookies and similar technologies?\n\nWe use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services. When visiting Enterprise Marketing Pages, like resources.github.com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes.\n\nCookies are small text files stored by your browser on your device. A cookie can later be read when your browser connects to a web server in the same domain that placed the cookie. The text in a cookie contains a string of numbers and letters that may uniquely identify your device and can contain other information as well. This allows the web server to recognize your browser over time, each time it connects to that web server.\n\nWeb beacons are electronic images (also called \"single-pixel\" or \"clear GIFs\") that are contained within a website or email. When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party). This allows that web server to log information about your device and to set and read its own cookies. In the same way, third-party content on our websites (such as embedded videos, plug-ins, or ads) results in your browser connecting to the third-party web server that hosts that content.\n\nMobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies. When visiting Enterprise Marketing pages, like resources.github.com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes.\n\nWe may also use so-called \"flash cookies\" (also known as \"Local Shared Objects\" or \"LSOs\") to collect and store information about your use of our Services. Flash cookies are commonly used for advertisements and videos.\n\n#### How do we and our partners use cookies and similar technologies?\n\nThe GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes. Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners. For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising. GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources.github.com.\n\nWe and/or our partners also share the information we collect or infer with third parties for these purposes.\n\nThe table below provides additional information about how we use different types of cookies:\n\n| Purpose | Description |\n|:---|:---|\n| Required Cookies | GitHub uses required cookies to perform essential website functions and to provide the services. For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement. These cookies are necessary for our websites to work. |\n| Analytics | We allow third parties to use analytics cookies to understand how you use our websites so we can make them better. For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task. We also use some analytics cookies to provide personalized advertising. |\n| Social Media | GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub's websites. This ensures that the ads and content you see on our websites and on social media will better reflect your interests. This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by GitHub. |\n| Advertising | In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen. Cookies also track which ads you click or purchases you make after clicking an ad. This is done both for payment purposes and to show you ads that are more relevant to you. For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history. |\n\n#### What are your cookie choices and controls?\n\nYou have several options to disable non-essential cookies:\n\n1. **Specifically on GitHub Enterprise Marketing Pages**\n\nAny GitHub page that serves non-essential cookies will have a link in the page's footer to cookie settings. You can express your preferences at any time by clicking on that link and updating your settings.\n\nSome users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies.\n\n2. **Generally for all websites**\n\nYou can control the cookies you encounter on the web using a variety of widely-available tools. For example:\n\n* If your browser sends a [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track) (DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies.\n* Many browsers provide cookie controls which may limit the types of cookies you encounter online. Check out the documentation for your browser to learn more.\n* If you enable a browser extension designed to block tracking, such as [Privacy Badger](https://en.wikipedia.org/wiki/Privacy_Badger), non-essential cookies set by a website or third parties may be disabled.\n* If you enable a browser extension designed to block unwanted content, such as [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin), non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.\n* You may use the Global Privacy Control (GPC) to communicate your privacy preferences. If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data). To learn more, visit [Global Privacy Control — Take Control Of Your Privacy](https://globalprivacycontrol.org/)\n* Advertising controls. Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:\n  * United States: [NAI](http://optout.networkadvertising.org) and [DAA](http://optout.aboutads.info/)\n  * Canada: [Digital Advertising Alliance of Canada](https://youradchoices.ca/)\n  * Europe: [European Digital Advertising Alliance](http://www.youronlinechoices.com/)\n\nThese choices are specific to the browser you are using. If you access our Services from other devices or browsers, take these actions from those systems to ensure your choices apply to the data collected when you use those systems.\n\n## US State Specific Information\n\nThis section provides extra information specifically for residents of certain US states that have distinct data privacy laws and regulations. These laws may grant specific rights to residents of these states when the laws come into effect. This section uses the term \"personal information\" as an equivalent to the term \"Personal Data.\"\n\n### Privacy Rights\n\nThese rights are common to the US State privacy laws:\n\n* Right to Knowledge and Correction: You have the right to request details on the specific personal information we've collected about you and the right to correct inaccurate information. You can exercise this right by contacting us. You can also access and edit basic account information in your settings.\n* Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting. For more details, please see \"Sharing Your Information\" below.\n* Right to request Deletion: You reserve the right to request the deletion of your data, barring a few exceptions. Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues. Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same. We employ brief retention terms by design.\n* Right to a Timely Response: You are allowed to make two free requests in any 12-month period. We commit to responding to your request within 45 days. In complex cases, we may extend our response time by an additional 45 days.\n* Non-Discrimination: We will not hold it against you when you exercise any of your rights. On the contrary, we encourage you to review your privacy settings closely and contact us with any questions.\n\n### Notice of Collection of Personal Information\n\nWe may collect various categories of personal information about our website visitors and users of \"Services\" which includes GitHub applications, software, products, or services. That information includes identifiers/contact information, demographic information, payment information, commercial information, internet or electronic network activity information, geolocation data, audio, electronic, visual, or similar information, and inferences drawn from such information.\n\nWe collect this information for various purposes. This includes identifying accessibility gaps and offering targeted support, fostering diversity and representation, providing services, troubleshooting, conducting business operations such as billing and security, improving products and supporting research, communicating important information, ensuring personalized experiences, and promoting safety and security.\n\n### Exercising your Privacy Rights\n\nTo make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided. We may need to verify your identity before processing your request. If you choose to use an authorized agent to submit a request on your behalf, please ensure they have your signed permission or power of attorney as required.\n\nTo opt out of the sharing of your personal information, you can click on the \"Do Not Share My Personal Information\" link on the footer of our Websites or use the Global Privacy Control (\"GPC\") if available. Authorized agents can also submit opt-out requests on your behalf.\n\n### California\n\n#### Mandatory Disclosures\n\nWe also make the following disclosures for purposes of compliance with California privacy law:\n\n* We collected the following categories of personal information in the last 12 months: identifiers/contact information, demographic information (such as gender), payment card information associated with you, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above.\n* The sources of personal information from whom we collected are: directly from you, automatically or from third parties.\n* The business or commercial purposes of collecting personal information are as summarized above and in our Privacy Statement under Processing Purposes.\n* We disclosed the following categories of personal information for a business purpose in the last 12 months: identifiers/contact information, demographic information (such as gender and rough geographic location), payment information, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above. We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement.\n* As defined by applicable law, we \"shared\" the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above. We shared each category to or with advertising networks, data analytics providers, and social networks.\n* The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement.\n* We do not \"sell\" or \"share\" the personal information of known minors under 16 years of age.\n\n#### Shine the Light Act\n\nUnder California Civil Code section 1798.83, also known as the \"Shine the Light\" law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (\"California Customers\") may request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law. California Customers may request further information about our compliance with this law by emailing (privacy[at]github[dot]com). Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.\n\n#### Removal of Content\n\nCalifornia residents under the age of 18 who are registered users of online sites, services, or applications have a right under California Business and Professions Code Section 22581 to remove, or request and obtain removal of, content or information they have publicly posted. To remove content or information you have publicly posted, please submit a [Private Information Removal request](https://support.github.com/contact/private-information). Alternatively, to request that we remove such content or information, please send a detailed description of the specific content or information you wish to have removed to [GitHub support](https://support.github.com/request). Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances. If you have any questions about our privacy practices with respect to California residents, please send an email to privacy[at]github[dot]com.\n\nWe value the trust you place in us and are committed to handling your personal information with care and respect. If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com.\n\n### Colorado/Connecticut/Virginia\n\nIf you live in Colorado, Connecticut, or Virginia you have some additional rights:\n\n* If we deny your rights request, you have the right to appeal that decision. We will provide you with the necessary information to submit an appeal at that time.\n* You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. GitHub does not engage in such profiling as defined by Colorado law, so there's no need to opt out.\n\n### Nevada\n\nWe do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "GitHub Privacy Statement",
+          "text": "Effective date: April 27, 2026 Welcome to the GitHub Privacy Statement.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "GitHub Privacy Statement",
+          "text": "This is where we describe how we handle your \"Personal Data\", which is information that is directly linked or can be linked to you.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "GitHub Privacy Statement",
+          "text": "It applies to the Personal Data that GitHub, Inc.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "GitHub Privacy Statement",
+          "text": "or GitHub B.V., processes as the \"Data Controller\" when you interact with websites, applications, and services that display this Statement (collectively, \"Services\").",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "GitHub Privacy Statement",
+          "text": "This Statement does not apply to services or products that do not display this Statement, such as Previews, where relevant.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "When a school or employer supplies your GitHub account, they assume the role of Data Controller for most Personal Data used in our Services.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "This enables them to: * Manage and administer your GitHub account, including adjusting privacy settings.",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "* Access and utilize your Personal Data, which includes details on how you use the Services, as well as your content and files.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "Should you access a GitHub Service through an account provided by an organization, such as your employer or school, the organization becomes the Data Controller, and this Privacy Statement's direct applicability to you changes.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "Even so, GitHub remains dedicated to preserving your privacy rights.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "In such circumstances, GitHub functions as a Data Processor, adhering to the Data Controller's instructions regarding your Personal Data's processing.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "A Data Protection Agreement governs the relationship between GitHub and the Data Controller.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "For further details regarding their privacy practices, please refer to the privacy statement of the organization providing your account.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "In cases where your organization grants access to GitHub products, GitHub acts as the Data Controller solely for specific processing activities.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "These activities are clearly defined in a contractual agreement with your organization, known as a Data Protection Agreement.",
+          "labels": []
+        },
+        {
+          "id": "S16",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "You can review our standard Data Protection Agreement at [GitHub Data Protection Agreement](https://github.com/customer-terms/github-data-protection-agreement).",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "For those limited purposes, this Statement governs the handling of your Personal Data.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "End User Notice: Organization-Provided GitHub Accounts",
+          "text": "For all other aspects of GitHub product usage, your organization's policies apply.",
+          "labels": []
+        },
+        {
+          "id": "S19",
+          "section": "Third Party Access and Data Protection",
+          "text": "When you use third-party extensions, integrations, or follow references and links within our Services, the privacy policies of these third parties apply to any Personal Data you provide or consent to share with them.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "Third Party Access and Data Protection",
+          "text": "Their privacy statements will govern how this data is processed.",
+          "labels": []
+        },
+        {
+          "id": "S21",
+          "section": "Personal Data We Collect",
+          "text": "Personal Data is collected from you directly, automatically from your device, and also from third parties.",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "Personal Data We Collect",
+          "text": "The Personal Data GitHub processes when you use the Services depends on variables like how you interact with our Services (such as through web interfaces, desktop or mobile applications), the features you use (such as pull requests, Codespaces, or GitHub Copilot) and your method of accessing the Services (your preferred IDE).",
+          "labels": []
+        },
+        {
+          "id": "S23",
+          "section": "Personal Data We Collect",
+          "text": "Below, we detail the information we collect through each of these channels:",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "From You",
+          "text": "* Account Data: We collect certain information when you open an account such as your GitHub handle, name, email address, password, payment information and transaction information.",
+          "labels": []
+        },
+        {
+          "id": "S25",
+          "section": "From You",
+          "text": "* User Content and Files: When you use our Services, we collect Personal Data included as part of the information you provide such as code, inputs, AI outputs, text, documents, images, or feedback.",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "From You",
+          "text": "* Demographic information: In some cases, you provide us with ethnicity, gender, or similar demographic details.",
+          "labels": []
+        },
+        {
+          "id": "S27",
+          "section": "From You",
+          "text": "* Feedback Data: This consists of information you submit through surveys, reviews, or interactive features.",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "From You",
+          "text": "* Payment Information: For paid subscriptions, we collect details like name, billing address, and payment specifics.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "From You",
+          "text": "* Profile Information: We collect information to create a user profile, which may include a photo, additional email addresses, job title, or biography.",
+          "labels": []
+        },
+        {
+          "id": "S30",
+          "section": "From You",
+          "text": "* Sales and Marketing Data: This includes information provided for promotional communications, such as name, email address, and company name.",
+          "labels": []
+        },
+        {
+          "id": "S31",
+          "section": "From You",
+          "text": "* Support Data: When you seek customer support, we collect details like code, text, or multimedia files.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "Automatically",
+          "text": "* Buttons, Tools, and Content from Other Companies: Our Services may contain links or buttons that lead to third-party services like Twitter or LinkedIn.",
+          "labels": []
+        },
+        {
+          "id": "S33",
+          "section": "Automatically",
+          "text": "Use of these features may result in data collection.",
+          "labels": []
+        },
+        {
+          "id": "S34",
+          "section": "Automatically",
+          "text": "Engaging with these buttons, tools, or content may automatically send certain browser information to these companies.",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "Automatically",
+          "text": "Please review the privacy statements of these companies for more information.",
+          "labels": []
+        },
+        {
+          "id": "S36",
+          "section": "Automatically",
+          "text": "* Essential Cookies and Similar Tracking Technologies: We use cookies and similar technologies to provide essential functionality like storing settings and recognizing you while using our Services.",
+          "labels": []
+        },
+        {
+          "id": "S37",
+          "section": "Automatically",
+          "text": "* Non-essential Cookies: Depending on your jurisdiction, we may use online analytics products that use cookies to help us analyze how de-identified users use our Services and to enhance your experience when you use the Services.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "Automatically",
+          "text": "We may also employ third-party Cookies to gather data for interest-based advertising.",
+          "labels": []
+        },
+        {
+          "id": "S39",
+          "section": "Automatically",
+          "text": "In some jurisdictions, we only use non-essential cookies after obtaining your consent.",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "Automatically",
+          "text": "See this section for more details and control options.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "Automatically",
+          "text": "* Email Marketing Interactions: Our emails may have web beacons that offer information on your device type, email client, email reception, opens, and link clicks.",
+          "labels": []
+        },
+        {
+          "id": "S42",
+          "section": "Automatically",
+          "text": "* Geolocation Information: Depending on the Service's functionality, we collect regional geolocation data.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "Automatically",
+          "text": "* Service Usage Information: We collect data about your interactions with the Services, such as IP address, device information, session details, date and time of requests, device type and ID, operating system and application version, information related to your contributions to repositories, and performance of specific features or Services.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "Automatically",
+          "text": "* Website Usage Data: We automatically log data about your Website interactions, including the referring site, date and time of visit, pages viewed, and links clicked.",
+          "labels": []
+        },
+        {
+          "id": "S45",
+          "section": "From Third Parties",
+          "text": "* Information from Other Users of the Services: Other users may share information about you when they submit issues and comments.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "From Third Parties",
+          "text": "We may also receive information about you if you are identified as a representative or administrator on your company's account.",
+          "labels": []
+        },
+        {
+          "id": "S47",
+          "section": "From Third Parties",
+          "text": "* Publicly Available Sources: We may acquire information about you from publicly available sources.",
+          "labels": []
+        },
+        {
+          "id": "S48",
+          "section": "From Third Parties",
+          "text": "* Services you linked to your GitHub account: When you or your administrator integrate third-party apps or services with our Services, we receive information based on your settings with those services.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "From Third Parties",
+          "text": "This can include details like your name and email from services like Google for authentication.",
+          "labels": []
+        },
+        {
+          "id": "S50",
+          "section": "From Third Parties",
+          "text": "The information we receive depends on the third-party's settings and privacy policies.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "From Third Parties",
+          "text": "Always review these to understand what data is shared with our Services.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "From Third Parties",
+          "text": "* Vendors, Partners, and Affiliates: We may receive information about you from third parties, like vendors, resellers, partners, or affiliates for the purposes outlined in this statement.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "The Personal Data we process depends on your interaction and access methods with our Services, including the interfaces (web, desktop, mobile apps), features used (pull requests, Codespaces, GitHub Copilot), and your preferred access tools (like your IDE).",
+          "labels": []
+        },
+        {
+          "id": "S54",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "This section details all the potential ways GitHub may process your Personal Data: * Business Operations: We use Personal Data for activities like billing, accounting, and compensation.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "This includes creating aggregated statistical data for internal reporting, financial reporting, revenue planning, capacity planning, and forecast modeling (including product strategy).",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Communication: We use Personal Data to inform you about new Services, features, offers, promotions, and other pertinent information.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "This also includes sending confirmations, invoices, technical notices, updates, security alerts, and administrative messages.",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Inference: We generate new information from other data we collect to derive likely preferences or other characteristics.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "For instance, we infer your general geographic location based on your IP address.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Personalization: We use Personal Data to customize the Service to your preferences, to evaluate the effectiveness of enterprise business ads and promotional communications, and to ensure a seamless and consistent user experience.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Safety and Security: To promote safety, integrity, and security across our Services, we process Personal Data, using both automated and, at times, manual techniques for abuse detection, prevention, and violations of terms of service.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Service Provision: We use Personal Data to deliver and update our Services as configured and used by You, and to make ongoing personalized experiences and recommendations.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Troubleshooting: We use Personal Data to identify and resolve technical issues.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Ongoing Service Performance: Personal Data helps us keep the Services up to date and performant, and meet user productivity, reliability, efficacy, quality, privacy, accessibility and security needs.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Product Development and Improvement: We use Personal Data to develop and improve our products, services, and technologies, including artificial intelligence and machine learning technologies.",
+          "labels": []
+        },
+        {
+          "id": "S66",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "This includes improving features, developing new offerings, enhancing safety and security capabilities, and training models.",
+          "labels": []
+        },
+        {
+          "id": "S67",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "We apply appropriate technical safeguards, including aggregation and de-identification techniques where feasible, to protect your privacy while enabling these improvements.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Complying with and resolving legal obligations: including responding to Data Subject Requests for Personal Data processed by GitHub as Controller (for example website data), tax requirements, agreements and disputes.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Delivering Professional Services: We use Personal Data to deliver training, consulting or implementation (\"Professional Services\").",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "This includes providing technical support, professional planning, advice, guidance, data migration, deployment, and solution/software development services.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "* Improving Professional Services: Enhancing delivery, efficacy, quality, and security of Professional Services and the underlying product(s) based on issues identified while providing Professional Services, including fixing software defects, and otherwise keeping the Professional Services up to date and performant.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "Processing Purposes: How We Use Your Personal Data",
+          "text": "When carrying out these activities, GitHub practices data minimization and uses the minimum amount of Personal Information required.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "Sharing of Personal Data",
+          "text": "We may share Personal Data with the following recipients: * Abuse and Fraud Prevention Entities: We may disclose Personal Data based on a good faith belief it is needed to prevent fraud, abuse, or attacks on our Services, or to protect the safety of GitHub and our users.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "Sharing of Personal Data",
+          "text": "* Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, legal and compliance obligations, product development and improvement (including training and improving artificial intelligence and machine learning technologies), and for other purposes described in their respective privacy statements.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "Sharing of Personal Data",
+          "text": "When we share data with affiliates, they will process it in accordance with applicable law and their privacy commitments.",
+          "labels": []
+        },
+        {
+          "id": "S76",
+          "section": "Sharing of Personal Data",
+          "text": "* GitHub Organization Accounts: If an organization adds you to their GitHub account, we might share Personal Data with that organization to fulfill the commercial relationship.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "Sharing of Personal Data",
+          "text": "In such a case, your use of the Services is protected by a data protection agreement and terms between your organization and GitHub * Competent Authorities: We may disclose Personal Data to authorized law enforcement, regulators, courts, or other public authorities in response to lawful requests or to protect our rights and safety.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "Sharing of Personal Data",
+          "text": "Please refer to our Guidelines for Legal Requests of User Data for more information.",
+          "labels": []
+        },
+        {
+          "id": "S79",
+          "section": "Sharing of Personal Data",
+          "text": "* Corporate Transaction Entities: we might disclose Personal Data within the limits of the law and in accordance with this Privacy Statement for strategic business transactions such as sales or a merger.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "Sharing of Personal Data",
+          "text": "* Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "Sharing of Personal Data",
+          "text": "We may share your data with these partners and resellers where allowed, and with your consent when required.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "Sharing of Personal Data",
+          "text": "* Subprocessors and Service Providers: We may use vendors to provide services on our behalf, including hosting, marketing, advertising, social, analytics, support ticketing, credit card processing, or security services.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "Sharing of Personal Data",
+          "text": "They are bound by contractual obligations to ensure the security, privacy, and confidentiality of your information.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "Sharing of Personal Data",
+          "text": "Please visit GitHub Subprocessors to see our list of Subprocessors.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "Sharing of Personal Data",
+          "text": "* Visual Studio Code (GitHub Codespaces): GitHub Codespaces and github.dev offer Visual Studio Code in a web browser, where some telemetry is collected by default.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "Sharing of Personal Data",
+          "text": "Details on telemetry collection are on the [VS Code website](https://code.visualstudio.com/docs/configure/telemetry).",
+          "labels": []
+        },
+        {
+          "id": "S87",
+          "section": "Sharing of Personal Data",
+          "text": "To opt out, go to File > Preferences > Settings in the top left menu of VS Code.",
+          "labels": []
+        },
+        {
+          "id": "S88",
+          "section": "Sharing of Personal Data",
+          "text": "Opting out will sync this preference across all future web sessions in GitHub Codespaces and github.dev.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "Sharing of Personal Data",
+          "text": "* Other Third-party Applications: Upon your instruction, we may share Personal Data with third-party applications available on our Marketplace.",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "Sharing of Personal Data",
+          "text": "You are responsible for the data you instruct us to share with these applications.",
+          "labels": []
+        },
+        {
+          "id": "S91",
+          "section": "Sharing of Personal Data",
+          "text": "* Other Users and the Public: Depending on your account settings, we may share Personal Data with other users of the Services and the public.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "Sharing of Personal Data",
+          "text": "You control what information is made public.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "Sharing of Personal Data",
+          "text": "To adjust your settings, visit User Settings in your profile.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "Sharing of Personal Data",
+          "text": "Please be aware that any information you share in a collaborative context may become publicly accessible.",
+          "labels": []
+        },
+        {
+          "id": "S95",
+          "section": "Private repositories: GitHub Access",
+          "text": "If your GitHub account has private repositories, our ability and rights to access private repository information is set forth in Section E (Private Repositories) of the GitHub Terms of Service.",
+          "labels": []
+        },
+        {
+          "id": "S96",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "GitHub processes Personal Data in compliance with the GDPR, ensuring a lawful basis for each processing activity.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "The basis varies depending on the data type and the context, including how you access the services.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "Our processing activities typically fall under these lawful bases: * Contractual Necessity: Processing is required to fulfill our contractual duties to you, in accordance with the GitHub Terms of Service.",
+          "labels": []
+        },
+        {
+          "id": "S99",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "* Legal Obligation: We process data when it's necessary to comply with applicable laws or to protect the rights, safety, and property of GitHub, our affiliates, users, or third parties.",
+          "labels": []
+        },
+        {
+          "id": "S100",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "* Legitimate Interests: We process data for purposes that are in our legitimate interests, such as securing our Services, communicating with you, and developing and improving our Services, which include artificial intelligence and machine learning technologies.",
+          "labels": []
+        },
+        {
+          "id": "S101",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "This is done only when these interests are not overridden by your data protection rights or your fundamental rights and freedoms.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "* Consent: We process data when you have explicitly consented to such processing.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "When we rely on consent as the legal basis, you have the right to withdraw your consent for data processing at any time.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "Lawful Bases for Processing Personal Data (Applicable to EEA and UK End Users)",
+          "text": "The procedures for withdrawal are detailed in this Statement and available on our website.",
+          "labels": []
+        },
+        {
+          "id": "S105",
+          "section": "Your Privacy Rights",
+          "text": "Depending on your residence location, you may have specific legal rights regarding your Personal Data: * The right to access the data collected about you * The right to request detailed information about the specific types of Personal Data we've collected over the past 12 months, including data disclosed for business purposes * The right to rectify or update inaccurate or incomplete Personal Data under certain circumstances * The right to erase or limit the processing of your Personal Data under specific conditions * The right to object to the processing of your Personal Data, as allowed by applicable law * The right to withdraw consent, where processing is based on your consent * The right to receive your collected Personal Data in a structured, commonly used, and machine-readable format to facilitate its transfer to another company, where technically feasible To exercise these rights, please send an email to privacy[at]github[dot]com and follow the instructions provided.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "Your Privacy Rights",
+          "text": "To verify your identity for security, we may request extra information before addressing your data-related request.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "Your Privacy Rights",
+          "text": "Please contact our Data Protection Officer at dpo[at]github[dot]com for any feedback or concerns.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "Your Privacy Rights",
+          "text": "Depending on your region, you have the right to complain to your local Data Protection Authority.",
+          "labels": []
+        },
+        {
+          "id": "S109",
+          "section": "Your Privacy Rights",
+          "text": "European users can find authority contacts on the European Data Protection Board website, and UK users on the Information Commissioner's Office website.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "Your Privacy Rights",
+          "text": "We aim to promptly respond to requests in compliance with legal requirements.",
+          "labels": []
+        },
+        {
+          "id": "S111",
+          "section": "Your Privacy Rights",
+          "text": "Please note that we may retain certain data as necessary for legal obligations or for establishing, exercising, or defending legal claims.",
+          "labels": []
+        },
+        {
+          "id": "S112",
+          "section": "International data transfers",
+          "text": "GitHub stores and processes Personal Data in a variety of locations, including your local region, the United States, and other countries where GitHub, its affiliates, subsidiaries, or subprocessors have operations.",
+          "labels": []
+        },
+        {
+          "id": "S113",
+          "section": "International data transfers",
+          "text": "We transfer Personal Data from the European Union, the United Kingdom, and Switzerland to countries that the European Commission has not recognized as having an adequate level of data protection.",
+          "labels": []
+        },
+        {
+          "id": "S114",
+          "section": "International data transfers",
+          "text": "When we engage in such transfers, we generally rely on the standard contractual clauses published by the European Commission under [Commission Implementing Decision 2021/914](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj), to help protect your rights and enable these protections to travel with your data.",
+          "labels": []
+        },
+        {
+          "id": "S115",
+          "section": "International data transfers",
+          "text": "To learn more about the European Commission's decisions on the adequacy of the protection of personal data in the countries where GitHub processes personal data, see this article on the [European Commission website](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en).",
+          "labels": []
+        },
+        {
+          "id": "S116",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "GitHub also complies with the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S117",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Data Privacy Framework (EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S118",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF), the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S119",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF, and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S120",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Data Privacy Framework (Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF) as set forth by the U.S.",
+          "labels": []
+        },
+        {
+          "id": "S122",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Department of Commerce.",
+          "labels": []
+        },
+        {
+          "id": "S123",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "GitHub has certified to the U.S.",
+          "labels": []
+        },
+        {
+          "id": "S124",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Department of Commerce that it adheres to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S125",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Data Privacy Framework Principles (EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S126",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S127",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S128",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF.",
+          "labels": []
+        },
+        {
+          "id": "S129",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "GitHub has certified to the U.S.",
+          "labels": []
+        },
+        {
+          "id": "S130",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Department of Commerce that it adheres to the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S131",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "Data Privacy Framework Principles (Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S132",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S133",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF.",
+          "labels": []
+        },
+        {
+          "id": "S134",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "If there is any conflict between the terms in this privacy statement and the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S135",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF Principles and/or the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S136",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "DPF Principles, the Principles shall govern.",
+          "labels": []
+        },
+        {
+          "id": "S137",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit <https://www.dataprivacyframework.gov/>.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "GitHub has the responsibility for the processing of Personal Data it receives under the Data Privacy Framework (DPF) Principles and subsequently transfers to a third party acting as an agent on GitHub's behalf.",
+          "labels": []
+        },
+        {
+          "id": "S139",
+          "section": "Data Privacy Framework (DPF)",
+          "text": "GitHub shall remain liable under the DPF Principles if its agent processes such Personal Data in a manner inconsistent with the DPF Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.",
+          "labels": []
+        },
+        {
+          "id": "S140",
+          "section": "Dispute resolution process",
+          "text": "In compliance with the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S141",
+          "section": "Dispute resolution process",
+          "text": "DPF, the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S142",
+          "section": "Dispute resolution process",
+          "text": "DPF, and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S143",
+          "section": "Dispute resolution process",
+          "text": "DPF, GitHub commits to resolve DPF Principles-related complaints about our collection and use of your personal information.",
+          "labels": []
+        },
+        {
+          "id": "S144",
+          "section": "Dispute resolution process",
+          "text": "EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S145",
+          "section": "Dispute resolution process",
+          "text": "DPF, the UK Extension, and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S146",
+          "section": "Dispute resolution process",
+          "text": "DPF should first contact GitHub at: dpo[at]github[dot]com.",
+          "labels": []
+        },
+        {
+          "id": "S147",
+          "section": "Dispute resolution process",
+          "text": "If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit <https://go.adr.org/dpf_irm.html> for more information or to file a complaint.",
+          "labels": []
+        },
+        {
+          "id": "S148",
+          "section": "Dispute resolution process",
+          "text": "The services of the International Centre for Dispute Resolution are provided at no cost to you.",
+          "labels": []
+        },
+        {
+          "id": "S149",
+          "section": "Dispute resolution process",
+          "text": "An individual has the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms.",
+          "labels": []
+        },
+        {
+          "id": "S150",
+          "section": "Dispute resolution process",
+          "text": "For additional information visit <https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction>.",
+          "labels": []
+        },
+        {
+          "id": "S151",
+          "section": "Government Enforcement",
+          "text": "GitHub is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).",
+          "labels": []
+        },
+        {
+          "id": "S152",
+          "section": "Government Enforcement",
+          "text": "Under Section 5 of the Federal Trade Commission Act (15 U.S.C.",
+          "labels": []
+        },
+        {
+          "id": "S153",
+          "section": "Government Enforcement",
+          "text": "§ 45), an organization's failure to abide by commitments to implement the DPF Principles may be challenged as deceptive by the FTC.",
+          "labels": []
+        },
+        {
+          "id": "S154",
+          "section": "Government Enforcement",
+          "text": "The FTC has the power to prohibit such misrepresentations through administrative orders or by seeking court orders.",
+          "labels": []
+        },
+        {
+          "id": "S155",
+          "section": "Security and Retention",
+          "text": "GitHub uses appropriate administrative, technical, and physical security controls to protect your Personal Data.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "Security and Retention",
+          "text": "We'll retain your Personal Data as long as your account is active and as needed to fulfill contractual obligations, comply with legal requirements, resolve disputes, and enforce agreements.",
+          "labels": []
+        },
+        {
+          "id": "S157",
+          "section": "Security and Retention",
+          "text": "The retention duration depends on the purpose of data collection and any legal obligations.",
+          "labels": []
+        },
+        {
+          "id": "S158",
+          "section": "Security",
+          "text": "GitHub uses administrative, technical, and physical security controls where appropriate to protect your Personal Data.",
+          "labels": []
+        },
+        {
+          "id": "S159",
+          "section": "Contact Us",
+          "text": "Contact us via our contact form or by emailing our Data Protection Officer at dpo[at]github[dot]com.",
+          "labels": []
+        },
+        {
+          "id": "S160",
+          "section": "Contact Us",
+          "text": "Our addresses are: GitHub B.V.",
+          "labels": []
+        },
+        {
+          "id": "S161",
+          "section": "Contact Us",
+          "text": "Prins Bernhardplein 200, Amsterdam 1097JB The Netherlands GitHub, Inc.",
+          "labels": []
+        },
+        {
+          "id": "S162",
+          "section": "Contact Us",
+          "text": "88 Colin P.",
+          "labels": []
+        },
+        {
+          "id": "S163",
+          "section": "Contact Us",
+          "text": "Kelly Jr.",
+          "labels": []
+        },
+        {
+          "id": "S164",
+          "section": "Contact Us",
+          "text": "St.",
+          "labels": []
+        },
+        {
+          "id": "S165",
+          "section": "Contact Us",
+          "text": "San Francisco, CA 94107 United States",
+          "labels": []
+        },
+        {
+          "id": "S166",
+          "section": "Information for Minors",
+          "text": "Our Services are not intended for individuals under the age of 13.",
+          "labels": []
+        },
+        {
+          "id": "S167",
+          "section": "Information for Minors",
+          "text": "We do not intentionally gather Personal Data from such individuals.",
+          "labels": []
+        },
+        {
+          "id": "S168",
+          "section": "Information for Minors",
+          "text": "If you become aware that a minor has provided us with Personal Data, please [notify us](https://support.github.com/contact/privacy).",
+          "labels": []
+        },
+        {
+          "id": "S169",
+          "section": "Changes to Our Privacy Statement",
+          "text": "GitHub may periodically revise this Privacy Statement.",
+          "labels": []
+        },
+        {
+          "id": "S170",
+          "section": "Changes to Our Privacy Statement",
+          "text": "If there are material changes to the statement, we will provide at least 30 days prior notice by updating our website or sending an email to your primary email address associated with your GitHub account.",
+          "labels": []
+        },
+        {
+          "id": "S171",
+          "section": "Translations",
+          "text": "Below are translations of this document into other languages.",
+          "labels": []
+        },
+        {
+          "id": "S172",
+          "section": "Translations",
+          "text": "In the event of any conflict, uncertainty, or apparent inconsistency between any of those versions and the English version, this English version is the controlling version.",
+          "labels": []
+        },
+        {
+          "id": "S173",
+          "section": "French",
+          "text": "Cliquez ici pour obtenir la version française: [Déclaration de confidentialité de GitHub (PDF)](/assets/images/help/site-policy/github-privacy-statement(07.22.20)(fr).pdf).",
+          "labels": []
+        },
+        {
+          "id": "S174",
+          "section": "Other translations",
+          "text": "For translations of this statement into other languages, please visit <https://docs.github.com/> and select a language from the drop-down menu under \"English.\"",
+          "labels": []
+        },
+        {
+          "id": "S175",
+          "section": "Cookies and tracking technologies",
+          "text": "GitHub uses cookies to provide, secure and improve our Service or to develop new features and functionality of our Service.",
+          "labels": []
+        },
+        {
+          "id": "S176",
+          "section": "Cookies and tracking technologies",
+          "text": "For example, we use them to (i) keep you logged in, (ii) remember your preferences, (iii) identify your device for security and fraud purposes, including as needed to maintain the integrity of our Service, (iv) compile statistical reports, and (v) provide information and insight for future development of GitHub.",
+          "labels": []
+        },
+        {
+          "id": "S177",
+          "section": "Cookies and tracking technologies",
+          "text": "We provide more information about [cookies on GitHub](/site-policy/privacy-policies/github-cookies) that describes the cookies we set, the needs we have for those cookies, and the expiration of such cookies.",
+          "labels": []
+        },
+        {
+          "id": "S178",
+          "section": "Cookies and tracking technologies",
+          "text": "For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gather information about enterprise users' interests and online activities to personalize their experiences, including by making the ads, content, recommendations, and marketing seen or received more relevant and (ii) serve and measure the effectiveness of targeted advertising and other marketing efforts.",
+          "labels": []
+        },
+        {
+          "id": "S179",
+          "section": "Cookies and tracking technologies",
+          "text": "If you disable the non-essential cookies on the Enterprise Marketing Pages, the ads, content, and marketing you see may be less relevant.",
+          "labels": []
+        },
+        {
+          "id": "S180",
+          "section": "Cookies and tracking technologies",
+          "text": "Our emails to users may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is.",
+          "labels": []
+        },
+        {
+          "id": "S181",
+          "section": "Cookies and tracking technologies",
+          "text": "We use this pixel tag to make our email communications more effective and to make sure we are not sending you unwanted email.",
+          "labels": []
+        },
+        {
+          "id": "S182",
+          "section": "Cookies and tracking technologies",
+          "text": "The length of time a cookie will stay on your browser or device depends on whether it is a \"persistent\" or \"session\" cookie.",
+          "labels": []
+        },
+        {
+          "id": "S183",
+          "section": "Cookies and tracking technologies",
+          "text": "Session cookies will only stay on your device until you stop browsing.",
+          "labels": []
+        },
+        {
+          "id": "S184",
+          "section": "Cookies and tracking technologies",
+          "text": "Persistent cookies stay until they expire or are deleted.",
+          "labels": []
+        },
+        {
+          "id": "S185",
+          "section": "Cookies and tracking technologies",
+          "text": "The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used.",
+          "labels": []
+        },
+        {
+          "id": "S186",
+          "section": "Cookies and tracking technologies",
+          "text": "You may be able to delete cookie data.",
+          "labels": []
+        },
+        {
+          "id": "S187",
+          "section": "Cookies and tracking technologies",
+          "text": "For more information, see GitHub General Privacy Statement — What are your cookie choices and controls.",
+          "labels": []
+        },
+        {
+          "id": "S188",
+          "section": "Cookies and tracking technologies",
+          "text": "#### What are cookies and similar technologies?",
+          "labels": []
+        },
+        {
+          "id": "S189",
+          "section": "Cookies and tracking technologies",
+          "text": "We use cookies and similar technologies, such as web beacons, local storage, and mobile analytics, to operate and provide our Services.",
+          "labels": []
+        },
+        {
+          "id": "S190",
+          "section": "Cookies and tracking technologies",
+          "text": "When visiting Enterprise Marketing Pages, like resources.github.com, these and additional cookies, like advertising IDs, may be used for sales and marketing purposes.",
+          "labels": []
+        },
+        {
+          "id": "S191",
+          "section": "Cookies and tracking technologies",
+          "text": "Cookies are small text files stored by your browser on your device.",
+          "labels": []
+        },
+        {
+          "id": "S192",
+          "section": "Cookies and tracking technologies",
+          "text": "A cookie can later be read when your browser connects to a web server in the same domain that placed the cookie.",
+          "labels": []
+        },
+        {
+          "id": "S193",
+          "section": "Cookies and tracking technologies",
+          "text": "The text in a cookie contains a string of numbers and letters that may uniquely identify your device and can contain other information as well.",
+          "labels": []
+        },
+        {
+          "id": "S194",
+          "section": "Cookies and tracking technologies",
+          "text": "This allows the web server to recognize your browser over time, each time it connects to that web server.",
+          "labels": []
+        },
+        {
+          "id": "S195",
+          "section": "Cookies and tracking technologies",
+          "text": "Web beacons are electronic images (also called \"single-pixel\" or \"clear GIFs\") that are contained within a website or email.",
+          "labels": []
+        },
+        {
+          "id": "S196",
+          "section": "Cookies and tracking technologies",
+          "text": "When your browser opens a webpage or email that contains a web beacon, it automatically connects to the web server that hosts the image (typically operated by a third party).",
+          "labels": []
+        },
+        {
+          "id": "S197",
+          "section": "Cookies and tracking technologies",
+          "text": "This allows that web server to log information about your device and to set and read its own cookies.",
+          "labels": []
+        },
+        {
+          "id": "S198",
+          "section": "Cookies and tracking technologies",
+          "text": "In the same way, third-party content on our websites (such as embedded videos, plug-ins, or ads) results in your browser connecting to the third-party web server that hosts that content.",
+          "labels": []
+        },
+        {
+          "id": "S199",
+          "section": "Cookies and tracking technologies",
+          "text": "Mobile identifiers for analytics can be accessed and used by apps on mobile devices in much the same way that websites access and use cookies.",
+          "labels": []
+        },
+        {
+          "id": "S200",
+          "section": "Cookies and tracking technologies",
+          "text": "When visiting Enterprise Marketing pages, like resources.github.com, on a mobile device these may allow us and our third-party analytics and advertising partners to collect data for sales and marketing purposes.",
+          "labels": []
+        },
+        {
+          "id": "S201",
+          "section": "Cookies and tracking technologies",
+          "text": "We may also use so-called \"flash cookies\" (also known as \"Local Shared Objects\" or \"LSOs\") to collect and store information about your use of our Services.",
+          "labels": []
+        },
+        {
+          "id": "S202",
+          "section": "Cookies and tracking technologies",
+          "text": "Flash cookies are commonly used for advertisements and videos.",
+          "labels": []
+        },
+        {
+          "id": "S203",
+          "section": "Cookies and tracking technologies",
+          "text": "#### How do we and our partners use cookies and similar technologies?",
+          "labels": []
+        },
+        {
+          "id": "S204",
+          "section": "Cookies and tracking technologies",
+          "text": "The GitHub Services use cookies and similar technologies for a variety of purposes, including to store your preferences and settings, enable you to sign-in, analyze how our Services perform, track your interaction with the Services, develop inferences, combat fraud, and fulfill other legitimate purposes.",
+          "labels": []
+        },
+        {
+          "id": "S205",
+          "section": "Cookies and tracking technologies",
+          "text": "Some of these cookies and technologies may be provided by third parties, including service providers and advertising partners.",
+          "labels": []
+        },
+        {
+          "id": "S206",
+          "section": "Cookies and tracking technologies",
+          "text": "For example, our analytics and advertising partners may use these technologies in our Services to collect personal information (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) related to your online activities over time and across Services for various purposes, including targeted advertising.",
+          "labels": []
+        },
+        {
+          "id": "S207",
+          "section": "Cookies and tracking technologies",
+          "text": "GitHub will place non-essential cookies on pages where we market products and services to enterprise customers, for example, on resources.github.com.",
+          "labels": []
+        },
+        {
+          "id": "S208",
+          "section": "Cookies and tracking technologies",
+          "text": "We and/or our partners also share the information we collect or infer with third parties for these purposes.",
+          "labels": []
+        },
+        {
+          "id": "S209",
+          "section": "Cookies and tracking technologies",
+          "text": "The table below provides additional information about how we use different types of cookies: | Purpose | Description | |:---|:---| | Required Cookies | GitHub uses required cookies to perform essential website functions and to provide the services.",
+          "labels": []
+        },
+        {
+          "id": "S210",
+          "section": "Cookies and tracking technologies",
+          "text": "For example, cookies are used to log you in, save your language preferences, provide a shopping cart experience, improve performance, route traffic between web servers, detect the size of your screen, determine page load times, improve user experience, and for audience measurement.",
+          "labels": []
+        },
+        {
+          "id": "S211",
+          "section": "Cookies and tracking technologies",
+          "text": "These cookies are necessary for our websites to work.",
+          "labels": []
+        },
+        {
+          "id": "S212",
+          "section": "Cookies and tracking technologies",
+          "text": "| | Analytics | We allow third parties to use analytics cookies to understand how you use our websites so we can make them better.",
+          "labels": []
+        },
+        {
+          "id": "S213",
+          "section": "Cookies and tracking technologies",
+          "text": "For example, cookies are used to gather information about the pages you visit and how many clicks you need to accomplish a task.",
+          "labels": []
+        },
+        {
+          "id": "S214",
+          "section": "Cookies and tracking technologies",
+          "text": "We also use some analytics cookies to provide personalized advertising.",
+          "labels": []
+        },
+        {
+          "id": "S215",
+          "section": "Cookies and tracking technologies",
+          "text": "| | Social Media | GitHub and third parties use social media cookies to show you ads and content based on your social media profiles and activity on GitHub's websites.",
+          "labels": []
+        },
+        {
+          "id": "S216",
+          "section": "Cookies and tracking technologies",
+          "text": "This ensures that the ads and content you see on our websites and on social media will better reflect your interests.",
+          "labels": []
+        },
+        {
+          "id": "S217",
+          "section": "Cookies and tracking technologies",
+          "text": "This also enables third parties to develop and improve their products, which they may use on websites that are not owned or operated by GitHub.",
+          "labels": []
+        },
+        {
+          "id": "S218",
+          "section": "Cookies and tracking technologies",
+          "text": "| | Advertising | In addition, GitHub and third parties use advertising cookies to show you new ads based on ads you've already seen.",
+          "labels": []
+        },
+        {
+          "id": "S219",
+          "section": "Cookies and tracking technologies",
+          "text": "Cookies also track which ads you click or purchases you make after clicking an ad.",
+          "labels": []
+        },
+        {
+          "id": "S220",
+          "section": "Cookies and tracking technologies",
+          "text": "This is done both for payment purposes and to show you ads that are more relevant to you.",
+          "labels": []
+        },
+        {
+          "id": "S221",
+          "section": "Cookies and tracking technologies",
+          "text": "For example, cookies are used to detect when you click an ad and to show you ads based on your social media interests and website browsing history.",
+          "labels": []
+        },
+        {
+          "id": "S222",
+          "section": "Cookies and tracking technologies",
+          "text": "| #### What are your cookie choices and controls?",
+          "labels": []
+        },
+        {
+          "id": "S223",
+          "section": "Cookies and tracking technologies",
+          "text": "You have several options to disable non-essential cookies: 1.",
+          "labels": []
+        },
+        {
+          "id": "S224",
+          "section": "Cookies and tracking technologies",
+          "text": "**Specifically on GitHub Enterprise Marketing Pages** Any GitHub page that serves non-essential cookies will have a link in the page's footer to cookie settings.",
+          "labels": []
+        },
+        {
+          "id": "S225",
+          "section": "Cookies and tracking technologies",
+          "text": "You can express your preferences at any time by clicking on that link and updating your settings.",
+          "labels": []
+        },
+        {
+          "id": "S226",
+          "section": "Cookies and tracking technologies",
+          "text": "Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies.",
+          "labels": []
+        },
+        {
+          "id": "S227",
+          "section": "Cookies and tracking technologies",
+          "text": "2.",
+          "labels": []
+        },
+        {
+          "id": "S228",
+          "section": "Cookies and tracking technologies",
+          "text": "**Generally for all websites** You can control the cookies you encounter on the web using a variety of widely-available tools.",
+          "labels": []
+        },
+        {
+          "id": "S229",
+          "section": "Cookies and tracking technologies",
+          "text": "For example: * If your browser sends a [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track) (DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies.",
+          "labels": []
+        },
+        {
+          "id": "S230",
+          "section": "Cookies and tracking technologies",
+          "text": "* Many browsers provide cookie controls which may limit the types of cookies you encounter online.",
+          "labels": []
+        },
+        {
+          "id": "S231",
+          "section": "Cookies and tracking technologies",
+          "text": "Check out the documentation for your browser to learn more.",
+          "labels": []
+        },
+        {
+          "id": "S232",
+          "section": "Cookies and tracking technologies",
+          "text": "* If you enable a browser extension designed to block tracking, such as [Privacy Badger](https://en.wikipedia.org/wiki/Privacy_Badger), non-essential cookies set by a website or third parties may be disabled.",
+          "labels": []
+        },
+        {
+          "id": "S233",
+          "section": "Cookies and tracking technologies",
+          "text": "* If you enable a browser extension designed to block unwanted content, such as [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin), non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.",
+          "labels": []
+        },
+        {
+          "id": "S234",
+          "section": "Cookies and tracking technologies",
+          "text": "* You may use the Global Privacy Control (GPC) to communicate your privacy preferences.",
+          "labels": []
+        },
+        {
+          "id": "S235",
+          "section": "Cookies and tracking technologies",
+          "text": "If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data).",
+          "labels": []
+        },
+        {
+          "id": "S236",
+          "section": "Cookies and tracking technologies",
+          "text": "To learn more, visit [Global Privacy Control — Take Control Of Your Privacy](https://globalprivacycontrol.org/) * Advertising controls.",
+          "labels": []
+        },
+        {
+          "id": "S237",
+          "section": "Cookies and tracking technologies",
+          "text": "Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at: * United States: [NAI](http://optout.networkadvertising.org) and [DAA](http://optout.aboutads.info/) * Canada: [Digital Advertising Alliance of Canada](https://youradchoices.ca/) * Europe: [European Digital Advertising Alliance](http://www.youronlinechoices.com/) These choices are specific to the browser you are using.",
+          "labels": []
+        },
+        {
+          "id": "S238",
+          "section": "Cookies and tracking technologies",
+          "text": "If you access our Services from other devices or browsers, take these actions from those systems to ensure your choices apply to the data collected when you use those systems.",
+          "labels": []
+        },
+        {
+          "id": "S239",
+          "section": "US State Specific Information",
+          "text": "This section provides extra information specifically for residents of certain US states that have distinct data privacy laws and regulations.",
+          "labels": []
+        },
+        {
+          "id": "S240",
+          "section": "US State Specific Information",
+          "text": "These laws may grant specific rights to residents of these states when the laws come into effect.",
+          "labels": []
+        },
+        {
+          "id": "S241",
+          "section": "US State Specific Information",
+          "text": "This section uses the term \"personal information\" as an equivalent to the term \"Personal Data.\"",
+          "labels": []
+        },
+        {
+          "id": "S242",
+          "section": "Privacy Rights",
+          "text": "These rights are common to the US State privacy laws: * Right to Knowledge and Correction: You have the right to request details on the specific personal information we've collected about you and the right to correct inaccurate information.",
+          "labels": []
+        },
+        {
+          "id": "S243",
+          "section": "Privacy Rights",
+          "text": "You can exercise this right by contacting us.",
+          "labels": []
+        },
+        {
+          "id": "S244",
+          "section": "Privacy Rights",
+          "text": "You can also access and edit basic account information in your settings.",
+          "labels": []
+        },
+        {
+          "id": "S245",
+          "section": "Privacy Rights",
+          "text": "* Right to Know Data Recipients: We share your information with service providers for legitimate business operations, such as data storage and hosting.",
+          "labels": []
+        },
+        {
+          "id": "S246",
+          "section": "Privacy Rights",
+          "text": "For more details, please see \"Sharing Your Information\" below.",
+          "labels": []
+        },
+        {
+          "id": "S247",
+          "section": "Privacy Rights",
+          "text": "* Right to request Deletion: You reserve the right to request the deletion of your data, barring a few exceptions.",
+          "labels": []
+        },
+        {
+          "id": "S248",
+          "section": "Privacy Rights",
+          "text": "Such exceptions include circumstances where we are required to retain data to comply with legal obligations, detect fraudulent activity, investigate reports of abuse or other violations of our Terms of Service, or rectify security issues.",
+          "labels": []
+        },
+        {
+          "id": "S249",
+          "section": "Privacy Rights",
+          "text": "Upon receiving your verified request, we will promptly delete your personal information (unless an exception applies), and instruct our service providers to do the same.",
+          "labels": []
+        },
+        {
+          "id": "S250",
+          "section": "Privacy Rights",
+          "text": "We employ brief retention terms by design.",
+          "labels": []
+        },
+        {
+          "id": "S251",
+          "section": "Privacy Rights",
+          "text": "* Right to a Timely Response: You are allowed to make two free requests in any 12-month period.",
+          "labels": []
+        },
+        {
+          "id": "S252",
+          "section": "Privacy Rights",
+          "text": "We commit to responding to your request within 45 days.",
+          "labels": []
+        },
+        {
+          "id": "S253",
+          "section": "Privacy Rights",
+          "text": "In complex cases, we may extend our response time by an additional 45 days.",
+          "labels": []
+        },
+        {
+          "id": "S254",
+          "section": "Privacy Rights",
+          "text": "* Non-Discrimination: We will not hold it against you when you exercise any of your rights.",
+          "labels": []
+        },
+        {
+          "id": "S255",
+          "section": "Privacy Rights",
+          "text": "On the contrary, we encourage you to review your privacy settings closely and contact us with any questions.",
+          "labels": []
+        },
+        {
+          "id": "S256",
+          "section": "Notice of Collection of Personal Information",
+          "text": "We may collect various categories of personal information about our website visitors and users of \"Services\" which includes GitHub applications, software, products, or services.",
+          "labels": []
+        },
+        {
+          "id": "S257",
+          "section": "Notice of Collection of Personal Information",
+          "text": "That information includes identifiers/contact information, demographic information, payment information, commercial information, internet or electronic network activity information, geolocation data, audio, electronic, visual, or similar information, and inferences drawn from such information.",
+          "labels": []
+        },
+        {
+          "id": "S258",
+          "section": "Notice of Collection of Personal Information",
+          "text": "We collect this information for various purposes.",
+          "labels": []
+        },
+        {
+          "id": "S259",
+          "section": "Notice of Collection of Personal Information",
+          "text": "This includes identifying accessibility gaps and offering targeted support, fostering diversity and representation, providing services, troubleshooting, conducting business operations such as billing and security, improving products and supporting research, communicating important information, ensuring personalized experiences, and promoting safety and security.",
+          "labels": []
+        },
+        {
+          "id": "S260",
+          "section": "Exercising your Privacy Rights",
+          "text": "To make an access, deletion, correction, or opt-out request, please send an email to privacy[at]github[dot]com and follow the instructions provided.",
+          "labels": []
+        },
+        {
+          "id": "S261",
+          "section": "Exercising your Privacy Rights",
+          "text": "We may need to verify your identity before processing your request.",
+          "labels": []
+        },
+        {
+          "id": "S262",
+          "section": "Exercising your Privacy Rights",
+          "text": "If you choose to use an authorized agent to submit a request on your behalf, please ensure they have your signed permission or power of attorney as required.",
+          "labels": []
+        },
+        {
+          "id": "S263",
+          "section": "Exercising your Privacy Rights",
+          "text": "To opt out of the sharing of your personal information, you can click on the \"Do Not Share My Personal Information\" link on the footer of our Websites or use the Global Privacy Control (\"GPC\") if available.",
+          "labels": []
+        },
+        {
+          "id": "S264",
+          "section": "Exercising your Privacy Rights",
+          "text": "Authorized agents can also submit opt-out requests on your behalf.",
+          "labels": []
+        },
+        {
+          "id": "S265",
+          "section": "California",
+          "text": "#### Mandatory Disclosures We also make the following disclosures for purposes of compliance with California privacy law: * We collected the following categories of personal information in the last 12 months: identifiers/contact information, demographic information (such as gender), payment card information associated with you, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above.",
+          "labels": []
+        },
+        {
+          "id": "S266",
+          "section": "California",
+          "text": "* The sources of personal information from whom we collected are: directly from you, automatically or from third parties.",
+          "labels": []
+        },
+        {
+          "id": "S267",
+          "section": "California",
+          "text": "* The business or commercial purposes of collecting personal information are as summarized above and in our Privacy Statement under Processing Purposes.",
+          "labels": []
+        },
+        {
+          "id": "S268",
+          "section": "California",
+          "text": "* We disclosed the following categories of personal information for a business purpose in the last 12 months: identifiers/contact information, demographic information (such as gender and rough geographic location), payment information, commercial information, Internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, and inferences drawn from the above.",
+          "labels": []
+        },
+        {
+          "id": "S269",
+          "section": "California",
+          "text": "We disclosed each category to third-party business partners and service providers, third-party sites or platforms such as social networking sites, and other third parties as described in the Sharing of Personal Data section of our Privacy Statement.",
+          "labels": []
+        },
+        {
+          "id": "S270",
+          "section": "California",
+          "text": "* As defined by applicable law, we \"shared\" the following categories of personal information in the last 12 months: identifiers/contact information, Internet or other electronic network activity information, and inferences drawn from the above.",
+          "labels": []
+        },
+        {
+          "id": "S271",
+          "section": "California",
+          "text": "We shared each category to or with advertising networks, data analytics providers, and social networks.",
+          "labels": []
+        },
+        {
+          "id": "S272",
+          "section": "California",
+          "text": "* The business or commercial purpose of sharing personal information is to assist us with marketing, advertising, and audience measurement.",
+          "labels": []
+        },
+        {
+          "id": "S273",
+          "section": "California",
+          "text": "* We do not \"sell\" or \"share\" the personal information of known minors under 16 years of age.",
+          "labels": []
+        },
+        {
+          "id": "S274",
+          "section": "California",
+          "text": "#### Shine the Light Act Under California Civil Code section 1798.83, also known as the \"Shine the Light\" law, California residents who have provided personal information to a business with which the individual has established a business relationship for personal, family, or household purposes (\"California Customers\") may request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes.",
+          "labels": []
+        },
+        {
+          "id": "S275",
+          "section": "California",
+          "text": "Please be aware that we do not disclose personal information to any third parties for their direct marketing purposes as defined by this law.",
+          "labels": []
+        },
+        {
+          "id": "S276",
+          "section": "California",
+          "text": "California Customers may request further information about our compliance with this law by emailing (privacy[at]github[dot]com).",
+          "labels": []
+        },
+        {
+          "id": "S277",
+          "section": "California",
+          "text": "Please note that businesses are required to respond to one request per California Customer each year and may not be required to respond to requests made by means other than through the designated email address.",
+          "labels": []
+        },
+        {
+          "id": "S278",
+          "section": "California",
+          "text": "#### Removal of Content California residents under the age of 18 who are registered users of online sites, services, or applications have a right under California Business and Professions Code Section 22581 to remove, or request and obtain removal of, content or information they have publicly posted.",
+          "labels": []
+        },
+        {
+          "id": "S279",
+          "section": "California",
+          "text": "To remove content or information you have publicly posted, please submit a [Private Information Removal request](https://support.github.com/contact/private-information).",
+          "labels": []
+        },
+        {
+          "id": "S280",
+          "section": "California",
+          "text": "Alternatively, to request that we remove such content or information, please send a detailed description of the specific content or information you wish to have removed to [GitHub support](https://support.github.com/request).",
+          "labels": []
+        },
+        {
+          "id": "S281",
+          "section": "California",
+          "text": "Please be aware that your request does not guarantee complete or comprehensive removal of content or information posted online and that the law may not permit or require removal in certain circumstances.",
+          "labels": []
+        },
+        {
+          "id": "S282",
+          "section": "California",
+          "text": "If you have any questions about our privacy practices with respect to California residents, please send an email to privacy[at]github[dot]com.",
+          "labels": []
+        },
+        {
+          "id": "S283",
+          "section": "California",
+          "text": "We value the trust you place in us and are committed to handling your personal information with care and respect.",
+          "labels": []
+        },
+        {
+          "id": "S284",
+          "section": "California",
+          "text": "If you have any questions or concerns about our privacy practices, please email our Data Protection Officer at dpo[at]github[dot]com.",
+          "labels": []
+        },
+        {
+          "id": "S285",
+          "section": "Colorado/Connecticut/Virginia",
+          "text": "If you live in Colorado, Connecticut, or Virginia you have some additional rights: * If we deny your rights request, you have the right to appeal that decision.",
+          "labels": []
+        },
+        {
+          "id": "S286",
+          "section": "Colorado/Connecticut/Virginia",
+          "text": "We will provide you with the necessary information to submit an appeal at that time.",
+          "labels": []
+        },
+        {
+          "id": "S287",
+          "section": "Colorado/Connecticut/Virginia",
+          "text": "* You have the right to opt out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer.",
+          "labels": []
+        },
+        {
+          "id": "S288",
+          "section": "Colorado/Connecticut/Virginia",
+          "text": "GitHub does not engage in such profiling as defined by Colorado law, so there's no need to opt out.",
+          "labels": []
+        },
+        {
+          "id": "S289",
+          "section": "Nevada",
+          "text": "We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes.",
+          "labels": []
+        },
+        {
+          "id": "S290",
+          "section": "Nevada",
+          "text": "If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,2239 @@
+{
+  "policy_id": "brave-leo",
+  "source_url": "https://brave.com/privacy/browser/?ref=news.itsfoss.com",
+  "annotator": "TEMPLATE",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Browser Privacy Policy | Brave\n\nOur company does not collect or retain a user’s browsing history. Some features require us to process information like your IP address, in order to function. And sometimes, you may choose to provide us with personal data. Below we list the features that may process personal information related to you, who receives this information, and how long this information is retained.\n\nRead this document to understand how the Brave Browser and Brave’s services use data.\n\n## Other Brave privacy notices\n\n- Brave Search Privacy Notice\n- Brave Websites, Forums, and Email Privacy Notice\n- Brave Rewards Advertiser Privacy Notice\n- Brave Publishers and Creators Privacy Notice\n- How to Exercise Your Right to Be Forgotten (RTBF) in Brave Search\n\nIn this notice “we”, “us”, etc. refers to Brave Software Inc, while “Brave” refers to the browser.\n\n## Security & updates\n\nBrave automatically checks for updates. This ensures that you always have access to the latest security fixes. We count the number and type of these requests when we receive them to produce aggregate statistics. No particular person’s information can be identified in the statistics we produce.\n\nYou can also update to the latest version here.\n\n## Brave Browser features\n\n### Safe Browsing\n\nThe Brave Browser automatically uses Google Safe Browsing to help protect you against websites, downloads and extensions that are known to be unsafe (such as sites that are fraudulent or that host malware). This service relies on storing URL hashes locally on your device. When a potentially unsafe site is visited, Google receives a partial URL hash of the site. This is necessary in order for Safe Browsing to work. The actual website address is never shared with the service provider.\n\nOn desktop, we proxy this service in order to prevent your IP address from being shared with Google.\n\nOn Android, we rely on the Safe Browsing functionality built into the operating system. Any requests to Google servers made by this component (by the Brave app or by another app) will expose your device IP address to Google.\n\nOn iOS, we use the Safe Browsing functionality provided by Safari. This functionality uses Google and Tencent Safe Browsing services depending on your region. Apple proxies requests to these services, exposing your device IP address to Apple.\n\nLearn how to change your Safe Browsing settings.\n\n### Sync\n\nIf you enable Sync, your bookmarks, passwords and other data will be saved in an encrypted file on our cloud hosting provider (AWS). Only you have access to the decryption key, which is stored on your devices. This means it’s impossible for us to recover synced files if you lose access to your device or keys. Learn how to switch on Sync here.\n\nNote: Unused Sync chains expire after 12 months and the associated server data may be permanently deleted after that time.\n\n### Location\n\nIf you use Brave to visit a website that tracks user location, you may be asked whether you want the website to know where you are located. If you grant permission, the website will be sent an approximation of where you are located based on your IP address and information your operating system may provide, for example, the names of nearby WiFi access points. The website may store your location. Your location is not sent to us in this process.\n\nSee data processing details.\n\n### Brave Translate\n\nBrave browser includes a built-in translation feature for use in the desktop and Android browsers.\n\nWe use third party translation software (Lingvanex) hosted on our infrastructure to provide in-page translation. Brave does not collect the content of webpages being translated, and any text submitted to our translation server is deleted once it’s translated. We also remove IP address information associated with your requests. We do this to protect your privacy. More details on Brave Translate can be found here.\n\n### Brave News\n\nBrave News is a private, content news reader integrated into the Brave browser.\n\nThe default content for Brave News is selected using Brave Search. You can at any time change the default content settings and choose what content you want appearing in your feed. You can also add feeds manually by subscribing directly to publishers’ content using publicly available RSS feeds.\n\nTo protect your privacy, Brave employs a combination of methods for delivering content that ensure your browser cannot be identified or tracked by Brave or any third party. Headlines are made available on a public CDN in text files, the same file for all users for each region. Some images from publishers and images in the Brave News user interface are processed to improve performance and ensure they display correctly in the Brave News user experience. Processed images are all delivered through a private and encrypted proxy method. The proxy removes and does not retain IP addresses before passing the encrypted request to the private content server, which then sends the encrypted reply back to the browser via the proxy. All other publisher images are collected directly from the publishers from your device. When you add RSS feeds manually, the text and images are collected directly from the publisher of the RSS feed and included in Brave News on the client. The feed of text and images from Brave and from your RSS feeds is temporarily stored on your device, and it is replaced upon starting or refreshing your Brave News session.\n\nBrave News will offer suggestions of sources you might like to follow. If you choose to follow a suggested source it will be added to your Following list; you can always unfollow a source via the Settings panel. The suggestions and your choices are determined on your browser and never leave your device. Your Brave News sessions are not logged or saved by Brave.\n\nThis information is private to you and only you.\n\nBrave’s Suggestions service is open source and available to view via GitHub.\n\n**Please note**: The RSS feed content you add is collected directly from the feed source and not proxied by Brave. The Brave browser fetches it without ever hitting Brave servers, and Brave never knows anything about your chosen RSS feeds.\n\nIt’s your choice. You can add, follow, unfollow, or hide content sources any time.\n\n### Brave Email Aliases\n\nBrave Email Aliases allows you to sign up for services without revealing your real email address, by generating unique addresses that forward to your primary email inbox.\n\nOnce you sign up for Email Aliases, we will store the primary email address associated with your Brave Account and any email aliases that you generate. Brave does not read the contents of these emails, except to perform standard spam and virus filtering. In case of temporary email delivery failures (e.g., if your primary mailbox is full), we will periodically try to resend the email for up to 24 hours, before deleting the message. We will never reveal emails or aliases associated with your Brave Account unless obligated to do so by a valid legal request. Any notes you create for aliases are stored locally on your device, unless you use Brave Sync, in which case they’re encrypted end-to-end between devices on the same Sync chain. Only you can decrypt or read these notes. Learn more about how Brave Sync protects your privacy here.\n\nBrave uses Amazon Web Services (AWS) for Email Aliases. All messages are encrypted-at-rest.\n\nFor metrics and debugging, we collect limited data and log events that are deleted within 14 days. We do not log the content of the email, and we do not log sender information.\n\nLearn more about Brave Email Aliases and how it works here.\n\n## Brave Rewards\n\nIf you enable Brave Rewards, we assign your Brave browser a “Rewards Payment ID”, which is used to account for Basic Attention Token (BAT) rewards you may earn for seeing Brave Private Ads. We will also ask you to select your country, which we will use to assign a country code to your Rewards Payment ID. The country code helps us ensure Ads are displayed to individuals depending on their country. We will also use the country code to help us prevent fraud. You can find your Rewards Payment ID by navigating to brave://rewards-internals.\n\nEven with Brave Rewards enabled and a Rewards Payment ID assigned, we never collect your browsing history or similar information, and we can’t derive this information from your contributions to content creators or sites. We also cannot tell which specific Brave Private Ads you’ve seen or interacted with.\n\nNote that we record the identifiers mentioned herein on servers located in the United States. We take a range of technical and organisational measures to safeguard personal data.\n\n### Connecting a custodial account\n\nWhen you choose to connect a custodial account to Brave Rewards using one of our custodial partners such as Uphold, Gemini, bitFlyer (Japan only), or ZebPay (India only), three things become associated with your Rewards Payment ID: a custodian ID, deposit address(es), and a country code. All three are assigned by the custodial partner. The deposit address allows us to make deposits to your custodial account, while the country code helps us prevent fraud and limit service to users in countries where Brave Rewards is supported. In addition, we also use IP addresses and Rewards Payment IDs associated with monthly BAT payments to safeguard against fraud. See the Brave Rewards data processing table\n\nWhen you make an on-demand contribution to Brave Creators using BAT from your linked custodial account(s), the custodian can see and record the details of your contribution transactions (such as, but not limited to, the amount and the recipient). This is subject to the privacy policies of Uphold, Gemini, bitFlyer, or ZebPay. However, when using the Auto-Contribute feature to support Brave creators with BAT from your custodial account, neither Brave nor your custodian can tell which specific creators you’re contributing to.\n\n### Connecting a self-custody account\n\nWhen you choose to connect a self-custody account/address (such as a Solana address), your Rewards Payment ID will be associated with your self-custody address. See the Brave Rewards data processing table for details of what data we process and why and for how long.\n\n*Cookies:* As part of the process to connect your Solana address to your Rewards Payment ID, a temporary, security-related cookie will be set in your browser for one of our Rewards-related service domains. The purpose of this cookie is to protect you against cross-site forgery attacks during the connection process. The moment the cookie is done playing its role in the connection process, the cookie is immediately cleared from your browser.\n\n## Brave Ads\n\nLike most websites, we show ads to support our mission of building an independent, user-first internet. Brave Ads work by matching relevant advertisements to you, inside the Brave Browser. In other words, your personal data never leaves your device.\n\nWhen you view an ad (either via a popup notification, new tab ad, or as part of in-browser sponsored content via the offer wall), you may receive BAT as a reward, provided that you have the Brave Rewards feature enabled and a payout account connected. However, you may see Brave Ads even if you do not have Brave Rewards enabled.\n\nIf you interact with an ad on Brave Search, Brave Browser may temporarily store some data on your device to measure the performance of this specific ad. Learn more about Brave’s Search ads conversion reporting and how to disable it.\n\nYou can control which types of Brave Ads formats you see. For example, you can opt out of Brave Ads on the New Tab Page by visiting `Settings > New Tab > Customize the background image` and disabling them. Ads displayed within search results from Brave Search can be opted out of via enabling “Aggressively block trackers and ads” in Brave Shields. Please consider paying for Brave Search Premium instead for an ad-free search experience. If you have Brave Rewards enabled, you can also control which Brave Ads formats you see by navigating to Ads Settings in the Brave Rewards interface.\n\nFor advertisers, please see: Brave Rewards Advertiser Privacy Notice. For publishers and creators, please see: Brave Publishers and Creators Privacy Notice.\n\n### Brave Ads privacy protections\n\n- Brave does not have access to your information, your browsing history, or any details that can be used to identify or profile you. This is by design.\n\n- We measure ad performance by receiving anonymized events for ads that you (and other users) have interacted with. In short, we cannot tell which specific Brave Ads you’ve seen or interacted with. No data that identifies you or that can be linked to you leaves your device.\n\n## Brave Wallet\n\nThe Brave Wallet is a secure crypto wallet built directly into the Brave browser. You can buy, send, store, and swap thousands of assets (and NFTs) seamlessly on 100+ blockchain networks including Ethereum, Solana, Filecoin, and more. You can learn more about ‘crypto wallets’ and the Brave Wallet here.\n\nBrave Wallet relies on third party service providers to help us read and write transactional data from various blockchains including Bitcoin, Ethereum, Solana, and others on a user’s behalf. To do this we typically need to pass wallet address(s) or transactional data to these service providers in order to help users interact with the blockchain. In certain circumstances, such as when a service is used by default, Brave proxies requests to prevent data from being connected to your IP address. By enabling Brave Wallet, you consent to relying on these services to interact with the Blockchain when necessary.\n\nWhen you make a transaction using a third-party that redirects you to their services, such as an on-ramp partner, they will capture your IP address, wallet address, transaction and event data. With on-ramp services, you’ll be linked to a third-party site which may conduct identity verification checks in order to meet obligations they have under sanctions and anti-money laundering laws. You should review the privacy notices and terms of service of those third parties.\n\nWe use Decentralised Exchange Aggregators (DEX) such as 0x for swaps made on EVM compatible blockchains and Jupiter for swaps completed on the Solana blockchain. They will also process your wallet address, related transaction data and your IP address but will ONLY use this data to fulfill the transaction (including getting a quote).\n\n### Sanctions compliance\n\nCryptocurrency addresses that are listed on the OFAC’s Specially Designated Nationals List (SDN list) are ineligible to participate in Brave services, including Brave Wallet. To meet our legal obligations, Brave compares cryptographic addresses to a copy of the SDN list built-in to the browser. Brave Wallet will not allow for transfers to any sanctioned addresses. We may also need to perform periodic lookbacks of past transactions to meet compliance obligations. We use a third-party provider (Inca.Digital) to perform this service on our behalf.\n\n### Brave Wallet privacy protections\n\n- Brave does not track actions that you make in your wallet.\n\n- Brave proxies and strips the IP address associated with access to the Brave Wallet.\n\n- Brave does not log transaction data.\n\n- We use anonymized and aggregated statistics collected from on-ramp partners which include regional volumes of transactions, the daily number of transactions by token/chain, daily currency volumes of transactions by token/chain, and monthly unique transactions by token/chain. We use this statistical data to understand at a high level which cryptocurrency assets are being used and on which platforms.\n\n## Brave premium services\n\n### Brave Talk\n\nBrave Talk is a private video and/or audio conference tool. What you say or type in the service is not logged or saved. Who you talk to, when, and how, is private to you. See data processing details.\n\nPlease note that Brave uses the 8x8 communications platform, and software (API) capabilities of 8x8 (based on the Jitsi Open Source video conferencing software) to help deliver Brave Talk. 8x8 provides a service on behalf of Brave, and we remain responsible for Brave Talk.\n\nBrave Talk is Internet-only; it does not support participation via telephony.\n\n#### What information does Brave Talk process?\n\nWe process the minimum information necessary to provide the Brave Talk service. This includes:\n\n- Your IP address and the URL of the meeting that will be processed in order to enable calls. This data is not retained after a call ends.\n\n- If you use the chat function, chats will be temporarily cached for the duration of the meeting; they are not retained after a call ends.\n\n- If you record a meeting that you host, the recording will be temporarily stored on the server for 24 hours to allow you to download it.\n\n  Your profile name that you choose to display will be processed and available during the meeting.\n\nWhile communications are encrypted between the Brave browser and Brave Talk servers via transport layer encryption, they are not encrypted on the server during a call, unless you enable Video Bridge Encryption (VBE). Additional security options are available to you in the settings menu once you initiate a call. These include:\n\n- **Enable Lobby**: This lets you protect your meeting by only allowing people to enter after being approved by a moderator.\n\n- **Add a passcode**: This lets you restrict access to the meeting to people who have been provided the code.\n\n- **Enable Video Bridge Encryption (VBE)**: This is currently experimental. If you enable VBE, it will disable server side services such as recording and livestreaming. Note that if you enable VBE but other participants do not, they won’t be able to see or hear you.\n\nPlease note that if you upgrade to the Brave Talk Premium plan, Brave will require an email address to initially create a premium account, and subsequently to manage your access to the account using anonymous credentials. We use the third-party payment provider Stripe to process payments for premium subscriptions. Stripe will process your email address, name, and payment card data for the purpose of managing your subscription payments only. Brave does not receive nor have access to your payment method details supplied to Stripe, and we cannot associate an account email address or payment details with your communications on Brave Talk.\n\n**To avoid scams:** For the avoidance of phishing attacks, note that we at Brave will never contact Brave Browser users in a Brave Talk call.\n\nWe do not authenticate users or their associated avatar images. Accordingly, you should never share any confidential information with anyone on Brave Talk unless you are certain that you know who you are talking to. (Of course, this is a good practice regardless of whether you are using Brave Talk, or email, or any other form of communication.)\n\n### Brave Firewall + VPN\n\nYou can subscribe to Brave Firewall + VPN in two ways: via account.brave.com, or via the applicable app store for your mobile device (iOS App Store or Google Play Store). Brave Firewall + VPN is powered by Guardian, and Guardian also provides technical support for Brave’s Firewall + VPN service. To learn more about what information we use for subscriptions—and why—see our data processing details.\n\n### Brave Leo\n\nBrave Leo AI is our privacy-first AI-powered assistant integrated into the browser. Leo offers multiple capabilities including chat, webpage summaries, tab management, writing assistance, and more. Leo is free to use with limited access. If you sign up for Leo Premium, you will have access to more models, higher usage limits, and early access to new features.\n\n#### What information does Brave Leo process?\n\nWhen you use Leo, Brave shares with Leo’s backend server the following information in order to complete your request:\n\n- **For general chat queries**: your prompt and conversation context. In some cases, Leo will send queries derived from your input to Brave Search and use the search results to better answer your question.\n\n- **For web page summaries and suggested questions**: the prompt and content of the page or pages you’re viewing, including any text you have highlighted on the page.\n\n- **For tab management & history modes**: For tab management, the titles and URLs of your open non-Private/non-Tor tabs. Tab history mode also includes the titles, URLs and text passages for matching results in your tab history.\n\n- **Feedback**: If you submit feedback on Leo’s responses, our servers will receive some information. See Brave Leo feedback for more details.\n\n- **Privacy-preserving query analytics**: To better understand the types of queries Leo AI is used for, we use STAR and Nebula to learn aggregated insights without leaking individual behavior. In addition, we only extract non-identifying metadata, such as the broad category of a user query, the language the query is written in, and the AI model used. For example, Brave may learn that a certain percentage of users engage Leo AI for creative writing, but not which users or even what they wrote.\n\n- **AI browsing (experimental)**: AI browsing gives your browser autonomous capabilities where it can perform tasks on your behalf. AI browsing operates in an isolated browser profile, uses alignment checking to verify intended actions and maintains Brave’s commitment to not logging or retaining your data. Learn more here.\n\nSee data processing details.\n\n#### Brave Leo privacy protections\n\nBrave Leo includes multiple privacy protections:\n\n- We do not collect identifiers that can be linked to you (such as IP address).\n\n- We don’t store or retain prompts, responses, context, or personal data on our servers. We may cache large prompts to improve performance but these are deleted within minutes. We do not use your conversations for model training.\n\n- Conversation history is stored locally on your device and (if you enable it) securely included in Sync. You can disable conversation history entirely or delete individual conversations by going to **brave://settings/leo-ai**. If you clear your browsing history, any associated page content in your past conversations will also be removed. Conversations in Private Windows or Private Windows with Tor are never saved to history.\n\n- Users do not need to create a Brave Premium account to use the free version of Leo.\n\n- If you sign up for Leo Premium, you’re issued unlinkable tokens that validate your subscription when using Premium services. Brave has no way of connecting your purchase details with your usage of Leo Premium.\n\n### Brave Search Premium\n\nBrave Search Premium is a paid version of the core Brave Search experience. It gives users a chance to support Brave’s mission of offering independent, unbiased search. Brave Search is designed to be private by default. We don’t collect personal information about you, your device, or your searches. We also don’t transmit information to the web that could be used to profile you or track you or learn anything about you.\n\nFor more information, see the Brave Search Privacy Notice.\n\n## How we improve Brave\n\n### Diagnostic reports\n\nWhen Brave crashes or freezes, it creates a report that can be sent to us to help us diagnose and fix whatever caused the problem. This report contains technical information about your computer system and the event causing the problem. The data can’t be used to identify you.\n\nWe use a service called Backtrace.io to store the reports. You can choose whether to send us these reports. Even if you have chosen to send reports in the past, you can turn off future reports in settings.\n\n### Privacy Preserving Product Analytics\n\nThe Browser sends us anonymous reports to alert us to product problems and necessary improvements. None of the information it reports can be used to identify you. The report only describes general use of the Browser or other Brave products, such as a general range of how many extensions are installed, a general range of how many tabs are open, and whether features like Shields, Rewards, and Ads are switched on. See the full list of questions here. These reports are stripped of metadata, and aggregated with measurements reported by many other instances of Brave. The data are not personal, and cannot be combined to identify you. You can deactivate Privacy-Preserving Product Analytics in Settings.\n\n### Web Discovery Project\n\nThe Web Discovery Project is intended to make Brave Search more relevant and useful for everyone. If you opt in, you’ll contribute some anonymous data about searches and web page visits made within the Brave Browser (including pages arrived at via some, but not all, other search engines). This data helps build the Brave Search independent index, and ensure we show relevant results to your search queries and support more relevant experiences with Brave products and services.\n\nCollection is done in a privacy-preserving fashion. The Web Discovery Project records the terms you search for on some search engines if that search query passes a series of checks, intended to avoid recording or sending sensitive queries. For example, WDP will not send search queries that are very long, or that include email addresses or long numbers.\n\nWDP also records some of the pages you visit, if the URLs pass a series of checks designed to filter out unique or identifying URLs. For example, URLs that are too long or include certain terms or long numbers are never sent. Additionally, WDP protects the URLs you send by encrypting them in a manner that prevents Brave from seeing or reading the URL unless it has been sent by a large number of other users.\n\nThe system is designed so that no data received can be linked back to individuals or their devices. For a URL to be sent it needs to be visited independently by a large number of people. All data received is unlinkable, making it impossible to build profiles or sessions of Web Discovery Project contributors.\n\nRead a full description of the Web Discovery Project methodology.\n\n### Your feedback\n\nWe collect feedback solely for the purpose of improving our products and services, enhancing your browsing experience, answering your questions, and resolving compatibility issues. Depending on the context, this may include personal information you provide to us directly, such as your name, email address, contact information, or contents of the feedback. In some cases, we may also indirectly receive your IP address (for example, if you communicate on the Brave or BAT community forums). For more information on how we handle your personal data related to feedback and communications (including the Community Forums), please see our Brave Websites, Forums, and Email Privacy Notice.\n\n### Web compatibility reports\n\nIf you submit a Web compatibility report, you’ll have the option to include certain details to help us analyze and address compatibility issues. Providing this information is voluntary, and any data you submit will be deleted from Brave’s servers after 30 days. See our Web compatibility reports wiki page for more details on what data is collected.\n\n### Brave Leo feedback\n\nYou can voluntarily submit feedback on Leo’s responses (Brave’s privacy-first, AI-powered assistant) by clicking the thumbs-up or thumbs-down icons. This sends the rating, full text of the current conversation, language, selected AI model, version, and Premium subscription status (if any). You also have the option to include additional details and the current website to assist us in improving Leo’s responses. All submitted data will be deleted from Brave’s servers after 1 year.\n\n### Nightly, dev, and beta browser versions\n\nNightly, Dev, and Beta versions of the Brave Browser are experimental previews of new Brave Browser versions. They allow us to test new features so that we can find and fix errors before releasing a new version of the Brave Browser. These test versions of the Browser may automatically send crash reports to Brave so that we can identify and fix problems. A crash report can contain personal information. See data processing details.\n\n**How to switch this feature off.** You can switch off “Automatically send usage statistics and crash reports to Brave Software” in settings.\n\n> **Tip:** you can quickly access settings by copying ***brave://settings*** into your address bar.\n\nThese incomplete versions of Brave represent unfinished and untested work on future versions of Brave, and their incomplete behaviour may not be adequately described by this policy. More information about the safety & reliability of pre-release versions of Brave can be found in our development documentation.\n\n### Location\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To estimate the user’s physical location at the request of a website and with the confirmation of the user. | IP address, and information about nearby WiFi access points (MAC address, signal strength, and SSID). | Legitimate interest. | No storage. |\n\n### Brave Rewards\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To make and verify Basic Attention Token contributions, (including to detect and prevent fraud). | IP address at time of claiming a grant of BAT tokens or requesting confirmation tokens. | Necessary for the performance of a contract between us and necessary to provide the requested service.<br>Processing for the purposes of fraud prevention is based on the legitimate interests of Brave and users of Brave Rewards. | Generally stored for 7 days. In cases of suspected fraud, stored for up to 60 days. In case of confirmed fraud, stored for up to 2 years. |\n\n| To make and verify Basic Attention Token contributions, (including to detect and prevent fraud). | Rewards Payment ID, declared country code and Custodian ID and custodial country code when verifying a Brave Rewards wallet with a custodial partner. | Necessary for the performance of a contract between us, (and necessary to provide the requested service & to provide customer support).<br>Processing for the purposes of fraud prevention is based on the legitimate interests of Brave and users of Brave Rewards. | The duration of the user’s account, plus 4 years in order to comply with US Internal Revenue Service requirements. |\n\n| To make and verify Basic Attention Token contributions to a Solana address, (including to detect and prevent fraud). | Rewards Payment ID and associated Solana address | Necessary for the performance of a contract between us and necessary to provide the requested service.<br>Processing for the purposes of fraud prevention is based on the legitimate interests of Brave and users of Brave Rewards.<br>Compliance with legal obligations | The duration of the user’s account, plus 4 years in order to comply with US Internal Revenue Service requirements. |\n\n### Brave News\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To collect content from the server in order to display it for the user. | IP addresses. | Legitimate interest. The data are used in order to deliver the service, and the risk of the processing of the data is minimal. | The duration of the request and response |\n\n### Brave Talk\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To facilitate communications via Brave Talk. | IP address, meeting URL, chat content, audio and video, recordings/transcripts of meetings. | Legitimate interest. The processing is necessary to provide the requested service. | Duration of the call, except for recordings/transcripts of meetings that are temporarily stored for 24 hours. |\n\n| To create a Brave Premium account and manage account access. | Email address | Legitimate interest.<br>The data is necessary to establish an account and manage account access. | Until an account is deleted. |\n\n### Brave Firewall + VPN\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To send an alert to the user when a firewall rule is triggered. | Pseudonymous user ID, details of the blocked tracker/firewall rule triggered. | Necessary for the performance of the contract (to deliver the service). | 3 days. |\n\n| To create private connections. | IP Address. | Necessary for the performance of the contract (to deliver the service). | None. IP addresses are not logged. |\n\n| To provide customer support. | Email address and other personal data that a user may choose to share when requesting technical support from Guardian. | Necessary for the performance of the contract (to deliver the service). | 12 Months after closing a support ticket. |\n\n### Brave Leo\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| Handling user-generated chat queries. | Query, conversation context. | Necessary for the performance of a contract between us to provide the requested service. | Ephemeral - discarded soon after chat is completed. If local storage is enabled, chat history will be stored locally on your device. |\n\n| Summarizing/suggesting questions for websites, documents, or other uploaded content. | Query, website/document contents (which may contain personal data). | Necessary for the performance of a contract between us to provide the requested service. | Ephemeral - discarded soon after chat is completed. If local storage is enabled, chat history will be stored locally on your device. |\n\n| User-submitted feedback on Brave Leo. | Full text of conversation/query, additional details if provided by user. | User consent, legitimate interests (product improvements) | 1 year |\n\n| AI browsing. | Query, conversation context. | Necessary for the performance of a contract between us to provide the requested service. Triggered by user. | Ephemeral - discarded soon after chat is completed. If local storage is enabled, chat history will be stored locally on your device in isolated profile. |\n\n### Brave IPFS Public Gateway\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To allow access to IPFS content when the user cannot access it via a local IPFS node | IP address | Legitimate interest. The user requested the service, and the risk of the processing of the data is minimal. | Indefinite. (Protocol Labs) |\n\n### Your feedback\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To use feedback sent by users to improve the product. | Personal data that a user may include in the text they write when sending feedback through an app store or any other means. | Legitimate interest. The user intends for the data to be used for this purpose, and the risk of the processing of the data is minimal. | 2 years. |\n\n### Browser testing and research (Nightly, Dev, and Beta versions only)\n\n| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage |\n\n| --- | --- | --- | --- |\n\n| To fix problems in the Brave Browser by acting on issues highlighted by crash reports from Beta and Dev versions of the Browser | Device model, iOS version, language, timezone, CPU architecture, carrier, connection status. Optional: Crash log (crash logs will also be sent if you opted-in when activating iOS) Optional: Comments and screenshots you share if you send feedback through TestFlight. | Our interest in testing the product and fixing problems. The data are used in a way that does not negatively affect your rights or interests. | Apple retains the data for one year. Brave may retain some crash reports indefinitely, if useful for testing. |\n\n### Help with privacy settings in Brave\n\nYou can find guides on how to change privacy settings in Brave in the Help Center.\n\nTo contact our data protection officer and privacy team with privacy related enquiries, or to exercise your data protection and privacy rights, email privacy@brave.com.\n\nIt’s Brave’s policy to not collect personal data1 unless it’s necessary to provide services to our users, or to meet certain legal obligations. We do not buy, sell, or share personal data about consumers.\n\nWhere we process personal data about you (subject to laws such as the EU General Data Protection Regulation (GDPR), or California privacy laws such as the CCPA or CPRA), you have the following rights:\n\n- **Right to be informed**: You have the right to know what personal data we process about you and why, together with information about your rights. We explain this via our product privacy policies and/or contextual privacy notices.\n\n- **Right of access**: Where we process personal data about you, you have the right to request a copy of it.\n\n- **Right to erasure / right to be forgotten**: In some cases, you have the right to ask us to erase data we have about you, or to de-list search results that contain information about you. This is commonly known as the ‘right to be forgotten’ (RTBF). The Erasure and RTBF are not absolute rights, and some conditions apply. As a search engine, we cannot remove the original source of the data, only our search link(s) to it. You can find additional details (including information on how to make a RTBF request or to update our search results, and the criteria we use to assess those requests here).\n\n- **Right to rectification**: You can ask us to correct inaccurate personal data and/or to update incomplete data.\n\n- **Right to restriction**: In certain circumstances, you can request that we refrain from processing your personal data.\n\n- **Right to object**: In certain circumstances, you can object to the processing of your personal data (for example to object to the use of your data for profiling and/or purely automated decision making). Please note that we do not buy, sell, or share personal data about consumers.\n\n- **Right to data portability**: In certain circumstances you have the right to request and receive personal data in a structured, commonly used, machine readable format that makes it possible to reuse the data. Please note, anonymous data is not subject to this right.\n\n- **Right to lodge a complaint with a regulatory authority**: Brave is based in the USA. The authority to lodge a complaint about Brave will depend on where you live. If you’re in the EU you can contact our nominated representative under the General Data Protection Regulation (GDPR), or you can complain to the Irish Data Protection Commissioner. If you’re in the UK you can complain to the Information Commissioner’s Office. If you’re in California you can complain to the California Privacy Protection Agency.\n\nFor EU residents, we have appointed a nominated representative under the GDPR to act on our behalf regarding GDPR compliance. You may contact our nominated representative if you wish; however, the representative will refer enquiries to Brave’s data protection officer for consideration.\n\nOur EU nominated representative is: Brave EU Nominated Representative\n\nCare of Castlebridge, The Exchange Wexford, Whitemill Industrial Estate, Wexford, Y35 NPP0, Ireland, brave@gdprnomrep.eu\n\nWe’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know. We hope you’ll find any changes agreeable, but if you’re not comfortable with changes to the info we collect or how we use it, we understand your choice to stop using Brave.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Browser Privacy Policy | Brave",
+          "text": "Our company does not collect or retain a user’s browsing history.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Browser Privacy Policy | Brave",
+          "text": "Some features require us to process information like your IP address, in order to function.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Browser Privacy Policy | Brave",
+          "text": "And sometimes, you may choose to provide us with personal data.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "Browser Privacy Policy | Brave",
+          "text": "Below we list the features that may process personal information related to you, who receives this information, and how long this information is retained.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "Browser Privacy Policy | Brave",
+          "text": "Read this document to understand how the Brave Browser and Brave’s services use data.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "Other Brave privacy notices",
+          "text": "- Brave Search Privacy Notice - Brave Websites, Forums, and Email Privacy Notice - Brave Rewards Advertiser Privacy Notice - Brave Publishers and Creators Privacy Notice - How to Exercise Your Right to Be Forgotten (RTBF) in Brave Search In this notice “we”, “us”, etc.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "Other Brave privacy notices",
+          "text": "refers to Brave Software Inc, while “Brave” refers to the browser.",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Security & updates",
+          "text": "Brave automatically checks for updates.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "Security & updates",
+          "text": "This ensures that you always have access to the latest security fixes.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "Security & updates",
+          "text": "We count the number and type of these requests when we receive them to produce aggregate statistics.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Security & updates",
+          "text": "No particular person’s information can be identified in the statistics we produce.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "Security & updates",
+          "text": "You can also update to the latest version here.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "Safe Browsing",
+          "text": "The Brave Browser automatically uses Google Safe Browsing to help protect you against websites, downloads and extensions that are known to be unsafe (such as sites that are fraudulent or that host malware).",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "Safe Browsing",
+          "text": "This service relies on storing URL hashes locally on your device.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "Safe Browsing",
+          "text": "When a potentially unsafe site is visited, Google receives a partial URL hash of the site.",
+          "labels": []
+        },
+        {
+          "id": "S16",
+          "section": "Safe Browsing",
+          "text": "This is necessary in order for Safe Browsing to work.",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "Safe Browsing",
+          "text": "The actual website address is never shared with the service provider.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "Safe Browsing",
+          "text": "On desktop, we proxy this service in order to prevent your IP address from being shared with Google.",
+          "labels": []
+        },
+        {
+          "id": "S19",
+          "section": "Safe Browsing",
+          "text": "On Android, we rely on the Safe Browsing functionality built into the operating system.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "Safe Browsing",
+          "text": "Any requests to Google servers made by this component (by the Brave app or by another app) will expose your device IP address to Google.",
+          "labels": []
+        },
+        {
+          "id": "S21",
+          "section": "Safe Browsing",
+          "text": "On iOS, we use the Safe Browsing functionality provided by Safari.",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "Safe Browsing",
+          "text": "This functionality uses Google and Tencent Safe Browsing services depending on your region.",
+          "labels": []
+        },
+        {
+          "id": "S23",
+          "section": "Safe Browsing",
+          "text": "Apple proxies requests to these services, exposing your device IP address to Apple.",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "Safe Browsing",
+          "text": "Learn how to change your Safe Browsing settings.",
+          "labels": []
+        },
+        {
+          "id": "S25",
+          "section": "Sync",
+          "text": "If you enable Sync, your bookmarks, passwords and other data will be saved in an encrypted file on our cloud hosting provider (AWS).",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "Sync",
+          "text": "Only you have access to the decryption key, which is stored on your devices.",
+          "labels": []
+        },
+        {
+          "id": "S27",
+          "section": "Sync",
+          "text": "This means it’s impossible for us to recover synced files if you lose access to your device or keys.",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "Sync",
+          "text": "Learn how to switch on Sync here.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "Sync",
+          "text": "Note: Unused Sync chains expire after 12 months and the associated server data may be permanently deleted after that time.",
+          "labels": []
+        },
+        {
+          "id": "S30",
+          "section": "Location",
+          "text": "If you use Brave to visit a website that tracks user location, you may be asked whether you want the website to know where you are located.",
+          "labels": []
+        },
+        {
+          "id": "S31",
+          "section": "Location",
+          "text": "If you grant permission, the website will be sent an approximation of where you are located based on your IP address and information your operating system may provide, for example, the names of nearby WiFi access points.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "Location",
+          "text": "The website may store your location.",
+          "labels": []
+        },
+        {
+          "id": "S33",
+          "section": "Location",
+          "text": "Your location is not sent to us in this process.",
+          "labels": []
+        },
+        {
+          "id": "S34",
+          "section": "Location",
+          "text": "See data processing details.",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "Brave Translate",
+          "text": "Brave browser includes a built-in translation feature for use in the desktop and Android browsers.",
+          "labels": []
+        },
+        {
+          "id": "S36",
+          "section": "Brave Translate",
+          "text": "We use third party translation software (Lingvanex) hosted on our infrastructure to provide in-page translation.",
+          "labels": []
+        },
+        {
+          "id": "S37",
+          "section": "Brave Translate",
+          "text": "Brave does not collect the content of webpages being translated, and any text submitted to our translation server is deleted once it’s translated.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "Brave Translate",
+          "text": "We also remove IP address information associated with your requests.",
+          "labels": []
+        },
+        {
+          "id": "S39",
+          "section": "Brave Translate",
+          "text": "We do this to protect your privacy.",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "Brave Translate",
+          "text": "More details on Brave Translate can be found here.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "Brave News",
+          "text": "Brave News is a private, content news reader integrated into the Brave browser.",
+          "labels": []
+        },
+        {
+          "id": "S42",
+          "section": "Brave News",
+          "text": "The default content for Brave News is selected using Brave Search.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "Brave News",
+          "text": "You can at any time change the default content settings and choose what content you want appearing in your feed.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "Brave News",
+          "text": "You can also add feeds manually by subscribing directly to publishers’ content using publicly available RSS feeds.",
+          "labels": []
+        },
+        {
+          "id": "S45",
+          "section": "Brave News",
+          "text": "To protect your privacy, Brave employs a combination of methods for delivering content that ensure your browser cannot be identified or tracked by Brave or any third party.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "Brave News",
+          "text": "Headlines are made available on a public CDN in text files, the same file for all users for each region.",
+          "labels": []
+        },
+        {
+          "id": "S47",
+          "section": "Brave News",
+          "text": "Some images from publishers and images in the Brave News user interface are processed to improve performance and ensure they display correctly in the Brave News user experience.",
+          "labels": []
+        },
+        {
+          "id": "S48",
+          "section": "Brave News",
+          "text": "Processed images are all delivered through a private and encrypted proxy method.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "Brave News",
+          "text": "The proxy removes and does not retain IP addresses before passing the encrypted request to the private content server, which then sends the encrypted reply back to the browser via the proxy.",
+          "labels": []
+        },
+        {
+          "id": "S50",
+          "section": "Brave News",
+          "text": "All other publisher images are collected directly from the publishers from your device.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "Brave News",
+          "text": "When you add RSS feeds manually, the text and images are collected directly from the publisher of the RSS feed and included in Brave News on the client.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "Brave News",
+          "text": "The feed of text and images from Brave and from your RSS feeds is temporarily stored on your device, and it is replaced upon starting or refreshing your Brave News session.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "Brave News",
+          "text": "Brave News will offer suggestions of sources you might like to follow.",
+          "labels": []
+        },
+        {
+          "id": "S54",
+          "section": "Brave News",
+          "text": "If you choose to follow a suggested source it will be added to your Following list; you can always unfollow a source via the Settings panel.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "Brave News",
+          "text": "The suggestions and your choices are determined on your browser and never leave your device.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "Brave News",
+          "text": "Your Brave News sessions are not logged or saved by Brave.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "Brave News",
+          "text": "This information is private to you and only you.",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "Brave News",
+          "text": "Brave’s Suggestions service is open source and available to view via GitHub.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "Brave News",
+          "text": "**Please note**: The RSS feed content you add is collected directly from the feed source and not proxied by Brave.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "Brave News",
+          "text": "The Brave browser fetches it without ever hitting Brave servers, and Brave never knows anything about your chosen RSS feeds.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "Brave News",
+          "text": "It’s your choice.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "Brave News",
+          "text": "You can add, follow, unfollow, or hide content sources any time.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "Brave Email Aliases",
+          "text": "Brave Email Aliases allows you to sign up for services without revealing your real email address, by generating unique addresses that forward to your primary email inbox.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "Brave Email Aliases",
+          "text": "Once you sign up for Email Aliases, we will store the primary email address associated with your Brave Account and any email aliases that you generate.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "Brave Email Aliases",
+          "text": "Brave does not read the contents of these emails, except to perform standard spam and virus filtering.",
+          "labels": []
+        },
+        {
+          "id": "S66",
+          "section": "Brave Email Aliases",
+          "text": "In case of temporary email delivery failures (e.g., if your primary mailbox is full), we will periodically try to resend the email for up to 24 hours, before deleting the message.",
+          "labels": []
+        },
+        {
+          "id": "S67",
+          "section": "Brave Email Aliases",
+          "text": "We will never reveal emails or aliases associated with your Brave Account unless obligated to do so by a valid legal request.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "Brave Email Aliases",
+          "text": "Any notes you create for aliases are stored locally on your device, unless you use Brave Sync, in which case they’re encrypted end-to-end between devices on the same Sync chain.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "Brave Email Aliases",
+          "text": "Only you can decrypt or read these notes.",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "Brave Email Aliases",
+          "text": "Learn more about how Brave Sync protects your privacy here.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "Brave Email Aliases",
+          "text": "Brave uses Amazon Web Services (AWS) for Email Aliases.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "Brave Email Aliases",
+          "text": "All messages are encrypted-at-rest.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "Brave Email Aliases",
+          "text": "For metrics and debugging, we collect limited data and log events that are deleted within 14 days.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "Brave Email Aliases",
+          "text": "We do not log the content of the email, and we do not log sender information.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "Brave Email Aliases",
+          "text": "Learn more about Brave Email Aliases and how it works here.",
+          "labels": []
+        },
+        {
+          "id": "S76",
+          "section": "Brave Rewards",
+          "text": "If you enable Brave Rewards, we assign your Brave browser a “Rewards Payment ID”, which is used to account for Basic Attention Token (BAT) rewards you may earn for seeing Brave Private Ads.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "Brave Rewards",
+          "text": "We will also ask you to select your country, which we will use to assign a country code to your Rewards Payment ID.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "Brave Rewards",
+          "text": "The country code helps us ensure Ads are displayed to individuals depending on their country.",
+          "labels": []
+        },
+        {
+          "id": "S79",
+          "section": "Brave Rewards",
+          "text": "We will also use the country code to help us prevent fraud.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "Brave Rewards",
+          "text": "You can find your Rewards Payment ID by navigating to brave://rewards-internals.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "Brave Rewards",
+          "text": "Even with Brave Rewards enabled and a Rewards Payment ID assigned, we never collect your browsing history or similar information, and we can’t derive this information from your contributions to content creators or sites.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "Brave Rewards",
+          "text": "We also cannot tell which specific Brave Private Ads you’ve seen or interacted with.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "Brave Rewards",
+          "text": "Note that we record the identifiers mentioned herein on servers located in the United States.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "Brave Rewards",
+          "text": "We take a range of technical and organisational measures to safeguard personal data.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "Connecting a custodial account",
+          "text": "When you choose to connect a custodial account to Brave Rewards using one of our custodial partners such as Uphold, Gemini, bitFlyer (Japan only), or ZebPay (India only), three things become associated with your Rewards Payment ID: a custodian ID, deposit address(es), and a country code.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "Connecting a custodial account",
+          "text": "All three are assigned by the custodial partner.",
+          "labels": []
+        },
+        {
+          "id": "S87",
+          "section": "Connecting a custodial account",
+          "text": "The deposit address allows us to make deposits to your custodial account, while the country code helps us prevent fraud and limit service to users in countries where Brave Rewards is supported.",
+          "labels": []
+        },
+        {
+          "id": "S88",
+          "section": "Connecting a custodial account",
+          "text": "In addition, we also use IP addresses and Rewards Payment IDs associated with monthly BAT payments to safeguard against fraud.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "Connecting a custodial account",
+          "text": "See the Brave Rewards data processing table When you make an on-demand contribution to Brave Creators using BAT from your linked custodial account(s), the custodian can see and record the details of your contribution transactions (such as, but not limited to, the amount and the recipient).",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "Connecting a custodial account",
+          "text": "This is subject to the privacy policies of Uphold, Gemini, bitFlyer, or ZebPay.",
+          "labels": []
+        },
+        {
+          "id": "S91",
+          "section": "Connecting a custodial account",
+          "text": "However, when using the Auto-Contribute feature to support Brave creators with BAT from your custodial account, neither Brave nor your custodian can tell which specific creators you’re contributing to.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "Connecting a self-custody account",
+          "text": "When you choose to connect a self-custody account/address (such as a Solana address), your Rewards Payment ID will be associated with your self-custody address.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "Connecting a self-custody account",
+          "text": "See the Brave Rewards data processing table for details of what data we process and why and for how long.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "Connecting a self-custody account",
+          "text": "*Cookies:* As part of the process to connect your Solana address to your Rewards Payment ID, a temporary, security-related cookie will be set in your browser for one of our Rewards-related service domains.",
+          "labels": []
+        },
+        {
+          "id": "S95",
+          "section": "Connecting a self-custody account",
+          "text": "The purpose of this cookie is to protect you against cross-site forgery attacks during the connection process.",
+          "labels": []
+        },
+        {
+          "id": "S96",
+          "section": "Connecting a self-custody account",
+          "text": "The moment the cookie is done playing its role in the connection process, the cookie is immediately cleared from your browser.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "Brave Ads",
+          "text": "Like most websites, we show ads to support our mission of building an independent, user-first internet.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "Brave Ads",
+          "text": "Brave Ads work by matching relevant advertisements to you, inside the Brave Browser.",
+          "labels": []
+        },
+        {
+          "id": "S99",
+          "section": "Brave Ads",
+          "text": "In other words, your personal data never leaves your device.",
+          "labels": []
+        },
+        {
+          "id": "S100",
+          "section": "Brave Ads",
+          "text": "When you view an ad (either via a popup notification, new tab ad, or as part of in-browser sponsored content via the offer wall), you may receive BAT as a reward, provided that you have the Brave Rewards feature enabled and a payout account connected.",
+          "labels": []
+        },
+        {
+          "id": "S101",
+          "section": "Brave Ads",
+          "text": "However, you may see Brave Ads even if you do not have Brave Rewards enabled.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "Brave Ads",
+          "text": "If you interact with an ad on Brave Search, Brave Browser may temporarily store some data on your device to measure the performance of this specific ad.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "Brave Ads",
+          "text": "Learn more about Brave’s Search ads conversion reporting and how to disable it.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "Brave Ads",
+          "text": "You can control which types of Brave Ads formats you see.",
+          "labels": []
+        },
+        {
+          "id": "S105",
+          "section": "Brave Ads",
+          "text": "For example, you can opt out of Brave Ads on the New Tab Page by visiting `Settings > New Tab > Customize the background image` and disabling them.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "Brave Ads",
+          "text": "Ads displayed within search results from Brave Search can be opted out of via enabling “Aggressively block trackers and ads” in Brave Shields.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "Brave Ads",
+          "text": "Please consider paying for Brave Search Premium instead for an ad-free search experience.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "Brave Ads",
+          "text": "If you have Brave Rewards enabled, you can also control which Brave Ads formats you see by navigating to Ads Settings in the Brave Rewards interface.",
+          "labels": []
+        },
+        {
+          "id": "S109",
+          "section": "Brave Ads",
+          "text": "For advertisers, please see: Brave Rewards Advertiser Privacy Notice.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "Brave Ads",
+          "text": "For publishers and creators, please see: Brave Publishers and Creators Privacy Notice.",
+          "labels": []
+        },
+        {
+          "id": "S111",
+          "section": "Brave Ads privacy protections",
+          "text": "- Brave does not have access to your information, your browsing history, or any details that can be used to identify or profile you.",
+          "labels": []
+        },
+        {
+          "id": "S112",
+          "section": "Brave Ads privacy protections",
+          "text": "This is by design.",
+          "labels": []
+        },
+        {
+          "id": "S113",
+          "section": "Brave Ads privacy protections",
+          "text": "- We measure ad performance by receiving anonymized events for ads that you (and other users) have interacted with.",
+          "labels": []
+        },
+        {
+          "id": "S114",
+          "section": "Brave Ads privacy protections",
+          "text": "In short, we cannot tell which specific Brave Ads you’ve seen or interacted with.",
+          "labels": []
+        },
+        {
+          "id": "S115",
+          "section": "Brave Ads privacy protections",
+          "text": "No data that identifies you or that can be linked to you leaves your device.",
+          "labels": []
+        },
+        {
+          "id": "S116",
+          "section": "Brave Wallet",
+          "text": "The Brave Wallet is a secure crypto wallet built directly into the Brave browser.",
+          "labels": []
+        },
+        {
+          "id": "S117",
+          "section": "Brave Wallet",
+          "text": "You can buy, send, store, and swap thousands of assets (and NFTs) seamlessly on 100+ blockchain networks including Ethereum, Solana, Filecoin, and more.",
+          "labels": []
+        },
+        {
+          "id": "S118",
+          "section": "Brave Wallet",
+          "text": "You can learn more about ‘crypto wallets’ and the Brave Wallet here.",
+          "labels": []
+        },
+        {
+          "id": "S119",
+          "section": "Brave Wallet",
+          "text": "Brave Wallet relies on third party service providers to help us read and write transactional data from various blockchains including Bitcoin, Ethereum, Solana, and others on a user’s behalf.",
+          "labels": []
+        },
+        {
+          "id": "S120",
+          "section": "Brave Wallet",
+          "text": "To do this we typically need to pass wallet address(s) or transactional data to these service providers in order to help users interact with the blockchain.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "Brave Wallet",
+          "text": "In certain circumstances, such as when a service is used by default, Brave proxies requests to prevent data from being connected to your IP address.",
+          "labels": []
+        },
+        {
+          "id": "S122",
+          "section": "Brave Wallet",
+          "text": "By enabling Brave Wallet, you consent to relying on these services to interact with the Blockchain when necessary.",
+          "labels": []
+        },
+        {
+          "id": "S123",
+          "section": "Brave Wallet",
+          "text": "When you make a transaction using a third-party that redirects you to their services, such as an on-ramp partner, they will capture your IP address, wallet address, transaction and event data.",
+          "labels": []
+        },
+        {
+          "id": "S124",
+          "section": "Brave Wallet",
+          "text": "With on-ramp services, you’ll be linked to a third-party site which may conduct identity verification checks in order to meet obligations they have under sanctions and anti-money laundering laws.",
+          "labels": []
+        },
+        {
+          "id": "S125",
+          "section": "Brave Wallet",
+          "text": "You should review the privacy notices and terms of service of those third parties.",
+          "labels": []
+        },
+        {
+          "id": "S126",
+          "section": "Brave Wallet",
+          "text": "We use Decentralised Exchange Aggregators (DEX) such as 0x for swaps made on EVM compatible blockchains and Jupiter for swaps completed on the Solana blockchain.",
+          "labels": []
+        },
+        {
+          "id": "S127",
+          "section": "Brave Wallet",
+          "text": "They will also process your wallet address, related transaction data and your IP address but will ONLY use this data to fulfill the transaction (including getting a quote).",
+          "labels": []
+        },
+        {
+          "id": "S128",
+          "section": "Sanctions compliance",
+          "text": "Cryptocurrency addresses that are listed on the OFAC’s Specially Designated Nationals List (SDN list) are ineligible to participate in Brave services, including Brave Wallet.",
+          "labels": []
+        },
+        {
+          "id": "S129",
+          "section": "Sanctions compliance",
+          "text": "To meet our legal obligations, Brave compares cryptographic addresses to a copy of the SDN list built-in to the browser.",
+          "labels": []
+        },
+        {
+          "id": "S130",
+          "section": "Sanctions compliance",
+          "text": "Brave Wallet will not allow for transfers to any sanctioned addresses.",
+          "labels": []
+        },
+        {
+          "id": "S131",
+          "section": "Sanctions compliance",
+          "text": "We may also need to perform periodic lookbacks of past transactions to meet compliance obligations.",
+          "labels": []
+        },
+        {
+          "id": "S132",
+          "section": "Sanctions compliance",
+          "text": "We use a third-party provider (Inca.Digital) to perform this service on our behalf.",
+          "labels": []
+        },
+        {
+          "id": "S133",
+          "section": "Brave Wallet privacy protections",
+          "text": "- Brave does not track actions that you make in your wallet.",
+          "labels": []
+        },
+        {
+          "id": "S134",
+          "section": "Brave Wallet privacy protections",
+          "text": "- Brave proxies and strips the IP address associated with access to the Brave Wallet.",
+          "labels": []
+        },
+        {
+          "id": "S135",
+          "section": "Brave Wallet privacy protections",
+          "text": "- Brave does not log transaction data.",
+          "labels": []
+        },
+        {
+          "id": "S136",
+          "section": "Brave Wallet privacy protections",
+          "text": "- We use anonymized and aggregated statistics collected from on-ramp partners which include regional volumes of transactions, the daily number of transactions by token/chain, daily currency volumes of transactions by token/chain, and monthly unique transactions by token/chain.",
+          "labels": []
+        },
+        {
+          "id": "S137",
+          "section": "Brave Wallet privacy protections",
+          "text": "We use this statistical data to understand at a high level which cryptocurrency assets are being used and on which platforms.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "Brave Talk",
+          "text": "Brave Talk is a private video and/or audio conference tool.",
+          "labels": []
+        },
+        {
+          "id": "S139",
+          "section": "Brave Talk",
+          "text": "What you say or type in the service is not logged or saved.",
+          "labels": []
+        },
+        {
+          "id": "S140",
+          "section": "Brave Talk",
+          "text": "Who you talk to, when, and how, is private to you.",
+          "labels": []
+        },
+        {
+          "id": "S141",
+          "section": "Brave Talk",
+          "text": "See data processing details.",
+          "labels": []
+        },
+        {
+          "id": "S142",
+          "section": "Brave Talk",
+          "text": "Please note that Brave uses the 8x8 communications platform, and software (API) capabilities of 8x8 (based on the Jitsi Open Source video conferencing software) to help deliver Brave Talk.",
+          "labels": []
+        },
+        {
+          "id": "S143",
+          "section": "Brave Talk",
+          "text": "8x8 provides a service on behalf of Brave, and we remain responsible for Brave Talk.",
+          "labels": []
+        },
+        {
+          "id": "S144",
+          "section": "Brave Talk",
+          "text": "Brave Talk is Internet-only; it does not support participation via telephony.",
+          "labels": []
+        },
+        {
+          "id": "S145",
+          "section": "Brave Talk",
+          "text": "#### What information does Brave Talk process?",
+          "labels": []
+        },
+        {
+          "id": "S146",
+          "section": "Brave Talk",
+          "text": "We process the minimum information necessary to provide the Brave Talk service.",
+          "labels": []
+        },
+        {
+          "id": "S147",
+          "section": "Brave Talk",
+          "text": "This includes: - Your IP address and the URL of the meeting that will be processed in order to enable calls.",
+          "labels": []
+        },
+        {
+          "id": "S148",
+          "section": "Brave Talk",
+          "text": "This data is not retained after a call ends.",
+          "labels": []
+        },
+        {
+          "id": "S149",
+          "section": "Brave Talk",
+          "text": "- If you use the chat function, chats will be temporarily cached for the duration of the meeting; they are not retained after a call ends.",
+          "labels": []
+        },
+        {
+          "id": "S150",
+          "section": "Brave Talk",
+          "text": "- If you record a meeting that you host, the recording will be temporarily stored on the server for 24 hours to allow you to download it.",
+          "labels": []
+        },
+        {
+          "id": "S151",
+          "section": "Brave Talk",
+          "text": "Your profile name that you choose to display will be processed and available during the meeting.",
+          "labels": []
+        },
+        {
+          "id": "S152",
+          "section": "Brave Talk",
+          "text": "While communications are encrypted between the Brave browser and Brave Talk servers via transport layer encryption, they are not encrypted on the server during a call, unless you enable Video Bridge Encryption (VBE).",
+          "labels": []
+        },
+        {
+          "id": "S153",
+          "section": "Brave Talk",
+          "text": "Additional security options are available to you in the settings menu once you initiate a call.",
+          "labels": []
+        },
+        {
+          "id": "S154",
+          "section": "Brave Talk",
+          "text": "These include: - **Enable Lobby**: This lets you protect your meeting by only allowing people to enter after being approved by a moderator.",
+          "labels": []
+        },
+        {
+          "id": "S155",
+          "section": "Brave Talk",
+          "text": "- **Add a passcode**: This lets you restrict access to the meeting to people who have been provided the code.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "Brave Talk",
+          "text": "- **Enable Video Bridge Encryption (VBE)**: This is currently experimental.",
+          "labels": []
+        },
+        {
+          "id": "S157",
+          "section": "Brave Talk",
+          "text": "If you enable VBE, it will disable server side services such as recording and livestreaming.",
+          "labels": []
+        },
+        {
+          "id": "S158",
+          "section": "Brave Talk",
+          "text": "Note that if you enable VBE but other participants do not, they won’t be able to see or hear you.",
+          "labels": []
+        },
+        {
+          "id": "S159",
+          "section": "Brave Talk",
+          "text": "Please note that if you upgrade to the Brave Talk Premium plan, Brave will require an email address to initially create a premium account, and subsequently to manage your access to the account using anonymous credentials.",
+          "labels": []
+        },
+        {
+          "id": "S160",
+          "section": "Brave Talk",
+          "text": "We use the third-party payment provider Stripe to process payments for premium subscriptions.",
+          "labels": []
+        },
+        {
+          "id": "S161",
+          "section": "Brave Talk",
+          "text": "Stripe will process your email address, name, and payment card data for the purpose of managing your subscription payments only.",
+          "labels": []
+        },
+        {
+          "id": "S162",
+          "section": "Brave Talk",
+          "text": "Brave does not receive nor have access to your payment method details supplied to Stripe, and we cannot associate an account email address or payment details with your communications on Brave Talk.",
+          "labels": []
+        },
+        {
+          "id": "S163",
+          "section": "Brave Talk",
+          "text": "**To avoid scams:** For the avoidance of phishing attacks, note that we at Brave will never contact Brave Browser users in a Brave Talk call.",
+          "labels": []
+        },
+        {
+          "id": "S164",
+          "section": "Brave Talk",
+          "text": "We do not authenticate users or their associated avatar images.",
+          "labels": []
+        },
+        {
+          "id": "S165",
+          "section": "Brave Talk",
+          "text": "Accordingly, you should never share any confidential information with anyone on Brave Talk unless you are certain that you know who you are talking to.",
+          "labels": []
+        },
+        {
+          "id": "S166",
+          "section": "Brave Talk",
+          "text": "(Of course, this is a good practice regardless of whether you are using Brave Talk, or email, or any other form of communication.)",
+          "labels": []
+        },
+        {
+          "id": "S167",
+          "section": "Brave Firewall + VPN",
+          "text": "You can subscribe to Brave Firewall + VPN in two ways: via account.brave.com, or via the applicable app store for your mobile device (iOS App Store or Google Play Store).",
+          "labels": []
+        },
+        {
+          "id": "S168",
+          "section": "Brave Firewall + VPN",
+          "text": "Brave Firewall + VPN is powered by Guardian, and Guardian also provides technical support for Brave’s Firewall + VPN service.",
+          "labels": []
+        },
+        {
+          "id": "S169",
+          "section": "Brave Firewall + VPN",
+          "text": "To learn more about what information we use for subscriptions—and why—see our data processing details.",
+          "labels": []
+        },
+        {
+          "id": "S170",
+          "section": "Brave Leo",
+          "text": "Brave Leo AI is our privacy-first AI-powered assistant integrated into the browser.",
+          "labels": []
+        },
+        {
+          "id": "S171",
+          "section": "Brave Leo",
+          "text": "Leo offers multiple capabilities including chat, webpage summaries, tab management, writing assistance, and more.",
+          "labels": []
+        },
+        {
+          "id": "S172",
+          "section": "Brave Leo",
+          "text": "Leo is free to use with limited access.",
+          "labels": []
+        },
+        {
+          "id": "S173",
+          "section": "Brave Leo",
+          "text": "If you sign up for Leo Premium, you will have access to more models, higher usage limits, and early access to new features.",
+          "labels": []
+        },
+        {
+          "id": "S174",
+          "section": "Brave Leo",
+          "text": "#### What information does Brave Leo process?",
+          "labels": []
+        },
+        {
+          "id": "S175",
+          "section": "Brave Leo",
+          "text": "When you use Leo, Brave shares with Leo’s backend server the following information in order to complete your request: - **For general chat queries**: your prompt and conversation context.",
+          "labels": []
+        },
+        {
+          "id": "S176",
+          "section": "Brave Leo",
+          "text": "In some cases, Leo will send queries derived from your input to Brave Search and use the search results to better answer your question.",
+          "labels": []
+        },
+        {
+          "id": "S177",
+          "section": "Brave Leo",
+          "text": "- **For web page summaries and suggested questions**: the prompt and content of the page or pages you’re viewing, including any text you have highlighted on the page.",
+          "labels": []
+        },
+        {
+          "id": "S178",
+          "section": "Brave Leo",
+          "text": "- **For tab management & history modes**: For tab management, the titles and URLs of your open non-Private/non-Tor tabs.",
+          "labels": []
+        },
+        {
+          "id": "S179",
+          "section": "Brave Leo",
+          "text": "Tab history mode also includes the titles, URLs and text passages for matching results in your tab history.",
+          "labels": []
+        },
+        {
+          "id": "S180",
+          "section": "Brave Leo",
+          "text": "- **Feedback**: If you submit feedback on Leo’s responses, our servers will receive some information.",
+          "labels": []
+        },
+        {
+          "id": "S181",
+          "section": "Brave Leo",
+          "text": "See Brave Leo feedback for more details.",
+          "labels": []
+        },
+        {
+          "id": "S182",
+          "section": "Brave Leo",
+          "text": "- **Privacy-preserving query analytics**: To better understand the types of queries Leo AI is used for, we use STAR and Nebula to learn aggregated insights without leaking individual behavior.",
+          "labels": []
+        },
+        {
+          "id": "S183",
+          "section": "Brave Leo",
+          "text": "In addition, we only extract non-identifying metadata, such as the broad category of a user query, the language the query is written in, and the AI model used.",
+          "labels": []
+        },
+        {
+          "id": "S184",
+          "section": "Brave Leo",
+          "text": "For example, Brave may learn that a certain percentage of users engage Leo AI for creative writing, but not which users or even what they wrote.",
+          "labels": []
+        },
+        {
+          "id": "S185",
+          "section": "Brave Leo",
+          "text": "- **AI browsing (experimental)**: AI browsing gives your browser autonomous capabilities where it can perform tasks on your behalf.",
+          "labels": []
+        },
+        {
+          "id": "S186",
+          "section": "Brave Leo",
+          "text": "AI browsing operates in an isolated browser profile, uses alignment checking to verify intended actions and maintains Brave’s commitment to not logging or retaining your data.",
+          "labels": []
+        },
+        {
+          "id": "S187",
+          "section": "Brave Leo",
+          "text": "Learn more here.",
+          "labels": []
+        },
+        {
+          "id": "S188",
+          "section": "Brave Leo",
+          "text": "See data processing details.",
+          "labels": []
+        },
+        {
+          "id": "S189",
+          "section": "Brave Leo",
+          "text": "#### Brave Leo privacy protections Brave Leo includes multiple privacy protections: - We do not collect identifiers that can be linked to you (such as IP address).",
+          "labels": []
+        },
+        {
+          "id": "S190",
+          "section": "Brave Leo",
+          "text": "- We don’t store or retain prompts, responses, context, or personal data on our servers.",
+          "labels": []
+        },
+        {
+          "id": "S191",
+          "section": "Brave Leo",
+          "text": "We may cache large prompts to improve performance but these are deleted within minutes.",
+          "labels": []
+        },
+        {
+          "id": "S192",
+          "section": "Brave Leo",
+          "text": "We do not use your conversations for model training.",
+          "labels": []
+        },
+        {
+          "id": "S193",
+          "section": "Brave Leo",
+          "text": "- Conversation history is stored locally on your device and (if you enable it) securely included in Sync.",
+          "labels": []
+        },
+        {
+          "id": "S194",
+          "section": "Brave Leo",
+          "text": "You can disable conversation history entirely or delete individual conversations by going to **brave://settings/leo-ai**.",
+          "labels": []
+        },
+        {
+          "id": "S195",
+          "section": "Brave Leo",
+          "text": "If you clear your browsing history, any associated page content in your past conversations will also be removed.",
+          "labels": []
+        },
+        {
+          "id": "S196",
+          "section": "Brave Leo",
+          "text": "Conversations in Private Windows or Private Windows with Tor are never saved to history.",
+          "labels": []
+        },
+        {
+          "id": "S197",
+          "section": "Brave Leo",
+          "text": "- Users do not need to create a Brave Premium account to use the free version of Leo.",
+          "labels": []
+        },
+        {
+          "id": "S198",
+          "section": "Brave Leo",
+          "text": "- If you sign up for Leo Premium, you’re issued unlinkable tokens that validate your subscription when using Premium services.",
+          "labels": []
+        },
+        {
+          "id": "S199",
+          "section": "Brave Leo",
+          "text": "Brave has no way of connecting your purchase details with your usage of Leo Premium.",
+          "labels": []
+        },
+        {
+          "id": "S200",
+          "section": "Brave Search Premium",
+          "text": "Brave Search Premium is a paid version of the core Brave Search experience.",
+          "labels": []
+        },
+        {
+          "id": "S201",
+          "section": "Brave Search Premium",
+          "text": "It gives users a chance to support Brave’s mission of offering independent, unbiased search.",
+          "labels": []
+        },
+        {
+          "id": "S202",
+          "section": "Brave Search Premium",
+          "text": "Brave Search is designed to be private by default.",
+          "labels": []
+        },
+        {
+          "id": "S203",
+          "section": "Brave Search Premium",
+          "text": "We don’t collect personal information about you, your device, or your searches.",
+          "labels": []
+        },
+        {
+          "id": "S204",
+          "section": "Brave Search Premium",
+          "text": "We also don’t transmit information to the web that could be used to profile you or track you or learn anything about you.",
+          "labels": []
+        },
+        {
+          "id": "S205",
+          "section": "Brave Search Premium",
+          "text": "For more information, see the Brave Search Privacy Notice.",
+          "labels": []
+        },
+        {
+          "id": "S206",
+          "section": "Diagnostic reports",
+          "text": "When Brave crashes or freezes, it creates a report that can be sent to us to help us diagnose and fix whatever caused the problem.",
+          "labels": []
+        },
+        {
+          "id": "S207",
+          "section": "Diagnostic reports",
+          "text": "This report contains technical information about your computer system and the event causing the problem.",
+          "labels": []
+        },
+        {
+          "id": "S208",
+          "section": "Diagnostic reports",
+          "text": "The data can’t be used to identify you.",
+          "labels": []
+        },
+        {
+          "id": "S209",
+          "section": "Diagnostic reports",
+          "text": "We use a service called Backtrace.io to store the reports.",
+          "labels": []
+        },
+        {
+          "id": "S210",
+          "section": "Diagnostic reports",
+          "text": "You can choose whether to send us these reports.",
+          "labels": []
+        },
+        {
+          "id": "S211",
+          "section": "Diagnostic reports",
+          "text": "Even if you have chosen to send reports in the past, you can turn off future reports in settings.",
+          "labels": []
+        },
+        {
+          "id": "S212",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "The Browser sends us anonymous reports to alert us to product problems and necessary improvements.",
+          "labels": []
+        },
+        {
+          "id": "S213",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "None of the information it reports can be used to identify you.",
+          "labels": []
+        },
+        {
+          "id": "S214",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "The report only describes general use of the Browser or other Brave products, such as a general range of how many extensions are installed, a general range of how many tabs are open, and whether features like Shields, Rewards, and Ads are switched on.",
+          "labels": []
+        },
+        {
+          "id": "S215",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "See the full list of questions here.",
+          "labels": []
+        },
+        {
+          "id": "S216",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "These reports are stripped of metadata, and aggregated with measurements reported by many other instances of Brave.",
+          "labels": []
+        },
+        {
+          "id": "S217",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "The data are not personal, and cannot be combined to identify you.",
+          "labels": []
+        },
+        {
+          "id": "S218",
+          "section": "Privacy Preserving Product Analytics",
+          "text": "You can deactivate Privacy-Preserving Product Analytics in Settings.",
+          "labels": []
+        },
+        {
+          "id": "S219",
+          "section": "Web Discovery Project",
+          "text": "The Web Discovery Project is intended to make Brave Search more relevant and useful for everyone.",
+          "labels": []
+        },
+        {
+          "id": "S220",
+          "section": "Web Discovery Project",
+          "text": "If you opt in, you’ll contribute some anonymous data about searches and web page visits made within the Brave Browser (including pages arrived at via some, but not all, other search engines).",
+          "labels": []
+        },
+        {
+          "id": "S221",
+          "section": "Web Discovery Project",
+          "text": "This data helps build the Brave Search independent index, and ensure we show relevant results to your search queries and support more relevant experiences with Brave products and services.",
+          "labels": []
+        },
+        {
+          "id": "S222",
+          "section": "Web Discovery Project",
+          "text": "Collection is done in a privacy-preserving fashion.",
+          "labels": []
+        },
+        {
+          "id": "S223",
+          "section": "Web Discovery Project",
+          "text": "The Web Discovery Project records the terms you search for on some search engines if that search query passes a series of checks, intended to avoid recording or sending sensitive queries.",
+          "labels": []
+        },
+        {
+          "id": "S224",
+          "section": "Web Discovery Project",
+          "text": "For example, WDP will not send search queries that are very long, or that include email addresses or long numbers.",
+          "labels": []
+        },
+        {
+          "id": "S225",
+          "section": "Web Discovery Project",
+          "text": "WDP also records some of the pages you visit, if the URLs pass a series of checks designed to filter out unique or identifying URLs.",
+          "labels": []
+        },
+        {
+          "id": "S226",
+          "section": "Web Discovery Project",
+          "text": "For example, URLs that are too long or include certain terms or long numbers are never sent.",
+          "labels": []
+        },
+        {
+          "id": "S227",
+          "section": "Web Discovery Project",
+          "text": "Additionally, WDP protects the URLs you send by encrypting them in a manner that prevents Brave from seeing or reading the URL unless it has been sent by a large number of other users.",
+          "labels": []
+        },
+        {
+          "id": "S228",
+          "section": "Web Discovery Project",
+          "text": "The system is designed so that no data received can be linked back to individuals or their devices.",
+          "labels": []
+        },
+        {
+          "id": "S229",
+          "section": "Web Discovery Project",
+          "text": "For a URL to be sent it needs to be visited independently by a large number of people.",
+          "labels": []
+        },
+        {
+          "id": "S230",
+          "section": "Web Discovery Project",
+          "text": "All data received is unlinkable, making it impossible to build profiles or sessions of Web Discovery Project contributors.",
+          "labels": []
+        },
+        {
+          "id": "S231",
+          "section": "Web Discovery Project",
+          "text": "Read a full description of the Web Discovery Project methodology.",
+          "labels": []
+        },
+        {
+          "id": "S232",
+          "section": "Your feedback",
+          "text": "We collect feedback solely for the purpose of improving our products and services, enhancing your browsing experience, answering your questions, and resolving compatibility issues.",
+          "labels": []
+        },
+        {
+          "id": "S233",
+          "section": "Your feedback",
+          "text": "Depending on the context, this may include personal information you provide to us directly, such as your name, email address, contact information, or contents of the feedback.",
+          "labels": []
+        },
+        {
+          "id": "S234",
+          "section": "Your feedback",
+          "text": "In some cases, we may also indirectly receive your IP address (for example, if you communicate on the Brave or BAT community forums).",
+          "labels": []
+        },
+        {
+          "id": "S235",
+          "section": "Your feedback",
+          "text": "For more information on how we handle your personal data related to feedback and communications (including the Community Forums), please see our Brave Websites, Forums, and Email Privacy Notice.",
+          "labels": []
+        },
+        {
+          "id": "S236",
+          "section": "Web compatibility reports",
+          "text": "If you submit a Web compatibility report, you’ll have the option to include certain details to help us analyze and address compatibility issues.",
+          "labels": []
+        },
+        {
+          "id": "S237",
+          "section": "Web compatibility reports",
+          "text": "Providing this information is voluntary, and any data you submit will be deleted from Brave’s servers after 30 days.",
+          "labels": []
+        },
+        {
+          "id": "S238",
+          "section": "Web compatibility reports",
+          "text": "See our Web compatibility reports wiki page for more details on what data is collected.",
+          "labels": []
+        },
+        {
+          "id": "S239",
+          "section": "Brave Leo feedback",
+          "text": "You can voluntarily submit feedback on Leo’s responses (Brave’s privacy-first, AI-powered assistant) by clicking the thumbs-up or thumbs-down icons.",
+          "labels": []
+        },
+        {
+          "id": "S240",
+          "section": "Brave Leo feedback",
+          "text": "This sends the rating, full text of the current conversation, language, selected AI model, version, and Premium subscription status (if any).",
+          "labels": []
+        },
+        {
+          "id": "S241",
+          "section": "Brave Leo feedback",
+          "text": "You also have the option to include additional details and the current website to assist us in improving Leo’s responses.",
+          "labels": []
+        },
+        {
+          "id": "S242",
+          "section": "Brave Leo feedback",
+          "text": "All submitted data will be deleted from Brave’s servers after 1 year.",
+          "labels": []
+        },
+        {
+          "id": "S243",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "Nightly, Dev, and Beta versions of the Brave Browser are experimental previews of new Brave Browser versions.",
+          "labels": []
+        },
+        {
+          "id": "S244",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "They allow us to test new features so that we can find and fix errors before releasing a new version of the Brave Browser.",
+          "labels": []
+        },
+        {
+          "id": "S245",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "These test versions of the Browser may automatically send crash reports to Brave so that we can identify and fix problems.",
+          "labels": []
+        },
+        {
+          "id": "S246",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "A crash report can contain personal information.",
+          "labels": []
+        },
+        {
+          "id": "S247",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "See data processing details.",
+          "labels": []
+        },
+        {
+          "id": "S248",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "**How to switch this feature off.** You can switch off “Automatically send usage statistics and crash reports to Brave Software” in settings.",
+          "labels": []
+        },
+        {
+          "id": "S249",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "> **Tip:** you can quickly access settings by copying ***brave://settings*** into your address bar.",
+          "labels": []
+        },
+        {
+          "id": "S250",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "These incomplete versions of Brave represent unfinished and untested work on future versions of Brave, and their incomplete behaviour may not be adequately described by this policy.",
+          "labels": []
+        },
+        {
+          "id": "S251",
+          "section": "Nightly, dev, and beta browser versions",
+          "text": "More information about the safety & reliability of pre-release versions of Brave can be found in our development documentation.",
+          "labels": []
+        },
+        {
+          "id": "S252",
+          "section": "Location",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To estimate the user’s physical location at the request of a website and with the confirmation of the user.",
+          "labels": []
+        },
+        {
+          "id": "S253",
+          "section": "Location",
+          "text": "| IP address, and information about nearby WiFi access points (MAC address, signal strength, and SSID).",
+          "labels": []
+        },
+        {
+          "id": "S254",
+          "section": "Location",
+          "text": "| Legitimate interest.",
+          "labels": []
+        },
+        {
+          "id": "S255",
+          "section": "Location",
+          "text": "| No storage.",
+          "labels": []
+        },
+        {
+          "id": "S256",
+          "section": "Location",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S257",
+          "section": "Brave Rewards",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To make and verify Basic Attention Token contributions, (including to detect and prevent fraud).",
+          "labels": []
+        },
+        {
+          "id": "S258",
+          "section": "Brave Rewards",
+          "text": "| IP address at time of claiming a grant of BAT tokens or requesting confirmation tokens.",
+          "labels": []
+        },
+        {
+          "id": "S259",
+          "section": "Brave Rewards",
+          "text": "| Necessary for the performance of a contract between us and necessary to provide the requested service.<br>Processing for the purposes of fraud prevention is based on the legitimate interests of Brave and users of Brave Rewards.",
+          "labels": []
+        },
+        {
+          "id": "S260",
+          "section": "Brave Rewards",
+          "text": "| Generally stored for 7 days.",
+          "labels": []
+        },
+        {
+          "id": "S261",
+          "section": "Brave Rewards",
+          "text": "In cases of suspected fraud, stored for up to 60 days.",
+          "labels": []
+        },
+        {
+          "id": "S262",
+          "section": "Brave Rewards",
+          "text": "In case of confirmed fraud, stored for up to 2 years.",
+          "labels": []
+        },
+        {
+          "id": "S263",
+          "section": "Brave Rewards",
+          "text": "| | To make and verify Basic Attention Token contributions, (including to detect and prevent fraud).",
+          "labels": []
+        },
+        {
+          "id": "S264",
+          "section": "Brave Rewards",
+          "text": "| Rewards Payment ID, declared country code and Custodian ID and custodial country code when verifying a Brave Rewards wallet with a custodial partner.",
+          "labels": []
+        },
+        {
+          "id": "S265",
+          "section": "Brave Rewards",
+          "text": "| Necessary for the performance of a contract between us, (and necessary to provide the requested service & to provide customer support).<br>Processing for the purposes of fraud prevention is based on the legitimate interests of Brave and users of Brave Rewards.",
+          "labels": []
+        },
+        {
+          "id": "S266",
+          "section": "Brave Rewards",
+          "text": "| The duration of the user’s account, plus 4 years in order to comply with US Internal Revenue Service requirements.",
+          "labels": []
+        },
+        {
+          "id": "S267",
+          "section": "Brave Rewards",
+          "text": "| | To make and verify Basic Attention Token contributions to a Solana address, (including to detect and prevent fraud).",
+          "labels": []
+        },
+        {
+          "id": "S268",
+          "section": "Brave Rewards",
+          "text": "| Rewards Payment ID and associated Solana address | Necessary for the performance of a contract between us and necessary to provide the requested service.<br>Processing for the purposes of fraud prevention is based on the legitimate interests of Brave and users of Brave Rewards.<br>Compliance with legal obligations | The duration of the user’s account, plus 4 years in order to comply with US Internal Revenue Service requirements.",
+          "labels": []
+        },
+        {
+          "id": "S269",
+          "section": "Brave Rewards",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S270",
+          "section": "Brave News",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To collect content from the server in order to display it for the user.",
+          "labels": []
+        },
+        {
+          "id": "S271",
+          "section": "Brave News",
+          "text": "| IP addresses.",
+          "labels": []
+        },
+        {
+          "id": "S272",
+          "section": "Brave News",
+          "text": "| Legitimate interest.",
+          "labels": []
+        },
+        {
+          "id": "S273",
+          "section": "Brave News",
+          "text": "The data are used in order to deliver the service, and the risk of the processing of the data is minimal.",
+          "labels": []
+        },
+        {
+          "id": "S274",
+          "section": "Brave News",
+          "text": "| The duration of the request and response |",
+          "labels": []
+        },
+        {
+          "id": "S275",
+          "section": "Brave Talk",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To facilitate communications via Brave Talk.",
+          "labels": []
+        },
+        {
+          "id": "S276",
+          "section": "Brave Talk",
+          "text": "| IP address, meeting URL, chat content, audio and video, recordings/transcripts of meetings.",
+          "labels": []
+        },
+        {
+          "id": "S277",
+          "section": "Brave Talk",
+          "text": "| Legitimate interest.",
+          "labels": []
+        },
+        {
+          "id": "S278",
+          "section": "Brave Talk",
+          "text": "The processing is necessary to provide the requested service.",
+          "labels": []
+        },
+        {
+          "id": "S279",
+          "section": "Brave Talk",
+          "text": "| Duration of the call, except for recordings/transcripts of meetings that are temporarily stored for 24 hours.",
+          "labels": []
+        },
+        {
+          "id": "S280",
+          "section": "Brave Talk",
+          "text": "| | To create a Brave Premium account and manage account access.",
+          "labels": []
+        },
+        {
+          "id": "S281",
+          "section": "Brave Talk",
+          "text": "| Email address | Legitimate interest.<br>The data is necessary to establish an account and manage account access.",
+          "labels": []
+        },
+        {
+          "id": "S282",
+          "section": "Brave Talk",
+          "text": "| Until an account is deleted.",
+          "labels": []
+        },
+        {
+          "id": "S283",
+          "section": "Brave Talk",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S284",
+          "section": "Brave Firewall + VPN",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To send an alert to the user when a firewall rule is triggered.",
+          "labels": []
+        },
+        {
+          "id": "S285",
+          "section": "Brave Firewall + VPN",
+          "text": "| Pseudonymous user ID, details of the blocked tracker/firewall rule triggered.",
+          "labels": []
+        },
+        {
+          "id": "S286",
+          "section": "Brave Firewall + VPN",
+          "text": "| Necessary for the performance of the contract (to deliver the service).",
+          "labels": []
+        },
+        {
+          "id": "S287",
+          "section": "Brave Firewall + VPN",
+          "text": "| 3 days.",
+          "labels": []
+        },
+        {
+          "id": "S288",
+          "section": "Brave Firewall + VPN",
+          "text": "| | To create private connections.",
+          "labels": []
+        },
+        {
+          "id": "S289",
+          "section": "Brave Firewall + VPN",
+          "text": "| IP Address.",
+          "labels": []
+        },
+        {
+          "id": "S290",
+          "section": "Brave Firewall + VPN",
+          "text": "| Necessary for the performance of the contract (to deliver the service).",
+          "labels": []
+        },
+        {
+          "id": "S291",
+          "section": "Brave Firewall + VPN",
+          "text": "| None.",
+          "labels": []
+        },
+        {
+          "id": "S292",
+          "section": "Brave Firewall + VPN",
+          "text": "IP addresses are not logged.",
+          "labels": []
+        },
+        {
+          "id": "S293",
+          "section": "Brave Firewall + VPN",
+          "text": "| | To provide customer support.",
+          "labels": []
+        },
+        {
+          "id": "S294",
+          "section": "Brave Firewall + VPN",
+          "text": "| Email address and other personal data that a user may choose to share when requesting technical support from Guardian.",
+          "labels": []
+        },
+        {
+          "id": "S295",
+          "section": "Brave Firewall + VPN",
+          "text": "| Necessary for the performance of the contract (to deliver the service).",
+          "labels": []
+        },
+        {
+          "id": "S296",
+          "section": "Brave Firewall + VPN",
+          "text": "| 12 Months after closing a support ticket.",
+          "labels": []
+        },
+        {
+          "id": "S297",
+          "section": "Brave Firewall + VPN",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S298",
+          "section": "Brave Leo",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | Handling user-generated chat queries.",
+          "labels": []
+        },
+        {
+          "id": "S299",
+          "section": "Brave Leo",
+          "text": "| Query, conversation context.",
+          "labels": []
+        },
+        {
+          "id": "S300",
+          "section": "Brave Leo",
+          "text": "| Necessary for the performance of a contract between us to provide the requested service.",
+          "labels": []
+        },
+        {
+          "id": "S301",
+          "section": "Brave Leo",
+          "text": "| Ephemeral - discarded soon after chat is completed.",
+          "labels": []
+        },
+        {
+          "id": "S302",
+          "section": "Brave Leo",
+          "text": "If local storage is enabled, chat history will be stored locally on your device.",
+          "labels": []
+        },
+        {
+          "id": "S303",
+          "section": "Brave Leo",
+          "text": "| | Summarizing/suggesting questions for websites, documents, or other uploaded content.",
+          "labels": []
+        },
+        {
+          "id": "S304",
+          "section": "Brave Leo",
+          "text": "| Query, website/document contents (which may contain personal data).",
+          "labels": []
+        },
+        {
+          "id": "S305",
+          "section": "Brave Leo",
+          "text": "| Necessary for the performance of a contract between us to provide the requested service.",
+          "labels": []
+        },
+        {
+          "id": "S306",
+          "section": "Brave Leo",
+          "text": "| Ephemeral - discarded soon after chat is completed.",
+          "labels": []
+        },
+        {
+          "id": "S307",
+          "section": "Brave Leo",
+          "text": "If local storage is enabled, chat history will be stored locally on your device.",
+          "labels": []
+        },
+        {
+          "id": "S308",
+          "section": "Brave Leo",
+          "text": "| | User-submitted feedback on Brave Leo.",
+          "labels": []
+        },
+        {
+          "id": "S309",
+          "section": "Brave Leo",
+          "text": "| Full text of conversation/query, additional details if provided by user.",
+          "labels": []
+        },
+        {
+          "id": "S310",
+          "section": "Brave Leo",
+          "text": "| User consent, legitimate interests (product improvements) | 1 year | | AI browsing.",
+          "labels": []
+        },
+        {
+          "id": "S311",
+          "section": "Brave Leo",
+          "text": "| Query, conversation context.",
+          "labels": []
+        },
+        {
+          "id": "S312",
+          "section": "Brave Leo",
+          "text": "| Necessary for the performance of a contract between us to provide the requested service.",
+          "labels": []
+        },
+        {
+          "id": "S313",
+          "section": "Brave Leo",
+          "text": "Triggered by user.",
+          "labels": []
+        },
+        {
+          "id": "S314",
+          "section": "Brave Leo",
+          "text": "| Ephemeral - discarded soon after chat is completed.",
+          "labels": []
+        },
+        {
+          "id": "S315",
+          "section": "Brave Leo",
+          "text": "If local storage is enabled, chat history will be stored locally on your device in isolated profile.",
+          "labels": []
+        },
+        {
+          "id": "S316",
+          "section": "Brave Leo",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S317",
+          "section": "Brave IPFS Public Gateway",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To allow access to IPFS content when the user cannot access it via a local IPFS node | IP address | Legitimate interest.",
+          "labels": []
+        },
+        {
+          "id": "S318",
+          "section": "Brave IPFS Public Gateway",
+          "text": "The user requested the service, and the risk of the processing of the data is minimal.",
+          "labels": []
+        },
+        {
+          "id": "S319",
+          "section": "Brave IPFS Public Gateway",
+          "text": "| Indefinite.",
+          "labels": []
+        },
+        {
+          "id": "S320",
+          "section": "Brave IPFS Public Gateway",
+          "text": "(Protocol Labs) |",
+          "labels": []
+        },
+        {
+          "id": "S321",
+          "section": "Your feedback",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To use feedback sent by users to improve the product.",
+          "labels": []
+        },
+        {
+          "id": "S322",
+          "section": "Your feedback",
+          "text": "| Personal data that a user may include in the text they write when sending feedback through an app store or any other means.",
+          "labels": []
+        },
+        {
+          "id": "S323",
+          "section": "Your feedback",
+          "text": "| Legitimate interest.",
+          "labels": []
+        },
+        {
+          "id": "S324",
+          "section": "Your feedback",
+          "text": "The user intends for the data to be used for this purpose, and the risk of the processing of the data is minimal.",
+          "labels": []
+        },
+        {
+          "id": "S325",
+          "section": "Your feedback",
+          "text": "| 2 years.",
+          "labels": []
+        },
+        {
+          "id": "S326",
+          "section": "Your feedback",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S327",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "| Purpose of processing | Categories of personal data processed | Legal basis of processing | Duration of storage | | --- | --- | --- | --- | | To fix problems in the Brave Browser by acting on issues highlighted by crash reports from Beta and Dev versions of the Browser | Device model, iOS version, language, timezone, CPU architecture, carrier, connection status.",
+          "labels": []
+        },
+        {
+          "id": "S328",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "Optional: Crash log (crash logs will also be sent if you opted-in when activating iOS) Optional: Comments and screenshots you share if you send feedback through TestFlight.",
+          "labels": []
+        },
+        {
+          "id": "S329",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "| Our interest in testing the product and fixing problems.",
+          "labels": []
+        },
+        {
+          "id": "S330",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "The data are used in a way that does not negatively affect your rights or interests.",
+          "labels": []
+        },
+        {
+          "id": "S331",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "| Apple retains the data for one year.",
+          "labels": []
+        },
+        {
+          "id": "S332",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "Brave may retain some crash reports indefinitely, if useful for testing.",
+          "labels": []
+        },
+        {
+          "id": "S333",
+          "section": "Browser testing and research (Nightly, Dev, and Beta versions only)",
+          "text": "|",
+          "labels": []
+        },
+        {
+          "id": "S334",
+          "section": "Help with privacy settings in Brave",
+          "text": "You can find guides on how to change privacy settings in Brave in the Help Center.",
+          "labels": []
+        },
+        {
+          "id": "S335",
+          "section": "Help with privacy settings in Brave",
+          "text": "To contact our data protection officer and privacy team with privacy related enquiries, or to exercise your data protection and privacy rights, email privacy@brave.com.",
+          "labels": []
+        },
+        {
+          "id": "S336",
+          "section": "Help with privacy settings in Brave",
+          "text": "It’s Brave’s policy to not collect personal data1 unless it’s necessary to provide services to our users, or to meet certain legal obligations.",
+          "labels": []
+        },
+        {
+          "id": "S337",
+          "section": "Help with privacy settings in Brave",
+          "text": "We do not buy, sell, or share personal data about consumers.",
+          "labels": []
+        },
+        {
+          "id": "S338",
+          "section": "Help with privacy settings in Brave",
+          "text": "Where we process personal data about you (subject to laws such as the EU General Data Protection Regulation (GDPR), or California privacy laws such as the CCPA or CPRA), you have the following rights: - **Right to be informed**: You have the right to know what personal data we process about you and why, together with information about your rights.",
+          "labels": []
+        },
+        {
+          "id": "S339",
+          "section": "Help with privacy settings in Brave",
+          "text": "We explain this via our product privacy policies and/or contextual privacy notices.",
+          "labels": []
+        },
+        {
+          "id": "S340",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right of access**: Where we process personal data about you, you have the right to request a copy of it.",
+          "labels": []
+        },
+        {
+          "id": "S341",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right to erasure / right to be forgotten**: In some cases, you have the right to ask us to erase data we have about you, or to de-list search results that contain information about you.",
+          "labels": []
+        },
+        {
+          "id": "S342",
+          "section": "Help with privacy settings in Brave",
+          "text": "This is commonly known as the ‘right to be forgotten’ (RTBF).",
+          "labels": []
+        },
+        {
+          "id": "S343",
+          "section": "Help with privacy settings in Brave",
+          "text": "The Erasure and RTBF are not absolute rights, and some conditions apply.",
+          "labels": []
+        },
+        {
+          "id": "S344",
+          "section": "Help with privacy settings in Brave",
+          "text": "As a search engine, we cannot remove the original source of the data, only our search link(s) to it.",
+          "labels": []
+        },
+        {
+          "id": "S345",
+          "section": "Help with privacy settings in Brave",
+          "text": "You can find additional details (including information on how to make a RTBF request or to update our search results, and the criteria we use to assess those requests here).",
+          "labels": []
+        },
+        {
+          "id": "S346",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right to rectification**: You can ask us to correct inaccurate personal data and/or to update incomplete data.",
+          "labels": []
+        },
+        {
+          "id": "S347",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right to restriction**: In certain circumstances, you can request that we refrain from processing your personal data.",
+          "labels": []
+        },
+        {
+          "id": "S348",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right to object**: In certain circumstances, you can object to the processing of your personal data (for example to object to the use of your data for profiling and/or purely automated decision making).",
+          "labels": []
+        },
+        {
+          "id": "S349",
+          "section": "Help with privacy settings in Brave",
+          "text": "Please note that we do not buy, sell, or share personal data about consumers.",
+          "labels": []
+        },
+        {
+          "id": "S350",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right to data portability**: In certain circumstances you have the right to request and receive personal data in a structured, commonly used, machine readable format that makes it possible to reuse the data.",
+          "labels": []
+        },
+        {
+          "id": "S351",
+          "section": "Help with privacy settings in Brave",
+          "text": "Please note, anonymous data is not subject to this right.",
+          "labels": []
+        },
+        {
+          "id": "S352",
+          "section": "Help with privacy settings in Brave",
+          "text": "- **Right to lodge a complaint with a regulatory authority**: Brave is based in the USA.",
+          "labels": []
+        },
+        {
+          "id": "S353",
+          "section": "Help with privacy settings in Brave",
+          "text": "The authority to lodge a complaint about Brave will depend on where you live.",
+          "labels": []
+        },
+        {
+          "id": "S354",
+          "section": "Help with privacy settings in Brave",
+          "text": "If you’re in the EU you can contact our nominated representative under the General Data Protection Regulation (GDPR), or you can complain to the Irish Data Protection Commissioner.",
+          "labels": []
+        },
+        {
+          "id": "S355",
+          "section": "Help with privacy settings in Brave",
+          "text": "If you’re in the UK you can complain to the Information Commissioner’s Office.",
+          "labels": []
+        },
+        {
+          "id": "S356",
+          "section": "Help with privacy settings in Brave",
+          "text": "If you’re in California you can complain to the California Privacy Protection Agency.",
+          "labels": []
+        },
+        {
+          "id": "S357",
+          "section": "Help with privacy settings in Brave",
+          "text": "For EU residents, we have appointed a nominated representative under the GDPR to act on our behalf regarding GDPR compliance.",
+          "labels": []
+        },
+        {
+          "id": "S358",
+          "section": "Help with privacy settings in Brave",
+          "text": "You may contact our nominated representative if you wish; however, the representative will refer enquiries to Brave’s data protection officer for consideration.",
+          "labels": []
+        },
+        {
+          "id": "S359",
+          "section": "Help with privacy settings in Brave",
+          "text": "Our EU nominated representative is: Brave EU Nominated Representative Care of Castlebridge, The Exchange Wexford, Whitemill Industrial Estate, Wexford, Y35 NPP0, Ireland, brave@gdprnomrep.eu We’ll update this policy whenever we make material changes to our practices, and we’ll announce it to let you know.",
+          "labels": []
+        },
+        {
+          "id": "S360",
+          "section": "Help with privacy settings in Brave",
+          "text": "We hope you’ll find any changes agreeable, but if you’re not comfortable with changes to the info we collect or how we use it, we understand your choice to stop using Brave.",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

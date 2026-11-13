@@ -1,0 +1,751 @@
+{
+  "policy_id": "cursor",
+  "source_url": "https://cursor.com/en-US/privacy",
+  "annotator": "TEMPLATE",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Cursor · Privacy Policy\n\nNote: For information about how we collect and use training information to develop our models that power the Service, and your choices with respect to that information, please see our Privacy Overview.\n\n## Introduction\n\nWe at Anysphere, Inc. (\"Anysphere\", \"we\" or \"us\") are strongly committed to respecting your privacy and keeping secure any information you share with us. This privacy policy (\"Privacy Policy\") explains how we collect, use, disclose, and process your personal data when you use Anysphere's software, platform, APIs, Documentation, and related tools, including at the website at www.cursor.com, and all related software made available by Anysphere to build, deploy, host, and manage software projects (\"Service\"). It also tells you how you can access and update your personal information and describes the data protection rights that may be available under your country's or state's laws. Please read this Privacy Policy carefully. By accessing or using the Service, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.\n\nPlease note that this Privacy Policy does not apply where Anysphere acts as a data processor and processes personal data on behalf of commercial customers using our commercial services, for example, if your employer has provisioned a Cursor account for you to use at work. Our use of that data is governed by our customer agreements covering access to and use of those offerings.\n\n## 1. Personal data we collect\n\nWe collect the following categories of personal data:\n\nA. **Personal data you provide to us directly**\n\nWe collect personal data if you create an account to use our Service or communicate with us. This includes:\n\n- **Account Information:** Anysphere collects identifiers, such as your name and email address, when you sign up for an Anysphere account or to receive information about our Service.\n\n- **Payment Information:** We collect your payment information if you seek to access any paid products and services, or initiate payment for products and services.\n\n- **Inputs and Suggestions:** The Service allows you to submit content (\"Inputs\"), which generate responses (\"Suggestions\") based on your Inputs. If you include personal data or reference external content in your Inputs, we will collect that information and it may be reproduced in the Suggestions we provide.\n\n- **Communication Information:** If you communicate with us, we collect your name, contact information, and the contents of any messages you send.\n\n- **Feedback:** While using the Service, you may provide feedback, including ideas and suggestions for improvement or rating a Suggestion in response to an Input (\"Feedback\"). If you provide Feedback on the Service, we may store the entire exchange as part of your Feedback.\n\nB. **Personal data we receive from your use of the Service**\n\nWhen you use the Service, we also receive certain technical data automatically. This includes:\n\n- **Device Information.** Your device or browser automatically sends us information about when and how you install, access, or use our Service. This information may include your device type, browser information, operating system information, and mobile network or ISP. This information may depend on your settings and the type of device you use to access the Service.\n\n- **Log Information.** We collect information about how our Service is performing, including your IP address, browser type and settings, error logs, and other ways that you interact with the Service.\n\n- **Usage Data.** We collect information about your use of the Service, such as the dates and times of access, browsing history, search, information about the links you click, pages you view, and other information about how you use the Service, and technology on the devices you use to access the Service.\n\n- **Cookies & Similar Technologies.** We and our service providers utilize cookies, pixels, scripts, or similar technologies to operate and manage the Service and improve your experience. These technologies help us to recognize you, customize or personalize your experience, market additional products or services to you, and analyze and optimize your use of the Service, for example to help maintain your preferences. For more details about how we use these technologies, please visit our Cookie Policy.\n\n- **Location Information.** For security and performance reasons, for example to detect unusual login activity or provide more useful Suggestions, we may determine the geographic location from which your device accesses our Service using information such as your IP address.\n\nC. **Information We Do Not Collect**\n\nAnysphere does not knowingly collect sensitive or special category personal information, such as genetic data, biometric data for the purposes of uniquely identifying a natural person, health information, or religious information. Additionally, Anysphere does not knowingly collect information from or direct any of our Service or content to children under the age of 18. If we learn or have reason to suspect that a user is under the age of 18, we will investigate and, if appropriate, delete the personal data and/or the account.\n\n## 2. How we use personal data\n\nWe may use personal data for the following purposes:\n\n- To provide and maintain the Service, including optional features that enhance functionality and user experience.\n\n- To create, manage, and administer your account, including facilitating payments and responding to inquiries.\n\n- To improve and develop the Service and conduct research, including debugging and identifying or repairing issues that impair functionality.\n\n- To communicate with you, including sending updates, information about the Service, and events.\n\n- To prevent, detect, and investigate fraud, abuse, security incidents, and violations of our Terms of Service.\n\n- To comply with legal obligations and protect the rights, safety, privacy, and property of users, Anysphere, or third parties.\n\n- To investigate and resolve disputes or security issues.\n\n- To enforce our Terms of Service and other applicable agreements.\n\nWe do not use Inputs or Suggestions to train our models, or permit third parties to use them for training, unless: (1) they are flagged for security review (in which case we may analyze them to improve our ability to detect and enforce our Terms of Service), (2) you explicitly report them to us (for example, as Feedback), or (3) you've explicitly agreed to their use for such training purposes. You can find instructions in the Service on how to manage your preferences regarding the use of Inputs and Suggestions for training.\n\nWe may aggregate or de-identify personal data so that it no longer identifies you, and use that information for the purposes described above, such as analyzing how the Service is used, improving or adding features, and conducting research. We will maintain de-identified information in its de-identified form and will not attempt to reidentify it, except as required by law.\n\nWe may disclose your personal data in the following circumstances:\n\n- **Service Providers and Business Partners:** We may disclose personal data to third-party vendors and service providers who support our business operations and help us deliver and improve the Service. This includes third-party hosting, cloud infrastructure, model, analytics, customer support, safety monitoring, communications, payment processing, compliance services, and IT providers. These parties process personal data only as necessary to perform services on our behalf, consistent with our and your instructions and applicable law.\n\n- **Business Transfers:** In the event of a merger, acquisition, restructuring, bankruptcy, or other corporate transaction, personal data may be disclosed to counterparties and advisers as part of due diligence or transferred as part of the transaction.\n\n- **Legal Compliance and Protection of Rights:** We may disclose personal data to government authorities or other third parties if we believe doing so is necessary to: (i) comply with applicable laws, regulations, or legal processes, (ii) respond to lawful requests or investigations, (iii) protect the safety, rights, or property of any person, (iv) prevent fraud, security incidents, or other unlawful activity, (v) enforce our Terms of Service or other legal rights, or (vi) protect Anysphere against legal liability.\n\n- **Affiliates:** We may share personal data with affiliates, meaning an entity that controls, is controlled by, or is under common control with, us. They may use personal data in a manner consistent with this Privacy Policy.\n\n- **Third-Party Services and Integrations:** The Service may include integrations with or links to third-party websites, applications, or services. If you choose to interact with these third parties, your personal data may be disclosed to them directly and governed by their own terms and privacy policies. Our linking or integrating with a third party does not imply endorsement or affiliation.\n\n- **Business Account Administrators:** If you create an account using an email associated with an organization (e.g., your employer), we may disclose account-related information (such as your email address and account status) to that organization. If you're part of a business or enterprise account, administrators may access and manage your use of the Service.\n\n- **Other Users and Third Parties You Share Information With:** Certain features of the Service may allow you to share Inputs, Suggestions, or other content with other users or third-party applications. Any information you voluntarily share with those parties is subject to their respective terms and privacy policies.\n\n- **With Your Consent:** We may disclose personal data when you give us permission to do so, including through features of the Service that are designed to share information.\n\n**Subprocessors:** For commercial uses of the Service where Anysphere acts as a data processor, you can review the third parties we engage on at trust.cursor.com/subprocessors.\n\n## 4. Retention\n\nAnysphere retains your personal data only for as long as necessary to operate the Service effectively and to support legitimate business needs such as legal compliance, safety, dispute resolution, and enforcement of our agreements. The appropriate retention period varies depending on the purpose for which the personal data was collected, its sensitivity, potential risks associated with its use or exposure, and any applicable legal requirements.\n\nYour settings may also influence how long we keep certain types of data. For instance, some temporary interactions with the Service may not appear in your history and could be stored for a limited duration for purposes related to safety and system monitoring.\n\nWhen personal data is no longer needed, Anysphere and its service providers will follow procedures to delete, erase, de-identify, or anonymize it in compliance with applicable laws.\n\n## 5. Security\n\nWe implement commercially reasonable technical and organizational measures designed to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, please remember that no method of transmission over the Internet or method of electronic storage is completely secure. You should use caution when deciding what information to share with the Service. We are not responsible for any circumvention of privacy settings or security features on the Service or on third-party websites linked through the Service.\n\n## 6. Your rights and choices\n\nDepending on where you live and the laws that apply in your country of residence, you may have certain rights in relation to your personal data. These may include the right to access, delete, correct, or transfer your personal data; to object to or restrict how we process it; or to withdraw your consent where processing is based on consent. You may also have the right to lodge a complaint with your local data protection authority.\n\nTo exercise any of these rights, you or your authorized agent may contact us at hi@cursor.com. We may request information to verify your identity before processing your request. If we deny your request, you may appeal by emailing the same address. Anysphere will not discriminate against you for exercising any privacy rights available under applicable law.\n\nThe rights available to you may include:\n\n- Right to know what categories of personal data we collect, the purposes for which we use it, and the types of third parties with whom we share it.\n\n- Access and portability, meaning you can request a copy of the personal data we hold about you and, where applicable, ask us to provide it in a portable format.\n\n- Deletion of personal data collected from you in connection with your use of the Service, subject to certain exceptions.\n\n- Correction of inaccurate personal data we maintain about you. Please note that while we'll make reasonable efforts to address correction requests, due to the nature of our models, we cannot guarantee the accuracy of Suggestions generated by the Service.\n\n- Objection to certain types of processing. Where applicable, we will stop processing unless we have legitimate legal grounds to continue.\n\n- Restriction of our processing of your personal data in limited circumstances, such as while a correction request is pending.\n\n- Withdrawal of consent, where the legal basis for our processing is based on your consent. Withdrawal does not affect the lawfulness of prior processing.\n\n- No automated decisions: Anysphere does not make decisions based solely on automated processing that impact your legal rights or has similarly significant effects (e.g. your healthcare or financial circumstances).\n\n- We do not process sensitive personal data for the purposes of inferring characteristics about a consumer.\n\nAnysphere processes your personal data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including in the United States. While data protection laws vary by country, we apply the protections outlined in this policy to your personal data regardless of where it is processed, and we only transfer data in accordance with legally valid transfer mechanisms. For users in the European Economic Area, (\"EEA\"), when you access our Service, your personal data may be transferred to our United States servers to other countries outside the EEA and the UK. Where information is transferred outside the EEA or the UK, we require an adequate level of data protection.\n\n## 7. Google user data in Grok Bot\n\nWhen you connect a Google account to Grok Bot, it accesses only the Google data needed for the features you turn on:\n\n- **Gmail:** to read, search and label your email, and to draft or send email when you ask.\n\n- **Google Calendar:** to read your calendars and availability, and to create or update events when you ask.\n\n- **Google Drive:** to find, read, create and edit the files you ask Grok Bot to work with.\n\n- **Google Docs, Sheets and Slides:** to read and edit the documents, spreadsheets and presentations you ask Grok Bot to work with.\n\n- **Your Google account email:** to identify the connected account.\n\n**How we use it.** Grok Bot uses Google user data only to provide the features you request. We don't use it for advertising and we don't sell it. We share it only as needed to provide those features, for security, or to comply with the law.\n\n**AI training.** For users who opt to connect to Google Apps via Google OAuth, we shall not use any Google Apps content for any of our internal AI or other training purposes (such as training our machine learning models), including developing new products or services based on such content.\n\n**People.** Our staff don't read your Google data unless you ask us to (for example, for support), for security investigations, or to comply with the law.\n\n**Storage and deletion.** Grok Bot keeps conversations, including any Google data in them, until you delete the bot or your account. Team admins can set a retention period of 30 to 365 days, after which messages and attachments are deleted automatically. You can disconnect Google at any time in Grok Bot or in your Google Account settings, and disconnecting immediately deletes the Google tokens we hold.\n\n**Limited Use.** Grok Bot's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.\n\n## 8. Privacy policy changes\n\nWe may update this Privacy Policy from time to time. When we do, we will publish an updated version and effective date at the top of this page, unless another type of notice is legally required. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.\n\nWe encourage you to contact us at hi@cursor.com if you have any questions about this Privacy Policy.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Cursor · Privacy Policy",
+          "text": "Note: For information about how we collect and use training information to develop our models that power the Service, and your choices with respect to that information, please see our Privacy Overview.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Introduction",
+          "text": "We at Anysphere, Inc.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Introduction",
+          "text": "(\"Anysphere\", \"we\" or \"us\") are strongly committed to respecting your privacy and keeping secure any information you share with us.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "Introduction",
+          "text": "This privacy policy (\"Privacy Policy\") explains how we collect, use, disclose, and process your personal data when you use Anysphere's software, platform, APIs, Documentation, and related tools, including at the website at www.cursor.com, and all related software made available by Anysphere to build, deploy, host, and manage software projects (\"Service\").",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "Introduction",
+          "text": "It also tells you how you can access and update your personal information and describes the data protection rights that may be available under your country's or state's laws.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "Introduction",
+          "text": "Please read this Privacy Policy carefully.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "Introduction",
+          "text": "By accessing or using the Service, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Introduction",
+          "text": "Please note that this Privacy Policy does not apply where Anysphere acts as a data processor and processes personal data on behalf of commercial customers using our commercial services, for example, if your employer has provisioned a Cursor account for you to use at work.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "Introduction",
+          "text": "Our use of that data is governed by our customer agreements covering access to and use of those offerings.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "1. Personal data we collect",
+          "text": "We collect the following categories of personal data: A.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "1. Personal data we collect",
+          "text": "**Personal data you provide to us directly** We collect personal data if you create an account to use our Service or communicate with us.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "1. Personal data we collect",
+          "text": "This includes: - **Account Information:** Anysphere collects identifiers, such as your name and email address, when you sign up for an Anysphere account or to receive information about our Service.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "1. Personal data we collect",
+          "text": "- **Payment Information:** We collect your payment information if you seek to access any paid products and services, or initiate payment for products and services.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "1. Personal data we collect",
+          "text": "- **Inputs and Suggestions:** The Service allows you to submit content (\"Inputs\"), which generate responses (\"Suggestions\") based on your Inputs.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "1. Personal data we collect",
+          "text": "If you include personal data or reference external content in your Inputs, we will collect that information and it may be reproduced in the Suggestions we provide.",
+          "labels": []
+        },
+        {
+          "id": "S16",
+          "section": "1. Personal data we collect",
+          "text": "- **Communication Information:** If you communicate with us, we collect your name, contact information, and the contents of any messages you send.",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "1. Personal data we collect",
+          "text": "- **Feedback:** While using the Service, you may provide feedback, including ideas and suggestions for improvement or rating a Suggestion in response to an Input (\"Feedback\").",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "1. Personal data we collect",
+          "text": "If you provide Feedback on the Service, we may store the entire exchange as part of your Feedback.",
+          "labels": []
+        },
+        {
+          "id": "S19",
+          "section": "1. Personal data we collect",
+          "text": "B.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "1. Personal data we collect",
+          "text": "**Personal data we receive from your use of the Service** When you use the Service, we also receive certain technical data automatically.",
+          "labels": []
+        },
+        {
+          "id": "S21",
+          "section": "1. Personal data we collect",
+          "text": "This includes: - **Device Information.** Your device or browser automatically sends us information about when and how you install, access, or use our Service.",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "1. Personal data we collect",
+          "text": "This information may include your device type, browser information, operating system information, and mobile network or ISP.",
+          "labels": []
+        },
+        {
+          "id": "S23",
+          "section": "1. Personal data we collect",
+          "text": "This information may depend on your settings and the type of device you use to access the Service.",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "1. Personal data we collect",
+          "text": "- **Log Information.** We collect information about how our Service is performing, including your IP address, browser type and settings, error logs, and other ways that you interact with the Service.",
+          "labels": []
+        },
+        {
+          "id": "S25",
+          "section": "1. Personal data we collect",
+          "text": "- **Usage Data.** We collect information about your use of the Service, such as the dates and times of access, browsing history, search, information about the links you click, pages you view, and other information about how you use the Service, and technology on the devices you use to access the Service.",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "1. Personal data we collect",
+          "text": "- **Cookies & Similar Technologies.** We and our service providers utilize cookies, pixels, scripts, or similar technologies to operate and manage the Service and improve your experience.",
+          "labels": []
+        },
+        {
+          "id": "S27",
+          "section": "1. Personal data we collect",
+          "text": "These technologies help us to recognize you, customize or personalize your experience, market additional products or services to you, and analyze and optimize your use of the Service, for example to help maintain your preferences.",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "1. Personal data we collect",
+          "text": "For more details about how we use these technologies, please visit our Cookie Policy.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "1. Personal data we collect",
+          "text": "- **Location Information.** For security and performance reasons, for example to detect unusual login activity or provide more useful Suggestions, we may determine the geographic location from which your device accesses our Service using information such as your IP address.",
+          "labels": []
+        },
+        {
+          "id": "S30",
+          "section": "1. Personal data we collect",
+          "text": "C.",
+          "labels": []
+        },
+        {
+          "id": "S31",
+          "section": "1. Personal data we collect",
+          "text": "**Information We Do Not Collect** Anysphere does not knowingly collect sensitive or special category personal information, such as genetic data, biometric data for the purposes of uniquely identifying a natural person, health information, or religious information.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "1. Personal data we collect",
+          "text": "Additionally, Anysphere does not knowingly collect information from or direct any of our Service or content to children under the age of 18.",
+          "labels": []
+        },
+        {
+          "id": "S33",
+          "section": "1. Personal data we collect",
+          "text": "If we learn or have reason to suspect that a user is under the age of 18, we will investigate and, if appropriate, delete the personal data and/or the account.",
+          "labels": []
+        },
+        {
+          "id": "S34",
+          "section": "2. How we use personal data",
+          "text": "We may use personal data for the following purposes: - To provide and maintain the Service, including optional features that enhance functionality and user experience.",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "2. How we use personal data",
+          "text": "- To create, manage, and administer your account, including facilitating payments and responding to inquiries.",
+          "labels": []
+        },
+        {
+          "id": "S36",
+          "section": "2. How we use personal data",
+          "text": "- To improve and develop the Service and conduct research, including debugging and identifying or repairing issues that impair functionality.",
+          "labels": []
+        },
+        {
+          "id": "S37",
+          "section": "2. How we use personal data",
+          "text": "- To communicate with you, including sending updates, information about the Service, and events.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "2. How we use personal data",
+          "text": "- To prevent, detect, and investigate fraud, abuse, security incidents, and violations of our Terms of Service.",
+          "labels": []
+        },
+        {
+          "id": "S39",
+          "section": "2. How we use personal data",
+          "text": "- To comply with legal obligations and protect the rights, safety, privacy, and property of users, Anysphere, or third parties.",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "2. How we use personal data",
+          "text": "- To investigate and resolve disputes or security issues.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "2. How we use personal data",
+          "text": "- To enforce our Terms of Service and other applicable agreements.",
+          "labels": []
+        },
+        {
+          "id": "S42",
+          "section": "2. How we use personal data",
+          "text": "We do not use Inputs or Suggestions to train our models, or permit third parties to use them for training, unless: (1) they are flagged for security review (in which case we may analyze them to improve our ability to detect and enforce our Terms of Service), (2) you explicitly report them to us (for example, as Feedback), or (3) you've explicitly agreed to their use for such training purposes.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "2. How we use personal data",
+          "text": "You can find instructions in the Service on how to manage your preferences regarding the use of Inputs and Suggestions for training.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "2. How we use personal data",
+          "text": "We may aggregate or de-identify personal data so that it no longer identifies you, and use that information for the purposes described above, such as analyzing how the Service is used, improving or adding features, and conducting research.",
+          "labels": []
+        },
+        {
+          "id": "S45",
+          "section": "2. How we use personal data",
+          "text": "We will maintain de-identified information in its de-identified form and will not attempt to reidentify it, except as required by law.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "2. How we use personal data",
+          "text": "We may disclose your personal data in the following circumstances: - **Service Providers and Business Partners:** We may disclose personal data to third-party vendors and service providers who support our business operations and help us deliver and improve the Service.",
+          "labels": []
+        },
+        {
+          "id": "S47",
+          "section": "2. How we use personal data",
+          "text": "This includes third-party hosting, cloud infrastructure, model, analytics, customer support, safety monitoring, communications, payment processing, compliance services, and IT providers.",
+          "labels": []
+        },
+        {
+          "id": "S48",
+          "section": "2. How we use personal data",
+          "text": "These parties process personal data only as necessary to perform services on our behalf, consistent with our and your instructions and applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "2. How we use personal data",
+          "text": "- **Business Transfers:** In the event of a merger, acquisition, restructuring, bankruptcy, or other corporate transaction, personal data may be disclosed to counterparties and advisers as part of due diligence or transferred as part of the transaction.",
+          "labels": []
+        },
+        {
+          "id": "S50",
+          "section": "2. How we use personal data",
+          "text": "- **Legal Compliance and Protection of Rights:** We may disclose personal data to government authorities or other third parties if we believe doing so is necessary to: (i) comply with applicable laws, regulations, or legal processes, (ii) respond to lawful requests or investigations, (iii) protect the safety, rights, or property of any person, (iv) prevent fraud, security incidents, or other unlawful activity, (v) enforce our Terms of Service or other legal rights, or (vi) protect Anysphere against legal liability.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "2. How we use personal data",
+          "text": "- **Affiliates:** We may share personal data with affiliates, meaning an entity that controls, is controlled by, or is under common control with, us.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "2. How we use personal data",
+          "text": "They may use personal data in a manner consistent with this Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "2. How we use personal data",
+          "text": "- **Third-Party Services and Integrations:** The Service may include integrations with or links to third-party websites, applications, or services.",
+          "labels": []
+        },
+        {
+          "id": "S54",
+          "section": "2. How we use personal data",
+          "text": "If you choose to interact with these third parties, your personal data may be disclosed to them directly and governed by their own terms and privacy policies.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "2. How we use personal data",
+          "text": "Our linking or integrating with a third party does not imply endorsement or affiliation.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "2. How we use personal data",
+          "text": "- **Business Account Administrators:** If you create an account using an email associated with an organization (e.g., your employer), we may disclose account-related information (such as your email address and account status) to that organization.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "2. How we use personal data",
+          "text": "If you're part of a business or enterprise account, administrators may access and manage your use of the Service.",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "2. How we use personal data",
+          "text": "- **Other Users and Third Parties You Share Information With:** Certain features of the Service may allow you to share Inputs, Suggestions, or other content with other users or third-party applications.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "2. How we use personal data",
+          "text": "Any information you voluntarily share with those parties is subject to their respective terms and privacy policies.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "2. How we use personal data",
+          "text": "- **With Your Consent:** We may disclose personal data when you give us permission to do so, including through features of the Service that are designed to share information.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "2. How we use personal data",
+          "text": "**Subprocessors:** For commercial uses of the Service where Anysphere acts as a data processor, you can review the third parties we engage on at trust.cursor.com/subprocessors.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "4. Retention",
+          "text": "Anysphere retains your personal data only for as long as necessary to operate the Service effectively and to support legitimate business needs such as legal compliance, safety, dispute resolution, and enforcement of our agreements.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "4. Retention",
+          "text": "The appropriate retention period varies depending on the purpose for which the personal data was collected, its sensitivity, potential risks associated with its use or exposure, and any applicable legal requirements.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "4. Retention",
+          "text": "Your settings may also influence how long we keep certain types of data.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "4. Retention",
+          "text": "For instance, some temporary interactions with the Service may not appear in your history and could be stored for a limited duration for purposes related to safety and system monitoring.",
+          "labels": []
+        },
+        {
+          "id": "S66",
+          "section": "4. Retention",
+          "text": "When personal data is no longer needed, Anysphere and its service providers will follow procedures to delete, erase, de-identify, or anonymize it in compliance with applicable laws.",
+          "labels": []
+        },
+        {
+          "id": "S67",
+          "section": "5. Security",
+          "text": "We implement commercially reasonable technical and organizational measures designed to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "5. Security",
+          "text": "However, please remember that no method of transmission over the Internet or method of electronic storage is completely secure.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "5. Security",
+          "text": "You should use caution when deciding what information to share with the Service.",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "5. Security",
+          "text": "We are not responsible for any circumvention of privacy settings or security features on the Service or on third-party websites linked through the Service.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "6. Your rights and choices",
+          "text": "Depending on where you live and the laws that apply in your country of residence, you may have certain rights in relation to your personal data.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "6. Your rights and choices",
+          "text": "These may include the right to access, delete, correct, or transfer your personal data; to object to or restrict how we process it; or to withdraw your consent where processing is based on consent.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "6. Your rights and choices",
+          "text": "You may also have the right to lodge a complaint with your local data protection authority.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "6. Your rights and choices",
+          "text": "To exercise any of these rights, you or your authorized agent may contact us at hi@cursor.com.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "6. Your rights and choices",
+          "text": "We may request information to verify your identity before processing your request.",
+          "labels": []
+        },
+        {
+          "id": "S76",
+          "section": "6. Your rights and choices",
+          "text": "If we deny your request, you may appeal by emailing the same address.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "6. Your rights and choices",
+          "text": "Anysphere will not discriminate against you for exercising any privacy rights available under applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "6. Your rights and choices",
+          "text": "The rights available to you may include: - Right to know what categories of personal data we collect, the purposes for which we use it, and the types of third parties with whom we share it.",
+          "labels": []
+        },
+        {
+          "id": "S79",
+          "section": "6. Your rights and choices",
+          "text": "- Access and portability, meaning you can request a copy of the personal data we hold about you and, where applicable, ask us to provide it in a portable format.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "6. Your rights and choices",
+          "text": "- Deletion of personal data collected from you in connection with your use of the Service, subject to certain exceptions.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "6. Your rights and choices",
+          "text": "- Correction of inaccurate personal data we maintain about you.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "6. Your rights and choices",
+          "text": "Please note that while we'll make reasonable efforts to address correction requests, due to the nature of our models, we cannot guarantee the accuracy of Suggestions generated by the Service.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "6. Your rights and choices",
+          "text": "- Objection to certain types of processing.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "6. Your rights and choices",
+          "text": "Where applicable, we will stop processing unless we have legitimate legal grounds to continue.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "6. Your rights and choices",
+          "text": "- Restriction of our processing of your personal data in limited circumstances, such as while a correction request is pending.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "6. Your rights and choices",
+          "text": "- Withdrawal of consent, where the legal basis for our processing is based on your consent.",
+          "labels": []
+        },
+        {
+          "id": "S87",
+          "section": "6. Your rights and choices",
+          "text": "Withdrawal does not affect the lawfulness of prior processing.",
+          "labels": []
+        },
+        {
+          "id": "S88",
+          "section": "6. Your rights and choices",
+          "text": "- No automated decisions: Anysphere does not make decisions based solely on automated processing that impact your legal rights or has similarly significant effects (e.g.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "6. Your rights and choices",
+          "text": "your healthcare or financial circumstances).",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "6. Your rights and choices",
+          "text": "- We do not process sensitive personal data for the purposes of inferring characteristics about a consumer.",
+          "labels": []
+        },
+        {
+          "id": "S91",
+          "section": "6. Your rights and choices",
+          "text": "Anysphere processes your personal data for the purposes described in this Privacy Policy on servers located in various jurisdictions, including in the United States.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "6. Your rights and choices",
+          "text": "While data protection laws vary by country, we apply the protections outlined in this policy to your personal data regardless of where it is processed, and we only transfer data in accordance with legally valid transfer mechanisms.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "6. Your rights and choices",
+          "text": "For users in the European Economic Area, (\"EEA\"), when you access our Service, your personal data may be transferred to our United States servers to other countries outside the EEA and the UK.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "6. Your rights and choices",
+          "text": "Where information is transferred outside the EEA or the UK, we require an adequate level of data protection.",
+          "labels": []
+        },
+        {
+          "id": "S95",
+          "section": "7. Google user data in Grok Bot",
+          "text": "When you connect a Google account to Grok Bot, it accesses only the Google data needed for the features you turn on: - **Gmail:** to read, search and label your email, and to draft or send email when you ask.",
+          "labels": []
+        },
+        {
+          "id": "S96",
+          "section": "7. Google user data in Grok Bot",
+          "text": "- **Google Calendar:** to read your calendars and availability, and to create or update events when you ask.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "7. Google user data in Grok Bot",
+          "text": "- **Google Drive:** to find, read, create and edit the files you ask Grok Bot to work with.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "7. Google user data in Grok Bot",
+          "text": "- **Google Docs, Sheets and Slides:** to read and edit the documents, spreadsheets and presentations you ask Grok Bot to work with.",
+          "labels": []
+        },
+        {
+          "id": "S99",
+          "section": "7. Google user data in Grok Bot",
+          "text": "- **Your Google account email:** to identify the connected account.",
+          "labels": []
+        },
+        {
+          "id": "S100",
+          "section": "7. Google user data in Grok Bot",
+          "text": "**How we use it.** Grok Bot uses Google user data only to provide the features you request.",
+          "labels": []
+        },
+        {
+          "id": "S101",
+          "section": "7. Google user data in Grok Bot",
+          "text": "We don't use it for advertising and we don't sell it.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "7. Google user data in Grok Bot",
+          "text": "We share it only as needed to provide those features, for security, or to comply with the law.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "7. Google user data in Grok Bot",
+          "text": "**AI training.** For users who opt to connect to Google Apps via Google OAuth, we shall not use any Google Apps content for any of our internal AI or other training purposes (such as training our machine learning models), including developing new products or services based on such content.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "7. Google user data in Grok Bot",
+          "text": "**People.** Our staff don't read your Google data unless you ask us to (for example, for support), for security investigations, or to comply with the law.",
+          "labels": []
+        },
+        {
+          "id": "S105",
+          "section": "7. Google user data in Grok Bot",
+          "text": "**Storage and deletion.** Grok Bot keeps conversations, including any Google data in them, until you delete the bot or your account.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "7. Google user data in Grok Bot",
+          "text": "Team admins can set a retention period of 30 to 365 days, after which messages and attachments are deleted automatically.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "7. Google user data in Grok Bot",
+          "text": "You can disconnect Google at any time in Grok Bot or in your Google Account settings, and disconnecting immediately deletes the Google tokens we hold.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "7. Google user data in Grok Bot",
+          "text": "**Limited Use.** Grok Bot's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.",
+          "labels": []
+        },
+        {
+          "id": "S109",
+          "section": "8. Privacy policy changes",
+          "text": "We may update this Privacy Policy from time to time.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "8. Privacy policy changes",
+          "text": "When we do, we will publish an updated version and effective date at the top of this page, unless another type of notice is legally required.",
+          "labels": []
+        },
+        {
+          "id": "S111",
+          "section": "8. Privacy policy changes",
+          "text": "Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.",
+          "labels": []
+        },
+        {
+          "id": "S112",
+          "section": "8. Privacy policy changes",
+          "text": "We encourage you to contact us at hi@cursor.com if you have any questions about this Privacy Policy.",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}
