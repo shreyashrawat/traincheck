@@ -1,0 +1,3563 @@
+{
+  "policy_id": "google-gemini",
+  "source_url": "https://policies.google.com/privacy?gl=US&hl=en-US",
+  "annotator": "ai-pass1",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy \u2013 Privacy & Terms \u2013 Google\n\n## Information Google collects\n\n## We want you to understand the types of information we collect as you use our services\n\nWe collect information to provide better services to all our users \u2014 from figuring out basic stuff like which language you speak, to more complex things like which ads you\u2019ll find most useful, the people who matter most to you online, or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.\n\nGoogle also collects and uses data that is not associated with your account. For example, when you\u2019re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you\u2019re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity across devices.\n\nWhen you\u2019re signed in, we also collect information that we store with your Google Account, which we treat as personal information.\n\n## Things you create or provide to us\n\nWhen you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren\u2019t signed in to a Google Account, you might choose to provide us with information \u2014 like an email address to communicate with Google or receive updates about our services.\n\nWe also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.\n\n## Information we collect as you use our services\n\n### Your apps, browsers & devices\n\nWe collect information about the apps, browsers, and devices you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.\n\nThe information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.\n\nWe collect this information when a Google service on your device contacts our servers \u2014 for example, when you install an app from the Play Store or when a service checks for automatic updates. If you\u2019re using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you\u2019re using your Android device.\n\n### Your activity\n\nWe collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:\n\n- Terms you search for\n\n- Videos you watch\n\n- Views and interactions with content and ads\n\n- Media (like images, files, audio and video) from your interactions\n\n- Purchase activity\n\n- People with whom you communicate or share content\n\n- Activity on third-party sites and apps that use our services\n\n- Chrome browsing history you\u2019ve synced with your Google Account\n\nIf you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.\n\nYou can visit your Google Account to find and manage activity information that\u2019s saved in your history.\n\n### Your location information\n\nWe collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.\n\nDepending on the products you\u2019re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:\n\n- GPS and other sensor data from your device\n\n- IP address\n\n- Activity on Google services, such as from your searches or places you label like home or work\n\n- Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices\n\nThe types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can turn your Android device\u2019s location on or off using the device\u2019s settings app. You can also turn on Timeline if you want to create a private map of where you go with your signed-in devices. Depending on your settings, your searches and other activity from Google services, which may also include location information, are saved as history to your Google Account. For example, activity from services like Search, Maps, and Shopping is saved to Search Services History, and your activity on some other Google sites and apps is saved to Web & App Activity. Learn more about how we use location information.\n\n---\n\nIn some circumstances, Google also collects information about you from publicly accessible sources. For example, if your name appears in your local newspaper, Google\u2019s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google\u2019s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse. We also receive information from partners to provide advertising and research services on their behalf.\n\nWe use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs.\n\n## Why Google collects data\n\n## We use data to build better services\n\nWe use the information we collect from all our services for the following purposes:\n\n### Provide our services\n\nWe use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.\n\n### Maintain & improve our services\n\nWe also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us. And we use your information to make improvements to our services \u2014 for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.\n\n### Develop new services\n\nWe use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa, Google\u2019s first photos app, helped us design and launch Google Photos.\n\n### Provide personalized services, including content and ads\n\nWe use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you\u2019ve already installed and videos you\u2019ve watched on YouTube to suggest new apps you might like. You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service. For example, Search may process some of the data that you allow Search to access to personalize content, including ads.\n\nDepending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services. For example, if you search for \u201cmountain bikes,\u201d in Search you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.\n\n- We don\u2019t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.\n\n- We don\u2019t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.\n\n- We don\u2019t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the \u201ctap to call\u201d button, we\u2019ll connect your call and may share your phone number with the flower shop.\n\n### Measure performance\n\nWe use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including ad and analytics services. When you visit sites or use apps that use Google\u2019s ad or analytics services, those services may link information about your activity from that site or app with activity from other sites or apps that use our services.\n\n### Communicate with you\n\nWe use information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we\u2019ll keep a record of your request in order to help solve any issues you might be facing.\n\n### Protect Google, our users, and the public\n\nWe use information to help improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.\n\n---\n\nWe use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like tailored search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us detect abuse such as spam, malware, and illegal content. We also use algorithms to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.\n\nWe may use the information we collect across our services and across your devices for the purposes described above. For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google\u2019s services and the ads delivered by Google.\n\nIf other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.\n\nWe\u2019ll ask for your consent before using your information for a purpose that isn\u2019t covered in this Privacy Policy.\n\n## Compliance & cooperation with regulators\n\nWe regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.\n\n## Data transfers\n\nWe maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data.\n\nWhen we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.\n\n## U.S. state law requirements\n\nSome U.S. state privacy laws require specific disclosures.\n\nThis Privacy Policy is designed to help you understand how Google handles your information:\n\n- We explain the categories of information Google collects and the sources of that information in Information Google collects.\n\n- We explain the purposes for which Google collects and uses information in Why Google collects data.\n\n- We explain when Google may disclose information in Sharing your information. Google does not sell your personal information. Google also does not \u201cshare\u201d your personal information as that term is defined in the California Consumer Privacy Act (CCPA).\n\n- We explain how Google retains information in Retaining your information. You can also learn more about how Google anonymizes data. As described there, when Google anonymizes data to protect your privacy, we maintain policies and technical measures to avoid re-identifying that information.\n\nU.S. state privacy laws also provide the right to request information about how Google collects, uses, and discloses your information. And they give you the right to access your information, sometimes in a portable format; correct your information; and to request that Google delete that information. Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising. They also provide the right to not be discriminated against for exercising these privacy rights. Additionally, the CCPA treats certain kinds of information, like health data, as sensitive; when users provide this information, Google only uses it for purposes permitted by the CCPA, like to provide services that are requested and expected by our users.\n\nThe Washington My Health My Data Act and Nevada Senate Bill 370 provide specific rights in addition to those rights above, that apply to health information. When you provide health information subject to these laws, Google processes it with your consent, which you may withdraw, or as otherwise permitted by these laws.\n\nWe describe the choices you have to manage your privacy and data across Google\u2019s services in Your privacy controls. These tools allow you to access, review, update and delete your information, as well as export and download a copy of it. You can also control what information we use to show you ads, or turn off personalized ads, by visiting My Ad Center.\n\nWhen you use these tools, we\u2019ll validate your request by verifying that you\u2019re signed in to your Google Account. If you have questions or requests related to your rights under U.S. state privacy laws, you (or your authorized agent) can also contact Google. And if you disagree with the decision on your request, you can ask Google to reconsider it by responding to our email.\n\nWe also provide more information on Google\u2019s handling of CCPA requests.\n\nSome U.S. state privacy laws also require a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.\n\n### Categories of information we collect\n\n**Identifiers and similar information** such as your name and password, phone number, and address, as well as unique identifiers tied to the browser, application, or device you\u2019re using. Some Google services like YouTube Studio provide the option to submit a valid ID (such as a passport or driver\u2019s license) to verify your identity to use additional features.\n\n**Demographic information**, such as your age, gender and language. If you choose to use optional features like YouTube Creator Demographics, you can also provide additional information, like your gender identity or race and ethnicity.\n\n**Commercial information** such as your payment information and a history of purchases you make on Google\u2019s services.\n\n**Biometric information** if you choose to provide it, such as fingerprints in Google\u2019s product development studies.\n\n**Internet, network, and other activity information** such as your search terms; views and interactions with content and ads; Chrome browsing history you\u2019ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in My Activity.\n\n**Geolocation data**, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings. Depending on these settings, this may include **precise location data**, for example GPS data for Android features like navigation or finding your phone. Learn more about Google\u2019s use of location information.\n\n**Audio, electronic, visual, and similar information**, including media (like images, files, audio and video) from your interactions\n\n**Communications data**, such as emails, if you use our services to send and receive messages.\n\n**Health information** if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices.\n\n**Professional, employment, and education information**, such as information you provide or that is maintained through an organization using Google services at which you study or work.\n\n**Other information you create or provide**, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets). Google Dashboard allows you to manage information associated with specific products.\n\n**Inferences** drawn from the above, like your ads interest categories.\n\n### Business purposes for which information may be used or disclosed\n\n**Protecting against security threats, abuse, and illegal activity**: Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity. For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised.\n\n**Auditing and measurement**: Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders. We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes.\n\n**Maintaining our services**: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.\n\n**Research and development**: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google\u2019s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities.\n\n**Use of service providers**: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.\n\n**Advertising**: Google processes information to provide advertising, including online identifiers, browsing and search activity, and information about your location and interactions with advertisements. This keeps Google\u2019s services and many of the websites and services you use free of charge. You can control what information we use to show you ads by visiting your ad settings in My Ad Center.\n\n**Legal reasons**: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement. We provide information about the number and type of requests we receive from governments in our Transparency Report.\n\n### Parties with whom information may be disclosed\n\n**Other people with whom you choose to share your information**, like docs or photos, videos or comments on YouTube, or health information through Fitbit\u2019s social features and third party applications.\n\n**Third parties with your consent**, such as services that integrate with Google\u2019s services. You can review and manage third party apps and sites with access to data in your Google Account. See more details about when Google shares your information.\n\n**Service providers**, trusted businesses, or persons that process information on Google\u2019s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.\n\nDomain administrators, if you work or study at an organization that uses Google services.\n\n**Law enforcement or other third parties**, for the legal reasons described in Sharing your information.\n\n## Key terms\n\n### Affiliates\n\nAn affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the companies providing business services in the EU.\n\n### Algorithm\n\nA process or set of rules followed by a computer in performing problem-solving operations.\n\n### Application data cache\n\nAn application data cache is a data repository on a device. It can, for example, enable a web application to run without an internet connection and improve the performance of the application by enabling faster loading of content.\n\n### Browser web storage\n\nBrowser web storage enables websites to store data in a browser on a device. When used in \"local storage\" mode, it enables data to be stored across sessions. This makes data retrievable even after a browser has been closed and reopened. One technology that facilitates web storage is HTML 5.\n\nA cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the site again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. Learn more about how Google uses cookies and how Google uses data, including cookies, when you use our partners' sites or apps.\n\n### Device\n\nA device is a computer that can be used to access Google services. For example, desktop computers, tablets, smart speakers, and smartphones are all considered devices.\n\n### Google Account\n\nYou may access some of our services by signing up for a Google Account and providing us with some personal information (typically your name, email address, and a password). This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others. You can edit or delete your account at any time through your Google Account settings.\n\n### IP address\n\nEvery device connected to the Internet is assigned a number known as an Internet protocol (IP) address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet. Learn more about how we use location information.\n\n### Non-personally identifiable information\n\nThis is information that is recorded about users so that it no longer reflects or references an individually-identifiable user.\n\n### Personal information\n\nThis is information that you provide to us which personally identifies you, such as your name, email address, or billing information, or other data that can be reasonably linked to such information by Google, such as information we associate with your Google Account.\n\n### Pixel tag\n\nA pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.\n\n### Referrer URL\n\nA Referrer URL (Uniform Resource Locator) is information transmitted to a destination webpage by a web browser, typically when you click a link to that page. The Referrer URL contains the URL of the last webpage the browser visited.\n\n### Sensitive personal information\n\nThis is a particular category of personal information relating to topics such as confidential medical facts, racial or ethnic origins, political or religious beliefs, or sexuality.\n\n### Server logs\n\nLike most websites, our servers automatically record the page requests made when you visit our sites. These \u201cserver logs\u201d typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.\n\nA typical log entry for a search for \u201ccars\u201d looks like this:\n\n```\n123.45.67.89 - 25/Mar/2003 10:15:32 -\n\nhttp://www.google.com/search?q=cars -\n\nChrome 112; OS X 10.15.7 -\n\n740674ce2123e969\n```\n\n- `123.45.67.89` is the Internet Protocol address assigned to the user by the user\u2019s ISP. Depending on the user\u2019s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.\n\n- `25/Mar/2003 10:15:32` is the date and time of the query.\n\n- `http://www.google.com/search?q=cars` is the requested URL, including the search query.\n\n- `Chrome 112; OS X 10.15.7` is the browser and operating system being used.\n\n- `740674ce2123a969` is the unique cookie ID assigned to this particular computer the first time it visited Google. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time they\u2019ve visited Google, then it will be the unique cookie ID assigned to their device the next time they visit Google from that particular device).\n\n### Unique identifiers\n\nA unique identifier is a string of characters that can be used to uniquely identify a browser, app, or device. Different identifiers vary in how permanent they are, whether they can be reset by users, and how they can be accessed.\n\nUnique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising. For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. Learn more about how Google uses cookies.\n\nOn other platforms besides browsers, unique identifiers are used to recognize a specific device or app on that device. For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can be managed in your device\u2019s settings. Unique identifiers may also be incorporated into a device by its manufacturer (sometimes called a universally unique ID or UUID), such as the IMEI-number of a mobile phone. For example, a device\u2019s unique identifier can be used to customize our service to your device or analyze device issues related to our services.\n\n## Additional Context\n\n### Activity on Google Services\n\nFor example, if you\u2019re signed in to your Google Account and have Search Services History or Web & App Activity turned on, your activity data on Google sites, apps, and services that use those settings may be saved as history in your Google Account. Some activity may include information about the general area you were in when using the Google service. When you search for something using a general area, your search will use an area of at least 3 sq km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.\n\nIn some cases, depending on your personalization settings like Personalized Recommendations in Search services, areas that you have searched from in the past may be used to estimate a relevant location for your search. For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.\n\nYou can view and control your Search Services History and Web & App Activity at My Activity.\n\n### activity on third-party sites and apps that use our services\n\nWebsites and apps that integrate Google services like ads and analytics share information with us.\n\nThis information is shared regardless of which browser or browser mode you use. For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third party sites and apps that integrate our services still share information with Google when you visit them.\n\nYou can learn more about some of the ways you can control the information that is shared when you visit or interact with sites and apps that use Google services.\n\n### ads you\u2019ll find most useful\n\nFor example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for \u201cpizza.\u201d Learn more about Google ads and why you may see particular ads.\n\nFor example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns. We only provide aggregated reports to advertisers that don\u2019t reveal information about individual people.\n\n### Android device with Google apps\n\nAndroid devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions. These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone\u2019s camera and phone dialer, text-to-speech conversion, keyboard input, and security features. Learn more about Google Play Services.\n\n### deliver our services\n\nExamples of how we use your information to deliver our services include:\n\n- We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video\n\n- We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account\n\n- Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share.\n\n- A flight confirmation email you receive may be used to create a \u201ccheck-in\u201d button that appears in your Gmail\n\n- When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.\n\n### detect abuse\n\nWhen we detect spam, malware, illegal content (including child sexual abuse and exploitation material), and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.\n\n### devices\n\nFor example, we can use information from your devices to help you decide which device you\u2019d like to use to install an app or view a movie you buy from Google Play. We also use this information to help protect your account.\n\n### ensure and improve\n\nFor example, we analyze how people interact with advertising to improve the performance of our ads.\n\n### ensure our services are working as intended\n\nFor example, we continuously monitor our systems to look for problems. And if we find something wrong with a specific feature, reviewing activity information collected before the problem started allows us to fix things more quickly.\n\n### Information about things near your device\n\nIf you use Google\u2019s Location services on Android, we can improve the performance of apps that rely on your location, like Google Maps. If you use Google\u2019s Location services, your device sends information to Google about its location, sensors (like accelerometer), and nearby cell towers and Wi-Fi access points (like MAC address and signal strength). All these things help to determine your location. You can use your device settings to enable Google Location services. Learn more\n\n### legal process, or enforceable governmental request\n\nLike other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data. Respect for the privacy and security of data you store with Google underpins our approach to complying with these legal requests. Our legal team reviews each and every request, regardless of type, and we frequently push back when a request appears to be overly broad or doesn\u2019t follow the correct process. Learn more in our Transparency Report.\n\n### make improvements\n\nFor example, we use cookies to analyze how people interact with our services. And that analysis can help us build better products. For example, it may help us discover that it\u2019s taking people too long to complete a certain task or that they have trouble finishing steps at all. We can then redesign that feature and improve the product for everyone.\n\n### may link information\n\nFor example, a customer may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to cookies and other technologies that are related to visits to other websites and apps. Learn more\n\n### Media (like images, files, audio and video) from your interactions\n\nFor example, you can interact with many Google services using your device\u2019s microphone or camera, or by uploading multimedia like files, images, screenshots, audio, and video. When your device detects an audio activation command, like \u201cHey Google,\u201d Google records your voice and audio plus a few seconds before the activation.\n\n### our users\n\nFor example, to prevent abuse and increase transparency and accountability over our online content moderation practices, Google shares data about requests for removal of content from our services with Lumen, which collects and analyzes these requests to facilitate research to help Internet users understand their rights. Learn more.\n\n### partner with Google\n\nThere are over 2 million non-Google websites and apps that partner with Google to show ads. Learn more\n\n### payment information\n\nFor example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this.\n\nWe may also use payment information to verify that you meet age requirements, if, for example, you enter an incorrect birthday indicating you\u2019re not old enough to have a Google Account. Learn more\n\n### Performance of their ad campaigns.\n\nLearn more about the technologies used for advertising.\n\n### personalize content\n\nIf you choose to allow certain services to process data from other services, including for features such as Personal Intelligence, the same data may be used to personalize your experience. For example, if you ask Search a question about a recent hotel booking, Search may use information about booking details from an email to help suggest things to do near your hotel. Learn more about Personal Intelligence.\n\n### personalized ads\n\nYou may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads. Learn more\n\n### phone number\n\nIf you add your phone number to your account, it can be used for different purposes across Google services, depending on your settings. For example, your phone number can be used to help you access your account if you forget your password, help people find and connect with you, and make the ads you see more relevant to you. Learn more\n\n### Places you label like home and work\n\nYou might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for ads.\n\nYou can edit or delete your home or work addresses anytime in your Google Account.\n\n### protect against abuse\n\nFor example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account).\n\n### publicly accessible sources\n\nFor example, we may collect information that\u2019s publicly available online or from other public sources to help train Google\u2019s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. Or, if your business\u2019s information appears on a website, we may index and display it on Google services.\n\nFor example, we use a cookie called \u2018lbcs\u2019 that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected. Learn more\n\n### safety and reliability\n\nSome examples of how we use your information to help keep our services safe and reliable include:\n\n- Collecting and analyzing IP addresses and cookie data to protect against automated abuse. This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads, or censoring content by launching a Distributed Denial of Service (DDoS) attack.\n\n- The \u201clast account activity\u201d feature in Gmail can help you find out if and when someone accessed your email without your knowledge. This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location, and the date and time of access. Learn more\n\n### search results\n\nFor example, when you\u2019re signed in to your Google Account and have the Personalized Recommendations in Search services control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. Learn more about Personalized Recommendations in Search services. You may also get customized search results even when you\u2019re signed out. If you don\u2019t want this level of search customization, you can search and browse privately or turn off signed-out search customization.\n\n### sensitive categories\n\nWhen showing you personalized ads, we use topics that we think might be of interest to you based on your activity. For example, you may see ads for things like \"Cooking and Recipes\" or \"Air Travel.\u201d We don\u2019t use topics or show personalized ads based on sensitive categories like race, religion, sexual orientation, or health. And we require the same from advertisers that use our services.\n\n### Sensor data from your device\n\nYour device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel. Learn more about how we use location information.\n\n### servers around the world\n\nFor example, we operate data centers located around the world to help keep our products continuously available for users.\n\n### services to make and receive calls or send and receive messages\n\nExamples of these services include:\n\n- Google Voice, for making and receiving calls, sending text messages, and managing voicemail\n\n- Google Meet, for making and receiving video calls\n\n- Gmail, for sending and receiving emails\n\n- Google Chat, for sending and receiving messages\n\n- Google Duo, for making and receiving video calls and sending and receiving messages\n\n- Google Fi, for a phone plan\n\n### show trends\n\nWhen lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms.\n\n### similar information related to your physical or mental health\n\nIf you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.\n\n### specific Google services\n\nFor example, you can delete your blog from Blogger or a Google Site you own from Google Sites. You can also delete reviews you\u2019ve left on apps, games, and other content in the Play Store.\n\n### specific partners\n\nFor example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies. Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings. Learn more about these partners and how they use your information.\n\n### synced with your Google Account\n\nYour Chrome browsing history is only saved to your account if you\u2019ve enabled Chrome synchronization with your Google Account. Learn more\n\n### the people who matter most to you online\n\nFor example, when you type an address in the To, Cc, or Bcc field of an email you're composing, Gmail will suggest addresses based on the people you contact most frequently.\n\n### the public\n\nFor example, we process information about requests to remove content from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability and prevent abuse and fraud in these practices.\n\n### third parties\n\nFor example, we process your information to report use statistics to rights holders about how their content was used in our services. We may also process your information if people search for your name and we display search results for sites containing publicly available information about you.\n\n### U.S. state privacy laws\n\nThese laws include:\n\n- California Consumer Privacy Act (CCPA);\n\n- Virginia Consumer Data Protection Act (VCDPA);\n\n- Colorado Privacy Act (CPA);\n\n- Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); and\n\n- Utah Consumer Privacy Act (UCPA)\n\n- Washington My Health My Data Act (MHDM)\n\n- Nevada Senate Bill 370\n\n- Florida Digital Bill of Rights (FDBR)\n\n- Texas Data Privacy and Security Act (TDPSA)\n\n- Oregon Consumer Privacy Act (OCPA)\n\n- Montana Consumer Data Privacy Act (MTCDPA)\n\n- New Jersey Senate Bill 332\n\n- New Hampshire Senate Bill 255\n\n- Nebraska Data Privacy Act (NEDPA)\n\n- Iowa Consumer Data Protection Act (IACDPA)\n\n- Delaware Personal Data Privacy Act (DPDPA)\n\n- Tennessee Information Protection Act (TIPA)\n\n- Minnesota Consumer Data Privacy Act (MNCDPA)\n\n- Maryland Online Data Privacy Act of 2024 (MDODPA)\n\n- Indiana Consumer Data Protection Act (INCDPA)\n\n- Kentucky Consumer Data Protection Act (KCDPA)\n\n- Rhode Island Data Transparency and Privacy Protection Act (RIDTPPA)\n\n### use the information we collect across our services\n\nDepending on your available settings, some examples of how we use the information we collect across our services include:\n\n- When you\u2019re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar. This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos.\n\n- If you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. This feature makes it easier to share things with people you know. Learn more\n\n- The Google app can use data that you have stored in other Google products to show you personalized content, depending on your settings. For example, if you have searches stored in your Search Services History and have turned on your Personalized Recommendations in Search services setting, the Google app can show you news articles and other information about your interests, like sports scores, based on your activity.\n\n- If you connect your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone. Learn more\n\n- If you\u2019re a user in the EU, the decisions you make on linking services will affect how certain Google services can use the data across our services.\n\n### Views and interactions with content and ads\n\nFor example, we collect information about views and interactions with ads so we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely seen by a viewer. We may also measure other interactions, such as how you move your mouse over an ad or if you interact with the page on which the ad appears.\n\n### your activity on other sites and apps\n\nThis activity might come from your use of Google services, like from syncing your account with Chrome or your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube). These services may share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.\n\nLearn more about how Google uses data when you use our partners' sites or apps.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "We want you to understand the types of information we collect as you use our services",
+          "text": "We collect information to provide better services to all our users \u2014 from figuring out basic stuff like which language you speak, to more complex things like which ads you\u2019ll find most useful, the people who matter most to you online, or which YouTube videos you might like.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S2",
+          "section": "We want you to understand the types of information we collect as you use our services",
+          "text": "The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S3",
+          "section": "We want you to understand the types of information we collect as you use our services",
+          "text": "Google also collects and uses data that is not associated with your account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S4",
+          "section": "We want you to understand the types of information we collect as you use our services",
+          "text": "For example, when you\u2019re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you\u2019re using.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S5",
+          "section": "We want you to understand the types of information we collect as you use our services",
+          "text": "This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity across devices.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S6",
+          "section": "We want you to understand the types of information we collect as you use our services",
+          "text": "When you\u2019re signed in, we also collect information that we store with your Google Account, which we treat as personal information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S7",
+          "section": "Things you create or provide to us",
+          "text": "When you create a Google Account, you provide us with personal information that includes your name and a password.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S8",
+          "section": "Things you create or provide to us",
+          "text": "You can also choose to add a phone number or payment information to your account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S9",
+          "section": "Things you create or provide to us",
+          "text": "Even if you aren\u2019t signed in to a Google Account, you might choose to provide us with information \u2014 like an email address to communicate with Google or receive updates about our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S10",
+          "section": "Things you create or provide to us",
+          "text": "We also collect the content you create, upload, or receive from others when using our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S11",
+          "section": "Things you create or provide to us",
+          "text": "This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S12",
+          "section": "Your apps, browsers & devices",
+          "text": "We collect information about the apps, browsers, and devices you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S13",
+          "section": "Your apps, browsers & devices",
+          "text": "The information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S14",
+          "section": "Your apps, browsers & devices",
+          "text": "We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S15",
+          "section": "Your apps, browsers & devices",
+          "text": "We collect this information when a Google service on your device contacts our servers \u2014 for example, when you install an app from the Play Store or when a service checks for automatic updates.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S16",
+          "section": "Your apps, browsers & devices",
+          "text": "If you\u2019re using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S17",
+          "section": "Your apps, browsers & devices",
+          "text": "This information includes things like your device type and carrier name, crash reports, which apps you've installed, and, depending on your device settings, other information about how you\u2019re using your Android device.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S18",
+          "section": "Your activity",
+          "text": "We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S19",
+          "section": "Your activity",
+          "text": "The activity information we collect may include: - Terms you search for - Videos you watch - Views and interactions with content and ads - Media (like images, files, audio and video) from your interactions - Purchase activity - People with whom you communicate or share content - Activity on third-party sites and apps that use our services - Chrome browsing history you\u2019ve synced with your Google Account If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S20",
+          "section": "Your activity",
+          "text": "You can visit your Google Account to find and manage activity information that\u2019s saved in your history.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S21",
+          "section": "Your location information",
+          "text": "We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S22",
+          "section": "Your location information",
+          "text": "Depending on the products you\u2019re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S23",
+          "section": "Your location information",
+          "text": "These include: - GPS and other sensor data from your device - IP address - Activity on Google services, such as from your searches or places you label like home or work - Information about things near your device, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices The types of location data we collect and how long we store it depend in part on your device and account settings.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S24",
+          "section": "Your location information",
+          "text": "For example, you can turn your Android device\u2019s location on or off using the device\u2019s settings app.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S25",
+          "section": "Your location information",
+          "text": "You can also turn on Timeline if you want to create a private map of where you go with your signed-in devices.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S26",
+          "section": "Your location information",
+          "text": "Depending on your settings, your searches and other activity from Google services, which may also include location information, are saved as history to your Google Account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S27",
+          "section": "Your location information",
+          "text": "For example, activity from services like Search, Maps, and Shopping is saved to Search Services History, and your activity on some other Google sites and apps is saved to Web & App Activity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S28",
+          "section": "Your location information",
+          "text": "Learn more about how we use location information.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "Your location information",
+          "text": "--- In some circumstances, Google also collects information about you from publicly accessible sources.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S30",
+          "section": "Your location information",
+          "text": "For example, if your name appears in your local newspaper, Google\u2019s Search engine may index that article and display it to other people if they search for your name.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S31",
+          "section": "Your location information",
+          "text": "We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google\u2019s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S32",
+          "section": "Your location information",
+          "text": "We also receive information from partners to provide advertising and research services on their behalf.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S33",
+          "section": "Your location information",
+          "text": "We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S34",
+          "section": "We use data to build better services",
+          "text": "We use the information we collect from all our services for the following purposes:",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "Provide our services",
+          "text": "We use your information to deliver our services, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S36",
+          "section": "Maintain & improve our services",
+          "text": "We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S37",
+          "section": "Maintain & improve our services",
+          "text": "And we use your information to make improvements to our services \u2014 for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S38",
+          "section": "Develop new services",
+          "text": "We use the information we collect in existing services to help us develop new ones.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S39",
+          "section": "Develop new services",
+          "text": "For example, understanding how people organized their photos in Picasa, Google\u2019s first photos app, helped us design and launch Google Photos.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S40",
+          "section": "Provide personalized services, including content and ads",
+          "text": "We use the information we collect to tailor our services for you, including providing customized and personalized experiences and recommendations, including things like content, and search results.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S41",
+          "section": "Provide personalized services, including content and ads",
+          "text": "For example, Security Checkup provides security tips adapted to how you use Google products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S42",
+          "section": "Provide personalized services, including content and ads",
+          "text": "And, depending on your available settings, Google Play could use information like apps you\u2019ve already installed and videos you\u2019ve watched on YouTube to suggest new apps you might like.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S43",
+          "section": "Provide personalized services, including content and ads",
+          "text": "You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use, such as Google Photos and Workspace apps like Gmail and Drive, in order to provide you with a more personalized experience, subject to the policies and settings of the accessing service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S44",
+          "section": "Provide personalized services, including content and ads",
+          "text": "For example, Search may process some of the data that you allow Search to access to personalize content, including ads.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S45",
+          "section": "Provide personalized services, including content and ads",
+          "text": "Depending on your settings, we may also show you personalized ads based on your interests, activity, or personalized content from Google services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S46",
+          "section": "Provide personalized services, including content and ads",
+          "text": "For example, if you search for \u201cmountain bikes,\u201d in Search you may see ads for sports equipment on YouTube.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S47",
+          "section": "Provide personalized services, including content and ads",
+          "text": "You can control what information we use to show you ads by visiting your ad settings in My Ad Center.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S48",
+          "section": "Provide personalized services, including content and ads",
+          "text": "- We don\u2019t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S49",
+          "section": "Provide personalized services, including content and ads",
+          "text": "- We don\u2019t show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S50",
+          "section": "Provide personalized services, including content and ads",
+          "text": "- We don\u2019t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S51",
+          "section": "Provide personalized services, including content and ads",
+          "text": "For example, if you see an ad for a nearby flower shop and select the \u201ctap to call\u201d button, we\u2019ll connect your call and may share your phone number with the flower shop.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S52",
+          "section": "Measure performance",
+          "text": "We use data for analytics and measurement to understand how our services are used.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S53",
+          "section": "Measure performance",
+          "text": "For example, we analyze data about your visits to our sites to do things like optimize product design.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S54",
+          "section": "Measure performance",
+          "text": "And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S55",
+          "section": "Measure performance",
+          "text": "We use a variety of tools to do this, including ad and analytics services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S56",
+          "section": "Measure performance",
+          "text": "When you visit sites or use apps that use Google\u2019s ad or analytics services, those services may link information about your activity from that site or app with activity from other sites or apps that use our services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S57",
+          "section": "Communicate with you",
+          "text": "We use information we collect, like your email address, to interact with you directly.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S58",
+          "section": "Communicate with you",
+          "text": "For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S59",
+          "section": "Communicate with you",
+          "text": "Or we may let you know about upcoming changes or improvements to our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S60",
+          "section": "Communicate with you",
+          "text": "And if you contact Google, we\u2019ll keep a record of your request in order to help solve any issues you might be facing.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S61",
+          "section": "Protect Google, our users, and the public",
+          "text": "We use information to help improve the safety and reliability of our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S62",
+          "section": "Protect Google, our users, and the public",
+          "text": "This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S63",
+          "section": "Protect Google, our users, and the public",
+          "text": "--- We use different technologies to process your information for these purposes.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "Protect Google, our users, and the public",
+          "text": "We use automated systems that analyze your content to provide you with things like tailored search results, personalized ads, or other features tailored to how you use our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S65",
+          "section": "Protect Google, our users, and the public",
+          "text": "And we analyze your content to help us detect abuse such as spam, malware, and illegal content.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S66",
+          "section": "Protect Google, our users, and the public",
+          "text": "We also use algorithms to recognize patterns in data.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S67",
+          "section": "Protect Google, our users, and the public",
+          "text": "For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S68",
+          "section": "Protect Google, our users, and the public",
+          "text": "We may use the information we collect across our services and across your devices for the purposes described above.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S69",
+          "section": "Protect Google, our users, and the public",
+          "text": "For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S70",
+          "section": "Protect Google, our users, and the public",
+          "text": "Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google\u2019s services and the ads delivered by Google.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S71",
+          "section": "Protect Google, our users, and the public",
+          "text": "If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S72",
+          "section": "Protect Google, our users, and the public",
+          "text": "This helps people identify an email coming from you, for example.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S73",
+          "section": "Protect Google, our users, and the public",
+          "text": "We\u2019ll ask for your consent before using your information for a purpose that isn\u2019t covered in this Privacy Policy.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S74",
+          "section": "Compliance & cooperation with regulators",
+          "text": "We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S75",
+          "section": "Data transfers",
+          "text": "We maintain servers around the world and your information may be processed on servers located outside of the country where you live.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S76",
+          "section": "Data transfers",
+          "text": "Data protection laws vary among countries, with some providing more protection than others.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S77",
+          "section": "Data transfers",
+          "text": "Regardless of where your information is processed, we apply the same protections described in this policy.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S78",
+          "section": "Data transfers",
+          "text": "We also comply with certain legal frameworks relating to the transfer of data.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S79",
+          "section": "Data transfers",
+          "text": "When we receive formal written complaints, we respond by contacting the person who made the complaint.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S80",
+          "section": "Data transfers",
+          "text": "We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S81",
+          "section": "U.S. state law requirements",
+          "text": "Some U.S.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "U.S. state law requirements",
+          "text": "state privacy laws require specific disclosures.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S83",
+          "section": "U.S. state law requirements",
+          "text": "This Privacy Policy is designed to help you understand how Google handles your information: - We explain the categories of information Google collects and the sources of that information in Information Google collects.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S84",
+          "section": "U.S. state law requirements",
+          "text": "- We explain the purposes for which Google collects and uses information in Why Google collects data.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S85",
+          "section": "U.S. state law requirements",
+          "text": "- We explain when Google may disclose information in Sharing your information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S86",
+          "section": "U.S. state law requirements",
+          "text": "Google does not sell your personal information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S87",
+          "section": "U.S. state law requirements",
+          "text": "Google also does not \u201cshare\u201d your personal information as that term is defined in the California Consumer Privacy Act (CCPA).",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S88",
+          "section": "U.S. state law requirements",
+          "text": "- We explain how Google retains information in Retaining your information.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S89",
+          "section": "U.S. state law requirements",
+          "text": "You can also learn more about how Google anonymizes data.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S90",
+          "section": "U.S. state law requirements",
+          "text": "As described there, when Google anonymizes data to protect your privacy, we maintain policies and technical measures to avoid re-identifying that information.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S91",
+          "section": "U.S. state law requirements",
+          "text": "U.S.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "U.S. state law requirements",
+          "text": "state privacy laws also provide the right to request information about how Google collects, uses, and discloses your information.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S93",
+          "section": "U.S. state law requirements",
+          "text": "And they give you the right to access your information, sometimes in a portable format; correct your information; and to request that Google delete that information.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S94",
+          "section": "U.S. state law requirements",
+          "text": "Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S95",
+          "section": "U.S. state law requirements",
+          "text": "They also provide the right to not be discriminated against for exercising these privacy rights.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S96",
+          "section": "U.S. state law requirements",
+          "text": "Additionally, the CCPA treats certain kinds of information, like health data, as sensitive; when users provide this information, Google only uses it for purposes permitted by the CCPA, like to provide services that are requested and expected by our users.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S97",
+          "section": "U.S. state law requirements",
+          "text": "The Washington My Health My Data Act and Nevada Senate Bill 370 provide specific rights in addition to those rights above, that apply to health information.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S98",
+          "section": "U.S. state law requirements",
+          "text": "When you provide health information subject to these laws, Google processes it with your consent, which you may withdraw, or as otherwise permitted by these laws.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S99",
+          "section": "U.S. state law requirements",
+          "text": "We describe the choices you have to manage your privacy and data across Google\u2019s services in Your privacy controls.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S100",
+          "section": "U.S. state law requirements",
+          "text": "These tools allow you to access, review, update and delete your information, as well as export and download a copy of it.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S101",
+          "section": "U.S. state law requirements",
+          "text": "You can also control what information we use to show you ads, or turn off personalized ads, by visiting My Ad Center.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S102",
+          "section": "U.S. state law requirements",
+          "text": "When you use these tools, we\u2019ll validate your request by verifying that you\u2019re signed in to your Google Account.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S103",
+          "section": "U.S. state law requirements",
+          "text": "If you have questions or requests related to your rights under U.S.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "U.S. state law requirements",
+          "text": "state privacy laws, you (or your authorized agent) can also contact Google.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S105",
+          "section": "U.S. state law requirements",
+          "text": "And if you disagree with the decision on your request, you can ask Google to reconsider it by responding to our email.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S106",
+          "section": "U.S. state law requirements",
+          "text": "We also provide more information on Google\u2019s handling of CCPA requests.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "U.S. state law requirements",
+          "text": "Some U.S.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "U.S. state law requirements",
+          "text": "state privacy laws also require a description of data practices using specific categories.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S109",
+          "section": "U.S. state law requirements",
+          "text": "This table uses these categories to organize the information in this Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "Categories of information we collect",
+          "text": "**Identifiers and similar information** such as your name and password, phone number, and address, as well as unique identifiers tied to the browser, application, or device you\u2019re using.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S111",
+          "section": "Categories of information we collect",
+          "text": "Some Google services like YouTube Studio provide the option to submit a valid ID (such as a passport or driver\u2019s license) to verify your identity to use additional features.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S112",
+          "section": "Categories of information we collect",
+          "text": "**Demographic information**, such as your age, gender and language.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S113",
+          "section": "Categories of information we collect",
+          "text": "If you choose to use optional features like YouTube Creator Demographics, you can also provide additional information, like your gender identity or race and ethnicity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S114",
+          "section": "Categories of information we collect",
+          "text": "**Commercial information** such as your payment information and a history of purchases you make on Google\u2019s services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S115",
+          "section": "Categories of information we collect",
+          "text": "**Biometric information** if you choose to provide it, such as fingerprints in Google\u2019s product development studies.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S116",
+          "section": "Categories of information we collect",
+          "text": "**Internet, network, and other activity information** such as your search terms; views and interactions with content and ads; Chrome browsing history you\u2019ve synced with your Google Account; information about the interaction of your apps, browsers, and devices with our services (like IP address, crash reports, and system activity); and activity on third-party sites and apps that use our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S117",
+          "section": "Categories of information we collect",
+          "text": "You can review and control activity data stored in your Google Account in My Activity.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S118",
+          "section": "Categories of information we collect",
+          "text": "**Geolocation data**, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S119",
+          "section": "Categories of information we collect",
+          "text": "Depending on these settings, this may include **precise location data**, for example GPS data for Android features like navigation or finding your phone.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S120",
+          "section": "Categories of information we collect",
+          "text": "Learn more about Google\u2019s use of location information.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "Categories of information we collect",
+          "text": "**Audio, electronic, visual, and similar information**, including media (like images, files, audio and video) from your interactions **Communications data**, such as emails, if you use our services to send and receive messages.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S122",
+          "section": "Categories of information we collect",
+          "text": "**Health information** if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other similar information related to your physical or mental health, in the course of using Google services that offer health-related features, such as the Google Health Studies app, Fitbit, or Pixel devices.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S123",
+          "section": "Categories of information we collect",
+          "text": "**Professional, employment, and education information**, such as information you provide or that is maintained through an organization using Google services at which you study or work.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S124",
+          "section": "Categories of information we collect",
+          "text": "**Other information you create or provide**, such as the content you create, upload, or receive (like photos and videos or emails, docs and spreadsheets).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S125",
+          "section": "Categories of information we collect",
+          "text": "Google Dashboard allows you to manage information associated with specific products.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S126",
+          "section": "Categories of information we collect",
+          "text": "**Inferences** drawn from the above, like your ads interest categories.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S127",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Protecting against security threats, abuse, and illegal activity**: Google uses and may disclose information to detect, prevent and respond to security incidents, and for protecting against other malicious, deceptive, fraudulent, or illegal activity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S128",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "For example, to protect our services, Google may receive or disclose information about IP addresses that malicious actors have compromised.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S129",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Auditing and measurement**: Google uses information for analytics and measurement to understand how our services are used, as well as to fulfill obligations to our partners like publishers, advertisers, developers, or rights holders.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S130",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "We may disclose non-personally identifiable information publicly and with these partners, including for auditing purposes.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S131",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Maintaining our services**: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S132",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Research and development**: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S133",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "For example, we use publicly available information to help train Google\u2019s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S134",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Use of service providers**: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S135",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "For example, we may rely on service providers to help provide customer support.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S136",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Advertising**: Google processes information to provide advertising, including online identifiers, browsing and search activity, and information about your location and interactions with advertisements.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S137",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "This keeps Google\u2019s services and many of the websites and services you use free of charge.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "You can control what information we use to show you ads by visiting your ad settings in My Ad Center.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S139",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "**Legal reasons**: Google also uses information to satisfy applicable laws or regulations, and discloses information in response to legal process or enforceable government requests, including to law enforcement.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S140",
+          "section": "Business purposes for which information may be used or disclosed",
+          "text": "We provide information about the number and type of requests we receive from governments in our Transparency Report.",
+          "labels": []
+        },
+        {
+          "id": "S141",
+          "section": "Parties with whom information may be disclosed",
+          "text": "**Other people with whom you choose to share your information**, like docs or photos, videos or comments on YouTube, or health information through Fitbit\u2019s social features and third party applications.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S142",
+          "section": "Parties with whom information may be disclosed",
+          "text": "**Third parties with your consent**, such as services that integrate with Google\u2019s services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S143",
+          "section": "Parties with whom information may be disclosed",
+          "text": "You can review and manage third party apps and sites with access to data in your Google Account.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S144",
+          "section": "Parties with whom information may be disclosed",
+          "text": "See more details about when Google shares your information.",
+          "labels": []
+        },
+        {
+          "id": "S145",
+          "section": "Parties with whom information may be disclosed",
+          "text": "**Service providers**, trusted businesses, or persons that process information on Google\u2019s behalf, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S146",
+          "section": "Parties with whom information may be disclosed",
+          "text": "Domain administrators, if you work or study at an organization that uses Google services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S147",
+          "section": "Parties with whom information may be disclosed",
+          "text": "**Law enforcement or other third parties**, for the legal reasons described in Sharing your information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S148",
+          "section": "Affiliates",
+          "text": "An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S149",
+          "section": "Affiliates",
+          "text": "Learn more about the companies providing business services in the EU.",
+          "labels": []
+        },
+        {
+          "id": "S150",
+          "section": "Algorithm",
+          "text": "A process or set of rules followed by a computer in performing problem-solving operations.",
+          "labels": []
+        },
+        {
+          "id": "S151",
+          "section": "Application data cache",
+          "text": "An application data cache is a data repository on a device.",
+          "labels": []
+        },
+        {
+          "id": "S152",
+          "section": "Application data cache",
+          "text": "It can, for example, enable a web application to run without an internet connection and improve the performance of the application by enabling faster loading of content.",
+          "labels": []
+        },
+        {
+          "id": "S153",
+          "section": "Browser web storage",
+          "text": "Browser web storage enables websites to store data in a browser on a device.",
+          "labels": []
+        },
+        {
+          "id": "S154",
+          "section": "Browser web storage",
+          "text": "When used in \"local storage\" mode, it enables data to be stored across sessions.",
+          "labels": []
+        },
+        {
+          "id": "S155",
+          "section": "Browser web storage",
+          "text": "This makes data retrievable even after a browser has been closed and reopened.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "Browser web storage",
+          "text": "One technology that facilitates web storage is HTML 5.",
+          "labels": []
+        },
+        {
+          "id": "S157",
+          "section": "Browser web storage",
+          "text": "A cookie is a small file containing a string of characters that is sent to your computer when you visit a website.",
+          "labels": []
+        },
+        {
+          "id": "S158",
+          "section": "Browser web storage",
+          "text": "When you visit the site again, the cookie allows that site to recognize your browser.",
+          "labels": []
+        },
+        {
+          "id": "S159",
+          "section": "Browser web storage",
+          "text": "Cookies may store user preferences and other information.",
+          "labels": []
+        },
+        {
+          "id": "S160",
+          "section": "Browser web storage",
+          "text": "You can configure your browser to refuse all cookies or to indicate when a cookie is being sent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S161",
+          "section": "Browser web storage",
+          "text": "However, some website features or services may not function properly without cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S162",
+          "section": "Browser web storage",
+          "text": "Learn more about how Google uses cookies and how Google uses data, including cookies, when you use our partners' sites or apps.",
+          "labels": []
+        },
+        {
+          "id": "S163",
+          "section": "Device",
+          "text": "A device is a computer that can be used to access Google services.",
+          "labels": []
+        },
+        {
+          "id": "S164",
+          "section": "Device",
+          "text": "For example, desktop computers, tablets, smart speakers, and smartphones are all considered devices.",
+          "labels": []
+        },
+        {
+          "id": "S165",
+          "section": "Google Account",
+          "text": "You may access some of our services by signing up for a Google Account and providing us with some personal information (typically your name, email address, and a password).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S166",
+          "section": "Google Account",
+          "text": "This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S167",
+          "section": "Google Account",
+          "text": "You can edit or delete your account at any time through your Google Account settings.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S168",
+          "section": "IP address",
+          "text": "Every device connected to the Internet is assigned a number known as an Internet protocol (IP) address.",
+          "labels": []
+        },
+        {
+          "id": "S169",
+          "section": "IP address",
+          "text": "These numbers are usually assigned in geographic blocks.",
+          "labels": []
+        },
+        {
+          "id": "S170",
+          "section": "IP address",
+          "text": "An IP address can often be used to identify the location from which a device is connecting to the Internet.",
+          "labels": []
+        },
+        {
+          "id": "S171",
+          "section": "IP address",
+          "text": "Learn more about how we use location information.",
+          "labels": []
+        },
+        {
+          "id": "S172",
+          "section": "Non-personally identifiable information",
+          "text": "This is information that is recorded about users so that it no longer reflects or references an individually-identifiable user.",
+          "labels": []
+        },
+        {
+          "id": "S173",
+          "section": "Personal information",
+          "text": "This is information that you provide to us which personally identifies you, such as your name, email address, or billing information, or other data that can be reasonably linked to such information by Google, such as information we associate with your Google Account.",
+          "labels": []
+        },
+        {
+          "id": "S174",
+          "section": "Pixel tag",
+          "text": "A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened.",
+          "labels": []
+        },
+        {
+          "id": "S175",
+          "section": "Pixel tag",
+          "text": "Pixel tags are often used in combination with cookies.",
+          "labels": []
+        },
+        {
+          "id": "S176",
+          "section": "Referrer URL",
+          "text": "A Referrer URL (Uniform Resource Locator) is information transmitted to a destination webpage by a web browser, typically when you click a link to that page.",
+          "labels": []
+        },
+        {
+          "id": "S177",
+          "section": "Referrer URL",
+          "text": "The Referrer URL contains the URL of the last webpage the browser visited.",
+          "labels": []
+        },
+        {
+          "id": "S178",
+          "section": "Sensitive personal information",
+          "text": "This is a particular category of personal information relating to topics such as confidential medical facts, racial or ethnic origins, political or religious beliefs, or sexuality.",
+          "labels": []
+        },
+        {
+          "id": "S179",
+          "section": "Server logs",
+          "text": "Like most websites, our servers automatically record the page requests made when you visit our sites.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S180",
+          "section": "Server logs",
+          "text": "These \u201cserver logs\u201d typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S181",
+          "section": "Server logs",
+          "text": "A typical log entry for a search for \u201ccars\u201d looks like this: ``` 123.45.67.89 - 25/Mar/2003 10:15:32 - http://www.google.com/search?q=cars - Chrome 112; OS X 10.15.7 - 740674ce2123e969 ``` - `123.45.67.89` is the Internet Protocol address assigned to the user by the user\u2019s ISP.",
+          "labels": []
+        },
+        {
+          "id": "S182",
+          "section": "Server logs",
+          "text": "Depending on the user\u2019s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.",
+          "labels": []
+        },
+        {
+          "id": "S183",
+          "section": "Server logs",
+          "text": "- `25/Mar/2003 10:15:32` is the date and time of the query.",
+          "labels": []
+        },
+        {
+          "id": "S184",
+          "section": "Server logs",
+          "text": "- `http://www.google.com/search?q=cars` is the requested URL, including the search query.",
+          "labels": []
+        },
+        {
+          "id": "S185",
+          "section": "Server logs",
+          "text": "- `Chrome 112; OS X 10.15.7` is the browser and operating system being used.",
+          "labels": []
+        },
+        {
+          "id": "S186",
+          "section": "Server logs",
+          "text": "- `740674ce2123a969` is the unique cookie ID assigned to this particular computer the first time it visited Google.",
+          "labels": []
+        },
+        {
+          "id": "S187",
+          "section": "Server logs",
+          "text": "(Cookies can be deleted by users.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S188",
+          "section": "Server logs",
+          "text": "If the user has deleted the cookie from the computer since the last time they\u2019ve visited Google, then it will be the unique cookie ID assigned to their device the next time they visit Google from that particular device).",
+          "labels": []
+        },
+        {
+          "id": "S189",
+          "section": "Unique identifiers",
+          "text": "A unique identifier is a string of characters that can be used to uniquely identify a browser, app, or device.",
+          "labels": []
+        },
+        {
+          "id": "S190",
+          "section": "Unique identifiers",
+          "text": "Different identifiers vary in how permanent they are, whether they can be reset by users, and how they can be accessed.",
+          "labels": []
+        },
+        {
+          "id": "S191",
+          "section": "Unique identifiers",
+          "text": "Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S192",
+          "section": "Unique identifiers",
+          "text": "For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language.",
+          "labels": []
+        },
+        {
+          "id": "S193",
+          "section": "Unique identifiers",
+          "text": "You can configure your browser to refuse all cookies or to indicate when a cookie is being sent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S194",
+          "section": "Unique identifiers",
+          "text": "Learn more about how Google uses cookies.",
+          "labels": []
+        },
+        {
+          "id": "S195",
+          "section": "Unique identifiers",
+          "text": "On other platforms besides browsers, unique identifiers are used to recognize a specific device or app on that device.",
+          "labels": []
+        },
+        {
+          "id": "S196",
+          "section": "Unique identifiers",
+          "text": "For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can be managed in your device\u2019s settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S197",
+          "section": "Unique identifiers",
+          "text": "Unique identifiers may also be incorporated into a device by its manufacturer (sometimes called a universally unique ID or UUID), such as the IMEI-number of a mobile phone.",
+          "labels": []
+        },
+        {
+          "id": "S198",
+          "section": "Unique identifiers",
+          "text": "For example, a device\u2019s unique identifier can be used to customize our service to your device or analyze device issues related to our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S199",
+          "section": "Activity on Google Services",
+          "text": "For example, if you\u2019re signed in to your Google Account and have Search Services History or Web & App Activity turned on, your activity data on Google sites, apps, and services that use those settings may be saved as history in your Google Account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S200",
+          "section": "Activity on Google Services",
+          "text": "Some activity may include information about the general area you were in when using the Google service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S201",
+          "section": "Activity on Google Services",
+          "text": "When you search for something using a general area, your search will use an area of at least 3 sq km, or expand until the area represents the locations of at least 1,000 people.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S202",
+          "section": "Activity on Google Services",
+          "text": "This helps protect your privacy.",
+          "labels": []
+        },
+        {
+          "id": "S203",
+          "section": "Activity on Google Services",
+          "text": "In some cases, depending on your personalization settings like Personalized Recommendations in Search services, areas that you have searched from in the past may be used to estimate a relevant location for your search.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S204",
+          "section": "Activity on Google Services",
+          "text": "For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S205",
+          "section": "Activity on Google Services",
+          "text": "You can view and control your Search Services History and Web & App Activity at My Activity.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S206",
+          "section": "activity on third-party sites and apps that use our services",
+          "text": "Websites and apps that integrate Google services like ads and analytics share information with us.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S207",
+          "section": "activity on third-party sites and apps that use our services",
+          "text": "This information is shared regardless of which browser or browser mode you use.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S208",
+          "section": "activity on third-party sites and apps that use our services",
+          "text": "For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third party sites and apps that integrate our services still share information with Google when you visit them.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S209",
+          "section": "activity on third-party sites and apps that use our services",
+          "text": "You can learn more about some of the ways you can control the information that is shared when you visit or interact with sites and apps that use Google services.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S210",
+          "section": "ads you\u2019ll find most useful",
+          "text": "For example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S211",
+          "section": "ads you\u2019ll find most useful",
+          "text": "We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for \u201cpizza.\u201d Learn more about Google ads and why you may see particular ads.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S212",
+          "section": "ads you\u2019ll find most useful",
+          "text": "For example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S213",
+          "section": "ads you\u2019ll find most useful",
+          "text": "We only provide aggregated reports to advertisers that don\u2019t reveal information about individual people.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S214",
+          "section": "Android device with Google apps",
+          "text": "Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions.",
+          "labels": []
+        },
+        {
+          "id": "S215",
+          "section": "Android device with Google apps",
+          "text": "These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone\u2019s camera and phone dialer, text-to-speech conversion, keyboard input, and security features.",
+          "labels": []
+        },
+        {
+          "id": "S216",
+          "section": "Android device with Google apps",
+          "text": "Learn more about Google Play Services.",
+          "labels": []
+        },
+        {
+          "id": "S217",
+          "section": "deliver our services",
+          "text": "Examples of how we use your information to deliver our services include: - We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video - We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account - Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S218",
+          "section": "deliver our services",
+          "text": "- A flight confirmation email you receive may be used to create a \u201ccheck-in\u201d button that appears in your Gmail - When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S219",
+          "section": "deliver our services",
+          "text": "We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S220",
+          "section": "detect abuse",
+          "text": "When we detect spam, malware, illegal content (including child sexual abuse and exploitation material), and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S221",
+          "section": "detect abuse",
+          "text": "In certain circumstances, we may also report the violation to appropriate authorities.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S222",
+          "section": "devices",
+          "text": "For example, we can use information from your devices to help you decide which device you\u2019d like to use to install an app or view a movie you buy from Google Play.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S223",
+          "section": "devices",
+          "text": "We also use this information to help protect your account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S224",
+          "section": "ensure and improve",
+          "text": "For example, we analyze how people interact with advertising to improve the performance of our ads.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S225",
+          "section": "ensure our services are working as intended",
+          "text": "For example, we continuously monitor our systems to look for problems.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S226",
+          "section": "ensure our services are working as intended",
+          "text": "And if we find something wrong with a specific feature, reviewing activity information collected before the problem started allows us to fix things more quickly.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S227",
+          "section": "Information about things near your device",
+          "text": "If you use Google\u2019s Location services on Android, we can improve the performance of apps that rely on your location, like Google Maps.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S228",
+          "section": "Information about things near your device",
+          "text": "If you use Google\u2019s Location services, your device sends information to Google about its location, sensors (like accelerometer), and nearby cell towers and Wi-Fi access points (like MAC address and signal strength).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S229",
+          "section": "Information about things near your device",
+          "text": "All these things help to determine your location.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S230",
+          "section": "Information about things near your device",
+          "text": "You can use your device settings to enable Google Location services.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S231",
+          "section": "Information about things near your device",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S232",
+          "section": "legal process, or enforceable governmental request",
+          "text": "Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S233",
+          "section": "legal process, or enforceable governmental request",
+          "text": "Respect for the privacy and security of data you store with Google underpins our approach to complying with these legal requests.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S234",
+          "section": "legal process, or enforceable governmental request",
+          "text": "Our legal team reviews each and every request, regardless of type, and we frequently push back when a request appears to be overly broad or doesn\u2019t follow the correct process.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S235",
+          "section": "legal process, or enforceable governmental request",
+          "text": "Learn more in our Transparency Report.",
+          "labels": []
+        },
+        {
+          "id": "S236",
+          "section": "make improvements",
+          "text": "For example, we use cookies to analyze how people interact with our services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S237",
+          "section": "make improvements",
+          "text": "And that analysis can help us build better products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S238",
+          "section": "make improvements",
+          "text": "For example, it may help us discover that it\u2019s taking people too long to complete a certain task or that they have trouble finishing steps at all.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S239",
+          "section": "make improvements",
+          "text": "We can then redesign that feature and improve the product for everyone.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S240",
+          "section": "may link information",
+          "text": "For example, a customer may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S241",
+          "section": "may link information",
+          "text": "Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to cookies and other technologies that are related to visits to other websites and apps.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S242",
+          "section": "may link information",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S243",
+          "section": "Media (like images, files, audio and video) from your interactions",
+          "text": "For example, you can interact with many Google services using your device\u2019s microphone or camera, or by uploading multimedia like files, images, screenshots, audio, and video.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S244",
+          "section": "Media (like images, files, audio and video) from your interactions",
+          "text": "When your device detects an audio activation command, like \u201cHey Google,\u201d Google records your voice and audio plus a few seconds before the activation.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S245",
+          "section": "our users",
+          "text": "For example, to prevent abuse and increase transparency and accountability over our online content moderation practices, Google shares data about requests for removal of content from our services with Lumen, which collects and analyzes these requests to facilitate research to help Internet users understand their rights.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S246",
+          "section": "our users",
+          "text": "Learn more.",
+          "labels": []
+        },
+        {
+          "id": "S247",
+          "section": "partner with Google",
+          "text": "There are over 2 million non-Google websites and apps that partner with Google to show ads.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S248",
+          "section": "partner with Google",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S249",
+          "section": "payment information",
+          "text": "For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S250",
+          "section": "payment information",
+          "text": "We may also ask for other information, like a business tax ID, to help process your payment.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S251",
+          "section": "payment information",
+          "text": "In some cases, we may also need to verify your identity and may ask you for information to do this.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S252",
+          "section": "payment information",
+          "text": "We may also use payment information to verify that you meet age requirements, if, for example, you enter an incorrect birthday indicating you\u2019re not old enough to have a Google Account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S253",
+          "section": "payment information",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S254",
+          "section": "Performance of their ad campaigns.",
+          "text": "Learn more about the technologies used for advertising.",
+          "labels": []
+        },
+        {
+          "id": "S255",
+          "section": "personalize content",
+          "text": "If you choose to allow certain services to process data from other services, including for features such as Personal Intelligence, the same data may be used to personalize your experience.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S256",
+          "section": "personalize content",
+          "text": "For example, if you ask Search a question about a recent hotel booking, Search may use information about booking details from an email to help suggest things to do near your hotel.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S257",
+          "section": "personalize content",
+          "text": "Learn more about Personal Intelligence.",
+          "labels": []
+        },
+        {
+          "id": "S258",
+          "section": "personalized ads",
+          "text": "You may also see personalized ads based on information from the advertiser.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S259",
+          "section": "personalized ads",
+          "text": "If you shopped on an advertiser's website, for example, they can use that visit information to show you ads.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S260",
+          "section": "personalized ads",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S261",
+          "section": "phone number",
+          "text": "If you add your phone number to your account, it can be used for different purposes across Google services, depending on your settings.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S262",
+          "section": "phone number",
+          "text": "For example, your phone number can be used to help you access your account if you forget your password, help people find and connect with you, and make the ads you see more relevant to you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S263",
+          "section": "phone number",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S264",
+          "section": "Places you label like home and work",
+          "text": "You might choose to save places to your Google Account that are important to you, such as your home or your work.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S265",
+          "section": "Places you label like home and work",
+          "text": "If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for ads.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S266",
+          "section": "Places you label like home and work",
+          "text": "You can edit or delete your home or work addresses anytime in your Google Account.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S267",
+          "section": "protect against abuse",
+          "text": "For example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S268",
+          "section": "publicly accessible sources",
+          "text": "For example, we may collect information that\u2019s publicly available online or from other public sources to help train Google\u2019s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S269",
+          "section": "publicly accessible sources",
+          "text": "Or, if your business\u2019s information appears on a website, we may index and display it on Google services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S270",
+          "section": "publicly accessible sources",
+          "text": "For example, we use a cookie called \u2018lbcs\u2019 that makes it possible for you to open many Google Docs in one browser.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S271",
+          "section": "publicly accessible sources",
+          "text": "Blocking this cookie would prevent Google Docs from working as expected.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S272",
+          "section": "publicly accessible sources",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S273",
+          "section": "safety and reliability",
+          "text": "Some examples of how we use your information to help keep our services safe and reliable include: - Collecting and analyzing IP addresses and cookie data to protect against automated abuse.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S274",
+          "section": "safety and reliability",
+          "text": "This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads, or censoring content by launching a Distributed Denial of Service (DDoS) attack.",
+          "labels": []
+        },
+        {
+          "id": "S275",
+          "section": "safety and reliability",
+          "text": "- The \u201clast account activity\u201d feature in Gmail can help you find out if and when someone accessed your email without your knowledge.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S276",
+          "section": "safety and reliability",
+          "text": "This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location, and the date and time of access.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S277",
+          "section": "safety and reliability",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S278",
+          "section": "search results",
+          "text": "For example, when you\u2019re signed in to your Google Account and have the Personalized Recommendations in Search services control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S279",
+          "section": "search results",
+          "text": "Learn more about Personalized Recommendations in Search services.",
+          "labels": []
+        },
+        {
+          "id": "S280",
+          "section": "search results",
+          "text": "You may also get customized search results even when you\u2019re signed out.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S281",
+          "section": "search results",
+          "text": "If you don\u2019t want this level of search customization, you can search and browse privately or turn off signed-out search customization.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S282",
+          "section": "sensitive categories",
+          "text": "When showing you personalized ads, we use topics that we think might be of interest to you based on your activity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S283",
+          "section": "sensitive categories",
+          "text": "For example, you may see ads for things like \"Cooking and Recipes\" or \"Air Travel.\u201d We don\u2019t use topics or show personalized ads based on sensitive categories like race, religion, sexual orientation, or health.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S284",
+          "section": "sensitive categories",
+          "text": "And we require the same from advertisers that use our services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S285",
+          "section": "Sensor data from your device",
+          "text": "Your device may have sensors that can be used to better understand your location and movement.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S286",
+          "section": "Sensor data from your device",
+          "text": "For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel.",
+          "labels": []
+        },
+        {
+          "id": "S287",
+          "section": "Sensor data from your device",
+          "text": "Learn more about how we use location information.",
+          "labels": []
+        },
+        {
+          "id": "S288",
+          "section": "servers around the world",
+          "text": "For example, we operate data centers located around the world to help keep our products continuously available for users.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S289",
+          "section": "services to make and receive calls or send and receive messages",
+          "text": "Examples of these services include: - Google Voice, for making and receiving calls, sending text messages, and managing voicemail - Google Meet, for making and receiving video calls - Gmail, for sending and receiving emails - Google Chat, for sending and receiving messages - Google Duo, for making and receiving video calls and sending and receiving messages - Google Fi, for a phone plan",
+          "labels": []
+        },
+        {
+          "id": "S290",
+          "section": "show trends",
+          "text": "When lots of people start searching for something, it can provide useful information about particular trends at that time.",
+          "labels": []
+        },
+        {
+          "id": "S291",
+          "section": "show trends",
+          "text": "Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S292",
+          "section": "similar information related to your physical or mental health",
+          "text": "If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S293",
+          "section": "similar information related to your physical or mental health",
+          "text": "We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S294",
+          "section": "specific Google services",
+          "text": "For example, you can delete your blog from Blogger or a Google Site you own from Google Sites.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S295",
+          "section": "specific Google services",
+          "text": "You can also delete reviews you\u2019ve left on apps, games, and other content in the Play Store.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S296",
+          "section": "specific partners",
+          "text": "For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S297",
+          "section": "specific partners",
+          "text": "Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S298",
+          "section": "specific partners",
+          "text": "Learn more about these partners and how they use your information.",
+          "labels": []
+        },
+        {
+          "id": "S299",
+          "section": "synced with your Google Account",
+          "text": "Your Chrome browsing history is only saved to your account if you\u2019ve enabled Chrome synchronization with your Google Account.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S300",
+          "section": "synced with your Google Account",
+          "text": "Learn more",
+          "labels": []
+        },
+        {
+          "id": "S301",
+          "section": "the people who matter most to you online",
+          "text": "For example, when you type an address in the To, Cc, or Bcc field of an email you're composing, Gmail will suggest addresses based on the people you contact most frequently.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S302",
+          "section": "the public",
+          "text": "For example, we process information about requests to remove content from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability and prevent abuse and fraud in these practices.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S303",
+          "section": "third parties",
+          "text": "For example, we process your information to report use statistics to rights holders about how their content was used in our services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S304",
+          "section": "third parties",
+          "text": "We may also process your information if people search for your name and we display search results for sites containing publicly available information about you.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S305",
+          "section": "U.S. state privacy laws",
+          "text": "These laws include: - California Consumer Privacy Act (CCPA); - Virginia Consumer Data Protection Act (VCDPA); - Colorado Privacy Act (CPA); - Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); and - Utah Consumer Privacy Act (UCPA) - Washington My Health My Data Act (MHDM) - Nevada Senate Bill 370 - Florida Digital Bill of Rights (FDBR) - Texas Data Privacy and Security Act (TDPSA) - Oregon Consumer Privacy Act (OCPA) - Montana Consumer Data Privacy Act (MTCDPA) - New Jersey Senate Bill 332 - New Hampshire Senate Bill 255 - Nebraska Data Privacy Act (NEDPA) - Iowa Consumer Data Protection Act (IACDPA) - Delaware Personal Data Privacy Act (DPDPA) - Tennessee Information Protection Act (TIPA) - Minnesota Consumer Data Privacy Act (MNCDPA) - Maryland Online Data Privacy Act of 2024 (MDODPA) - Indiana Consumer Data Protection Act (INCDPA) - Kentucky Consumer Data Protection Act (KCDPA) - Rhode Island Data Transparency and Privacy Protection Act (RIDTPPA)",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S306",
+          "section": "use the information we collect across our services",
+          "text": "Depending on your available settings, some examples of how we use the information we collect across our services include: - When you\u2019re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S307",
+          "section": "use the information we collect across our services",
+          "text": "This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S308",
+          "section": "use the information we collect across our services",
+          "text": "- If you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S309",
+          "section": "use the information we collect across our services",
+          "text": "This feature makes it easier to share things with people you know.",
+          "labels": []
+        },
+        {
+          "id": "S310",
+          "section": "use the information we collect across our services",
+          "text": "Learn more - The Google app can use data that you have stored in other Google products to show you personalized content, depending on your settings.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S311",
+          "section": "use the information we collect across our services",
+          "text": "For example, if you have searches stored in your Search Services History and have turned on your Personalized Recommendations in Search services setting, the Google app can show you news articles and other information about your interests, like sports scores, based on your activity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S312",
+          "section": "use the information we collect across our services",
+          "text": "- If you connect your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S313",
+          "section": "use the information we collect across our services",
+          "text": "For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S314",
+          "section": "use the information we collect across our services",
+          "text": "Learn more - If you\u2019re a user in the EU, the decisions you make on linking services will affect how certain Google services can use the data across our services.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S315",
+          "section": "Views and interactions with content and ads",
+          "text": "For example, we collect information about views and interactions with ads so we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely seen by a viewer.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S316",
+          "section": "Views and interactions with content and ads",
+          "text": "We may also measure other interactions, such as how you move your mouse over an ad or if you interact with the page on which the ad appears.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S317",
+          "section": "your activity on other sites and apps",
+          "text": "This activity might come from your use of Google services, like from syncing your account with Chrome or your visits to sites and apps that partner with Google.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S318",
+          "section": "your activity on other sites and apps",
+          "text": "Many websites and apps partner with Google to improve their content and services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S319",
+          "section": "your activity on other sites and apps",
+          "text": "For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube).",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S320",
+          "section": "your activity on other sites and apps",
+          "text": "These services may share information about your activity with Google and, depending on your account settings and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S321",
+          "section": "your activity on other sites and apps",
+          "text": "Learn more about how Google uses data when you use our partners' sites or apps.",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S7"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S10"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S110"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S124"
+        }
+      ]
+    },
+    "C2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S31"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S134"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S141"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S145"
+        }
+      ]
+    },
+    "C3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S20"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S47"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S100"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S205"
+        }
+      ]
+    },
+    "C4": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S93"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S100"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S167"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S266"
+        }
+      ]
+    },
+    "C5": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S23"
+        }
+      ]
+    },
+    "C6": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S90"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S166"
+        }
+      ]
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S75"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S82"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S305"
+        }
+      ]
+    },
+    "C10": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S79"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S104"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S252"
+        }
+      ]
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S133"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S268"
+        }
+      ]
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S43"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S123"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S146"
+        }
+      ]
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

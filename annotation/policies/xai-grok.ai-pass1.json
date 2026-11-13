@@ -1,0 +1,1929 @@
+{
+  "policy_id": "xai-grok",
+  "source_url": "http://x.ai/legal/privacy-policy",
+  "annotator": "ai-pass1",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy | SpaceXSI\n\n*Last Updated: October 27, 2026 (previous version)*\n\nAt SpaceX Super Intelligence LLC (\"**SpaceXSI**\", \"**our**\", \"**us**\" or \"**we**\"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information. Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app (iOS or Android) or the Grok.com website), and other SpaceXSI services (our \"**Service**\"). It also describes your privacy rights.\n\nThis Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the SpaceXSI API, or to any employment-related personal information processed in consideration of employment with SpaceXSI. This Privacy Policy also does not apply if you access our Service through a third-party's service. In that case, the third-party's privacy policy would apply. For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the X Privacy Policy and X Terms, not this SpaceXSI Privacy Policy.\n\nFor individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, \"Europe\"), for Europe-specific additional information not already discussed on this page, please see SpaceXSI's Europe Privacy Policy Addendum.\n\nSpaceXSI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery. We are guided by our mission to advance our collective understanding of the universe. As part of our mission, we have developed \"Grok,\" a conversational generative AI powered by SpaceXSI's large language models. More information about SpaceXSI's development and training of Grok and data controls is available in our Consumer FAQs, Enterprise FAQs, and SpaceXSI website. Please note that SpaceXSI is a separate company from X Corp. (\"X\", previously Twitter).\n\nWe may collect personal information from you and about you. Some examples of the information we may collect, how we may collect it, how we may use it, and how we may disclose it are described below.\n\n- **Account Data:** If you create an account with us, we collect your name, contact information, account credentials, and date of birth. Also, to access certain features of the Service, we will collect your date of birth before you may proceed. If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction. For example, if you use your existing X credentials to log into a SpaceXSI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.\n\n  - How we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.\n\n- **Payment Data:** Where payment is required to access the Service (ex., if you are paying for a subscription), or is otherwise used to make a purchase, we may, or a third-party may, have a third-party process payment information, such as payment card information, and details regarding your transactions for us.\n\n  - How we may collect it: Through a third-party processor (ex., Apple App Store, Google Play Store, or Stripe).\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, and for legal purposes.\n\n  - We cannot control what you provide us. You are responsible for all actions, including providing payment information and other actions, as if you had taken them yourself.\n\n- **Communication Data:** If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.\n\n  - How we may collect it: Directly from you.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.\n\n- **User Content:** You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (\"Input\"). Outputs of the Service (\"Output\"), including responses Grok generates, are based on your Input (together, \"User Content\"). If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.\n\n  - How we may collect it: Directly from you.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.\n\n- **Feedback Data:** Where applicable, we will collect your Feedback (as defined in our Terms of Service). This might arise if, for example, in a given conversation with Grok, you rate an Output using the thumbs-up/thumbs-down icons.\n\n  - How we may collect it: Directly from you.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.\n\n- **Social Media Information:** We have pages on social media sites like Instagram, Facebook, Medium, X, YouTube, and LinkedIn. When you interact with our social media pages, we collect personal information that you choose to provide to us. In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.\n\n  - How we may collect it: Directly from you or from companies that host our social media pages.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.\n\n- **Technical Data:** Technical data includes information such as your IP address, device type, country from which you access, analytics information, browser type and version, browser plug-in types and versions, and operating system. This may also include information about your use of the Service and how you interact with the Service, including the types of content you view or engage with, the features you use, pages you view and your Grok conversation history.\n\n  - How we may collect it: Automatically when you use or interact with the Service, including through analytics tools.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.\n\n- **Location data:** We may determine the general area from which your device accesses our Services based on information like its IP address. Also, you may choose to provide more precise location information, such as your address, your device's GPS location, or location information from third-party services that you use. We obtain your consent prior to collecting precise location information.\n\n  - How we may collect it: Directly from you or from third-party services that you use.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.\n\n- **Publicly Available Data:** We use information that is publicly available on the internet to train our models and provide resulting Output. While we do not intentionally seek out personal information, we understand that there is personal information incidentally included in these datasets. For more information on the sources of information used in the development and operation of our large language models, see our Consumer FAQs.\n\n  - How we may collect it: From publicly available resources and providers.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.\n\n- **Public X Posts and Internet Search Data:** The Service uses public posts shared on X, engagement data such as number of followers, and number of views, likes, reposts, shares, and replies and internet search results. In some instances, this data may include personal information.\n\n  - How we may collect it: Public X posts are provided by X and internet search data is provided by internet search providers.\n\n  - How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.\n\n  - How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies\n\n- **Cookies and Similar Technologies**: We and our service providers use cookies and other similar technologies to operate and improve our Services. This data obtained from these cookies and similar technologies may be used for several different purposes, including to:\n\n- Provide useful features to simplify your experience with our Services;\n\n- Deliver relevant content and targeted advertising;\n\n- Monitor, evaluate and optimize the use and operation of our Site and applications; and\n\n- Analyze traffic on our sites and on third-party sites.\n\nFor details about our use of cookies, please read our Cookie Policy.\n\n- **Google Apps Using Google OAuth**: For users who opt to connect to Google Apps via Google OAuth, SpaceXSI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content.\n\nWe do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information. In addition, in relation to Grok's training, SpaceXSI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data, nor is any uploaded image used for identification purposes.\n\nWe may use your personal information for a variety of purposes. Below, you will find examples and additional information regarding how we may use your personal information.\n\n- To provide, analyze, and maintain our Service: For example, to respond to your Inputs (including when you type text prompts or when you give spoken prompts) to Grok or to process payments for subscriptions to our Service.\n\n- To provide support and assistance in relation to our Service: For example, to troubleshoot problems and to provide customer support.\n\n- To develop and improve our Service and to conduct research: For example to develop new product features, to train our models, to identify usage trends, to operate and expand our business activities, to identify new customers, and for data analysis.\n\n- To communicate with you: For example, to send you information about our Service, events, or changes to the Service. This may include sending you non-promotional emails, such as emails about your Grok access, legally required notices, or our ongoing business relations.\n\n- To ensure the security and integrity of our Service: For example, to protect the security of our Services and to detect and prevent fraud, unauthorized use, unlawful activity, and other misuses of our Service.\n\n- For legal purposes: For example, to comply with our legal obligations and to protect the rights, privacy, safety, or property of our users, SpaceXSI, or third-parties. This may include detecting what country you are located in so we can comply with relevant legal obligations.\n\nWe may aggregate, pseudoanonymize, or de-identify your information so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Service is being used, to improve and add features to them, and to conduct research. We will maintain and use pseudoanonymized or de-identified information in pseudoanonymized or de-identified form and will not attempt to reidentify the information, unless required by law.\n\nWe may disclose your personal information to others. Below, you will find examples and additional information regarding how we may disclose your personal information.\n\n- To our contracted service providers: To assist in providing the Service to you or performing business operations, we provide your personal information to service providers including providers of hosting, cloud, analytics, content delivery, support and safety monitoring, payment and transaction, and other technology services, for the purposes described above.\n\n- In connection with business transfers: In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company. If required by applicable laws, we will use reasonable efforts to notify you of any transfer of personal information to an unaffiliated third-party.\n\n- For legal purposes: To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of SpaceXSI and our agents, customers, and others, including to enforce our agreements, policies, and terms of service, (iii) to protect against legal liability, or (iv) to protect the personal safety of SpaceXSI, its customers, or any person.\n\n- To our related companies: To our related companies to the extent such sharing is necessary to fulfill a request you have submitted via our Service or for customer management, customer support, technical operations, or the purposes described above.\n\n- To third-parties with which you interact or share information: Certain features may allow you to share information with third-parties, such as through the X platform. Information you share with third-parties is governed by that third-party's terms and policies.\n\nWe retain your personal information where we have an ongoing legitimate business need to do so. In certain circumstances, we will retain your information for legal reasons after our contractual relationship has ended. The specific retention periods depend on the nature of the information and why it is collected and processed and the nature of the legal requirement. For example, we may retain your personal information:\n\n- When we have a legal obligation to do so (e.g., if we receive a court order, we would retain your information for longer than our usual retention periods);\n\n- To address and resolve requests and complaints (e.g., if there is an ongoing complaint about you);\n\n- To protect the safety, security, and integrity of our business and the Service, as well as to protect our rights and property and those of others (e.g., if we detect misuse of our Service or otherwise detect unusual activity on your account or in your interactions with us); and\n\n- For litigation, regulatory or other legal matters (e.g., we would retain your information if there was an ongoing legal claim and the information was relevant to the claim).\n\nThe length of time we retain data may depend on the features or settings you use. For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from SpaceXSI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes. Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes.\n\nSpaceXSI implements commercially reasonable technical, administrative, and organizational measures designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no security measure or method of data transmission over the internet is 100% secure. In addition, you are solely responsible for protecting your log-in and password, limiting access to your devices, and signing out of websites and accounts after your sessions.\n\nOur Service may contain links to external websites or social media platforms that are not operated by us. Third-party websites and services have their own terms and conditions and privacy policies, and you should read these carefully before you submit any personal information to them.\n\nAs noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them. While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages. Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers. Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence.\n\nIf you are a child under the age of 13, please do not attempt to register for or otherwise use our Service. Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13.\n\nDepending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information. For information on the privacy rights that may be available to you under European privacy laws, please review SpaceXSI's Europe Privacy Policy Addendum.\n\n- You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions.\n\n  Please note that we cannot guarantee the factual accuracy of Output from our models. If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information — but due to the technical complexity of our models, it may not be feasible for us to do so.\n\n- If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.\n\n- The right to submit certain privacy requests through an Authorized Agent.\n\n- The right to be free from discrimination for exercising the rights afforded to you under applicable privacy laws.\n\n- The right to appeal a decision we make about your rights request.\n\nExercising your rights: Some of these rights may be exercised in the SpaceXSI Service but for others you will need to submit a request at https://x.ai/privacy-portal/ and include your full legal name, email address, and city, state/province, and country of residence. Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.\n\nPlease note, however, that your personal information may be exempt from such requests in certain circumstances, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims. If an exception applies, we will inform you when responding to your request.\n\nVerification: In order to protect your personal information, your ability to exercise some of the rights detailed in this Privacy Policy may be subject to your ability to verify that you are the person about whom your request pertains. For example, we may require you to verify your identity by validating your account credentials or submitting additional information to allow us to verify your identity.\n\nAuthorized Agents: To exercise your rights using an Authorized Agent (as defined under applicable law), you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf. We reserve the right to deny a request from an Authorized Agent that does not submit proof that they have been authorized by you to act on your behalf.\n\nAppeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://x.ai/privacy-portal/. In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal. Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law. We respond to all appeal requests as soon as we reasonably can, and no later than legally required.\n\nFor more information on your rights with respect to data we use to train our models, please read our Consumer FAQs.\n\nDo Not Track: Please note that because the effect of \"Do Not Track\" signals remains unclear, and because there continues to be no consistent industry understanding of how to respond to such a signal, we do not alter our privacy practices when we detect a \"Do Not Track\" signal from your browser.\n\nWe may update our Privacy Policy from time to time. When we do, we will publish an updated version and effective date on this page, unless another type of notice is required by applicable law. If you use the Service after any changes to the Privacy Policy have been posted, all of the changes made will apply to your use of the Service.\n\nTo report child safety issues to us, please contact us here.\n\nResidents of Australia can find resources regarding child safety and reporting here.\n\nIf you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://x.ai/privacy-portal/ or by the following contact details:\n\n- For the fastest response for world-wide requests and in the USA: SpaceX Super Intelligence LLC, https://x.ai/privacy-portal/\n\n- Information about our handling of California Consumer Privacy Act (CCPA) requests is available here\n\n**Other contacts for privacy requests:**\n\n- In the UK: Lionheart Squared Limited, FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX United Kingdom <xai@lionheartsquared.co.uk>\n\n- In the EU: Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland <xai@lionheartsquared.eu>\n\n- In Switzerland: Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland <xai@lionheartsquared.ch>\n\n- You can contact our Data Protection Officer at <privacy@x.ai>\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "*Last Updated: October 27, 2026 (previous version)* At SpaceX Super Intelligence LLC (\"**SpaceXSI**\", \"**our**\", \"**us**\" or \"**we**\"), we value your privacy and are committed to being fair, accountable, and transparent in how we handle your personal information.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Our Privacy Policy outlines how we collect, use, and disclose your personal information when you use our websites and applications (the Grok mobile app (iOS or Android) or the Grok.com website), and other SpaceXSI services (our \"**Service**\").",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S3",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "It also describes your privacy rights.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S4",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This Privacy Policy does not apply to data that we process on behalf of customers of our business offerings, such as the SpaceXSI API, or to any employment-related personal information processed in consideration of employment with SpaceXSI.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S5",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This Privacy Policy also does not apply if you access our Service through a third-party's service.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S6",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In that case, the third-party's privacy policy would apply.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S7",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For example, your use of X (previously Twitter), including use of Grok on the X platform, is governed by the X Privacy Policy and X Terms, not this SpaceXSI Privacy Policy.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S8",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For individuals in the European Economic Area, United Kingdom, and Switzerland (collectively, \"Europe\"), for Europe-specific additional information not already discussed on this page, please see SpaceXSI's Europe Privacy Policy Addendum.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S9",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "SpaceXSI is a US-based company working on building artificial intelligence tools to accelerate human scientific discovery.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We are guided by our mission to advance our collective understanding of the universe.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "As part of our mission, we have developed \"Grok,\" a conversational generative AI powered by SpaceXSI's large language models.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "More information about SpaceXSI's development and training of Grok and data controls is available in our Consumer FAQs, Enterprise FAQs, and SpaceXSI website.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S13",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Please note that SpaceXSI is a separate company from X Corp.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "(\"X\", previously Twitter).",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We may collect personal information from you and about you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S16",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Some examples of the information we may collect, how we may collect it, how we may use it, and how we may disclose it are described below.",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Account Data:** If you create an account with us, we collect your name, contact information, account credentials, and date of birth.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S18",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Also, to access certain features of the Service, we will collect your date of birth before you may proceed.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S19",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If you log into our Service using a third-party service, such as X, Google, or Apple, that third-party will send your information to us at your direction.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S20",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For example, if you use your existing X credentials to log into a SpaceXSI mobile app or website, you may choose to direct X to share the following information with us: your X public profile (including profile image), X username, numeric X ID, your date of birth, whether you are subscribed to X Premium, and your Grok on X conversation history.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S21",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Directly from you or from a third-party (ex., X, Google, or Apple).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S22",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S23",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S24",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Payment Data:** Where payment is required to access the Service (ex., if you are paying for a subscription), or is otherwise used to make a purchase, we may, or a third-party may, have a third-party process payment information, such as payment card information, and details regarding your transactions for us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S25",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Through a third-party processor (ex., Apple App Store, Google Play Store, or Stripe).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S26",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S27",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, and for legal purposes.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S28",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- We cannot control what you provide us.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "You are responsible for all actions, including providing payment information and other actions, as if you had taken them yourself.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S30",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Communication Data:** If you communicate with us, such as by email, by our webpages, or on social media sites, we may collect personal information that you submit to us including your name, user name, email address, any other information you voluntarily choose to provide us, and the contents of messages you send.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S31",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Directly from you.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S33",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S34",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **User Content:** You may provide personal information in prompts and other content you input, such as files, images, audio, voice, video, and other material (\"Input\").",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S35",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Outputs of the Service (\"Output\"), including responses Grok generates, are based on your Input (together, \"User Content\").",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S36",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If you include personal information in Inputs you provide to the Service, this information may be reproduced in the Output.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S37",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Directly from you.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S39",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S40",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Feedback Data:** Where applicable, we will collect your Feedback (as defined in our Terms of Service).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S41",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This might arise if, for example, in a given conversation with Grok, you rate an Output using the thumbs-up/thumbs-down icons.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S42",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Directly from you.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S44",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S45",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Social Media Information:** We have pages on social media sites like Instagram, Facebook, Medium, X, YouTube, and LinkedIn.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "When you interact with our social media pages, we collect personal information that you choose to provide to us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S47",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In addition, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S48",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Directly from you or from companies that host our social media pages.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S49",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S50",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S51",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Technical Data:** Technical data includes information such as your IP address, device type, country from which you access, analytics information, browser type and version, browser plug-in types and versions, and operating system.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S52",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This may also include information about your use of the Service and how you interact with the Service, including the types of content you view or engage with, the features you use, pages you view and your Grok conversation history.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S53",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Automatically when you use or interact with the Service, including through analytics tools.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S54",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S55",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S56",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Location data:** We may determine the general area from which your device accesses our Services based on information like its IP address.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S57",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Also, you may choose to provide more precise location information, such as your address, your device's GPS location, or location information from third-party services that you use.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S58",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We obtain your consent prior to collecting precise location information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S59",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Directly from you or from third-party services that you use.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S60",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to communicate with you; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S61",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; to our related companies; and to third-parties with which you interact or share information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S62",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Publicly Available Data:** We use information that is publicly available on the internet to train our models and provide resulting Output.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            },
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S63",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "While we do not intentionally seek out personal information, we understand that there is personal information incidentally included in these datasets.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S64",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For more information on the sources of information used in the development and operation of our large language models, see our Consumer FAQs.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: From publicly available resources and providers.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S66",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S67",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S68",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Public X Posts and Internet Search Data:** The Service uses public posts shared on X, engagement data such as number of followers, and number of views, likes, reposts, shares, and replies and internet search results.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S69",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In some instances, this data may include personal information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S70",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may collect it: Public X posts are provided by X and internet search data is provided by internet search providers.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S71",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may use it: To provide, analyze, and maintain our Service; to provide support and assistance in relation to our Service; to develop and improve our Service and to conduct research; to ensure the security and integrity of our Service; for legal purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S72",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- How we may disclose it: To our contracted service providers; in connection with business transfers, for legal purposes; and to our related companies - **Cookies and Similar Technologies**: We and our service providers use cookies and other similar technologies to operate and improve our Services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S73",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This data obtained from these cookies and similar technologies may be used for several different purposes, including to: - Provide useful features to simplify your experience with our Services; - Deliver relevant content and targeted advertising; - Monitor, evaluate and optimize the use and operation of our Site and applications; and - Analyze traffic on our sites and on third-party sites.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S74",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For details about our use of cookies, please read our Cookie Policy.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- **Google Apps Using Google OAuth**: For users who opt to connect to Google Apps via Google OAuth, SpaceXSI shall not use any Google Apps content for any of its internal AI or other training purposes (such as training its machine learning models), including developing new products or services based on such content.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "denies"
+            },
+            {
+              "item": "T5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S76",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We do not aim to collect sensitive personal information (ex., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometric scans, criminal background, or trade union membership) and ask that you do not provide us with any such information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S77",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In addition, in relation to Grok's training, SpaceXSI does not process training data for the purposes of inferring or deriving any sensitive or special category data about individuals, and we do not actively seek out data sources that include sensitive or special category data, nor is any uploaded image used for identification purposes.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S78",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We may use your personal information for a variety of purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S79",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Below, you will find examples and additional information regarding how we may use your personal information.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To provide, analyze, and maintain our Service: For example, to respond to your Inputs (including when you type text prompts or when you give spoken prompts) to Grok or to process payments for subscriptions to our Service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S81",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To provide support and assistance in relation to our Service: For example, to troubleshoot problems and to provide customer support.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S82",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To develop and improve our Service and to conduct research: For example to develop new product features, to train our models, to identify usage trends, to operate and expand our business activities, to identify new customers, and for data analysis.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S83",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To communicate with you: For example, to send you information about our Service, events, or changes to the Service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S84",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This may include sending you non-promotional emails, such as emails about your Grok access, legally required notices, or our ongoing business relations.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S85",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To ensure the security and integrity of our Service: For example, to protect the security of our Services and to detect and prevent fraud, unauthorized use, unlawful activity, and other misuses of our Service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S86",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- For legal purposes: For example, to comply with our legal obligations and to protect the rights, privacy, safety, or property of our users, SpaceXSI, or third-parties.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S87",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "This may include detecting what country you are located in so we can comply with relevant legal obligations.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S88",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We may aggregate, pseudoanonymize, or de-identify your information so that it no longer identifies you and use this information for the purposes described above, such as to analyze the way our Service is being used, to improve and add features to them, and to conduct research.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S89",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We will maintain and use pseudoanonymized or de-identified information in pseudoanonymized or de-identified form and will not attempt to reidentify the information, unless required by law.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S90",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We may disclose your personal information to others.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S91",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Below, you will find examples and additional information regarding how we may disclose your personal information.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To our contracted service providers: To assist in providing the Service to you or performing business operations, we provide your personal information to service providers including providers of hosting, cloud, analytics, content delivery, support and safety monitoring, payment and transaction, and other technology services, for the purposes described above.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S93",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- In connection with business transfers: In connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S94",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If required by applicable laws, we will use reasonable efforts to notify you of any transfer of personal information to an unaffiliated third-party.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S95",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- For legal purposes: To (i) comply with laws or to respond to lawful requests and legal process, (ii) protect the rights and property of SpaceXSI and our agents, customers, and others, including to enforce our agreements, policies, and terms of service, (iii) to protect against legal liability, or (iv) to protect the personal safety of SpaceXSI, its customers, or any person.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S96",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To our related companies: To our related companies to the extent such sharing is necessary to fulfill a request you have submitted via our Service or for customer management, customer support, technical operations, or the purposes described above.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S97",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- To third-parties with which you interact or share information: Certain features may allow you to share information with third-parties, such as through the X platform.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S98",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Information you share with third-parties is governed by that third-party's terms and policies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S99",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We retain your personal information where we have an ongoing legitimate business need to do so.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S100",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In certain circumstances, we will retain your information for legal reasons after our contractual relationship has ended.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S101",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "The specific retention periods depend on the nature of the information and why it is collected and processed and the nature of the legal requirement.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S102",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For example, we may retain your personal information: - When we have a legal obligation to do so (e.g., if we receive a court order, we would retain your information for longer than our usual retention periods); - To address and resolve requests and complaints (e.g., if there is an ongoing complaint about you); - To protect the safety, security, and integrity of our business and the Service, as well as to protect our rights and property and those of others (e.g., if we detect misuse of our Service or otherwise detect unusual activity on your account or in your interactions with us); and - For litigation, regulatory or other legal matters (e.g., we would retain your information if there was an ongoing legal claim and the information was relevant to the claim).",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S103",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "The length of time we retain data may depend on the features or settings you use.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S104",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For example, when Private Chat is turned on, conversations will not appear in your conversation history and your conversations will be deleted from SpaceXSI systems within 30 days unless it is necessary that they be kept longer for legal, compliance, or safety purposes.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S105",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Further, if you choose to delete any or all of your conversations or if you choose to delete your account, we will delete the data within 30 days unless it is necessary to retain the data for legal, compliance, or safety purposes.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S106",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "SpaceXSI implements commercially reasonable technical, administrative, and organizational measures designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S107",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "However, no security measure or method of data transmission over the internet is 100% secure.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S108",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In addition, you are solely responsible for protecting your log-in and password, limiting access to your devices, and signing out of websites and accounts after your sessions.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S109",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Our Service may contain links to external websites or social media platforms that are not operated by us.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S110",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Third-party websites and services have their own terms and conditions and privacy policies, and you should read these carefully before you submit any personal information to them.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S111",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "As noted in the Terms of Service, our Service is not directed at children or minors under the age of 13 and we do not knowingly collect any personal information from them.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S112",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "While we have taken measures to limit undesirable training data and outputs, Grok could produce output that is not appropriate for all ages.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S113",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Parents of teenagers between the ages of 13 and 17 years old must agree to the Terms of Service and are urged to exercise care in monitoring the use of this Service by their teenagers.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S114",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Depending on how a user interacts with the Service, including which modes the user purposely selects, the Service may have content such as some suggestive dialogue, coarse language, crude humor, sexual situations, or violence.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S115",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If you are a child under the age of 13, please do not attempt to register for or otherwise use our Service.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S116",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Please contact us here if you are aware that we may have inadvertently collected personal information from a child under the age of 13.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S117",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Depending on where you are located and subject to applicable legal exceptions, you may have certain rights in relation to your personal information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S118",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For information on the privacy rights that may be available to you under European privacy laws, please review SpaceXSI's Europe Privacy Policy Addendum.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S119",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- You may have the right to request to access, correct, update or delete your personal information, subject to certain applicable legal exceptions.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S120",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Please note that we cannot guarantee the factual accuracy of Output from our models.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S121",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If Output contains factually inaccurate personal information relating to you, you can submit a correction request and we will make reasonable efforts to correct this information — but due to the technical complexity of our models, it may not be feasible for us to do so.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S122",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S123",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S124",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- The right to submit certain privacy requests through an Authorized Agent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S125",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- The right to be free from discrimination for exercising the rights afforded to you under applicable privacy laws.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S126",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "- The right to appeal a decision we make about your rights request.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S127",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Exercising your rights: Some of these rights may be exercised in the SpaceXSI Service but for others you will need to submit a request at https://x.ai/privacy-portal/ and include your full legal name, email address, and city, state/province, and country of residence.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S128",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Once you have submitted your request, we will respond within the time frame permitted by applicable privacy laws.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S129",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Please note, however, that your personal information may be exempt from such requests in certain circumstances, for example if we need to keep using your information to comply with our own legal obligations or to establish, exercise or defend legal claims.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S130",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If an exception applies, we will inform you when responding to your request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S131",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Verification: In order to protect your personal information, your ability to exercise some of the rights detailed in this Privacy Policy may be subject to your ability to verify that you are the person about whom your request pertains.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S132",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For example, we may require you to verify your identity by validating your account credentials or submitting additional information to allow us to verify your identity.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S133",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Authorized Agents: To exercise your rights using an Authorized Agent (as defined under applicable law), you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S134",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We reserve the right to deny a request from an Authorized Agent that does not submit proof that they have been authorized by you to act on your behalf.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S135",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Appeals: If we refuse to take action on a request within a reasonable period of time after receiving your request, you may appeal our decision via https://x.ai/privacy-portal/.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S136",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "In such an appeal, you must (1) provide sufficient information to allow us to verify that you are the person about whom the original request pertains and to identify the original request, and (2) provide a description of the basis of your appeal.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S137",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Please note that your appeal will be subject to your rights and obligations afforded to you under applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We respond to all appeal requests as soon as we reasonably can, and no later than legally required.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S139",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "For more information on your rights with respect to data we use to train our models, please read our Consumer FAQs.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S140",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Do Not Track: Please note that because the effect of \"Do Not Track\" signals remains unclear, and because there continues to be no consistent industry understanding of how to respond to such a signal, we do not alter our privacy practices when we detect a \"Do Not Track\" signal from your browser.",
+          "labels": [
+            {
+              "item": "C8",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S141",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "We may update our Privacy Policy from time to time.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S142",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "When we do, we will publish an updated version and effective date on this page, unless another type of notice is required by applicable law.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S143",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If you use the Service after any changes to the Privacy Policy have been posted, all of the changes made will apply to your use of the Service.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S144",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "To report child safety issues to us, please contact us here.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S145",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "Residents of Australia can find resources regarding child safety and reporting here.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S146",
+          "section": "Privacy Policy | SpaceXSI",
+          "text": "If you have any queries or complaints about our collection, use, or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact us at https://x.ai/privacy-portal/ or by the following contact details: - For the fastest response for world-wide requests and in the USA: SpaceX Super Intelligence LLC, https://x.ai/privacy-portal/ - Information about our handling of California Consumer Privacy Act (CCPA) requests is available here **Other contacts for privacy requests:** - In the UK: Lionheart Squared Limited, FAO x.ai, 17 Glasshouse Studios, Fryern Court Road, Fordingbridge, Hampshire, SP6 1QX United Kingdom <xai@lionheartsquared.co.uk> - In the EU: Lionheart Squared (Europe) Ltd, FAO x.ai, 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84, Republic of Ireland <xai@lionheartsquared.eu> - In Switzerland: Lionheart Squared Switzerland SarL, FAO x.ai, Blvd George Favon 43, CH-1204 Geneva, Switzerland <xai@lionheartsquared.ch> - You can contact our Data Protection Officer at <privacy@x.ai>",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S17"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S34"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S82"
+        }
+      ]
+    },
+    "C2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S23"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S92"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S97"
+        }
+      ]
+    },
+    "C3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S58"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S104"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S122"
+        }
+      ]
+    },
+    "C4": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S119"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S127"
+        }
+      ]
+    },
+    "C5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S99"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S104"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S105"
+        }
+      ]
+    },
+    "C6": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S106"
+        }
+      ]
+    },
+    "C7": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S141"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S142"
+        }
+      ]
+    },
+    "C8": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S140"
+        }
+      ]
+    },
+    "C9": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S8"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S118"
+        }
+      ]
+    },
+    "C10": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S111"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S146"
+        }
+      ]
+    },
+    "T1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S82"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S62"
+        }
+      ]
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S62"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S34"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S82"
+        }
+      ]
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S4"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S75"
+        }
+      ]
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

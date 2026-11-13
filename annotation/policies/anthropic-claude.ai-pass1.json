@@ -1,0 +1,2279 @@
+{
+  "policy_id": "anthropic-claude",
+  "source_url": "https://www.anthropic.com/legal/privacy?ref=indigox.me",
+  "annotator": "ai-pass1",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy \\ Anthropic\n\nAnthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.\n\nThis Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website, Claude.ai, or other Anthropic products and services (the \u201cServices\u201d). This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our Enterprise accounts. Our use of that data is governed by our customer agreements covering access to and use of those offerings.\n\nPlease see our Non-User Privacy Policy for information on how our large language models are \u2018trained\u2019 and how personal data obtained from third party sources, including where others may submit personal data when using our services, may be used when developing or delivering our products and services.\n\nThis Privacy Policy also describes your privacy rights. More information about your rights, and how to exercise them, is set out in Section 4 (\u201cRights and Choices\u201d).\n\nIf you are located in Canada, Brazil, or the Republic of Korea, please read the relevant Regional Supplemental Disclosure which applies to you.\n\nIf you are located in Washington or a state with similar consumer health data laws, please read our Consumer Health Data Privacy Policy which applies to you if you integrate third party health applications with Claude.\n\n## 1. Collection of Personal Data\n\nWe collect the following categories of personal data:\n\n### Personal data you provide to us directly\n\n- Identity and Contact Data: Anthropic collects identifiers, including your name, email address, and phone number when you sign up for an Anthropic account, or to receive information on our Services. We may also collect or generate indirect identifiers (e.g., \u201cUSER12345\u201d).\n\n- Payment Information: We shall collect your payment information if you choose to purchase access to Anthropic\u2019s Services.\n\n- Inputs and Outputs: You are able to interact with our Services in a variety of formats, including but not limited to chat, coding, agentic sessions (where Claude performs multi-step tasks or takes actions on your behalf), and connected services. The content you submit to the Services through these interactions, including via third-party applications, services, and content you choose to upload, integrate or interact with using our Services, are your \u201cInputs\u201d. Inputs generate responses and actions (\u201cOutputs\u201d). If you include personal data or reference external content in your Inputs, we will collect that information and it may be reproduced in your Outputs. Depending on the permissions you grant Claude, some Outputs may result in actions with effects outside the Services, such as sending communications, modifying files, or interacting with third-party services on your behalf.\n\n- Feedback on your use of our Services: We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to an Input (\"Feedback\"). If you rate an Output in response to an Input\u2014for example, by using the thumbs up/thumbs down icon\u2014we may store the entire related conversation as part of your Feedback. You can learn more about how we use Feedback here.\n\n- Study Participation Data: If you participate in Anthropic research studies, surveys, or interviews (for example our Anthropic Interviewer), we collect the responses you provide, associated account data, and related Technical Information. We may combine this data with other data from your account for aggregated analysis.\n\n- Communication Information: If you communicate with us, including via our chatbot on our Help site, we collect your name, contact information, and the contents of any messages you send.\n\n- Verification Data: In certain circumstances, we may ask you to verify your age or identity. If you choose to do so, data we will collect includes, depending on the method: an image of your government-issued identity document and the information appearing on it (such as your ID number and date of birth); your image in photo or video form, facial geometry templates (which may be considered \u2018biometric data\u2019 in some jurisdictions); and the result of the verification (for example, whether your age meets the applicable threshold).\n\nWhen you provide Inputs\u2014including by uploading files, granting Claude access to third-party services, or instructing Claude to retrieve or act on information\u2014you are responsible for ensuring you have the necessary rights, permissions, or authority to do so.\n\n### Personal data we receive automatically from your use of the Services\n\nWhen you use the Services, we also receive certain technical data automatically (described below, collectively \u201c**Technical Information**\u201d). This includes:\n\n- Device and Connection Information: Consistent with your device or browser permissions, your device or browser automatically sends us information about when and how you install, access, or use our Services. This includes information such as your device type, operating system information, browser information and web page referers, mobile network, connection information, mobile operator or internet service provider (ISP), time zone setting, IP address (including information about the location of the device derived from your IP address), identifiers (including device or advertising identifiers, probabilistic identifiers, and other unique personal or online identifiers), and device location.\n\n- Usage Information: We collect information about your use of the Services, such as the dates and times of access, browsing history, search, information about the links you click and about third-party applications, services, and content you integrate or interact with, pages you view, and other information about how you use the Services, and technology on the devices you use to access the Services.\n\n- Log and Troubleshooting Information: We collect information about how our Services are performing when you use them. This information includes log files. If you or your device experiences an error, we may collect information about the error, the time the error occurred, the feature being used, the state of the application when the error occurred, and any communications or content provided at the time the error occurred.\n\n- Cookies & Similar Technologies: We and our service providers use cookies, scripts, or similar technologies (\u201cCookies\u201d) to manage the Services and to collect information about you and your use of the Services. These technologies help us to recognize you, customize or personalize your experience, market additional products or services to you, and analyze the use of our Services to make them safer and more useful to you. For more details about how we use these technologies, and your opt-out controls and other options, please visit our Cookie Policy.\n\n### Personal data we collect or receive to train our models\n\nAnthropic obtains personal data from third party sources in order to train our models. Specifically, we train our models using data from the following sources:\n\n- Publicly available information via the Internet\n\n- Datasets that we obtain through commercial agreements with third party businesses\n\n- Data that our users or crowd workers provide, including Inputs and Outputs from our Services (unless users opt out)\n\n- Feedback that users explicitly provide about our Services\n\n- Materials flagged for safety, security, or policy review\n\n- Data that we generate internally\n\nFor more information about how we collect and use personal data to develop our language models that power our Services, the steps we take to minimize the privacy impact on individuals through the training process, and your choices with respect to that information, please see our separate Non-User Privacy Policy.\n\n## 2. Uses of Personal Data Permitted Under Applicable Data Protection Laws\n\nWe use your personal data for the following purposes:\n\n- To provide, maintain and facilitate any products and services offered to you with respect to your Anthropic account, which are governed by our Terms of Service;\n\n- To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience;\n\n- To provide you with service updates, communications, and to provide tailored recommendations about our Services that may be of interest to you;\n\n- To create and administer your Anthropic account;\n\n- To facilitate payments for products and services provided by Anthropic;\n\n- To prevent and investigate fraud, abuse, and violations of our Usage Policy, unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, to protect our rights and the rights of others, to protect your safety or that of any other person, and to meet legal, governmental and institutional policy obligations;\n\n- To investigate and resolve disputes;\n\n- To investigate and resolve security issues;\n\n- To debug and to identify and repair errors that impair existing functionality;\n\n- To improve the Services and conduct research, including training our models and conducting broader research on AI-related topics such as the societal impacts of AI; and\n\n- To enforce our Terms of Service and similar terms and agreements, including our Usage Policy.\n\nWe may use your Inputs and Outputs to train and improve Anthropic AI models, unless you opt out through your account settings. Even if you opt-out, we will use Inputs and Outputs for model improvement when: (i) your conversations are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance AI safety research, or (ii) you've explicitly reported the materials to us (for example via our feedback mechanisms).\n\nPlease see Section 10 below for details of our legal bases for processing your personal data.\n\n## 3. Recipients and Third-Party Data Sources\n\nAnthropic will disclose personal data to, or receive personal data from, the following categories of third parties for the purposes explained in this Policy:\n\n- Affiliates & corporate partners: Anthropic discloses the categories of personal data described above between and among its affiliates and related entities.\n\n- Service providers & business partners: Anthropic may receive and disclose the categories of personal data described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, data processing, investigating and resolving safety and security issues, preventing and investigating fraud, abuse, and violations of our Usage Policy, and providing you with the Services.\n\n- Your Organization and Administrator: If you use an email address owned by your employer or another organization, your account may be linked to the organization\u2019s enterprise account with us, as described in our Consumer Terms of Service.\n\nAnthropic may also receive or disclose personal data in the following circumstances:\n\n- As part of a significant corporate event: If Anthropic is involved in a merger, corporate transaction, bankruptcy, or other situation involving the transfer of business assets, Anthropic will receive or disclose your personal data as part of these corporate transactions.\n\n- Third-Party Websites, Integrations, and Services: Our Services allow you to connect to and interact with third-party applications, services, and content (\u201cThird-Party Services\u201d) via the Services and through integrations you enable, such as Connectors, plugins, webhooks, and external APIs. When you connect to or interact with Third-Party Services:\n\n  - Claude may send your Inputs, Outputs, and instructions to Third-Party Services to perform actions on your behalf (such as reading files, sending messages, or retrieving information). The Third-Party Service receives this data directly and processes it according to its own privacy policy.\n\n  - Claude may retrieve content and data from Third-Party Services you interact with. This data becomes part of your Inputs.\n\n  - Some integrations or features may allow Claude to access Third-Party Services on an ongoing basis until you disable the feature or disconnect the integration in your settings.\n\n- Anthropic does not control, and is not responsible for, the data practices of Third-Party Services. Before enabling an integration, granting Claude access to, or instructing Claude to take actions on a Third-Party Service, you should ensure you have the authority to grant such access and that doing so complies with any applicable terms, policies, or confidentiality obligations. Before enabling an integration, you should review the third party's privacy policy. Our Services may also link to third-party websites (such as social media); by following these links, you provide information directly to those third parties. Our linking to, or supporting an integration with, a Third-Party Service does not mean we endorse it or speak for that third party.\n\n- Pursuant to regulatory or legal requirements, safety, rights of others, and to enforce our rights or our terms. We may share personal data with government authorities, law enforcement, or other third parties where, based on the information available to us, we have a good-faith belief that disclosure is reasonably necessary to (i) comply with applicable law, regulation or legal process, including for legal, tax or accounting purposes, or in response to an enforceable governmental request; (ii) prevent serious harm to any person or to property; (iii) detect, prevent, or otherwise address fraud or other illegal activity; or (iv) enforce our terms, or protect the rights, property, security, or safety of Anthropic, our users, or others.\n\n- Research publications: We may publish aggregated, de-identified, or anonymized findings from our research, including research into how our Services are used and AI safety research.\n\n- With an individual's consent: Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information, including as a part of our Services.\n\nYou can find information about the third parties Anthropic engages to help us process personal data here.\n\n## 4. Rights and Choices\n\nDepending on where you live and the laws that apply in your country of residence, you may enjoy certain rights regarding your personal data, as described further below. However, please be aware that these rights are limited, and that the processes by which we may need to action your requests regarding our training dataset are complex. We may also decline a request if we have a lawful reason for doing so. That said, we strive to prioritize the protection of personal data, and comply with all applicable privacy laws.\n\nTo exercise your rights, you or an authorized agent may submit a request by contacting us. After we receive your request, we may verify it by requesting information sufficient to confirm your identity (e.g. email address, billing details). Where a third party representative submits a request on behalf of a data subject, we require evidence of authorization to act on behalf of the data subject.\n\nWe will respond to your request within the period required by the data protection law that applies to you. For example, where the EU GDPR or UK GDPR applies, we will respond within one calendar month of receiving a verifiable request, and where your request is complex or you have made a number of requests within a short timeframe, we may extend that period by up to a further two months. Where another law applies to you and sets a different period, we will respond within that period. You may also have the right to appeal requests that we deny by emailing privacy@anthropic.com. Anthropic will not discriminate based on the exercising of privacy rights you may have. Set out below is a summary of the rights which you may enjoy, depending on the laws that apply in your country of residence.\n\n- Right to know: the right to know what personal data Anthropic processes about you, including the categories of personal data, the categories of sources from which it is collected, the business or commercial purposes for collection, and the categories of third parties to whom we disclose it.\n\n- Access & data portability: the right to request a copy of the personal data Anthropic processes about you, subject to certain exceptions and conditions. In certain cases and subject to applicable law, you have the right to port your information.\n\n- Deletion: the right to request that we delete personal data collected from you when you use our Services, subject to certain exceptions. You also are able to delete individual conversations, which will be removed immediately from your conversation history and automatically deleted from our back-end within 30 days. Learn more here.\n\n- Correction: the right to request that we correct inaccurate personal data Anthropic retains about you, subject to certain exceptions. Please note that we cannot guarantee the factual accuracy of Outputs. If Outputs contain factually inaccurate personal data relating to you, you can submit a correction request and we will make a reasonable effort to correct this information\u2014but due to the technical complexity of our large language models, it may not always be possible for us to do so.\n\n- Objection: the right to object to processing of your personal data, including profiling conducted on grounds of public or legitimate interest. In places where such a right applies, we will no longer process the personal data in case of such objection unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or for the establishment, exercise or defense of legal claims. If we use your information for direct marketing, you can object and opt out of future direct marketing messages using the unsubscribe link in such communications.\n\n- Restriction: the right to restrict our processing of your personal data in certain circumstances.\n\n- Withdrawal of consent: Where Anthropic\u2019s processing of your personal data is based on consent, you have the right to withdraw your consent. For example, you can disconnect your health app integration and withdraw your consent in your settings. The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.\n\n- Automated decision-making: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).\n\n- Sale & targeted Anthropic marketing of its products and services: Anthropic does not \u201csell\u201d your personal data as that term is defined by applicable laws and regulations. You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls. To learn more, click here.\n\nAnthropic gives you access to a variety of tools to help you manage your data. You can access these in your Privacy Settings.\n\n## 5. Data Transfers\n\nAnthropic is a global company, and when you access our Services, your personal data is transferred to our servers in the US, or to other countries outside the European Economic Area (\u201cEEA\u201d) and the UK for the purposes outlined in Section 2 of this Privacy Policy, for example to provide you with the Service, or to train our models, or to conduct research. This may be a direct provision of your personal data to us, or a transfer that we or a third party make. You can find more details about the affiliates and third parties we transfer data to, including their locations, in our Trust Center.\n\nWhere Anthropic transfers information outside the EEA or the UK, we ensure it benefits from an adequate level of data protection by relying on:\n\n- Adequacy decisions:  These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognize that a country outside of the EEA offers an adequate level of data protection. We transfer your information as described in \u201cCollection of Personal Data\u201d to some countries with adequacy decisions, such as the countries with EU adequacy decisions listed here and countries with UK adequacy decisions listed here; or\n\n- Standard contractual clauses:  The European Commission has approved contractual clauses under Article 46 GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in \u201cCollection of Personal Data\u201d to certain affiliates and third parties in countries without an adequacy decision.\n\nIn certain situations, we rely on derogations provided for under applicable data protection law to transfer information to a third country. If you have questions about international transfers, or the safeguards we apply, you can contact us.\n\n## 6. Data Retention, Data Lifecycle, and Security Controls\n\nAnthropic retains your personal data for as long as reasonably necessary for the purposes and criteria outlined in this Privacy Policy and explained further in our privacy center.\n\nWhen the personal data collected is no longer required by us, we and our service providers will perform the necessary procedures for destroying, deleting, erasing, or converting it into an anonymous form as permitted or required under applicable laws.\n\n### Aggregated or De-Identified Information\n\nWe apply aggregation and de-identification techniques where appropriate as part of our data minimization practices. For example, we may process personal data in an aggregated or de-identified form to analyze and improve the effectiveness of our Services including to conduct analytics, conduct research, study user behavior, and train our AI models as permitted under applicable laws. For instance:\n\n- When you submit Feedback, we disassociate Inputs and Outputs from your user ID to use them for training and improving our models.\n\n- If our systems flag Inputs or Outputs for harmful content or for potentially violating our policies, we disassociate the content from your user ID to train our trust and safety internal classification and generative models. However, we may re-identify the Inputs or Outputs to enforce our Terms of Service or Usage Policy with the responsible user if necessary.\n\n- To improve user experience, we may analyze and aggregate general user behavior and usage data. This information does not identify individual users.\n\nWhere data is de-identified, Anthropic will maintain and use this information in its de-identified form, and will not attempt to re-identify such information, except as permitted by law.\n\n### Security Controls Relating to our Processing of Personal Data\n\nWe implement appropriate technical and organizational security measures designed to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.\n\n## 7. Children\n\nOur Services are not directed towards, and we do not knowingly collect, use, disclose, sell, or share any information from children under the age of 18. We have measures in place to detect and remove children from our Services. If you become aware that a child under the age of 18 has provided any personal data to us while using our Services, please email us at privacy@anthropic.com and we will investigate the matter and, if appropriate, delete the personal data.\n\n## 8. Changes to Our Privacy Policy\n\nAnthropic may update this Privacy Policy from time to time. We will notify you of any material changes to this Privacy Policy, as appropriate, and update the Effective Date at the top of https://www.anthropic.com/legal/privacy. You can view a summary of privacy policy changes and previous versions in our Privacy Center.\n\n## 9. Contact Information\n\nIf you live in the European Economic Area (EEA), UK or Switzerland (the \u201cEuropean Region\u201d), the data controller responsible for your personal data is Anthropic Ireland, Limited. If you live outside the European Region, the data controller responsible for your personal data is Anthropic PBC.\n\nIf you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below:\n\n- Anthropic PBC with a registered address at 548 Market St, PMB 90375, San Francisco, CA 94104 (United States).\n\n- Anthropic Ireland, Limited with a registered address at 6th Floor, South Bank House, Barrow Street, Dublin 4, D04 TR29 (Ireland).\n\nYou can email us at <privacy@anthropic.com> and contact our Data Protection Officer at <dpo@anthropic.com>.\n\nPlease note that under many countries' laws, you have the right to lodge a complaint with the supervisory authority in the place in which you live or work. A full list of EU supervisory authorities\u2019 contact details is available here. If you live or work in the UK, you have the right to lodge a complaint with the UK Information Commissioner\u2019s Office. If you live in Brazil, you have the right to lodge a complaint with the Brazilian Data Protection Authority (ANPD). If you live in Australia, you have the right to lodge a complaint with the Office of the Australian Information Commissioner.\n\n## 10. Legal Bases for Processing\n\n## 11. Regional Supplemental Disclosures\n\n### Supplemental Disclosures for Residents of Canada\n\nThese supplemental disclosures contain additional information relevant to residents of Canada. This content should be read in conjunction with the rest of our Privacy Policy. In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Canada.\n\nConsent. By expressly consenting to this Privacy Policy, you confirm you have read, understand, and consent to the collection, use, processing, and disclosure of your personal data in accordance with this Privacy Policy and understand that, in jurisdictions where it is available, Anthropic also relies on other lawful bases for the foregoing as more fully set out in this policy. We will only collect, use and disclose your personal data with your consent, unless otherwise permitted or required by law. Your consent may be given expressly or implied, depending on the circumstances and the sensitivity of the information involved. You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice.\n\nCross-jurisdictional Transfers. By providing us with personal data, you acknowledge and agree that your personal data may be transferred or disclosed to other jurisdictions for processing and storage outside of Canada, including to the United States and the countries listed on our Subprocessor List, where laws regarding the protection of personal data may be less stringent than the laws in your jurisdiction. Furthermore, we may disclose your personal data in these jurisdictions in response to legal processes or where we believe in good faith that disclosure is required or permitted by law.\n\nContact. If you have any questions or comments about our processing of your personal data, or to exercise your rights as outlined in Section 4 (\u201cRights and Choices\u201d), please contact us at privacy@anthropic.com.\n\n### Supplemental Disclosures for Residents of Brazil\n\nThese supplemental disclosures contain additional information relevant to residents of Brazil. This content should be read in conjunction with the rest of our Privacy Policy. In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Brazil.\n\nLegal Bases. Depending on the specific purpose of the processing, we may rely on different grounds than those listed under section 2, where permitted by and in accordance with the Brazilian General Data Protection Law (LGPD). For example, we may rely on the \"exercise of legal rights\" basis to process personal data associated with customer complaints and to enforce our Terms of Service and similar terms and agreements, including our Usage Policy.\n\nData Subject's Rights. LGPD grants certain rights regarding your personal data, which differ from the ones listed under section 4. We will respond to your requests to exercise your rights below in accordance with applicable law:\n\n- Confirmation of whether your data is being processed. You have the right to receive a confirmation on whether Anthropic processes your data.\n\n- Access to your data. You have the right to know what personal data Anthropic processes about you.\n\n- Correction of incomplete, inaccurate or outdated data. You have the right to request the correction of your data that is incomplete, inaccurate, or outdated.\n\n- Anonymization, blocking or erasure of data. You have the right to request the anonymization, blocking or erasure of data that is unnecessary, excessive or processed in non-compliance with the provisions of the law.\n\n- Portability of personal data to a third party. You have the right to request portability of your data to a third-party, as long as this does not infringe on our trade secrets.\n\n- Information of public and private entities with which we shared data. You have the right to request information of public and private entities with which we have shared your data.\n\n- Information about the possibility to refuse to provide consent and the respective consequences, when applicable.\n\n- Withdrawal of your consent. You have the right to withdraw your consent. This procedure will be carried out free of charge.\n\n- Request a review of decisions made solely based on automated processing of personal data.\n\nPlease keep in mind that these rights are not absolute and may not apply in certain circumstances. For example, in certain cases we may continue to process and retain data regardless of your request for deletion, objection, blocking or anonymisation, in order to comply with legal, contractual and regulatory obligations, safeguard and exercise rights, including in judicial, administrative and arbitration proceedings and in other cases provided for by law.\n\nInternational Data Transfers. You acknowledge that Anthropic is a company based and headquartered in the United States. Any information we hold about you will be transferred to, used, processed, and stored in the United States and other countries and territories, which may not have data privacy or data protection laws equivalent to those in your country or territory. For the proper operation of the Services, Anthropic needs to carry out international transfers of personal data. In the case of Brazil, we will rely on standard contractual clauses (SCCs) for our data transfers where required and in instances where they are not covered by an adequacy decision. These SCCs have been approved by the Brazilian Data Protection Authority (ANPD), which is the \"competent supervisory authority\" for these transfers, as governed by Brazilian Data Protection Laws. You can view the SCCs adopted by the ANPD here.\n\n### Supplemental Disclosures for Residents of the Republic of Korea\n\nThis section applies to the extent that Anthropic is subject to the Personal Information Protection Act (\u201cPIPA\u201d), and supplements the information in the Privacy Policy. This is an addendum to the Privacy Policy and should be read in conjunction with the Privacy Policy. In case of any inconsistency between the Privacy Policy and this Addendum, this Addendum prevails for users in the Republic of Korea. This Addendum may be amended or updated from time to time.\n\n**Items of Personal Data Collected and Purpose of Use**\n\nIn addition to \u201c1. Collection of Personal Data\u201d, we collect and use your information as follows:\n\n- **Purpose:** Identity verification, Fraud and abuse monitoring\n\n- **Items of Data:** Name, birthdate, sex, native-foreigner-code, and DI (duplication information)\n\n- **Period of retention and use:** Until account deletion\n\n**Delegation of Processing of Personal Data**\n\nAnthropic delegates the processing of personal data as described here and below, and the delegatees may process personal data according to the purpose of the delegation.\n\n- **Korea Credit Bureau:** Fraud and abuse detection and identity verification\n\n- **Kim & Chang:** Assisting with the domestic representative related duties\n\n**Overseas Transfer of Personal Data**\n\nAnthropic delegates the processing of personal data to affiliates and third parties, all of whom are located overseas. In addition, Anthropic transfers personal data overseas as follows:\n\n- **Recipient\u2019s Name (Contact Information):** Persona (privacy@withpersona.com)\n\n- **Country to which Personal Data to be Transferred:** United States\n\n- **Items of Personal Data to be Transferred:** Name, birthdate, sex, native-foreigner-code, and DI (duplication information)\n\n- **Recipient\u2019s Purpose of Use:** Fraud and abuse detection and identity verification\n\n- **Period of Retention and Use by Recipient:** 3 years\n\n- **Legal Basis for Overseas Transfer:** PIPA Article 28-8(1)(iii) delegation\n\nFollowing collection, personal data is transferred to the overseas recipients listed below from time to time, as necessary, via a dedicated network. You may have the right to request that your personal data not be transferred overseas as described above. If so, you may request this by email us at <privacy@anthropic.com> and contact our Data Protection Officer at <dpo@anthropic.com>. However, in doing so, Anthropic may not be able to provide you with all or any of the services we make available through our website.\n\n**Domestic Representative in the Republic of Korea**\n\nThe domestic representative of Anthropic PBC for data protection and related regulatory purposes under Article 31-2 of the Personal Information Protection Act and Article 32-5 of the Act on Promotion of Information and Communications Network Utilization and Data Protection, Etc. in the Republic of Korea is as follows:\n\nEntity Name and Representative: Anthropic Korea, Limited (Representative Patrick Azubike Ekeruo)\n\nRegistered Address: (Yeoksam-dong), 41F, 152 Teheran-ro, Gangnam-gu, Seoul, South Korea\n\nTelephone: +82 2 734 0940\n\nEmail: anthropic_privacy@kimchang.com\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "This Privacy Policy explains how we collect, use, disclose, and process your personal data when you use our website, Claude.ai, or other Anthropic products and services (the \u201cServices\u201d).",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our Enterprise accounts.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S4",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "Our use of that data is governed by our customer agreements covering access to and use of those offerings.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S5",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "Please see our Non-User Privacy Policy for information on how our large language models are \u2018trained\u2019 and how personal data obtained from third party sources, including where others may submit personal data when using our services, may be used when developing or delivering our products and services.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S6",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "This Privacy Policy also describes your privacy rights.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S7",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "More information about your rights, and how to exercise them, is set out in Section 4 (\u201cRights and Choices\u201d).",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "If you are located in Canada, Brazil, or the Republic of Korea, please read the relevant Regional Supplemental Disclosure which applies to you.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S9",
+          "section": "Privacy Policy \\ Anthropic",
+          "text": "If you are located in Washington or a state with similar consumer health data laws, please read our Consumer Health Data Privacy Policy which applies to you if you integrate third party health applications with Claude.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S10",
+          "section": "1. Collection of Personal Data",
+          "text": "We collect the following categories of personal data:",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Personal data you provide to us directly",
+          "text": "- Identity and Contact Data: Anthropic collects identifiers, including your name, email address, and phone number when you sign up for an Anthropic account, or to receive information on our Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S12",
+          "section": "Personal data you provide to us directly",
+          "text": "We may also collect or generate indirect identifiers (e.g., \u201cUSER12345\u201d).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S13",
+          "section": "Personal data you provide to us directly",
+          "text": "- Payment Information: We shall collect your payment information if you choose to purchase access to Anthropic\u2019s Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S14",
+          "section": "Personal data you provide to us directly",
+          "text": "- Inputs and Outputs: You are able to interact with our Services in a variety of formats, including but not limited to chat, coding, agentic sessions (where Claude performs multi-step tasks or takes actions on your behalf), and connected services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S15",
+          "section": "Personal data you provide to us directly",
+          "text": "The content you submit to the Services through these interactions, including via third-party applications, services, and content you choose to upload, integrate or interact with using our Services, are your \u201cInputs\u201d.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S16",
+          "section": "Personal data you provide to us directly",
+          "text": "Inputs generate responses and actions (\u201cOutputs\u201d).",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "Personal data you provide to us directly",
+          "text": "If you include personal data or reference external content in your Inputs, we will collect that information and it may be reproduced in your Outputs.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S18",
+          "section": "Personal data you provide to us directly",
+          "text": "Depending on the permissions you grant Claude, some Outputs may result in actions with effects outside the Services, such as sending communications, modifying files, or interacting with third-party services on your behalf.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S19",
+          "section": "Personal data you provide to us directly",
+          "text": "- Feedback on your use of our Services: We appreciate feedback, including ideas and suggestions for improvement or rating an Output in response to an Input (\"Feedback\").",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S20",
+          "section": "Personal data you provide to us directly",
+          "text": "If you rate an Output in response to an Input\u2014for example, by using the thumbs up/thumbs down icon\u2014we may store the entire related conversation as part of your Feedback.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S21",
+          "section": "Personal data you provide to us directly",
+          "text": "You can learn more about how we use Feedback here.",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "Personal data you provide to us directly",
+          "text": "- Study Participation Data: If you participate in Anthropic research studies, surveys, or interviews (for example our Anthropic Interviewer), we collect the responses you provide, associated account data, and related Technical Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S23",
+          "section": "Personal data you provide to us directly",
+          "text": "We may combine this data with other data from your account for aggregated analysis.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S24",
+          "section": "Personal data you provide to us directly",
+          "text": "- Communication Information: If you communicate with us, including via our chatbot on our Help site, we collect your name, contact information, and the contents of any messages you send.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S25",
+          "section": "Personal data you provide to us directly",
+          "text": "- Verification Data: In certain circumstances, we may ask you to verify your age or identity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S26",
+          "section": "Personal data you provide to us directly",
+          "text": "If you choose to do so, data we will collect includes, depending on the method: an image of your government-issued identity document and the information appearing on it (such as your ID number and date of birth); your image in photo or video form, facial geometry templates (which may be considered \u2018biometric data\u2019 in some jurisdictions); and the result of the verification (for example, whether your age meets the applicable threshold).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S27",
+          "section": "Personal data you provide to us directly",
+          "text": "When you provide Inputs\u2014including by uploading files, granting Claude access to third-party services, or instructing Claude to retrieve or act on information\u2014you are responsible for ensuring you have the necessary rights, permissions, or authority to do so.",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "When you use the Services, we also receive certain technical data automatically (described below, collectively \u201c**Technical Information**\u201d).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S29",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "This includes: - Device and Connection Information: Consistent with your device or browser permissions, your device or browser automatically sends us information about when and how you install, access, or use our Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S30",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "This includes information such as your device type, operating system information, browser information and web page referers, mobile network, connection information, mobile operator or internet service provider (ISP), time zone setting, IP address (including information about the location of the device derived from your IP address), identifiers (including device or advertising identifiers, probabilistic identifiers, and other unique personal or online identifiers), and device location.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S31",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "- Usage Information: We collect information about your use of the Services, such as the dates and times of access, browsing history, search, information about the links you click and about third-party applications, services, and content you integrate or interact with, pages you view, and other information about how you use the Services, and technology on the devices you use to access the Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S32",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "- Log and Troubleshooting Information: We collect information about how our Services are performing when you use them.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S33",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "This information includes log files.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S34",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "If you or your device experiences an error, we may collect information about the error, the time the error occurred, the feature being used, the state of the application when the error occurred, and any communications or content provided at the time the error occurred.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S35",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "- Cookies & Similar Technologies: We and our service providers use cookies, scripts, or similar technologies (\u201cCookies\u201d) to manage the Services and to collect information about you and your use of the Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S36",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "These technologies help us to recognize you, customize or personalize your experience, market additional products or services to you, and analyze the use of our Services to make them safer and more useful to you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S37",
+          "section": "Personal data we receive automatically from your use of the Services",
+          "text": "For more details about how we use these technologies, and your opt-out controls and other options, please visit our Cookie Policy.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S38",
+          "section": "Personal data we collect or receive to train our models",
+          "text": "Anthropic obtains personal data from third party sources in order to train our models.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S39",
+          "section": "Personal data we collect or receive to train our models",
+          "text": "Specifically, we train our models using data from the following sources: - Publicly available information via the Internet - Datasets that we obtain through commercial agreements with third party businesses - Data that our users or crowd workers provide, including Inputs and Outputs from our Services (unless users opt out) - Feedback that users explicitly provide about our Services - Materials flagged for safety, security, or policy review - Data that we generate internally For more information about how we collect and use personal data to develop our language models that power our Services, the steps we take to minimize the privacy impact on individuals through the training process, and your choices with respect to that information, please see our separate Non-User Privacy Policy.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S40",
+          "section": "2. Uses of Personal Data Permitted Under Applicable Data Protection Laws",
+          "text": "We use your personal data for the following purposes: - To provide, maintain and facilitate any products and services offered to you with respect to your Anthropic account, which are governed by our Terms of Service; - To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience; - To provide you with service updates, communications, and to provide tailored recommendations about our Services that may be of interest to you; - To create and administer your Anthropic account; - To facilitate payments for products and services provided by Anthropic; - To prevent and investigate fraud, abuse, and violations of our Usage Policy, unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, to protect our rights and the rights of others, to protect your safety or that of any other person, and to meet legal, governmental and institutional policy obligations; - To investigate and resolve disputes; - To investigate and resolve security issues; - To debug and to identify and repair errors that impair existing functionality; - To improve the Services and conduct research, including training our models and conducting broader research on AI-related topics such as the societal impacts of AI; and - To enforce our Terms of Service and similar terms and agreements, including our Usage Policy.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S41",
+          "section": "2. Uses of Personal Data Permitted Under Applicable Data Protection Laws",
+          "text": "We may use your Inputs and Outputs to train and improve Anthropic AI models, unless you opt out through your account settings.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S42",
+          "section": "2. Uses of Personal Data Permitted Under Applicable Data Protection Laws",
+          "text": "Even if you opt-out, we will use Inputs and Outputs for model improvement when: (i) your conversations are flagged for safety review to improve our ability to detect harmful content, enforce our policies, or advance AI safety research, or (ii) you've explicitly reported the materials to us (for example via our feedback mechanisms).",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "states"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S43",
+          "section": "2. Uses of Personal Data Permitted Under Applicable Data Protection Laws",
+          "text": "Please see Section 10 below for details of our legal bases for processing your personal data.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "Anthropic will disclose personal data to, or receive personal data from, the following categories of third parties for the purposes explained in this Policy: - Affiliates & corporate partners: Anthropic discloses the categories of personal data described above between and among its affiliates and related entities.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S45",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Service providers & business partners: Anthropic may receive and disclose the categories of personal data described above with service providers and business partners for a variety of business purposes, including website and data hosting, ensuring compliance with industry standards, research, auditing, data processing, investigating and resolving safety and security issues, preventing and investigating fraud, abuse, and violations of our Usage Policy, and providing you with the Services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S46",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Your Organization and Administrator: If you use an email address owned by your employer or another organization, your account may be linked to the organization\u2019s enterprise account with us, as described in our Consumer Terms of Service.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "mentions"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S47",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "Anthropic may also receive or disclose personal data in the following circumstances: - As part of a significant corporate event: If Anthropic is involved in a merger, corporate transaction, bankruptcy, or other situation involving the transfer of business assets, Anthropic will receive or disclose your personal data as part of these corporate transactions.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S48",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Third-Party Websites, Integrations, and Services: Our Services allow you to connect to and interact with third-party applications, services, and content (\u201cThird-Party Services\u201d) via the Services and through integrations you enable, such as Connectors, plugins, webhooks, and external APIs.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S49",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "When you connect to or interact with Third-Party Services: - Claude may send your Inputs, Outputs, and instructions to Third-Party Services to perform actions on your behalf (such as reading files, sending messages, or retrieving information).",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S50",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "The Third-Party Service receives this data directly and processes it according to its own privacy policy.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S51",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Claude may retrieve content and data from Third-Party Services you interact with.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S52",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "This data becomes part of your Inputs.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S53",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Some integrations or features may allow Claude to access Third-Party Services on an ongoing basis until you disable the feature or disconnect the integration in your settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S54",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Anthropic does not control, and is not responsible for, the data practices of Third-Party Services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S55",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "Before enabling an integration, granting Claude access to, or instructing Claude to take actions on a Third-Party Service, you should ensure you have the authority to grant such access and that doing so complies with any applicable terms, policies, or confidentiality obligations.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "Before enabling an integration, you should review the third party's privacy policy.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "Our Services may also link to third-party websites (such as social media); by following these links, you provide information directly to those third parties.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S58",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "Our linking to, or supporting an integration with, a Third-Party Service does not mean we endorse it or speak for that third party.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Pursuant to regulatory or legal requirements, safety, rights of others, and to enforce our rights or our terms.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "We may share personal data with government authorities, law enforcement, or other third parties where, based on the information available to us, we have a good-faith belief that disclosure is reasonably necessary to (i) comply with applicable law, regulation or legal process, including for legal, tax or accounting purposes, or in response to an enforceable governmental request; (ii) prevent serious harm to any person or to property; (iii) detect, prevent, or otherwise address fraud or other illegal activity; or (iv) enforce our terms, or protect the rights, property, security, or safety of Anthropic, our users, or others.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S61",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- Research publications: We may publish aggregated, de-identified, or anonymized findings from our research, including research into how our Services are used and AI safety research.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S62",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "- With an individual's consent: Anthropic will otherwise disclose personal data when an individual gives us permission or directs us to disclose this information, including as a part of our Services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S63",
+          "section": "3. Recipients and Third-Party Data Sources",
+          "text": "You can find information about the third parties Anthropic engages to help us process personal data here.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "4. Rights and Choices",
+          "text": "Depending on where you live and the laws that apply in your country of residence, you may enjoy certain rights regarding your personal data, as described further below.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S65",
+          "section": "4. Rights and Choices",
+          "text": "However, please be aware that these rights are limited, and that the processes by which we may need to action your requests regarding our training dataset are complex.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S66",
+          "section": "4. Rights and Choices",
+          "text": "We may also decline a request if we have a lawful reason for doing so.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S67",
+          "section": "4. Rights and Choices",
+          "text": "That said, we strive to prioritize the protection of personal data, and comply with all applicable privacy laws.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "4. Rights and Choices",
+          "text": "To exercise your rights, you or an authorized agent may submit a request by contacting us.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S69",
+          "section": "4. Rights and Choices",
+          "text": "After we receive your request, we may verify it by requesting information sufficient to confirm your identity (e.g.",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "4. Rights and Choices",
+          "text": "email address, billing details).",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "4. Rights and Choices",
+          "text": "Where a third party representative submits a request on behalf of a data subject, we require evidence of authorization to act on behalf of the data subject.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "4. Rights and Choices",
+          "text": "We will respond to your request within the period required by the data protection law that applies to you.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S73",
+          "section": "4. Rights and Choices",
+          "text": "For example, where the EU GDPR or UK GDPR applies, we will respond within one calendar month of receiving a verifiable request, and where your request is complex or you have made a number of requests within a short timeframe, we may extend that period by up to a further two months.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S74",
+          "section": "4. Rights and Choices",
+          "text": "Where another law applies to you and sets a different period, we will respond within that period.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "4. Rights and Choices",
+          "text": "You may also have the right to appeal requests that we deny by emailing privacy@anthropic.com.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S76",
+          "section": "4. Rights and Choices",
+          "text": "Anthropic will not discriminate based on the exercising of privacy rights you may have.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S77",
+          "section": "4. Rights and Choices",
+          "text": "Set out below is a summary of the rights which you may enjoy, depending on the laws that apply in your country of residence.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S78",
+          "section": "4. Rights and Choices",
+          "text": "- Right to know: the right to know what personal data Anthropic processes about you, including the categories of personal data, the categories of sources from which it is collected, the business or commercial purposes for collection, and the categories of third parties to whom we disclose it.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S79",
+          "section": "4. Rights and Choices",
+          "text": "- Access & data portability: the right to request a copy of the personal data Anthropic processes about you, subject to certain exceptions and conditions.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S80",
+          "section": "4. Rights and Choices",
+          "text": "In certain cases and subject to applicable law, you have the right to port your information.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S81",
+          "section": "4. Rights and Choices",
+          "text": "- Deletion: the right to request that we delete personal data collected from you when you use our Services, subject to certain exceptions.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S82",
+          "section": "4. Rights and Choices",
+          "text": "You also are able to delete individual conversations, which will be removed immediately from your conversation history and automatically deleted from our back-end within 30 days.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S83",
+          "section": "4. Rights and Choices",
+          "text": "Learn more here.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "4. Rights and Choices",
+          "text": "- Correction: the right to request that we correct inaccurate personal data Anthropic retains about you, subject to certain exceptions.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S85",
+          "section": "4. Rights and Choices",
+          "text": "Please note that we cannot guarantee the factual accuracy of Outputs.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "4. Rights and Choices",
+          "text": "If Outputs contain factually inaccurate personal data relating to you, you can submit a correction request and we will make a reasonable effort to correct this information\u2014but due to the technical complexity of our large language models, it may not always be possible for us to do so.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S87",
+          "section": "4. Rights and Choices",
+          "text": "- Objection: the right to object to processing of your personal data, including profiling conducted on grounds of public or legitimate interest.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S88",
+          "section": "4. Rights and Choices",
+          "text": "In places where such a right applies, we will no longer process the personal data in case of such objection unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or for the establishment, exercise or defense of legal claims.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S89",
+          "section": "4. Rights and Choices",
+          "text": "If we use your information for direct marketing, you can object and opt out of future direct marketing messages using the unsubscribe link in such communications.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S90",
+          "section": "4. Rights and Choices",
+          "text": "- Restriction: the right to restrict our processing of your personal data in certain circumstances.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S91",
+          "section": "4. Rights and Choices",
+          "text": "- Withdrawal of consent: Where Anthropic\u2019s processing of your personal data is based on consent, you have the right to withdraw your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S92",
+          "section": "4. Rights and Choices",
+          "text": "For example, you can disconnect your health app integration and withdraw your consent in your settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S93",
+          "section": "4. Rights and Choices",
+          "text": "The withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "4. Rights and Choices",
+          "text": "- Automated decision-making: Anthropic does not engage in decision making based solely on automated processing or profiling in a manner which produces a legal effect (i.e., impacts your legal rights) or significantly affects you in a similar way (e.g., significantly affects your financial circumstances or ability to access essential goods or services).",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S95",
+          "section": "4. Rights and Choices",
+          "text": "- Sale & targeted Anthropic marketing of its products and services: Anthropic does not \u201csell\u201d your personal data as that term is defined by applicable laws and regulations.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S96",
+          "section": "4. Rights and Choices",
+          "text": "You can opt-out of sharing your personal data for targeted advertising to promote our products and services, and we will honor global privacy controls.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C8",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S97",
+          "section": "4. Rights and Choices",
+          "text": "To learn more, click here.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "4. Rights and Choices",
+          "text": "Anthropic gives you access to a variety of tools to help you manage your data.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S99",
+          "section": "4. Rights and Choices",
+          "text": "You can access these in your Privacy Settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S100",
+          "section": "5. Data Transfers",
+          "text": "Anthropic is a global company, and when you access our Services, your personal data is transferred to our servers in the US, or to other countries outside the European Economic Area (\u201cEEA\u201d) and the UK for the purposes outlined in Section 2 of this Privacy Policy, for example to provide you with the Service, or to train our models, or to conduct research.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S101",
+          "section": "5. Data Transfers",
+          "text": "This may be a direct provision of your personal data to us, or a transfer that we or a third party make.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S102",
+          "section": "5. Data Transfers",
+          "text": "You can find more details about the affiliates and third parties we transfer data to, including their locations, in our Trust Center.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S103",
+          "section": "5. Data Transfers",
+          "text": "Where Anthropic transfers information outside the EEA or the UK, we ensure it benefits from an adequate level of data protection by relying on: - Adequacy decisions: These are decisions from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognize that a country outside of the EEA offers an adequate level of data protection.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S104",
+          "section": "5. Data Transfers",
+          "text": "We transfer your information as described in \u201cCollection of Personal Data\u201d to some countries with adequacy decisions, such as the countries with EU adequacy decisions listed here and countries with UK adequacy decisions listed here; or - Standard contractual clauses: The European Commission has approved contractual clauses under Article 46 GDPR that allows companies in the EEA to transfer data outside the EEA.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S105",
+          "section": "5. Data Transfers",
+          "text": "These (and their approved equivalent for the UK and Switzerland) are called standard contractual clauses.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "5. Data Transfers",
+          "text": "We rely on standard contractual clauses to transfer information as described in \u201cCollection of Personal Data\u201d to certain affiliates and third parties in countries without an adequacy decision.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S107",
+          "section": "5. Data Transfers",
+          "text": "In certain situations, we rely on derogations provided for under applicable data protection law to transfer information to a third country.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S108",
+          "section": "5. Data Transfers",
+          "text": "If you have questions about international transfers, or the safeguards we apply, you can contact us.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S109",
+          "section": "6. Data Retention, Data Lifecycle, and Security Controls",
+          "text": "Anthropic retains your personal data for as long as reasonably necessary for the purposes and criteria outlined in this Privacy Policy and explained further in our privacy center.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S110",
+          "section": "6. Data Retention, Data Lifecycle, and Security Controls",
+          "text": "When the personal data collected is no longer required by us, we and our service providers will perform the necessary procedures for destroying, deleting, erasing, or converting it into an anonymous form as permitted or required under applicable laws.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S111",
+          "section": "Aggregated or De-Identified Information",
+          "text": "We apply aggregation and de-identification techniques where appropriate as part of our data minimization practices.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S112",
+          "section": "Aggregated or De-Identified Information",
+          "text": "For example, we may process personal data in an aggregated or de-identified form to analyze and improve the effectiveness of our Services including to conduct analytics, conduct research, study user behavior, and train our AI models as permitted under applicable laws.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S113",
+          "section": "Aggregated or De-Identified Information",
+          "text": "For instance: - When you submit Feedback, we disassociate Inputs and Outputs from your user ID to use them for training and improving our models.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S114",
+          "section": "Aggregated or De-Identified Information",
+          "text": "- If our systems flag Inputs or Outputs for harmful content or for potentially violating our policies, we disassociate the content from your user ID to train our trust and safety internal classification and generative models.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S115",
+          "section": "Aggregated or De-Identified Information",
+          "text": "However, we may re-identify the Inputs or Outputs to enforce our Terms of Service or Usage Policy with the responsible user if necessary.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S116",
+          "section": "Aggregated or De-Identified Information",
+          "text": "- To improve user experience, we may analyze and aggregate general user behavior and usage data.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S117",
+          "section": "Aggregated or De-Identified Information",
+          "text": "This information does not identify individual users.",
+          "labels": []
+        },
+        {
+          "id": "S118",
+          "section": "Aggregated or De-Identified Information",
+          "text": "Where data is de-identified, Anthropic will maintain and use this information in its de-identified form, and will not attempt to re-identify such information, except as permitted by law.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S119",
+          "section": "Security Controls Relating to our Processing of Personal Data",
+          "text": "We implement appropriate technical and organizational security measures designed to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S120",
+          "section": "7. Children",
+          "text": "Our Services are not directed towards, and we do not knowingly collect, use, disclose, sell, or share any information from children under the age of 18.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S121",
+          "section": "7. Children",
+          "text": "We have measures in place to detect and remove children from our Services.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S122",
+          "section": "7. Children",
+          "text": "If you become aware that a child under the age of 18 has provided any personal data to us while using our Services, please email us at privacy@anthropic.com and we will investigate the matter and, if appropriate, delete the personal data.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S123",
+          "section": "8. Changes to Our Privacy Policy",
+          "text": "Anthropic may update this Privacy Policy from time to time.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S124",
+          "section": "8. Changes to Our Privacy Policy",
+          "text": "We will notify you of any material changes to this Privacy Policy, as appropriate, and update the Effective Date at the top of https://www.anthropic.com/legal/privacy.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S125",
+          "section": "8. Changes to Our Privacy Policy",
+          "text": "You can view a summary of privacy policy changes and previous versions in our Privacy Center.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S126",
+          "section": "9. Contact Information",
+          "text": "If you live in the European Economic Area (EEA), UK or Switzerland (the \u201cEuropean Region\u201d), the data controller responsible for your personal data is Anthropic Ireland, Limited.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S127",
+          "section": "9. Contact Information",
+          "text": "If you live outside the European Region, the data controller responsible for your personal data is Anthropic PBC.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S128",
+          "section": "9. Contact Information",
+          "text": "If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can contact us as described below: - Anthropic PBC with a registered address at 548 Market St, PMB 90375, San Francisco, CA 94104 (United States).",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S129",
+          "section": "9. Contact Information",
+          "text": "- Anthropic Ireland, Limited with a registered address at 6th Floor, South Bank House, Barrow Street, Dublin 4, D04 TR29 (Ireland).",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S130",
+          "section": "9. Contact Information",
+          "text": "You can email us at <privacy@anthropic.com> and contact our Data Protection Officer at <dpo@anthropic.com>.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S131",
+          "section": "9. Contact Information",
+          "text": "Please note that under many countries' laws, you have the right to lodge a complaint with the supervisory authority in the place in which you live or work.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S132",
+          "section": "9. Contact Information",
+          "text": "A full list of EU supervisory authorities\u2019 contact details is available here.",
+          "labels": []
+        },
+        {
+          "id": "S133",
+          "section": "9. Contact Information",
+          "text": "If you live or work in the UK, you have the right to lodge a complaint with the UK Information Commissioner\u2019s Office.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S134",
+          "section": "9. Contact Information",
+          "text": "If you live in Brazil, you have the right to lodge a complaint with the Brazilian Data Protection Authority (ANPD).",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S135",
+          "section": "9. Contact Information",
+          "text": "If you live in Australia, you have the right to lodge a complaint with the Office of the Australian Information Commissioner.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S136",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "These supplemental disclosures contain additional information relevant to residents of Canada.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S137",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "This content should be read in conjunction with the rest of our Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Canada.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S139",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "Consent.",
+          "labels": []
+        },
+        {
+          "id": "S140",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "By expressly consenting to this Privacy Policy, you confirm you have read, understand, and consent to the collection, use, processing, and disclosure of your personal data in accordance with this Privacy Policy and understand that, in jurisdictions where it is available, Anthropic also relies on other lawful bases for the foregoing as more fully set out in this policy.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S141",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "We will only collect, use and disclose your personal data with your consent, unless otherwise permitted or required by law.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S142",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "Your consent may be given expressly or implied, depending on the circumstances and the sensitivity of the information involved.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S143",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S144",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "Cross-jurisdictional Transfers.",
+          "labels": []
+        },
+        {
+          "id": "S145",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "By providing us with personal data, you acknowledge and agree that your personal data may be transferred or disclosed to other jurisdictions for processing and storage outside of Canada, including to the United States and the countries listed on our Subprocessor List, where laws regarding the protection of personal data may be less stringent than the laws in your jurisdiction.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S146",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "Furthermore, we may disclose your personal data in these jurisdictions in response to legal processes or where we believe in good faith that disclosure is required or permitted by law.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S147",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "Contact.",
+          "labels": []
+        },
+        {
+          "id": "S148",
+          "section": "Supplemental Disclosures for Residents of Canada",
+          "text": "If you have any questions or comments about our processing of your personal data, or to exercise your rights as outlined in Section 4 (\u201cRights and Choices\u201d), please contact us at privacy@anthropic.com.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S149",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "These supplemental disclosures contain additional information relevant to residents of Brazil.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S150",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "This content should be read in conjunction with the rest of our Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S151",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "In case of conflict between our Privacy Policy and these supplemental disclosures, the supplemental disclosures shall prevail in relation to residents of Brazil.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S152",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "Legal Bases.",
+          "labels": []
+        },
+        {
+          "id": "S153",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "Depending on the specific purpose of the processing, we may rely on different grounds than those listed under section 2, where permitted by and in accordance with the Brazilian General Data Protection Law (LGPD).",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S154",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "For example, we may rely on the \"exercise of legal rights\" basis to process personal data associated with customer complaints and to enforce our Terms of Service and similar terms and agreements, including our Usage Policy.",
+          "labels": []
+        },
+        {
+          "id": "S155",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "Data Subject's Rights.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "LGPD grants certain rights regarding your personal data, which differ from the ones listed under section 4.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S157",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "We will respond to your requests to exercise your rights below in accordance with applicable law: - Confirmation of whether your data is being processed.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S158",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to receive a confirmation on whether Anthropic processes your data.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S159",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Access to your data.",
+          "labels": []
+        },
+        {
+          "id": "S160",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to know what personal data Anthropic processes about you.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S161",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Correction of incomplete, inaccurate or outdated data.",
+          "labels": []
+        },
+        {
+          "id": "S162",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to request the correction of your data that is incomplete, inaccurate, or outdated.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S163",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Anonymization, blocking or erasure of data.",
+          "labels": []
+        },
+        {
+          "id": "S164",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to request the anonymization, blocking or erasure of data that is unnecessary, excessive or processed in non-compliance with the provisions of the law.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S165",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Portability of personal data to a third party.",
+          "labels": []
+        },
+        {
+          "id": "S166",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to request portability of your data to a third-party, as long as this does not infringe on our trade secrets.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S167",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Information of public and private entities with which we shared data.",
+          "labels": []
+        },
+        {
+          "id": "S168",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to request information of public and private entities with which we have shared your data.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S169",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Information about the possibility to refuse to provide consent and the respective consequences, when applicable.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S170",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Withdrawal of your consent.",
+          "labels": []
+        },
+        {
+          "id": "S171",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You have the right to withdraw your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S172",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "This procedure will be carried out free of charge.",
+          "labels": []
+        },
+        {
+          "id": "S173",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "- Request a review of decisions made solely based on automated processing of personal data.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S174",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "Please keep in mind that these rights are not absolute and may not apply in certain circumstances.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S175",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "For example, in certain cases we may continue to process and retain data regardless of your request for deletion, objection, blocking or anonymisation, in order to comply with legal, contractual and regulatory obligations, safeguard and exercise rights, including in judicial, administrative and arbitration proceedings and in other cases provided for by law.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S176",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "International Data Transfers.",
+          "labels": []
+        },
+        {
+          "id": "S177",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You acknowledge that Anthropic is a company based and headquartered in the United States.",
+          "labels": []
+        },
+        {
+          "id": "S178",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "Any information we hold about you will be transferred to, used, processed, and stored in the United States and other countries and territories, which may not have data privacy or data protection laws equivalent to those in your country or territory.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S179",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "For the proper operation of the Services, Anthropic needs to carry out international transfers of personal data.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S180",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "In the case of Brazil, we will rely on standard contractual clauses (SCCs) for our data transfers where required and in instances where they are not covered by an adequacy decision.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S181",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "These SCCs have been approved by the Brazilian Data Protection Authority (ANPD), which is the \"competent supervisory authority\" for these transfers, as governed by Brazilian Data Protection Laws.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S182",
+          "section": "Supplemental Disclosures for Residents of Brazil",
+          "text": "You can view the SCCs adopted by the ANPD here.",
+          "labels": []
+        },
+        {
+          "id": "S183",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "This section applies to the extent that Anthropic is subject to the Personal Information Protection Act (\u201cPIPA\u201d), and supplements the information in the Privacy Policy.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S184",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "This is an addendum to the Privacy Policy and should be read in conjunction with the Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S185",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "In case of any inconsistency between the Privacy Policy and this Addendum, this Addendum prevails for users in the Republic of Korea.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S186",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "This Addendum may be amended or updated from time to time.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S187",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "**Items of Personal Data Collected and Purpose of Use** In addition to \u201c1.",
+          "labels": []
+        },
+        {
+          "id": "S188",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "Collection of Personal Data\u201d, we collect and use your information as follows: - **Purpose:** Identity verification, Fraud and abuse monitoring - **Items of Data:** Name, birthdate, sex, native-foreigner-code, and DI (duplication information) - **Period of retention and use:** Until account deletion **Delegation of Processing of Personal Data** Anthropic delegates the processing of personal data as described here and below, and the delegatees may process personal data according to the purpose of the delegation.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            },
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S189",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "- **Korea Credit Bureau:** Fraud and abuse detection and identity verification - **Kim & Chang:** Assisting with the domestic representative related duties **Overseas Transfer of Personal Data** Anthropic delegates the processing of personal data to affiliates and third parties, all of whom are located overseas.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S190",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "In addition, Anthropic transfers personal data overseas as follows: - **Recipient\u2019s Name (Contact Information):** Persona (privacy@withpersona.com) - **Country to which Personal Data to be Transferred:** United States - **Items of Personal Data to be Transferred:** Name, birthdate, sex, native-foreigner-code, and DI (duplication information) - **Recipient\u2019s Purpose of Use:** Fraud and abuse detection and identity verification - **Period of Retention and Use by Recipient:** 3 years - **Legal Basis for Overseas Transfer:** PIPA Article 28-8(1)(iii) delegation Following collection, personal data is transferred to the overseas recipients listed below from time to time, as necessary, via a dedicated network.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S191",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "You may have the right to request that your personal data not be transferred overseas as described above.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S192",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "If so, you may request this by email us at <privacy@anthropic.com> and contact our Data Protection Officer at <dpo@anthropic.com>.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S193",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "However, in doing so, Anthropic may not be able to provide you with all or any of the services we make available through our website.",
+          "labels": []
+        },
+        {
+          "id": "S194",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "**Domestic Representative in the Republic of Korea** The domestic representative of Anthropic PBC for data protection and related regulatory purposes under Article 31-2 of the Personal Information Protection Act and Article 32-5 of the Act on Promotion of Information and Communications Network Utilization and Data Protection, Etc.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S195",
+          "section": "Supplemental Disclosures for Residents of the Republic of Korea",
+          "text": "in the Republic of Korea is as follows: Entity Name and Representative: Anthropic Korea, Limited (Representative Patrick Azubike Ekeruo) Registered Address: (Yeoksam-dong), 41F, 152 Teheran-ro, Gangnam-gu, Seoul, South Korea Telephone: +82 2 734 0940 Email: anthropic_privacy@kimchang.com",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S11"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S15"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S40"
+        }
+      ]
+    },
+    "C2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S44"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S45"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S49"
+        }
+      ]
+    },
+    "C3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S87"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S96"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S98"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S99"
+        }
+      ]
+    },
+    "C4": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S79"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S81"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S82"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S84"
+        }
+      ]
+    },
+    "C5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S82"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S109"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S110"
+        }
+      ]
+    },
+    "C6": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S119"
+        }
+      ]
+    },
+    "C7": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S123"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S124"
+        }
+      ]
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S100"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S103"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S106"
+        }
+      ]
+    },
+    "C10": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S120"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S128"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S130"
+        }
+      ]
+    },
+    "T1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S39"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S41"
+        }
+      ]
+    },
+    "T2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S41"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S42"
+        }
+      ]
+    },
+    "T3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S39"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S41"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S113"
+        }
+      ]
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S3"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S4"
+        }
+      ]
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,2858 @@
+{
+ "policy_id": "otter-ai",
+ "source_url": "http://otter.ai/privacy-policy",
+ "annotator": "ai-pass1",
+ "documents": [
+  {
+   "name": "Policy",
+   "text": "# Otter.ai Privacy Policy | Otter.ai\n\nThis privacy policy (“**Policy**”) informs you of our practices when handling your Personal Information through the Services (both as defined below). In this Policy, “**Otter.ai**”, “**we**” or “**us**” refers to Otter.ai, Inc., a company registered in Delaware with its registered address located at 800 W El Camino Real, Suite 170, Mountain View, CA 94040. Except as otherwise set forth below, we are the data controller under the applicable privacy laws.\n\nWhere we have an Otter Business or enterprise service agreement in place with an enterprise customer who is asking you to use our Services (for example your employer), we obtain and process your Personal Information on behalf of and at the instructions of that customer. In that context, such enterprise customers are the data controllers and their privacy policies will apply to the processing of your Personal Information. We encourage you to read their privacy policies.\n\nFor the purpose of this Policy, “**Personal Information**” means any information relating to an identified or identifiable individual. This includes Personal Information you provide or generate when you use: (a) Our Otter meeting assistant app (the “**App**”); and (b), https://otter.ai, and any other dedicated Otter.ai websites (the “Website”) (collectively, the “**Services**”). When you use the Services, you accept and understand that we collect, process, use, and store your Personal Information as described in this Policy.\n\nIf you are a California resident, our Privacy Notice for California Residents includes additional information about your rights and how we collect, use, and share information.\n\nIf you do not agree with this Policy, you must not use any of the Services. If you change your mind in the future, you must stop using the Services and you may exercise your rights concerning your Personal Information as set out in this Policy. Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so. If you do not provide your Personal Information when requested, you may not be able to use the full extent of the Services if that Personal Information is necessary to provide you with the Services or if we are legally required to collect it.\n\n###### **1. INFORMATION WE COLLECT**\n\nWe will collect and use the following Personal Information about you: **Information you provide to us**\n\n- **Registration Information**. When you create an account on our Services, you will be asked to provide your name, email, phone number, and a password, you may voluntarily add a profile picture. For Pro or Business plans which are paid Services, our payment processing partner Stripe, Inc. may also collect your name, billing address, and payment information. Payment information is not shared with us and is maintained by Stripe.\n\n- **Meeting and Uploaded Information**. When you use the Services, you may provide us with your audio recordings (“Audio Recordings”), automatic OtterPilotTM screenshots and any text, images or videos that you upload or provide to us in the context of the Services. OtterPilot may take automatic screenshots which are available meeting transcripts to add value to the meetings by extracting useful visual information. The automatic screenshots will only take place in virtual meetings.\n\n- **Communication Information**. When you contact us, you provide us with your phone number, email, and any other information you choose to provide over such communication, including information about your query. When we send you emails, we may use embedded pixels or other technologies to track information about your receipt and interaction with our emails, such as whether and when you open them, whether you access any links included in our emails, how long you read our emails, whether you forward our emails and to whom, your Location Information (described below), and your Device Information (described below), to learn how to deliver a better customer experience and improve our Services.\n\n**Speaker Identification Information**. When you use the Services, you may record and annotate spoken conversations, such as calls or meetings, from which we generate speaker identification information. We use this information to help you recognize speakers in recorded conversations and automatically tag their name within the transcript. **Information you provide us about others**\n\n- If you choose to collaborate on a task with your co-workers or friends, or refer us to them, you provide us with the email address and contact information of your co-workers or friends.\n\n- If you provide an Audio Recording, this may contain the Personal Information of third parties. Before you do so, please make sure you have the necessary permissions from your co-workers, friends or other third parties before sharing Personal Information or referring them to us.\n\n**Information we automatically collect or is generated about you when you use the Services**\n\n- **Usage Information**: When you use the Services, you generate information pertaining to your use, including timestamps, such as access, record, share, edit and delete events, interactions with OtterPilot, app use information, screenshots/screen captures taken during the meeting, interactions with our team, and transaction records.\n\n- **Device Information**: We assign a unique user identifier (“UUID”) to each mobile device that accesses the Services. When you use our Services, you provide information such as your IP address, UUIDs, device IDs, web beacons and other device information (such as carrier type, whether you access our Service from a desktop or mobile platform, device model, brand, web browser and operating system).\n\n- **Cookies**: We use Cookies and other similar technologies (“Cookies”) to enhance your experience when using the Service. For more information about our Cookies policy, see HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES below.\n\n- **Location Information**: When you use the Services, we receive your approximate location information. For example, we infer your approximate location by using your IP address.\n\n**Information received from third parties**.\n\n- **Information we receive from third party platforms**: When you connect third party platforms, apps or providers (such as Google Calendar, iCal or other calendar programs, Google Contacts or Zoom) to our Services, or when you register through a third party account (such as Google or Microsoft), we receive Personal Information that includes your username, profile picture, email address, time, location, calendar information, contact information from such third parties and any information you choose to upload to such third party platforms (“Platform Information”).\n\n- **Information from platforms our Services rely on**: We receive transaction information from our payment processor Stripe.\n\n- **Information from Data and Marketing Partners**. We may receive additional information about you, such as demographic or interest attributes from third parties such as data or marketing partners and combine it with other information we have about you.\n\nWe also collect and use deidentified or aggregated data such as statistical or demographic data for our purposes. Deidentified or aggregated data may be derived from your Personal Information but is not Personal Information as this data will not directly or indirectly reveal your identity. However, if we combine or connect aggregated data with your Personal Information so that it can directly or indirectly identify you, we will treat the combined data as Personal Information which will be used in accordance with this Policy. We will maintain deidentified data in deidentified form and not attempt to reidentify the information, except solely as permitted for determining the effectiveness of our deidentification processes.\n\n###### **2. HOW WE USE YOUR PERSONAL INFORMATION**\n\nWe use and disclose the information we collect for the following purposes and categories of third parties:\n\n| Purpose | Categories of Personal Information Used for This Purpose | Categories of Third Parties to Whom We Disclose Personal Information | Legal Basis for Processing (where applicable) |\n\n| --- | --- | --- | --- |\n\n| **Set up your account for you to use the Services** | Registration Information Device Information Information Received from Third Parties (such as your username and email address) | Cloud service providers Providers of integrated third-party programs, apps, or platforms | **Contractual necessity.** We must process your Personal Information to set up your account. |\n\n| **Provide you with the Services and facilitate support** | Registration Information Meeting and Uploaded Information Communication Information Speaker Identification Information Information You Provide Us About Others Usage Information Device Information Cookies Location Information Information We Receive from Third Party Platforms Information from Platforms Our Services Rely On | Cloud service providers Platform support providers Data labeling service providers Artificial intelligence service providers Analytics providers Providers of integrated third-party programs, apps, or platforms Payment processors | **Contractual necessity.** We must process your Personal Information to provide you with the Services. |\n\n| **Improve and monitor the Services, including training our proprietary AI technology on de-identified audio recordings and on transcriptions (which may contain Personal Information)** | Meeting and Uploaded Information Usage Information Device Information Cookies Location Information | Cloud service providers Platform support providers Data labeling service providers Artificial intelligence service providers Mobile advertising tracking providers Analytics providers | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests. |\n\n| **Communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support** | Registration Information Meeting and Uploaded Information Communication Information Usage Information Device Information Cookies Location Information Information We Receive from Third Party Platforms Information from Platforms Our Services Rely On | Cloud service providers Platform support providers | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests. |\n\n| **To send you text messages (for multi-factor authentication)** | Registration Information | Cloud service providers Platform support providers | **Consent** |\n\n| **Send you newsletters about product news or updates that may be of interest to you** | Registration Information Usage Information | Cloud service providers Platform support providers | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests. |\n\n| **For marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable or otherwise of interest to you** | Device Information Cookies Location Information Information from Data and Marketing Partners | Cloud service providers Platform support providers Mobile advertising tracking providers Analytics providers Advertising Partners | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests. |\n\n| **Prevent fraud, defend Otter.ai against legal claims or disputes, enforce our terms and to comply with our legal obligations** | Registration Information Meeting and Uploaded Information Communication Information Speaker Identification / Biometric Information Information You Provide Us About Others Usage Information Device Information Cookies Location Information Information We Receive from Third Party Platforms Information from Platforms Our Services Rely On Information from Data and Marketing Partners | Cloud service providers Platform support providers Data labeling service providers Artificial intelligence service providers Mobile advertising tracking providers Analytics providers Advertising Partners Providers of integrated third-party programs, apps, or platforms Payment processors Law enforcement agencies, public authorities, or other judicial bodies and organizations | **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests. or **Legal Obligation.** We may process your Personal Information where we have a legal obligation to do so. |\n\nWe disclose Device Information, Cookies, and Location Information to Mobile advertising tracking providers, Analytics providers, Advertising Partners, and Providers of integrated third-party programs, apps, or platforms. Under various U.S. state privacy laws, some of these data disclosures may broadly be considered a “sale” of Personal Information and processing of Personal Information for targeted advertising.\n\n###### 3. HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES\n\nWe and our third-party partners use Cookies, pixel tags, and similar technologies to collect information about your browsing activities and to distinguish you from other users of our Services in order to aid your experience and measure and improve our advertising effectiveness.\n\nCookies are small files of letters and numbers that we store on your browser or on your device. They contain information that is transferred to your device.\n\nWe use the following types of Cookies and similar technologies:\n\n- **Strictly necessary Cookies**: Some Cookies are strictly necessary to make our Services available to you; for example, to provide login functionality, user authentication and security. We cannot provide you with the Services without this type of Cookie.\n\n- **Functional Cookies**: These are used to recognize you when you return to our Website. This enables us to personalize our content for you and remember your preferences (for example, your choice of language).\n\n- **Analytical, performance, or advertising Cookies**: We also use Cookies and similar technologies for analytics purposes in order to operate, maintain, and improve our Services and measure and improve our advertising effectiveness. We use third party analytics providers, including Google Analytics and Amplitude, to help us understand how users engage with us. We also use third party advertising partners, including Facebook, to deliver ads to you on other sites. Google Analytics uses first-party Cookies to track user interactions which helps show how users use our Service and Website. This information is used to compile reports and to help us improve our Service and Website. Such reports disclose Website trends without identifying individual visitors. You can opt out of Google Analytics by going to https://tools.google.com/dlpage/gaoptout or via Google’s Ads settings.\n\nYou can block Cookies by setting your internet browser to block some or all or Cookies. However, if you use your browser settings to block all Cookies (including strictly necessary Cookies) you may not be able to use our Services.\n\n###### 4. WITH WHOM WE SHARE YOUR PERSONAL INFORMATION\n\nWe may disclose your Personal Information to various categories of vendors and service providers we rely on in the provision of the Services, as well as additional third parties in certain circumstances described below. Third party services are not owned or controlled by Otter.ai and third parties may have their own policies and practices for collection, use and sharing of information. Please refer to third party privacy and security policies for more information before using such services. We disclose your Personal Information to selected vendors and service providers, including:\n\n- Cloud service providers who we rely on for compute and data storage, including Amazon Web Services, based in the United States.\n\n- Platform support providers who help us manage and monitor the Services, including Amplitude, which is based in the U.S. and provides user event data for our Services.\n\n- Data labeling service providers who provide annotation services and use the data we share to create training and evaluation data for Otter’s product features.\n\n- Artificial intelligence service providers that provide backend support for certain Otter product features.\n\n- Mobile advertising tracking providers who help us measure our advertising effectiveness.\n\n- Analytics providers who provide analytics, segmentation and mobile measurement services and help us understand our user base. We work with a number of analytics providers, including Google LLC, which is based in the U.S. You can learn about Google’s practices by going to https://www.google.com/policies/privacy/partners/, and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.\n\nWe also disclose your Personal Information to the following categories of third parties, including:\n\n- Other users who see your Personal Information (such as your username and email) and any other information you choose to share with them through the Services.\n\n- Advertising Partners: We work with third party advertising partners to show you ads that we think may interest you. Some of our advertising partners are members of the Network Advertising Initiative (http://optout.networkadvertising.org/) or the Digital Advertising Alliance (http://optout.aboutads.info/). If you do not wish to receive personalized ads, please visit their opt-out pages to learn about how you may opt out of receiving web-based personalized ads from member companies. You can access any settings offered by your mobile operating system to limit ad tracking, or you can install the AppChoices mobile app to learn more about how you may opt out of personalized ads in mobile apps.\n\n- Providers of integrated third-party programs, apps or platforms, such as Google Calendar and Apple iCal. When you connect third party platforms to our Services, you authorize us to share designated information and data created and/or uploaded by you to our servers with these third-party programs on your behalf.\n\n- Payment processors, such as Stripe. These payment processors are responsible for the processing of your Personal Information, and may use your Personal Information for their own purposes in accordance with their privacy policies. More information is available here: https://stripe.com/gb/privacy.\n\n- Law enforcement agencies, public authorities or other judicial bodies and organizations. We disclose Personal Information if we are legally required to do so, or if we have a good faith belief that such use is reasonably necessary to comply with a legal obligation, process or request; enforce our terms of service and other agreements, policies, and standards, including investigation of any potential violation thereof; detect, prevent or otherwise address security, fraud or technical issues; or protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organizations for the purposes of fraud protection). For more information, please see Otter’s Data Request Policy.\n\n- Change of corporate ownership. If we are involved in a merger, acquisition, bankruptcy, reorganization, partnership, asset sale or other transaction, we may disclose your Personal Information as part of that transaction.\n\n###### 5. HOW LONG WE STORE YOUR INFORMATION\n\nOtter.ai stores all Personal Information for as long as necessary to fulfill the purposes set out in this Policy, or for as long as we are required to do so by law or in order to comply with a regulatory obligation. When deleting Personal Information, we will take measures to render such Personal Information irrecoverable or irreproducible, and the electronic files which contain Personal Information will be permanently deleted.\n\n###### 6. YOUR RIGHTS\n\nDepending on where you live and subject to certain exceptions, you have the following rights in relation to your Personal Information that we hold.\n\nIf you are a California resident, please visit our Privacy Notice for California Residents to learn more about your California privacy rights.\n\n- **Access**. You have the right to confirm whether we process your Personal Information, access the Personal Information we hold about you, and to receive an explanation of how we use it and the third parties or categories of third parties to whom such Personal Information is disclosed.\n\n- **Update**. You have the right to update any Personal Information we maintain about you\n\n- **Correction**. You have the right to correct any Personal Information we hold about you that is inaccurate or incomplete.\n\n- **Erasure**. You have the right to request for your Personal Information to be erased or deleted.\n\n- **Right to opt out**. You have the right to opt out of the “sale” of your Personal Information and the processing of your Personal Information for targeted advertising.\n\n- **Rights related to profiling in furtherance of significant decisions**. You also have the right to opt-out of profiling in furtherance of producing legal or significant decisions concerning you. Additionally, if your Personal Information is profiled in furtherance of decisions that produce legal or similarly significant effects concerning you, you have the right to question the result of the profiling, to be informed of the reason that the profiling resulted in the decision, and, if feasible, to be informed of the actions you might have taken to secure a different decision and the actions that you might take to secure a different decision in the future. You also have the right to review your Personal Information used in the profiling, and if applicable, have the data corrected and the profiling decision reevaluated based upon the corrected data. We do not engage in such profiling.\n\n- **Object to processing**. You have the right to object to our processing of your Personal Information where we are relying on a legitimate interest or if we are processing your Personal Information for direct marketing purposes.\n\n- **Restrict processing**. You have a right in certain circumstances to stop us from processing your Personal Information other than for storage purposes.\n\n- **Portability**. You have the right to receive, in a structured, commonly used and machine-readable format, Personal Information that you have provided to us if we process it on the basis of our contract with you, or with your consent, or to request that we transfer such Personal Information to a third party.\n\n- **Right to be free from discriminatory treatment**. You have the right to be free from discriminatory treatment for the exercise of your privacy rights.\n\n- **Right to appeal**. You have the right to appeal any decision with regard to your privacy request.\n\n- **Withdraw consent**. You have the right to withdraw any consent you previously applied to us. We will apply your preferences going forward, and this will not affect the lawfulness of processing before your consent was given.\n\nPlease note that, prior to a response to the exercise of certain rights, we will require you to verify your identity. If you have an Otter.ai account, please verify your identity by logging into your account and submitting a support request from the Services. If you do not have an account, we will attempt to verify your identity by asking for information that we may have about you, such as your name, email address, and other information. In addition, we may require additional information (for example, why you believe the information we hold about you is inaccurate or incomplete) and may have valid legal reasons to refuse your request. We will inform you if that is the case.\n\nWe do not require verification for requests to opt out of the “sale” of your Personal Information or the processing of your Personal Information for targeted advertising. You can exercise these rights by clicking the “Do Not Sell or Share My Personal Information” link in the Otter website footer and following the instructions provided.\n\nFor more information on how to exercise your rights, or to exercise your rights, please email privacy@otter.ai, click our online form here, or call our toll-free number [1-866-I-OPT-OUT (1-866-467-8688) and enter Service Code 2392#].\n\n**Authorizing an Agent**. If you are acting as an authorized agent to make a request to opt out, please send an email to privacy@otter.ai and attach a written authorization signed by the resident. We may still require the resident you are acting on behalf of to directly verify their identity and confirm that they have provided you permission to submit the request.\n\n###### 7. Data Privacy Framework Principles\n\nOtter.ai complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Otter.ai has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. DPF Principles with respect to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Otter.ai has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. DPF Principles with respect to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/.\n\nFor more information on how we comply with the DPF Principles, please see **APPENDIX: Otter.ai Data Privacy Framework Principles Notice**.\n\n###### 8. CHILDREN\n\nThe Service and Website are not targeted at children, and we do not knowingly collect Personal Information from children under the age of 13. If you learn that a child has provided us with Personal Information in violation of this Policy, please contact us as indicated below.\n\n###### 9. CONTACT & COMPLAINTS\n\nFor inquiries or complaints regarding this Policy, please first contact us at privacy@otter.ai and we will endeavor to deal with your complaint as soon as possible. This is without prejudice to your right to launch a claim with a data protection authority.\n\nIf you are based in the European Economic Area or the UK, you may also make a complaint to either the Irish Data Protection Commission (on +353 578 684 800 or via https://forms.dataprotection.ie/contact) or the UK’s ICO (on +44 303 123 1113 or via https://ico.org.uk/make-a-complaint/), or to another supervisory authority, including in your country of residence, place of work or where an incident took place.\n\n###### 10. DATA SECURITY\n\nOtter.ai maintains and implements physical, administrative, and technical safeguards to protect the confidentiality, integrity, and availability of personal information. However, the transfer of Personal Information through the internet will carry its own inherent risks and we do not guarantee the security of your data transmitted through the internet. You make any such transfer at your own risk.\n\nThe Website and Service may provide features or links to websites and services provided by third parties. Any information you provide on Apps, third-party websites or services is provided directly to the operators of such websites or services and is subject to their policies governing privacy and security, even if accessed via our Website or in connection with our Service.\n\n###### 11. CROSS-BORDER DATA TRANSFERS\n\nTo facilitate our global operations, Otter.ai may transfer, store and process your operations with our partners and service providers based outside of the country in which you are based. Laws in those countries may differ from the laws applicable to your country of residence. Where we transfer, store and process your Personal Information outside of the EEA or the UK we will ensure that the appropriate safeguards are in place to ensure an adequate level of protection such as through acceding to the Standard Contractual Clauses. Further details regarding the relevant safeguards can be obtained from us on request.\n\n###### 12. CHANGES\n\nWhere required, we will update this Policy from time to time. When we do so, we will make it available on this page and indicate the date of the latest revision. Please check this page frequently to see any updates or changes to this Policy.\n\n###### **13. ABOUT US**\n\nIf you have any questions, comments or concerns about our Privacy Policy, you may contact us by email at privacy@otter.ai attn: Privacy Officer or by mail to: Otter.ai, Inc.\n\nAttn: Privacy Officer\n\n800 W El Camino Real,\n\nSuite 170,\n\nMountain View, CA 94040\n\n## APPENDIX\n\n###### Otter.ai Data Privacy Framework Principles\n\nEffective June 16, 2026\n\nOtter.ai has created this Data Privacy Framework Principles Notice (“Notice”) to describe our standards and procedures for handling Personal Information in accordance with the Data Privacy Framework (“DPF”) Principles.\n\nThis Notice supplements our Policy. Unless specifically defined in this Notice, the terms in this Notice have the same meaning as in our Policy. In case of conflict between the Policy and this Notice, this Notice prevails. In case of conflict between this Notice and the Principles, the Principles will govern.\n\n###### How we obtain Personal Information\n\nWe obtain and Process Personal Information from the European Union (“EU”), United Kingdom (“UK”) (and Gibraltar), or Switzerland in different capacities:\n\n- As a data controller, we collect and Process EU, UK and Swiss Personal Information directly from individuals, either via our publicly available website https://otter.ai, or through our mobile applications, or in connection with our customer relationships.\n\n- Where we provide our Services in connection with an enterprise agreement, we may obtain and process EU, UK, and Swiss Personal Information on behalf of and at the instructions of our enterprise customers. In that context, such customers are the data controllers and we encourage you to read their privacy policies.\n\nOtter.ai commits to subject to the EU-U.S. DPF Principles, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles (collectively, the “**DPF Principles**”), all Personal Information received from the EU, the UK (and Gibraltar), or Switzerland in reliance on the DPF Principles (which includes both types of activities).\n\n###### Data Privacy Framework Principles\n\n**1. Notice**. Our Policy in combination with this Notice describes our privacy practices. When providing our Services as a Data Processor, our customers determine the categories of Personal Information we Process and the purposes of the processing. Accordingly, our customers are responsible for providing notice to individuals. Please see our customers’ privacy policies for more information.\n\n**2. Data Integrity and Purpose Limitation**. Any Personal Information we receive may be processed by Otter.ai for the purposes indicated in our Policy or as otherwise notified to you. We will not process Personal Information in a way that is incompatible with these purposes unless subsequently authorized by you.\n\nWe take reasonable steps to limit the collection and usage of Personal Information to that which is relevant for the purposes for which it was collected, and to ensure that such Personal Information is reliable, accurate, complete and current. Individuals are encouraged to keep their Personal Information with Otter.ai up to date and may contact Otter.ai as indicated below or in the Policy to request that their Personal Information be updated or corrected.\n\nWe will adhere to the DPF Principles for as long as we retain the Personal Information collected under DPF Principles.\n\nWhen providing our Services as a data processor, we process and retain Personal Information as necessary to provide our Services as permitted in our agreements, or as required or permitted under applicable law.\n\n**3. Accountability for Onward Transfer of Personal Information**. Otter.ai may transfer Personal Information as described in the Policy. When providing our Services as a data processor, we disclose Personal Information as provided in our agreement with customers.\n\nWe remain responsible for the processing of Personal Information received under the DPF Principles and subsequently transferred to a third party acting as an agent if the agent Processes such Personal Information in a manner inconsistent with the DPF Principles, unless we prove that we are not responsible for the event giving rise to the damage.\n\n**4. Security**. Otter.ai takes reasonable and appropriate precautions, taking into account the risks involved in the Processing and the nature of the Personal Information, to help protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.\n\n**5. Access and Choice**. If we intend to use your Personal Information for a purpose that is materially different from the purposes for which it was originally collected or subsequently authorized, or if we intend to disclose it to a third party acting as a Data Controller not previously identified, we will offer you the opportunity to opt out of such uses and/or disclosures where it involves non-sensitive information or opt in where sensitive information is involved.\n\nWhere appropriate, you have the right to access to the Personal Information we maintain about you and to correct, amend or delete that information when it is inaccurate or has been processed in violation of the DPF Principles by sending a written request as indicated in “Contact Us” below. We will review your request in accordance with the DPF Principles, and may limit or deny access to Personal Information as permitted by the DPF Principles.\n\nWhen providing our Services as a data processor, we only Process and disclose the Personal Information as specified in our agreements. Our customers control how Personal Information is disclosed to us and Processed, and how it can be modified. Accordingly, if you want to request access, or to limit use or disclosure of your Personal Information, please contact the company to whom you submitted your Personal Information and that uses our Services. If you provide us with the name of the company to whom you provided your Personal Information and who is our customer, we will refer your request to that customer and support them in responding to your request.\n\n**6. Recourse, Enforcement and Liability**. We conduct an annual self-assessment of our practices regarding Personal Information intended to verify that the assertions we make about our practices are true and that such practices have been implemented as represented.\n\nIf you have any questions or concerns, we encourage you to first write to us as indicated below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the DPF Principles.\n\nIf an issue cannot be resolved through Otter.ai’s internal dispute resolution mechanism, you may submit a complaint to https://www.jamsadr.com/DPF-Dispute-Resolution, who serves as Otter.ai’s alternative dispute resolution provider, at no cost to you.\n\nFor residual complaints not fully or partially resolved by other means, you may be able to invoke binding arbitration as detailed in the DPF Principles available here.\n\nOtter.ai is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.\n\n###### Changes to this Notice\n\nThis Notice may be amended consistent with the requirements of the DPF Principles. When we update this Notice, we will also revise the “Last updated” date at the top of this document. Any changes to this Notice will become effective when we post the revised version on our website.\n\nContact Us If you have any questions, concerns or complaints regarding our privacy practices, or if you’d like to exercise your choices or rights, you can contact us:\n\n- via email at privacy@otter.ai (Attn: Privacy Officer)\n\n- by mail to\n\nOtter.ai, Inc.\n\nAttn: Privacy Officer\n\n800 W El Camino Real,\n\nSuite 170,\n\nMountain View, CA 94040\n\nTo learn more about the Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/\n",
+   "sentences": [
+    {
+     "id": "S1",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "This privacy policy (“**Policy**”) informs you of our practices when handling your Personal Information through the Services (both as defined below).",
+     "labels": []
+    },
+    {
+     "id": "S2",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "In this Policy, “**Otter.ai**”, “**we**” or “**us**” refers to Otter.ai, Inc., a company registered in Delaware with its registered address located at 800 W El Camino Real, Suite 170, Mountain View, CA 94040.",
+     "labels": []
+    },
+    {
+     "id": "S3",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Except as otherwise set forth below, we are the data controller under the applicable privacy laws.",
+     "labels": []
+    },
+    {
+     "id": "S4",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Where we have an Otter Business or enterprise service agreement in place with an enterprise customer who is asking you to use our Services (for example your employer), we obtain and process your Personal Information on behalf of and at the instructions of that customer.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S5",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "In that context, such enterprise customers are the data controllers and their privacy policies will apply to the processing of your Personal Information.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S6",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We encourage you to read their privacy policies.",
+     "labels": []
+    },
+    {
+     "id": "S7",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For the purpose of this Policy, “**Personal Information**” means any information relating to an identified or identifiable individual.",
+     "labels": []
+    },
+    {
+     "id": "S8",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "This includes Personal Information you provide or generate when you use: (a) Our Otter meeting assistant app (the “**App**”); and (b), https://otter.ai, and any other dedicated Otter.ai websites (the “Website”) (collectively, the “**Services**”).",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S9",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you use the Services, you accept and understand that we collect, process, use, and store your Personal Information as described in this Policy.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S10",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you are a California resident, our Privacy Notice for California Residents includes additional information about your rights and how we collect, use, and share information.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S11",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you do not agree with this Policy, you must not use any of the Services.",
+     "labels": []
+    },
+    {
+     "id": "S12",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you change your mind in the future, you must stop using the Services and you may exercise your rights concerning your Personal Information as set out in this Policy.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S13",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Where applicable, we indicate whether and why you must provide us with your Personal Information, as well as the consequences of failing to do so.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S14",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you do not provide your Personal Information when requested, you may not be able to use the full extent of the Services if that Personal Information is necessary to provide you with the Services or if we are legally required to collect it.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S15",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### **1.",
+     "labels": []
+    },
+    {
+     "id": "S16",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "INFORMATION WE COLLECT** We will collect and use the following Personal Information about you: **Information you provide to us** - **Registration Information**.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S17",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you create an account on our Services, you will be asked to provide your name, email, phone number, and a password, you may voluntarily add a profile picture.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S18",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For Pro or Business plans which are paid Services, our payment processing partner Stripe, Inc.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S19",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "may also collect your name, billing address, and payment information.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S20",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Payment information is not shared with us and is maintained by Stripe.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "denies"
+      }
+     ]
+    },
+    {
+     "id": "S21",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Meeting and Uploaded Information**.",
+     "labels": []
+    },
+    {
+     "id": "S22",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you use the Services, you may provide us with your audio recordings (“Audio Recordings”), automatic OtterPilotTM screenshots and any text, images or videos that you upload or provide to us in the context of the Services.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S23",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "OtterPilot may take automatic screenshots which are available meeting transcripts to add value to the meetings by extracting useful visual information.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S24",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "The automatic screenshots will only take place in virtual meetings.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S25",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Communication Information**.",
+     "labels": []
+    },
+    {
+     "id": "S26",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you contact us, you provide us with your phone number, email, and any other information you choose to provide over such communication, including information about your query.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S27",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When we send you emails, we may use embedded pixels or other technologies to track information about your receipt and interaction with our emails, such as whether and when you open them, whether you access any links included in our emails, how long you read our emails, whether you forward our emails and to whom, your Location Information (described below), and your Device Information (described below), to learn how to deliver a better customer experience and improve our Services.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S28",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "**Speaker Identification Information**.",
+     "labels": []
+    },
+    {
+     "id": "S29",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you use the Services, you may record and annotate spoken conversations, such as calls or meetings, from which we generate speaker identification information.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S30",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We use this information to help you recognize speakers in recorded conversations and automatically tag their name within the transcript.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S31",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "**Information you provide us about others** - If you choose to collaborate on a task with your co-workers or friends, or refer us to them, you provide us with the email address and contact information of your co-workers or friends.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S32",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- If you provide an Audio Recording, this may contain the Personal Information of third parties.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S33",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Before you do so, please make sure you have the necessary permissions from your co-workers, friends or other third parties before sharing Personal Information or referring them to us.",
+     "labels": []
+    },
+    {
+     "id": "S34",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "**Information we automatically collect or is generated about you when you use the Services** - **Usage Information**: When you use the Services, you generate information pertaining to your use, including timestamps, such as access, record, share, edit and delete events, interactions with OtterPilot, app use information, screenshots/screen captures taken during the meeting, interactions with our team, and transaction records.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S35",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Device Information**: We assign a unique user identifier (“UUID”) to each mobile device that accesses the Services.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S36",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you use our Services, you provide information such as your IP address, UUIDs, device IDs, web beacons and other device information (such as carrier type, whether you access our Service from a desktop or mobile platform, device model, brand, web browser and operating system).",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S37",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Cookies**: We use Cookies and other similar technologies (“Cookies”) to enhance your experience when using the Service.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S38",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For more information about our Cookies policy, see HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES below.",
+     "labels": []
+    },
+    {
+     "id": "S39",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Location Information**: When you use the Services, we receive your approximate location information.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S40",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For example, we infer your approximate location by using your IP address.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S41",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "**Information received from third parties**.",
+     "labels": []
+    },
+    {
+     "id": "S42",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Information we receive from third party platforms**: When you connect third party platforms, apps or providers (such as Google Calendar, iCal or other calendar programs, Google Contacts or Zoom) to our Services, or when you register through a third party account (such as Google or Microsoft), we receive Personal Information that includes your username, profile picture, email address, time, location, calendar information, contact information from such third parties and any information you choose to upload to such third party platforms (“Platform Information”).",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S43",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Information from platforms our Services rely on**: We receive transaction information from our payment processor Stripe.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S44",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Information from Data and Marketing Partners**.",
+     "labels": []
+    },
+    {
+     "id": "S45",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We may receive additional information about you, such as demographic or interest attributes from third parties such as data or marketing partners and combine it with other information we have about you.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S46",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We also collect and use deidentified or aggregated data such as statistical or demographic data for our purposes.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S47",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Deidentified or aggregated data may be derived from your Personal Information but is not Personal Information as this data will not directly or indirectly reveal your identity.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S48",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "However, if we combine or connect aggregated data with your Personal Information so that it can directly or indirectly identify you, we will treat the combined data as Personal Information which will be used in accordance with this Policy.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S49",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We will maintain deidentified data in deidentified form and not attempt to reidentify the information, except solely as permitted for determining the effectiveness of our deidentification processes.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S50",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### **2.",
+     "labels": []
+    },
+    {
+     "id": "S51",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "HOW WE USE YOUR PERSONAL INFORMATION** We use and disclose the information we collect for the following purposes and categories of third parties: | Purpose | Categories of Personal Information Used for This Purpose | Categories of Third Parties to Whom We Disclose Personal Information | Legal Basis for Processing (where applicable) | | --- | --- | --- | --- | | **Set up your account for you to use the Services** | Registration Information Device Information Information Received from Third Parties (such as your username and email address) | Cloud service providers Providers of integrated third-party programs, apps, or platforms | **Contractual necessity.** We must process your Personal Information to set up your account.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S52",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| | **Provide you with the Services and facilitate support** | Registration Information Meeting and Uploaded Information Communication Information Speaker Identification Information Information You Provide Us About Others Usage Information Device Information Cookies Location Information Information We Receive from Third Party Platforms Information from Platforms Our Services Rely On | Cloud service providers Platform support providers Data labeling service providers Artificial intelligence service providers Analytics providers Providers of integrated third-party programs, apps, or platforms Payment processors | **Contractual necessity.** We must process your Personal Information to provide you with the Services.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T6",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S53",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| | **Improve and monitor the Services, including training our proprietary AI technology on de-identified audio recordings and on transcriptions (which may contain Personal Information)** | Meeting and Uploaded Information Usage Information Device Information Cookies Location Information | Cloud service providers Platform support providers Data labeling service providers Artificial intelligence service providers Mobile advertising tracking providers Analytics providers | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "states"
+      },
+      {
+       "item": "T2",
+       "stance": "mentions"
+      },
+      {
+       "item": "T3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S54",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| | **Communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to comments and questions, and otherwise provide customer support** | Registration Information Meeting and Uploaded Information Communication Information Usage Information Device Information Cookies Location Information Information We Receive from Third Party Platforms Information from Platforms Our Services Rely On | Cloud service providers Platform support providers | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S55",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| | **To send you text messages (for multi-factor authentication)** | Registration Information | Cloud service providers Platform support providers | **Consent** | | **Send you newsletters about product news or updates that may be of interest to you** | Registration Information Usage Information | Cloud service providers Platform support providers | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S56",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| | **For marketing and advertising purposes, such as developing and providing promotional and advertising materials that may be relevant, valuable or otherwise of interest to you** | Device Information Cookies Location Information Information from Data and Marketing Partners | Cloud service providers Platform support providers Mobile advertising tracking providers Analytics providers Advertising Partners | **Consent** or **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S57",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| | **Prevent fraud, defend Otter.ai against legal claims or disputes, enforce our terms and to comply with our legal obligations** | Registration Information Meeting and Uploaded Information Communication Information Speaker Identification / Biometric Information Information You Provide Us About Others Usage Information Device Information Cookies Location Information Information We Receive from Third Party Platforms Information from Platforms Our Services Rely On Information from Data and Marketing Partners | Cloud service providers Platform support providers Data labeling service providers Artificial intelligence service providers Mobile advertising tracking providers Analytics providers Advertising Partners Providers of integrated third-party programs, apps, or platforms Payment processors Law enforcement agencies, public authorities, or other judicial bodies and organizations | **Legitimate interests.** We may process your Personal Information where we or a third party have a legitimate interest, when this interest is not overridden by your rights and interests.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S58",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "or **Legal Obligation.** We may process your Personal Information where we have a legal obligation to do so.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S59",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "| We disclose Device Information, Cookies, and Location Information to Mobile advertising tracking providers, Analytics providers, Advertising Partners, and Providers of integrated third-party programs, apps, or platforms.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S60",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Under various U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S61",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "state privacy laws, some of these data disclosures may broadly be considered a “sale” of Personal Information and processing of Personal Information for targeted advertising.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S62",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 3.",
+     "labels": []
+    },
+    {
+     "id": "S63",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES We and our third-party partners use Cookies, pixel tags, and similar technologies to collect information about your browsing activities and to distinguish you from other users of our Services in order to aid your experience and measure and improve our advertising effectiveness.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S64",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Cookies are small files of letters and numbers that we store on your browser or on your device.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S65",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "They contain information that is transferred to your device.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S66",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We use the following types of Cookies and similar technologies: - **Strictly necessary Cookies**: Some Cookies are strictly necessary to make our Services available to you; for example, to provide login functionality, user authentication and security.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S67",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We cannot provide you with the Services without this type of Cookie.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S68",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Functional Cookies**: These are used to recognize you when you return to our Website.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S69",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "This enables us to personalize our content for you and remember your preferences (for example, your choice of language).",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S70",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Analytical, performance, or advertising Cookies**: We also use Cookies and similar technologies for analytics purposes in order to operate, maintain, and improve our Services and measure and improve our advertising effectiveness.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S71",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We use third party analytics providers, including Google Analytics and Amplitude, to help us understand how users engage with us.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S72",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We also use third party advertising partners, including Facebook, to deliver ads to you on other sites.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S73",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Google Analytics uses first-party Cookies to track user interactions which helps show how users use our Service and Website.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S74",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "This information is used to compile reports and to help us improve our Service and Website.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S75",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Such reports disclose Website trends without identifying individual visitors.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S76",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You can opt out of Google Analytics by going to https://tools.google.com/dlpage/gaoptout or via Google’s Ads settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S77",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You can block Cookies by setting your internet browser to block some or all or Cookies.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S78",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "However, if you use your browser settings to block all Cookies (including strictly necessary Cookies) you may not be able to use our Services.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S79",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 4.",
+     "labels": []
+    },
+    {
+     "id": "S80",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "WITH WHOM WE SHARE YOUR PERSONAL INFORMATION We may disclose your Personal Information to various categories of vendors and service providers we rely on in the provision of the Services, as well as additional third parties in certain circumstances described below.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S81",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Third party services are not owned or controlled by Otter.ai and third parties may have their own policies and practices for collection, use and sharing of information.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S82",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Please refer to third party privacy and security policies for more information before using such services.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S83",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We disclose your Personal Information to selected vendors and service providers, including: - Cloud service providers who we rely on for compute and data storage, including Amazon Web Services, based in the United States.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S84",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Platform support providers who help us manage and monitor the Services, including Amplitude, which is based in the U.S.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S85",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "and provides user event data for our Services.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S86",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Data labeling service providers who provide annotation services and use the data we share to create training and evaluation data for Otter’s product features.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "mentions"
+      },
+      {
+       "item": "T6",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S87",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Artificial intelligence service providers that provide backend support for certain Otter product features.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S88",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Mobile advertising tracking providers who help us measure our advertising effectiveness.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S89",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Analytics providers who provide analytics, segmentation and mobile measurement services and help us understand our user base.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S90",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We work with a number of analytics providers, including Google LLC, which is based in the U.S.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S91",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You can learn about Google’s practices by going to https://www.google.com/policies/privacy/partners/, and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S92",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We also disclose your Personal Information to the following categories of third parties, including: - Other users who see your Personal Information (such as your username and email) and any other information you choose to share with them through the Services.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S93",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Advertising Partners: We work with third party advertising partners to show you ads that we think may interest you.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S94",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Some of our advertising partners are members of the Network Advertising Initiative (http://optout.networkadvertising.org/) or the Digital Advertising Alliance (http://optout.aboutads.info/).",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S95",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you do not wish to receive personalized ads, please visit their opt-out pages to learn about how you may opt out of receiving web-based personalized ads from member companies.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S96",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You can access any settings offered by your mobile operating system to limit ad tracking, or you can install the AppChoices mobile app to learn more about how you may opt out of personalized ads in mobile apps.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S97",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Providers of integrated third-party programs, apps or platforms, such as Google Calendar and Apple iCal.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S98",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When you connect third party platforms to our Services, you authorize us to share designated information and data created and/or uploaded by you to our servers with these third-party programs on your behalf.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S99",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Payment processors, such as Stripe.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S100",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "These payment processors are responsible for the processing of your Personal Information, and may use your Personal Information for their own purposes in accordance with their privacy policies.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S101",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "More information is available here: https://stripe.com/gb/privacy.",
+     "labels": []
+    },
+    {
+     "id": "S102",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Law enforcement agencies, public authorities or other judicial bodies and organizations.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S103",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We disclose Personal Information if we are legally required to do so, or if we have a good faith belief that such use is reasonably necessary to comply with a legal obligation, process or request; enforce our terms of service and other agreements, policies, and standards, including investigation of any potential violation thereof; detect, prevent or otherwise address security, fraud or technical issues; or protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organizations for the purposes of fraud protection).",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S104",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For more information, please see Otter’s Data Request Policy.",
+     "labels": []
+    },
+    {
+     "id": "S105",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- Change of corporate ownership.",
+     "labels": []
+    },
+    {
+     "id": "S106",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If we are involved in a merger, acquisition, bankruptcy, reorganization, partnership, asset sale or other transaction, we may disclose your Personal Information as part of that transaction.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S107",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 5.",
+     "labels": []
+    },
+    {
+     "id": "S108",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "HOW LONG WE STORE YOUR INFORMATION Otter.ai stores all Personal Information for as long as necessary to fulfill the purposes set out in this Policy, or for as long as we are required to do so by law or in order to comply with a regulatory obligation.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S109",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When deleting Personal Information, we will take measures to render such Personal Information irrecoverable or irreproducible, and the electronic files which contain Personal Information will be permanently deleted.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      },
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S110",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 6.",
+     "labels": []
+    },
+    {
+     "id": "S111",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "YOUR RIGHTS Depending on where you live and subject to certain exceptions, you have the following rights in relation to your Personal Information that we hold.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S112",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you are a California resident, please visit our Privacy Notice for California Residents to learn more about your California privacy rights.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S113",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Access**.",
+     "labels": []
+    },
+    {
+     "id": "S114",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to confirm whether we process your Personal Information, access the Personal Information we hold about you, and to receive an explanation of how we use it and the third parties or categories of third parties to whom such Personal Information is disclosed.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S115",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Update**.",
+     "labels": []
+    },
+    {
+     "id": "S116",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to update any Personal Information we maintain about you - **Correction**.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S117",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to correct any Personal Information we hold about you that is inaccurate or incomplete.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S118",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Erasure**.",
+     "labels": []
+    },
+    {
+     "id": "S119",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to request for your Personal Information to be erased or deleted.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S120",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Right to opt out**.",
+     "labels": []
+    },
+    {
+     "id": "S121",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to opt out of the “sale” of your Personal Information and the processing of your Personal Information for targeted advertising.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S122",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Rights related to profiling in furtherance of significant decisions**.",
+     "labels": []
+    },
+    {
+     "id": "S123",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You also have the right to opt-out of profiling in furtherance of producing legal or significant decisions concerning you.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S124",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Additionally, if your Personal Information is profiled in furtherance of decisions that produce legal or similarly significant effects concerning you, you have the right to question the result of the profiling, to be informed of the reason that the profiling resulted in the decision, and, if feasible, to be informed of the actions you might have taken to secure a different decision and the actions that you might take to secure a different decision in the future.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S125",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You also have the right to review your Personal Information used in the profiling, and if applicable, have the data corrected and the profiling decision reevaluated based upon the corrected data.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S126",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We do not engage in such profiling.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S127",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Object to processing**.",
+     "labels": []
+    },
+    {
+     "id": "S128",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to object to our processing of your Personal Information where we are relying on a legitimate interest or if we are processing your Personal Information for direct marketing purposes.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S129",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Restrict processing**.",
+     "labels": []
+    },
+    {
+     "id": "S130",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have a right in certain circumstances to stop us from processing your Personal Information other than for storage purposes.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S131",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Portability**.",
+     "labels": []
+    },
+    {
+     "id": "S132",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to receive, in a structured, commonly used and machine-readable format, Personal Information that you have provided to us if we process it on the basis of our contract with you, or with your consent, or to request that we transfer such Personal Information to a third party.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S133",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Right to be free from discriminatory treatment**.",
+     "labels": []
+    },
+    {
+     "id": "S134",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to be free from discriminatory treatment for the exercise of your privacy rights.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S135",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Right to appeal**.",
+     "labels": []
+    },
+    {
+     "id": "S136",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to appeal any decision with regard to your privacy request.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S137",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "- **Withdraw consent**.",
+     "labels": []
+    },
+    {
+     "id": "S138",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You have the right to withdraw any consent you previously applied to us.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "T2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S139",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We will apply your preferences going forward, and this will not affect the lawfulness of processing before your consent was given.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      },
+      {
+       "item": "T6",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S140",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Please note that, prior to a response to the exercise of certain rights, we will require you to verify your identity.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S141",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you have an Otter.ai account, please verify your identity by logging into your account and submitting a support request from the Services.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S142",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you do not have an account, we will attempt to verify your identity by asking for information that we may have about you, such as your name, email address, and other information.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S143",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "In addition, we may require additional information (for example, why you believe the information we hold about you is inaccurate or incomplete) and may have valid legal reasons to refuse your request.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S144",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We will inform you if that is the case.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S145",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We do not require verification for requests to opt out of the “sale” of your Personal Information or the processing of your Personal Information for targeted advertising.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S146",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You can exercise these rights by clicking the “Do Not Sell or Share My Personal Information” link in the Otter website footer and following the instructions provided.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S147",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For more information on how to exercise your rights, or to exercise your rights, please email privacy@otter.ai, click our online form here, or call our toll-free number [1-866-I-OPT-OUT (1-866-467-8688) and enter Service Code 2392#].",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      },
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S148",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "**Authorizing an Agent**.",
+     "labels": []
+    },
+    {
+     "id": "S149",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you are acting as an authorized agent to make a request to opt out, please send an email to privacy@otter.ai and attach a written authorization signed by the resident.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S150",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "We may still require the resident you are acting on behalf of to directly verify their identity and confirm that they have provided you permission to submit the request.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S151",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 7.",
+     "labels": []
+    },
+    {
+     "id": "S152",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Data Privacy Framework Principles Otter.ai complies with the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S153",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Data Privacy Framework (EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S154",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF), the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S155",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF, and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S156",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Data Privacy Framework (“Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S157",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF”) as set forth by the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S158",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Department of Commerce.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S159",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Otter.ai has certified to the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S160",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Department of Commerce that it adheres to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S161",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF Principles with respect to the processing of personal data received from the European Union in reliance on the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S162",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S163",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S164",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Otter.ai has certified to the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S165",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Department of Commerce that it adheres to the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S166",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF Principles with respect to the processing of personal data received from Switzerland in reliance on the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S167",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S168",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If there is any conflict between the terms in this privacy policy and the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S169",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF Principles and/or the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S170",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DPF Principles, the Principles shall govern.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S171",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "To learn more about the Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/.",
+     "labels": []
+    },
+    {
+     "id": "S172",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "For more information on how we comply with the DPF Principles, please see **APPENDIX: Otter.ai Data Privacy Framework Principles Notice**.",
+     "labels": []
+    },
+    {
+     "id": "S173",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 8.",
+     "labels": []
+    },
+    {
+     "id": "S174",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "CHILDREN The Service and Website are not targeted at children, and we do not knowingly collect Personal Information from children under the age of 13.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S175",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you learn that a child has provided us with Personal Information in violation of this Policy, please contact us as indicated below.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S176",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 9.",
+     "labels": []
+    },
+    {
+     "id": "S177",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "CONTACT & COMPLAINTS For inquiries or complaints regarding this Policy, please first contact us at privacy@otter.ai and we will endeavor to deal with your complaint as soon as possible.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S178",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "This is without prejudice to your right to launch a claim with a data protection authority.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S179",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "If you are based in the European Economic Area or the UK, you may also make a complaint to either the Irish Data Protection Commission (on +353 578 684 800 or via https://forms.dataprotection.ie/contact) or the UK’s ICO (on +44 303 123 1113 or via https://ico.org.uk/make-a-complaint/), or to another supervisory authority, including in your country of residence, place of work or where an incident took place.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S180",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 10.",
+     "labels": []
+    },
+    {
+     "id": "S181",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "DATA SECURITY Otter.ai maintains and implements physical, administrative, and technical safeguards to protect the confidentiality, integrity, and availability of personal information.",
+     "labels": [
+      {
+       "item": "C6",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S182",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "However, the transfer of Personal Information through the internet will carry its own inherent risks and we do not guarantee the security of your data transmitted through the internet.",
+     "labels": [
+      {
+       "item": "C6",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S183",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "You make any such transfer at your own risk.",
+     "labels": [
+      {
+       "item": "C6",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S184",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "The Website and Service may provide features or links to websites and services provided by third parties.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S185",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Any information you provide on Apps, third-party websites or services is provided directly to the operators of such websites or services and is subject to their policies governing privacy and security, even if accessed via our Website or in connection with our Service.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S186",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 11.",
+     "labels": []
+    },
+    {
+     "id": "S187",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "CROSS-BORDER DATA TRANSFERS To facilitate our global operations, Otter.ai may transfer, store and process your operations with our partners and service providers based outside of the country in which you are based.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S188",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Laws in those countries may differ from the laws applicable to your country of residence.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S189",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Where we transfer, store and process your Personal Information outside of the EEA or the UK we will ensure that the appropriate safeguards are in place to ensure an adequate level of protection such as through acceding to the Standard Contractual Clauses.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S190",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Further details regarding the relevant safeguards can be obtained from us on request.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S191",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### 12.",
+     "labels": []
+    },
+    {
+     "id": "S192",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "CHANGES Where required, we will update this Policy from time to time.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S193",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "When we do so, we will make it available on this page and indicate the date of the latest revision.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S194",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Please check this page frequently to see any updates or changes to this Policy.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S195",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "###### **13.",
+     "labels": []
+    },
+    {
+     "id": "S196",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "ABOUT US** If you have any questions, comments or concerns about our Privacy Policy, you may contact us by email at privacy@otter.ai attn: Privacy Officer or by mail to: Otter.ai, Inc.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S197",
+     "section": "Otter.ai Privacy Policy | Otter.ai",
+     "text": "Attn: Privacy Officer 800 W El Camino Real, Suite 170, Mountain View, CA 94040",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S198",
+     "section": "APPENDIX",
+     "text": "###### Otter.ai Data Privacy Framework Principles Effective June 16, 2026 Otter.ai has created this Data Privacy Framework Principles Notice (“Notice”) to describe our standards and procedures for handling Personal Information in accordance with the Data Privacy Framework (“DPF”) Principles.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S199",
+     "section": "APPENDIX",
+     "text": "This Notice supplements our Policy.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S200",
+     "section": "APPENDIX",
+     "text": "Unless specifically defined in this Notice, the terms in this Notice have the same meaning as in our Policy.",
+     "labels": []
+    },
+    {
+     "id": "S201",
+     "section": "APPENDIX",
+     "text": "In case of conflict between the Policy and this Notice, this Notice prevails.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S202",
+     "section": "APPENDIX",
+     "text": "In case of conflict between this Notice and the Principles, the Principles will govern.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S203",
+     "section": "APPENDIX",
+     "text": "###### How we obtain Personal Information We obtain and Process Personal Information from the European Union (“EU”), United Kingdom (“UK”) (and Gibraltar), or Switzerland in different capacities: - As a data controller, we collect and Process EU, UK and Swiss Personal Information directly from individuals, either via our publicly available website https://otter.ai, or through our mobile applications, or in connection with our customer relationships.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      },
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S204",
+     "section": "APPENDIX",
+     "text": "- Where we provide our Services in connection with an enterprise agreement, we may obtain and process EU, UK, and Swiss Personal Information on behalf of and at the instructions of our enterprise customers.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      },
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S205",
+     "section": "APPENDIX",
+     "text": "In that context, such customers are the data controllers and we encourage you to read their privacy policies.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S206",
+     "section": "APPENDIX",
+     "text": "Otter.ai commits to subject to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S207",
+     "section": "APPENDIX",
+     "text": "DPF Principles, the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S208",
+     "section": "APPENDIX",
+     "text": "DPF, and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S209",
+     "section": "APPENDIX",
+     "text": "DPF Principles (collectively, the “**DPF Principles**”), all Personal Information received from the EU, the UK (and Gibraltar), or Switzerland in reliance on the DPF Principles (which includes both types of activities).",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S210",
+     "section": "APPENDIX",
+     "text": "###### Data Privacy Framework Principles **1.",
+     "labels": []
+    },
+    {
+     "id": "S211",
+     "section": "APPENDIX",
+     "text": "Notice**.",
+     "labels": []
+    },
+    {
+     "id": "S212",
+     "section": "APPENDIX",
+     "text": "Our Policy in combination with this Notice describes our privacy practices.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S213",
+     "section": "APPENDIX",
+     "text": "When providing our Services as a Data Processor, our customers determine the categories of Personal Information we Process and the purposes of the processing.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      },
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S214",
+     "section": "APPENDIX",
+     "text": "Accordingly, our customers are responsible for providing notice to individuals.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S215",
+     "section": "APPENDIX",
+     "text": "Please see our customers’ privacy policies for more information.",
+     "labels": []
+    },
+    {
+     "id": "S216",
+     "section": "APPENDIX",
+     "text": "**2.",
+     "labels": []
+    },
+    {
+     "id": "S217",
+     "section": "APPENDIX",
+     "text": "Data Integrity and Purpose Limitation**.",
+     "labels": []
+    },
+    {
+     "id": "S218",
+     "section": "APPENDIX",
+     "text": "Any Personal Information we receive may be processed by Otter.ai for the purposes indicated in our Policy or as otherwise notified to you.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S219",
+     "section": "APPENDIX",
+     "text": "We will not process Personal Information in a way that is incompatible with these purposes unless subsequently authorized by you.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S220",
+     "section": "APPENDIX",
+     "text": "We take reasonable steps to limit the collection and usage of Personal Information to that which is relevant for the purposes for which it was collected, and to ensure that such Personal Information is reliable, accurate, complete and current.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S221",
+     "section": "APPENDIX",
+     "text": "Individuals are encouraged to keep their Personal Information with Otter.ai up to date and may contact Otter.ai as indicated below or in the Policy to request that their Personal Information be updated or corrected.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S222",
+     "section": "APPENDIX",
+     "text": "We will adhere to the DPF Principles for as long as we retain the Personal Information collected under DPF Principles.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S223",
+     "section": "APPENDIX",
+     "text": "When providing our Services as a data processor, we process and retain Personal Information as necessary to provide our Services as permitted in our agreements, or as required or permitted under applicable law.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "mentions"
+      },
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S224",
+     "section": "APPENDIX",
+     "text": "**3.",
+     "labels": []
+    },
+    {
+     "id": "S225",
+     "section": "APPENDIX",
+     "text": "Accountability for Onward Transfer of Personal Information**.",
+     "labels": []
+    },
+    {
+     "id": "S226",
+     "section": "APPENDIX",
+     "text": "Otter.ai may transfer Personal Information as described in the Policy.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S227",
+     "section": "APPENDIX",
+     "text": "When providing our Services as a data processor, we disclose Personal Information as provided in our agreement with customers.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      },
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S228",
+     "section": "APPENDIX",
+     "text": "We remain responsible for the processing of Personal Information received under the DPF Principles and subsequently transferred to a third party acting as an agent if the agent Processes such Personal Information in a manner inconsistent with the DPF Principles, unless we prove that we are not responsible for the event giving rise to the damage.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S229",
+     "section": "APPENDIX",
+     "text": "**4.",
+     "labels": []
+    },
+    {
+     "id": "S230",
+     "section": "APPENDIX",
+     "text": "Security**.",
+     "labels": []
+    },
+    {
+     "id": "S231",
+     "section": "APPENDIX",
+     "text": "Otter.ai takes reasonable and appropriate precautions, taking into account the risks involved in the Processing and the nature of the Personal Information, to help protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.",
+     "labels": [
+      {
+       "item": "C6",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S232",
+     "section": "APPENDIX",
+     "text": "**5.",
+     "labels": []
+    },
+    {
+     "id": "S233",
+     "section": "APPENDIX",
+     "text": "Access and Choice**.",
+     "labels": []
+    },
+    {
+     "id": "S234",
+     "section": "APPENDIX",
+     "text": "If we intend to use your Personal Information for a purpose that is materially different from the purposes for which it was originally collected or subsequently authorized, or if we intend to disclose it to a third party acting as a Data Controller not previously identified, we will offer you the opportunity to opt out of such uses and/or disclosures where it involves non-sensitive information or opt in where sensitive information is involved.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S235",
+     "section": "APPENDIX",
+     "text": "Where appropriate, you have the right to access to the Personal Information we maintain about you and to correct, amend or delete that information when it is inaccurate or has been processed in violation of the DPF Principles by sending a written request as indicated in “Contact Us” below.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S236",
+     "section": "APPENDIX",
+     "text": "We will review your request in accordance with the DPF Principles, and may limit or deny access to Personal Information as permitted by the DPF Principles.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S237",
+     "section": "APPENDIX",
+     "text": "When providing our Services as a data processor, we only Process and disclose the Personal Information as specified in our agreements.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S238",
+     "section": "APPENDIX",
+     "text": "Our customers control how Personal Information is disclosed to us and Processed, and how it can be modified.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S239",
+     "section": "APPENDIX",
+     "text": "Accordingly, if you want to request access, or to limit use or disclosure of your Personal Information, please contact the company to whom you submitted your Personal Information and that uses our Services.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S240",
+     "section": "APPENDIX",
+     "text": "If you provide us with the name of the company to whom you provided your Personal Information and who is our customer, we will refer your request to that customer and support them in responding to your request.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S241",
+     "section": "APPENDIX",
+     "text": "**6.",
+     "labels": []
+    },
+    {
+     "id": "S242",
+     "section": "APPENDIX",
+     "text": "Recourse, Enforcement and Liability**.",
+     "labels": []
+    },
+    {
+     "id": "S243",
+     "section": "APPENDIX",
+     "text": "We conduct an annual self-assessment of our practices regarding Personal Information intended to verify that the assertions we make about our practices are true and that such practices have been implemented as represented.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S244",
+     "section": "APPENDIX",
+     "text": "If you have any questions or concerns, we encourage you to first write to us as indicated below.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S245",
+     "section": "APPENDIX",
+     "text": "We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the DPF Principles.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S246",
+     "section": "APPENDIX",
+     "text": "If an issue cannot be resolved through Otter.ai’s internal dispute resolution mechanism, you may submit a complaint to https://www.jamsadr.com/DPF-Dispute-Resolution, who serves as Otter.ai’s alternative dispute resolution provider, at no cost to you.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S247",
+     "section": "APPENDIX",
+     "text": "For residual complaints not fully or partially resolved by other means, you may be able to invoke binding arbitration as detailed in the DPF Principles available here.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S248",
+     "section": "APPENDIX",
+     "text": "Otter.ai is subject to the investigatory and enforcement powers of the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S249",
+     "section": "APPENDIX",
+     "text": "Federal Trade Commission.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S250",
+     "section": "APPENDIX",
+     "text": "###### Changes to this Notice This Notice may be amended consistent with the requirements of the DPF Principles.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S251",
+     "section": "APPENDIX",
+     "text": "When we update this Notice, we will also revise the “Last updated” date at the top of this document.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S252",
+     "section": "APPENDIX",
+     "text": "Any changes to this Notice will become effective when we post the revised version on our website.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S253",
+     "section": "APPENDIX",
+     "text": "Contact Us If you have any questions, concerns or complaints regarding our privacy practices, or if you’d like to exercise your choices or rights, you can contact us: - via email at privacy@otter.ai (Attn: Privacy Officer) - by mail to Otter.ai, Inc.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S254",
+     "section": "APPENDIX",
+     "text": "Attn: Privacy Officer 800 W El Camino Real, Suite 170, Mountain View, CA 94040 To learn more about the Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": {
+  "C1": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S16"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S22"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S51"
+    }
+   ]
+  },
+  "C2": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S80"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S83"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S92"
+    }
+   ]
+  },
+  "C3": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S121"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S128"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S146"
+    }
+   ]
+  },
+  "C4": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S114"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S117"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S119"
+    }
+   ]
+  },
+  "C5": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S108"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S109"
+    }
+   ]
+  },
+  "C6": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S181"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S231"
+    }
+   ]
+  },
+  "C7": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S192"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S193"
+    }
+   ]
+  },
+  "C8": {
+   "state": "not stated",
+   "evidence": []
+  },
+  "C9": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S187"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S189"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S203"
+    }
+   ]
+  },
+  "C10": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S174"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S177"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S196"
+    }
+   ]
+  },
+  "T1": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S53"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S86"
+    }
+   ]
+  },
+  "T2": {
+   "state": "partially stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S53"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S138"
+    }
+   ]
+  },
+  "T3": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S53"
+    }
+   ]
+  },
+  "T4": {
+   "state": "not stated",
+   "evidence": []
+  },
+  "T5": {
+   "state": "partially stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S4"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S5"
+    }
+   ]
+  },
+  "T6": {
+   "state": "partially stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S86"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S139"
+    }
+   ]
+  }
+ }
+}

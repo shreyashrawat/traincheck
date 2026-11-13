@@ -1,0 +1,1815 @@
+{
+  "policy_id": "grammarlygo",
+  "source_url": "https://www.grammarly.com/privacy-policy-march-2025",
+  "annotator": "ai-pass1",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy | Grammarly\n\n## How Does Grammarly Make Money?\n\nWe offer free and paid products, and we make money from subscriptions of the paid products. Grammarly does not monetize data or use the content customers upload to our products for advertising purposes.\n\n## What Types of Personal Data Does Grammarly Collect?\n\nWe collect the following types of personal data:\n\n- **Account information** when you or your organization sign up for an account, which includes your email address, password, name, and email preferences, and, as applicable, job titles and phone numbers. If you sign up through a third-party service, like Google or Apple, we'll collect the information from them that you authorize.\n\n- **Payment information** if you make a purchase or payment on our website(s), which includes payment transaction history and limited payment card information, including billing address. If you use PayPal, the Google Play Store, the Apple App Store, or another payment processor to finalize and pay for your order, you will provide your payment information directly to those providers, not us.\n\n- **Log data, application, network and device information**, which includes, for example, internet protocol (IP) address, device type, browser type and version, time zone setting and location, browser plug-in types and versions, and operating system and platform.\n\n- **User content**, which consists of all the text and documents that you upload, enter, or otherwise transmit to us when you use our products. For information on how we use, process, protect, and store user content, please see For What Purposes Does Grammarly Use Personal Data and How Does Grammarly Secure and Store Personal Data? You can also review our Technical Specifications, as applicable.\n\n- **Usage data** includes information about how you use and interact with our products. For example, we collect usage data to provide you with weekly activity reports, personalized insights on how to optimize your use of our products, and performance optimization in the sites and applications you use our products in. For more information on the types of usage data we collect and how we process it, please see our Technical Specifications.\n\n- **Cookie information** and other identifiers to enable our systems to recognize your browser or device and provide, protect, improve, and promote our products and services.\n\n- **Names of user contacts in the Grammarly Keyboard (on-device storage only)** to make appropriate spelling suggestions. The Grammarly Keyboard may request or obtain access to your contacts' names on your device. For instance, Grammarly will not try to autocorrect names in your list of contacts. These names will be stored solely on your device within the Grammarly Keyboard app and are never sent to Grammarly servers.\n\n- **Other information you provide directly to us**, such as in situations where you may have the option to submit additional information as you use our products or when you interact with our customer support or sales teams. For example, you may choose to participate in surveys where you can provide feedback on our products.\n\n- **Inferences**. We may also derive information or draw inferences about you based on the information we collect. For example, we may make inferences about your approximate location based on your IP address, infer that you are looking to purchase certain Grammarly products based on your browsing behavior and past purchases, and, depending upon your account settings, we may infer the industry you work in based on your writing and other metadata, or infer writing style preferences based on your prior use of our products.\n\n## Does Grammarly Obtain Any Data From Third-Party Sources?\n\nYes, we sometimes obtain information about you from our partners or others that we use to make our information and our products better or more useful. This data may be combined with the other information we collect and might include aggregate-level data, such as which IP addresses correspond to zip codes or countries. Or it might be more specific, such as data about your company or job function, which we may use, for example, to advertise Grammarly products to you.\n\n## For What Purposes Does Grammarly Use Personal Data?\n\nThe ways in which we use your personal data depend, in part, on how you use our products and what preferences you set.\n\nWe use your personal data for the following specific purposes:\n\n- **Providing and tailoring our products to you.** We use your personal data to operate our products and provide a rich, interactive, and personalized experience. For example, we process your user content and usage data to show you appropriate suggestions, personalize our suggestions based on the content and context of your usage, and offer tips on optimizing your use of our products. As another example, if you set up a personal dictionary, we will customize your suggestions to account for your personal dictionary. For more details about how we process your personal data when you use applicable Grammarly products and the controls available to you, please see our Technical Specifications.\n\n- **Communicate with you.** We use your personal data to communicate with you and to resolve any issues that you may encounter with our products. For example, if you contact our support team, we may need access to account information in order to respond to your request. Or, for example, we may use your personal data to communicate with you about product-related notifications such as product updates or account-related matters such as invoices.\n\n- **Troubleshooting and debugging our products.** We use personal data to resolve technical issues that arise with our products. For example, we use log data to track outages.\n\n- **Building and improving our products.** We're continually developing new methods to make our products smarter, faster, more secure, and more helpful. Our privacy-preserving uses of personal data are core to continually improving Grammarly's product offerings and maintaining a high-quality product experience. For example, we refer to usage data to help us decide what new features to build. As set forth in our Technical Specifications, for applicable Grammarly products, you are in control of whether your user content is used for training and improvement of our models. For applicable Grammarly products, you can learn more about these controls, how we build and improve our products, and the steps we take to preserve your privacy before doing so in our Technical Specifications.\n\n- **Processing payments.** If you are a paying customer, we work with payment processors to process your payment information to enable your transaction.\n\n- **Promoting our products.** We use personal data to send promotional communications and to conduct marketing research. For example, depending on your location, communications preferences, and consent settings (as applicable), we may use account information to send you personalized marketing emails about new products or offers, from which you can unsubscribe.\n\n- **Managing Events**. We use personal data to manage event registrations, seminars, panels, discussions, and other event attendance. We may process your personal information to plan and host events or webinars for which you have registered, inquired about, or that you attend, including sending related communications to you.\n\n- **Complying with legal obligations and protecting against harm.** We use personal data to: (a) comply with applicable laws, regulations, legal processes, and governmental requests, (b) protect our or others' legal rights, and (c) protect ourselves or our users from fraud, abuse, or other illegal or potentially harmful activities.\n\n## How Does Grammarly Secure and Store Personal Data?\n\n**Grammarly products**\n\nAs described in more detail on our Security page, we use a combination of technical, physical, and logical safeguards designed to secure your data. These safeguards include encryption, secure network configuration, data transfer restrictions, restricted employee access, and other measures.\n\nWe retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes. For more information, please see our Technical Specifications.\n\nWhen it comes to user content, by default, we process user content associated with your account to provide services to you (for example, writing suggestions, customization, and insights on how to use our features). For troubleshooting and product improvement, we typically retain user content for no longer than one year, after which we either delete or de-identify the content unless you choose to retain it in your account for longer or specifically ask us to delete it sooner, subject to any legal obligations requiring us to maintain the content for a longer period. We also pseudonymize, aggregate, and/or de-identify data and content when providing our services to you as described in our Technical Specifications. With the Grammarly Editor, we will store documents you create until you delete them or we close your account.\n\n**Coda**\n\nFor information about security and data storage with respect to Coda, see https://coda.io/trust/security#application-security.\n\n## To Whom Does Grammarly Disclose Personal Data?\n\nWe may disclose personal data to the following types of companies, organizations, or individuals outside of Grammarly:\n\n- **Trusted service providers.** We use service providers like Amazon Web Services to provide services that allow us to serve our users. These trusted service providers are bound by agreements that require them to follow data privacy and security requirements and only use your data in the way we tell them to.\n\n- **Government agencies, regulators, and similar authorities.** We may disclose your information to governmental agencies, regulators, and other authorities or authorized parties if we determine that such disclosure is reasonably necessary to (a) comply with any applicable law, regulation, legal process, or appropriate governmental request or (b) protect ourselves, our users, or others from fraud, abuse, or other illegal or potentially harmful activities.\n\n- **Organization IT administrators and representatives.** When you join Grammarly through a company, organization, or other legal entity (e.g., through Grammarly Business, Grammarly for Education, or certain Grammarly Pro offerings), the administrator of that team may access and control your Grammarly account (for Grammarly products, see below). If you created an account using an email address belonging to your employer or organization, we may share your email address with the administrators or representatives of that employer or organization to, for example, allow them to invite you to a Grammarly Business account or reach out to them about purchasing Grammarly Business.\n\n- **Other users.** If you join a Coda, Grammarly Business or Grammarly for Education account or create an account with an email address belonging to your employer or organization, we may suggest you as a potential collaborator to other users of that account.\n\n- **Advertising partners**. We engage other companies to provide analytics services, serve advertisements promoting Grammarly across the web and in other companies' mobile apps, and perform related services. We do not make user content available to these advertising partners. These companies may use cookies, web beacons, pixels, and other technologies to collect limited information about your interactions with our marketing websites, such as a cookie ID or device identifier and a link you click or page you visit on Grammarly's websites. In addition, we may work with advertising partners to translate other identifiers, such as your email address, into a unique identifier (called a hashed value) that such partners can then use to show ads promoting Grammarly on other websites and online services. These disclosures of hashed identifiers and information disclosed through advertising cookies and similar technologies may constitute \"targeted advertising,\" \"sharing,\" or \"selling\" under certain privacy laws, and you may opt out at any time. See the \"Your Opt-Out Rights and Communication Choices\" section for information about how to opt out of these disclosures.\n\n- **An acquirer of Grammarly's business or assets.** We may disclose personal data to manage or give effect to a reorganization, restructuring, merger, acquisition, or whole or partial sale or transfer of our business or assets (\"Business Transaction\") that our business decides to enter into. We'll notify you (for example, via a message to the email address associated with your account) of any Business Transaction involving your personal data and outline your choices in that event.\n\n- **With your consent or otherwise at your direction.** If you consent to us disclosing your personal data to a particular recipient or otherwise direct us to do so, we may do so.\n\n## Your Privacy Rights & Choices\n\nGrammarly offers privacy controls to everyone, for example with respect to receiving marketing emails or how content is used to personalize users' experience. You can find most of these controls within your account settings. Below we explain these choices and rights and how to exercise them. Note that the wording of these rights and how they are exercised may vary somewhat by region (for example, if you live in Europe, you can read more about your rights below).\n\n**Your Opt-Out Rights and Communications Choices**\n\n- **Opt out of targeted advertising.** As described above, we work with select advertising partners to promote Grammarly on other websites and online services. Depending on your location, you can opt out of these disclosures following the instructions presented when you click the link titled \"Your Privacy Choices\" on the footer of our websites.\n\n- **Other choices regarding cookies and similar technologies**. Depending on your location, Grammarly and Coda offer controls on our websites to turn off use of cookies, pixels, and similar technologies for such purposes. Please follow the prompts behind the \"Your Privacy Choices\" links offered in the footer of Grammarly websites and Coda websites to opt out of such activities for each service. For Coda, you can find additional information here and here. All users can adjust browser settings to remove or reject browser cookies.\n\n- **Stop us from using your personal data for marketing communications.** You can ask us to stop using your personal data to send you marketing emails by following the instructions in those emails. Alternatively, to stop receiving marketing emails promoting Grammarly, you can contact us using the contact information below or, to stop receiving emails promoting Coda, by contacting us at support@coda.io.\n\n**Your Other Data Rights**\n\nYou may have rights under privacy laws to submit requests to us to access, correct, update, stop using for certain purposes, delete, or move your personal data out of Grammarly. If you would like to submit a request to exercise your rights, please follow these instructions:\n\n- **Request a personal data report.** You can submit an access request for your data through your Grammarly account settings.\n\n- **Correct or update your data.** You can update your name, email address, and language preferences through your Grammarly account settings. If you registered for Grammarly using Google or Facebook, or if you otherwise have problems updating this information, please submit a support ticket.\n\n- **Delete your data.** You can remove your personal data from Grammarly by deleting your account. Note that if you use a paid Grammarly account as part of an account managed by your employer, organization, or other legal entity, you may need to ask the administrator of your account to request deletion or remove you from their account before we can act on your request.\n\n- **Move your data out of Grammarly.** You can download the documents you've stored in your Grammarly account by following the steps here. You can download your billing receipts by following the instructions here and download a copy of your document statistics by following the instructions here.\n\n- **Coda.** If you would like to submit a request to exercise your rights related to Coda, please submit a request by emailing support@coda.io with the subject line \"Rights Request,\" or complete an Export My Data or Delete My Account request through the Coda Account Settings page under \"Advanced Settings.\"\n\nTo exercise any other rights you may have under privacy laws or if you need additional assistance, please contact us using the contact information below and describe your request. We may ask for additional information from you to clarify your request and verify that you are authorized to make this request. We will respond to requests to exercise privacy rights according to applicable laws.\n\n## California Notice at Collection & Additional Information for Residents of Certain US States\n\nSome US states have enacted privacy laws that grant their residents certain rights and require specific disclosures (\"State Privacy Laws\"). If you reside in California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, or Virginia, this section applies to you. **This section also serves as our California notice at collection.**\n\n*Additional Disclosures*\n\nAbove we explain how we collect, use, and disclose information about you, as well as our targeted advertising practices. As required by certain State Privacy Laws, we use the tables below to explain this same information.\n\n*Use, Disclosure, and Retention of Personal Information for Business Purposes*\n\nWhen we process information that is considered \"sensitive\" under State Privacy Laws (such as when such information is included in your user content, including the content of communications you use Grammarly products to edit and improve), we use such data only for the legally permitted purposes described above, in the same way we process user content generally. We similarly limit how we process account log-in information, which may be considered \"sensitive\" under certain State Privacy Laws. We do not use or disclose such information for the purpose of inferring characteristics about you.\n\nAs described in the \"What Types of Personal Data Does Grammarly Collect?\" and \"Does Grammarly Obtain Any Data from Third Party Sources?\" sections above, we collect personal information from various sources, including directly from you, automatically when you access or use our products, and from third-party sources.\n\nWe may use data that has been de-identified so that it can no longer reasonably be used to identify you for any purpose. We commit to maintaining and using such information in de-identified form and not to attempt to re-identify the information, except for the purpose of determining whether our de-identification processes satisfy applicable legal requirements.\n\n*Retention*\n\nWe retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes. For more information about retention generally and protections for user content specifically, please see \"How Does Grammarly Secure and Store Personal Data?\" and our Technical Specifications (as applicable).\n\n*Sales, Sharing, and Targeted Advertising Activities*\n\nWe also disclose certain categories of personal information to advertising partners in order to promote Grammarly on third-party websites and services. These disclosures may be considered \"sales,\" \"sharing,\" or use of personal information for \"targeted advertising\" under State Privacy Laws, and the table below provides more information about our practices.\n\nWe do not engage in sales, sharing, or targeted advertising using personal information about anyone we know to be under the age of 18.\n\n*Your Rights under State Privacy Laws*\n\n**Opt Out of Sales, Sharing, and Targeted Advertising**\n\nYou may opt out of activities that we engage in that may constitute \"targeted advertising,\" \"sharing,\" or \"sales\" of personal information under the State Privacy Laws. To do so:\n\n- Grammarly and Coda offer controls on our websites to turn off use of cookies, pixels, and similar technologies for such purposes. Please follow the prompts behind the \"Your Privacy Choices\" links offered in the footer of Grammarly websites and Coda websites to opt out of such activities for each service. (For Coda, you can also access such controls here.) Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit Grammarly or Coda websites from a new device or browser, or if you clear your browser's cookies. You can also opt out by visiting Grammarly or Coda websites with a legally recognized universal opt-out signal enabled, such as the Global Privacy Control.\n\n- You may also opt out of Grammarly sharing a hashed version of your email address with advertising partners to promote Grammarly on third-party websites and services. If you have a Grammarly account, use the control in your account settings to do so. If you do not have a Grammarly account, please contact us at privacy@grammarly.com to opt out. You may opt out of Coda sharing a hashed version of your email address with advertising partners by contacting support@coda.io.\n\n**Access, Correction, and Deletion**\n\nYou have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information. To exercise these rights, follow the instructions in the \"Your Other Data Rights\" section above. We may ask you for information to verify your identity and, if you do not provide enough information for us to reasonably verify your identity, we will not be able to fulfill your request.\n\n**Nondiscrimination**\n\nYou have the right not to be discriminated against for exercising any of your privacy rights.\n\n**Appeals**\n\nIf we deny your request, you may appeal our decision by submitting a support ticket. If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.\n\n**Authorized Agents**\n\nIf you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please contact us at privacy@grammarly.com.\n\nIf you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the consumer who is the subject of the request to verify their own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California consumer, please submit a support ticket or contact support@coda.io as applicable.\n\n## Notice to End Users on a Grammarly Business or Grammarly for Education or Certain Grammarly Pro Plans\n\nIf you use products such as Coda, Grammarly Business, Grammarly for Education, or Grammarly Pro under the management of a company, organization, or other legal entity, your use of our product is subject to such legal entity's policies (if any), and you should direct any privacy inquiries to your account administrator. Grammarly is not responsible for the privacy or security practices of such legal entity, which may differ from this Privacy Policy. Also, if you are a Grammarly for Education team member, your parents and school administrator may have the legal right to access or delete your account.\n\nPlease note that administrators of these Grammarly accounts may be able to:\n\n- Access information related to your account, such as usage data\n\n- Control your account, including restricting or terminating your access to it\n\nPlease contact your organization for more information.\n\n## Contact Information\n\nYou can contact us with questions relating to this Privacy Policy or requests to exercise your privacy rights by submitting a help desk request here, emailing privacy@grammarly.com, or contacting us via postal mail at Superhuman Platform Inc. 2261 Market Street, Suite 85232, San Francisco, CA 94114, United States.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "How Does Grammarly Make Money?",
+          "text": "We offer free and paid products, and we make money from subscriptions of the paid products.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "How Does Grammarly Make Money?",
+          "text": "Grammarly does not monetize data or use the content customers upload to our products for advertising purposes.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S3",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "We collect the following types of personal data: - **Account information** when you or your organization sign up for an account, which includes your email address, password, name, and email preferences, and, as applicable, job titles and phone numbers.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S4",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "If you sign up through a third-party service, like Google or Apple, we'll collect the information from them that you authorize.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S5",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Payment information** if you make a purchase or payment on our website(s), which includes payment transaction history and limited payment card information, including billing address.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S6",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "If you use PayPal, the Google Play Store, the Apple App Store, or another payment processor to finalize and pay for your order, you will provide your payment information directly to those providers, not us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S7",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Log data, application, network and device information**, which includes, for example, internet protocol (IP) address, device type, browser type and version, time zone setting and location, browser plug-in types and versions, and operating system and platform.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S8",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **User content**, which consists of all the text and documents that you upload, enter, or otherwise transmit to us when you use our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S9",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "For information on how we use, process, protect, and store user content, please see For What Purposes Does Grammarly Use Personal Data and How Does Grammarly Secure and Store Personal Data?",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "You can also review our Technical Specifications, as applicable.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Usage data** includes information about how you use and interact with our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S12",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "For example, we collect usage data to provide you with weekly activity reports, personalized insights on how to optimize your use of our products, and performance optimization in the sites and applications you use our products in.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S13",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "For more information on the types of usage data we collect and how we process it, please see our Technical Specifications.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Cookie information** and other identifiers to enable our systems to recognize your browser or device and provide, protect, improve, and promote our products and services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S15",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Names of user contacts in the Grammarly Keyboard (on-device storage only)** to make appropriate spelling suggestions.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S16",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "The Grammarly Keyboard may request or obtain access to your contacts' names on your device.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S17",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "For instance, Grammarly will not try to autocorrect names in your list of contacts.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "These names will be stored solely on your device within the Grammarly Keyboard app and are never sent to Grammarly servers.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S19",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Other information you provide directly to us**, such as in situations where you may have the option to submit additional information as you use our products or when you interact with our customer support or sales teams.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S20",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "For example, you may choose to participate in surveys where you can provide feedback on our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S21",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "- **Inferences**.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S22",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "We may also derive information or draw inferences about you based on the information we collect.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S23",
+          "section": "What Types of Personal Data Does Grammarly Collect?",
+          "text": "For example, we may make inferences about your approximate location based on your IP address, infer that you are looking to purchase certain Grammarly products based on your browsing behavior and past purchases, and, depending upon your account settings, we may infer the industry you work in based on your writing and other metadata, or infer writing style preferences based on your prior use of our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S24",
+          "section": "Does Grammarly Obtain Any Data From Third-Party Sources?",
+          "text": "Yes, we sometimes obtain information about you from our partners or others that we use to make our information and our products better or more useful.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S25",
+          "section": "Does Grammarly Obtain Any Data From Third-Party Sources?",
+          "text": "This data may be combined with the other information we collect and might include aggregate-level data, such as which IP addresses correspond to zip codes or countries.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S26",
+          "section": "Does Grammarly Obtain Any Data From Third-Party Sources?",
+          "text": "Or it might be more specific, such as data about your company or job function, which we may use, for example, to advertise Grammarly products to you.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S27",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "The ways in which we use your personal data depend, in part, on how you use our products and what preferences you set.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S28",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "We use your personal data for the following specific purposes: - **Providing and tailoring our products to you.** We use your personal data to operate our products and provide a rich, interactive, and personalized experience.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S29",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For example, we process your user content and usage data to show you appropriate suggestions, personalize our suggestions based on the content and context of your usage, and offer tips on optimizing your use of our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S30",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "As another example, if you set up a personal dictionary, we will customize your suggestions to account for your personal dictionary.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S31",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For more details about how we process your personal data when you use applicable Grammarly products and the controls available to you, please see our Technical Specifications.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S32",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Communicate with you.** We use your personal data to communicate with you and to resolve any issues that you may encounter with our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S33",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For example, if you contact our support team, we may need access to account information in order to respond to your request.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S34",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "Or, for example, we may use your personal data to communicate with you about product-related notifications such as product updates or account-related matters such as invoices.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S35",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Troubleshooting and debugging our products.** We use personal data to resolve technical issues that arise with our products.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S36",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For example, we use log data to track outages.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S37",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Building and improving our products.** We're continually developing new methods to make our products smarter, faster, more secure, and more helpful.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S38",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "Our privacy-preserving uses of personal data are core to continually improving Grammarly's product offerings and maintaining a high-quality product experience.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S39",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For example, we refer to usage data to help us decide what new features to build.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S40",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "As set forth in our Technical Specifications, for applicable Grammarly products, you are in control of whether your user content is used for training and improvement of our models.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T2",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S41",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For applicable Grammarly products, you can learn more about these controls, how we build and improve our products, and the steps we take to preserve your privacy before doing so in our Technical Specifications.",
+          "labels": [
+            {
+              "item": "T2",
+              "stance": "mentions"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S42",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Processing payments.** If you are a paying customer, we work with payment processors to process your payment information to enable your transaction.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S43",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Promoting our products.** We use personal data to send promotional communications and to conduct marketing research.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S44",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "For example, depending on your location, communications preferences, and consent settings (as applicable), we may use account information to send you personalized marketing emails about new products or offers, from which you can unsubscribe.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S45",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Managing Events**.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S46",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "We use personal data to manage event registrations, seminars, panels, discussions, and other event attendance.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S47",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "We may process your personal information to plan and host events or webinars for which you have registered, inquired about, or that you attend, including sending related communications to you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S48",
+          "section": "For What Purposes Does Grammarly Use Personal Data?",
+          "text": "- **Complying with legal obligations and protecting against harm.** We use personal data to: (a) comply with applicable laws, regulations, legal processes, and governmental requests, (b) protect our or others' legal rights, and (c) protect ourselves or our users from fraud, abuse, or other illegal or potentially harmful activities.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S49",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "**Grammarly products** As described in more detail on our Security page, we use a combination of technical, physical, and logical safeguards designed to secure your data.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S50",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "These safeguards include encryption, secure network configuration, data transfer restrictions, restricted employee access, and other measures.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S51",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "We retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S52",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "For more information, please see our Technical Specifications.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "When it comes to user content, by default, we process user content associated with your account to provide services to you (for example, writing suggestions, customization, and insights on how to use our features).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S54",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "For troubleshooting and product improvement, we typically retain user content for no longer than one year, after which we either delete or de-identify the content unless you choose to retain it in your account for longer or specifically ask us to delete it sooner, subject to any legal obligations requiring us to maintain the content for a longer period.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "T4",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S55",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "We also pseudonymize, aggregate, and/or de-identify data and content when providing our services to you as described in our Technical Specifications.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            },
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S56",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "With the Grammarly Editor, we will store documents you create until you delete them or we close your account.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S57",
+          "section": "How Does Grammarly Secure and Store Personal Data?",
+          "text": "**Coda** For information about security and data storage with respect to Coda, see https://coda.io/trust/security#application-security.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S58",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "We may disclose personal data to the following types of companies, organizations, or individuals outside of Grammarly: - **Trusted service providers.** We use service providers like Amazon Web Services to provide services that allow us to serve our users.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S59",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "These trusted service providers are bound by agreements that require them to follow data privacy and security requirements and only use your data in the way we tell them to.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S60",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "- **Government agencies, regulators, and similar authorities.** We may disclose your information to governmental agencies, regulators, and other authorities or authorized parties if we determine that such disclosure is reasonably necessary to (a) comply with any applicable law, regulation, legal process, or appropriate governmental request or (b) protect ourselves, our users, or others from fraud, abuse, or other illegal or potentially harmful activities.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S61",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "- **Organization IT administrators and representatives.** When you join Grammarly through a company, organization, or other legal entity (e.g., through Grammarly Business, Grammarly for Education, or certain Grammarly Pro offerings), the administrator of that team may access and control your Grammarly account (for Grammarly products, see below).",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S62",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "If you created an account using an email address belonging to your employer or organization, we may share your email address with the administrators or representatives of that employer or organization to, for example, allow them to invite you to a Grammarly Business account or reach out to them about purchasing Grammarly Business.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S63",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "- **Other users.** If you join a Coda, Grammarly Business or Grammarly for Education account or create an account with an email address belonging to your employer or organization, we may suggest you as a potential collaborator to other users of that account.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S64",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "- **Advertising partners**.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S65",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "We engage other companies to provide analytics services, serve advertisements promoting Grammarly across the web and in other companies' mobile apps, and perform related services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S66",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "We do not make user content available to these advertising partners.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S67",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "These companies may use cookies, web beacons, pixels, and other technologies to collect limited information about your interactions with our marketing websites, such as a cookie ID or device identifier and a link you click or page you visit on Grammarly's websites.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S68",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "In addition, we may work with advertising partners to translate other identifiers, such as your email address, into a unique identifier (called a hashed value) that such partners can then use to show ads promoting Grammarly on other websites and online services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S69",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "These disclosures of hashed identifiers and information disclosed through advertising cookies and similar technologies may constitute \"targeted advertising,\" \"sharing,\" or \"selling\" under certain privacy laws, and you may opt out at any time.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S70",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "See the \"Your Opt-Out Rights and Communication Choices\" section for information about how to opt out of these disclosures.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S71",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "- **An acquirer of Grammarly's business or assets.** We may disclose personal data to manage or give effect to a reorganization, restructuring, merger, acquisition, or whole or partial sale or transfer of our business or assets (\"Business Transaction\") that our business decides to enter into.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S72",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "We'll notify you (for example, via a message to the email address associated with your account) of any Business Transaction involving your personal data and outline your choices in that event.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S73",
+          "section": "To Whom Does Grammarly Disclose Personal Data?",
+          "text": "- **With your consent or otherwise at your direction.** If you consent to us disclosing your personal data to a particular recipient or otherwise direct us to do so, we may do so.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S74",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Grammarly offers privacy controls to everyone, for example with respect to receiving marketing emails or how content is used to personalize users' experience.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S75",
+          "section": "Your Privacy Rights & Choices",
+          "text": "You can find most of these controls within your account settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S76",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Below we explain these choices and rights and how to exercise them.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Note that the wording of these rights and how they are exercised may vary somewhat by region (for example, if you live in Europe, you can read more about your rights below).",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S78",
+          "section": "Your Privacy Rights & Choices",
+          "text": "**Your Opt-Out Rights and Communications Choices** - **Opt out of targeted advertising.** As described above, we work with select advertising partners to promote Grammarly on other websites and online services.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S79",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Depending on your location, you can opt out of these disclosures following the instructions presented when you click the link titled \"Your Privacy Choices\" on the footer of our websites.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S80",
+          "section": "Your Privacy Rights & Choices",
+          "text": "- **Other choices regarding cookies and similar technologies**.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S81",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Depending on your location, Grammarly and Coda offer controls on our websites to turn off use of cookies, pixels, and similar technologies for such purposes.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S82",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Please follow the prompts behind the \"Your Privacy Choices\" links offered in the footer of Grammarly websites and Coda websites to opt out of such activities for each service.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S83",
+          "section": "Your Privacy Rights & Choices",
+          "text": "For Coda, you can find additional information here and here.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "Your Privacy Rights & Choices",
+          "text": "All users can adjust browser settings to remove or reject browser cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S85",
+          "section": "Your Privacy Rights & Choices",
+          "text": "- **Stop us from using your personal data for marketing communications.** You can ask us to stop using your personal data to send you marketing emails by following the instructions in those emails.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S86",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Alternatively, to stop receiving marketing emails promoting Grammarly, you can contact us using the contact information below or, to stop receiving emails promoting Coda, by contacting us at support@coda.io.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S87",
+          "section": "Your Privacy Rights & Choices",
+          "text": "**Your Other Data Rights** You may have rights under privacy laws to submit requests to us to access, correct, update, stop using for certain purposes, delete, or move your personal data out of Grammarly.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S88",
+          "section": "Your Privacy Rights & Choices",
+          "text": "If you would like to submit a request to exercise your rights, please follow these instructions: - **Request a personal data report.** You can submit an access request for your data through your Grammarly account settings.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S89",
+          "section": "Your Privacy Rights & Choices",
+          "text": "- **Correct or update your data.** You can update your name, email address, and language preferences through your Grammarly account settings.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S90",
+          "section": "Your Privacy Rights & Choices",
+          "text": "If you registered for Grammarly using Google or Facebook, or if you otherwise have problems updating this information, please submit a support ticket.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S91",
+          "section": "Your Privacy Rights & Choices",
+          "text": "- **Delete your data.** You can remove your personal data from Grammarly by deleting your account.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S92",
+          "section": "Your Privacy Rights & Choices",
+          "text": "Note that if you use a paid Grammarly account as part of an account managed by your employer, organization, or other legal entity, you may need to ask the administrator of your account to request deletion or remove you from their account before we can act on your request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S93",
+          "section": "Your Privacy Rights & Choices",
+          "text": "- **Move your data out of Grammarly.** You can download the documents you've stored in your Grammarly account by following the steps here.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S94",
+          "section": "Your Privacy Rights & Choices",
+          "text": "You can download your billing receipts by following the instructions here and download a copy of your document statistics by following the instructions here.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S95",
+          "section": "Your Privacy Rights & Choices",
+          "text": "- **Coda.** If you would like to submit a request to exercise your rights related to Coda, please submit a request by emailing support@coda.io with the subject line \"Rights Request,\" or complete an Export My Data or Delete My Account request through the Coda Account Settings page under \"Advanced Settings.\" To exercise any other rights you may have under privacy laws or if you need additional assistance, please contact us using the contact information below and describe your request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S96",
+          "section": "Your Privacy Rights & Choices",
+          "text": "We may ask for additional information from you to clarify your request and verify that you are authorized to make this request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S97",
+          "section": "Your Privacy Rights & Choices",
+          "text": "We will respond to requests to exercise privacy rights according to applicable laws.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S98",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "Some US states have enacted privacy laws that grant their residents certain rights and require specific disclosures (\"State Privacy Laws\").",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S99",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "If you reside in California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, or Virginia, this section applies to you.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S100",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "**This section also serves as our California notice at collection.** *Additional Disclosures* Above we explain how we collect, use, and disclose information about you, as well as our targeted advertising practices.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S101",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "As required by certain State Privacy Laws, we use the tables below to explain this same information.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "*Use, Disclosure, and Retention of Personal Information for Business Purposes* When we process information that is considered \"sensitive\" under State Privacy Laws (such as when such information is included in your user content, including the content of communications you use Grammarly products to edit and improve), we use such data only for the legally permitted purposes described above, in the same way we process user content generally.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S103",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We similarly limit how we process account log-in information, which may be considered \"sensitive\" under certain State Privacy Laws.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S104",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We do not use or disclose such information for the purpose of inferring characteristics about you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S105",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "As described in the \"What Types of Personal Data Does Grammarly Collect?\" and \"Does Grammarly Obtain Any Data from Third Party Sources?\" sections above, we collect personal information from various sources, including directly from you, automatically when you access or use our products, and from third-party sources.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S106",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We may use data that has been de-identified so that it can no longer reasonably be used to identify you for any purpose.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S107",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We commit to maintaining and using such information in de-identified form and not to attempt to re-identify the information, except for the purpose of determining whether our de-identification processes satisfy applicable legal requirements.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S108",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "*Retention* We retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S109",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "For more information about retention generally and protections for user content specifically, please see \"How Does Grammarly Secure and Store Personal Data?\" and our Technical Specifications (as applicable).",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "*Sales, Sharing, and Targeted Advertising Activities* We also disclose certain categories of personal information to advertising partners in order to promote Grammarly on third-party websites and services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S111",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "These disclosures may be considered \"sales,\" \"sharing,\" or use of personal information for \"targeted advertising\" under State Privacy Laws, and the table below provides more information about our practices.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S112",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We do not engage in sales, sharing, or targeted advertising using personal information about anyone we know to be under the age of 18.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            },
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S113",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "*Your Rights under State Privacy Laws* **Opt Out of Sales, Sharing, and Targeted Advertising** You may opt out of activities that we engage in that may constitute \"targeted advertising,\" \"sharing,\" or \"sales\" of personal information under the State Privacy Laws.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S114",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "To do so: - Grammarly and Coda offer controls on our websites to turn off use of cookies, pixels, and similar technologies for such purposes.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S115",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "Please follow the prompts behind the \"Your Privacy Choices\" links offered in the footer of Grammarly websites and Coda websites to opt out of such activities for each service.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S116",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "(For Coda, you can also access such controls here.) Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit Grammarly or Coda websites from a new device or browser, or if you clear your browser's cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S117",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "You can also opt out by visiting Grammarly or Coda websites with a legally recognized universal opt-out signal enabled, such as the Global Privacy Control.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C8",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S118",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "- You may also opt out of Grammarly sharing a hashed version of your email address with advertising partners to promote Grammarly on third-party websites and services.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S119",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "If you have a Grammarly account, use the control in your account settings to do so.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S120",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "If you do not have a Grammarly account, please contact us at privacy@grammarly.com to opt out.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S121",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "You may opt out of Coda sharing a hashed version of your email address with advertising partners by contacting support@coda.io.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S122",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "**Access, Correction, and Deletion** You have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S123",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "To exercise these rights, follow the instructions in the \"Your Other Data Rights\" section above.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S124",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We may ask you for information to verify your identity and, if you do not provide enough information for us to reasonably verify your identity, we will not be able to fulfill your request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S125",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "**Nondiscrimination** You have the right not to be discriminated against for exercising any of your privacy rights.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S126",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "**Appeals** If we deny your request, you may appeal our decision by submitting a support ticket.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S127",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S128",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "**Authorized Agents** If you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please contact us at privacy@grammarly.com.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S129",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "If you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S130",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S131",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "In some cases, we may contact the consumer who is the subject of the request to verify their own identity or confirm the authorized agent has permission to submit the request.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S132",
+          "section": "California Notice at Collection & Additional Information for Residents of Certain US States",
+          "text": "If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California consumer, please submit a support ticket or contact support@coda.io as applicable.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S133",
+          "section": "Notice to End Users on a Grammarly Business or Grammarly for Education or Certain Grammarly Pro Plans",
+          "text": "If you use products such as Coda, Grammarly Business, Grammarly for Education, or Grammarly Pro under the management of a company, organization, or other legal entity, your use of our product is subject to such legal entity's policies (if any), and you should direct any privacy inquiries to your account administrator.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S134",
+          "section": "Notice to End Users on a Grammarly Business or Grammarly for Education or Certain Grammarly Pro Plans",
+          "text": "Grammarly is not responsible for the privacy or security practices of such legal entity, which may differ from this Privacy Policy.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S135",
+          "section": "Notice to End Users on a Grammarly Business or Grammarly for Education or Certain Grammarly Pro Plans",
+          "text": "Also, if you are a Grammarly for Education team member, your parents and school administrator may have the legal right to access or delete your account.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S136",
+          "section": "Notice to End Users on a Grammarly Business or Grammarly for Education or Certain Grammarly Pro Plans",
+          "text": "Please note that administrators of these Grammarly accounts may be able to: - Access information related to your account, such as usage data - Control your account, including restricting or terminating your access to it Please contact your organization for more information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S137",
+          "section": "Contact Information",
+          "text": "You can contact us with questions relating to this Privacy Policy or requests to exercise your privacy rights by submitting a help desk request here, emailing privacy@grammarly.com, or contacting us via postal mail at Superhuman Platform Inc.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S138",
+          "section": "Contact Information",
+          "text": "2261 Market Street, Suite 85232, San Francisco, CA 94114, United States.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S3"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S8"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S28"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S37"
+        }
+      ]
+    },
+    "C2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S24"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S58"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S65"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S110"
+        }
+      ]
+    },
+    "C3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S74"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S79"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S85"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S113"
+        }
+      ]
+    },
+    "C4": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S87"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S88"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S91"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S122"
+        }
+      ]
+    },
+    "C5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S51"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S54"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S56"
+        }
+      ]
+    },
+    "C6": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S49"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S50"
+        }
+      ]
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S98"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S99"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S133"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S135"
+        }
+      ]
+    },
+    "C10": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S112"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S137"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S138"
+        }
+      ]
+    },
+    "T1": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S40"
+        }
+      ]
+    },
+    "T2": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S40"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S41"
+        }
+      ]
+    },
+    "T3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S40"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S8"
+        }
+      ]
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S40"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S61"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S133"
+        }
+      ]
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,3309 @@
+{
+ "policy_id": "duolingo-max",
+ "source_url": "https://join.duolingo.com/privacy",
+ "annotator": "ai-pass1",
+ "documents": [
+  {
+   "name": "Policy",
+   "text": "# Privacy - Duolingo\n\n**This Privacy Policy was last revised on May 26, 2026.**\n\n1. ### General\n\n    At Duolingo, we care about your personal information, so we have prepared this Privacy Policy to explain how we collect, use, and share it. This Privacy Policy applies to Duolingo websites, mobile apps, and related services (“Service”). By using the Service, you agree with Duolingo’s collection, use, and sharing of your personal information in accordance with the terms of this Privacy Policy.\n\n    Certain Duolingo services are subject to additional or different terms. For example, when you register for or take the Duolingo English Test, you are also subject to the Supplemental Privacy Terms for the Duolingo English Test.\n\n    Please note that Duolingo is constantly testing and improving our product features. Any features discussed in this Privacy Policy may not be available to all users or in all jurisdictions.\n\n2. ### Information We Collect\n\n    When you use the Service, Duolingo may collect the following personal information about you.\n\n    #### a. Account Registration\n\n    To register for a Duolingo account, you may provide us with a username, your age and email address. In some countries, you may also provide us with your phone number.\n\n    You may also register for a Duolingo account using certain social logins, such as Google and Facebook. If you register for Duolingo using a social login, Duolingo may receive information about you from your social login provider, including your email address and contacts. If you try to log in with a password when you have registered using a social login, we may remind you to log in using the social provider instead.\n\n    You can manage your Duolingo account and social logins within the app Settings.\n\n    #### b. Profile & Public Profile Information\n\n    After you register for your Duolingo account, a profile page will be created for you (“Profile”). Your Profile will be populated by information you submit, such as your name, bio, and profile picture (“Public Profile Information”) and your username. Your age, phone number, and email address are not included in your public Profile and are not considered Public Profile Information under this Privacy Policy. Other Duolingo users may be able to search for your Profile using your name, username, email address, or phone number.\n\n    Your Profile will also include information about your learning progress, such as the languages you are learning, your learning statistics, and your achievements. Moreover, your Profile will show a list of your followers and the users you follow. We call users that follow each other “Friends”.\n\n    By default, your Profile is public, and visible to other Duolingo users and anyone else on the Internet. In addition, your Public Profile Information may be publicly visible. If your Profile is public, third-party websites or web scrapers may be able to read, collect, and use your public information for their own purposes. However, you can set your Profile to private in your Settings.\n\n    You may be able to submit comments, likes, reactions, and celebrations (“Kudos”) that will supplement other users’ Profiles and other users may be able to submit Kudos that will supplement your Profile. Any Kudos you submit is considered Public Profile Information under this Privacy Policy. You can delete Kudos you submit or Kudos that other users submit to your Profile.\n\n    Duolingo may scan or review any Public Profile Information, or share your Public Profile Information with a third-party content moderation service provider, to ensure compliance with our Community Guidelines. Duolingo may restrict or delete Public Profile Information if it violates our Community Guidelines or for any other reason.\n\n    #### c. AI Features & Video Call\n\n    Duolingo uses Artificial Intelligence (“AI”) to help create lessons, matches, and other content within the app, based on users’ learning activity. For example, AI might be used to tailor a Spanish lesson to include more words that a user is struggling with, or play a chess match in real-time to adapt to a user’s moves.\n\n    Duolingo may offer a Video Call feature where you can have an AI-powered spoken conversation with a Duolingo character to practice the language you are learning. Duolingo may also offer other AI-powered features that allow you to send text or audio messages to AI chat companions in a conversational format.\n\n    When you interact with Video Call or other AI-enabled features, the text and audio you submit may be shared with AI vendors such as OpenAI and Google. Duolingo’s agreements with these AI vendors mean they are not permitted to use any personal information for their own purposes. Additionally, Duolingo may generate, record, and store audio recordings or transcripts of the text and audio you submit, and use these recordings or transcripts for product improvement and personalization purposes, including training and running Duolingo’s own artificial intelligence models. Please do not submit any personal, sensitive, or confidential information when using Video Call or other AI features.\n\n    Duolingo may also offer a video Math Tutor feature where you can have an AI-powered spoken conversation with a Duolingo character to work on a math problem. Notwithstanding anything else in this section, when you use the Math Tutor feature, your audio may be shared only with Apple for purposes of speech recognition and conversion into a text transcript and is then immediately deleted. Duolingo may retain, use, and share with AI vendors the text transcript as described above.\n\n    #### d. Speaking Activities\n\n    Some activities, including Video Call, involve you speaking into the Duolingo app. To recognize speech, your audio may be sent to a third-party provider such as Google, Apple, or Amazon Web Services. Additionally, Duolingo may collect and analyze your speech to help us understand the effectiveness of our lessons and to improve or personalize the product. You may skip speaking activities. You may also choose not to share your audio with us for product improvement purposes within the app Settings. We will not use your audio recordings to develop any voice cloning technology.\n\n    #### e. Contact Sync Feature\n\n    Duolingo has a Contact Sync feature, which allows you to find your contacts who also use Duolingo. If you use Contact Sync, you will provide your phone number and give the Duolingo app permission to access the contacts stored on your phone, including the phone number, name, photo, and other information stored in that contact for the purpose of identifying your contacts who also use Duolingo and recommending them as users you may wish to engage with.\n\n    If you use the Contact Sync feature, Duolingo will not store your contacts’ phone numbers, but only an encrypted “hash” of them. This hash is an alternative code to the actual phone number and can be used only to match the hash of other users’ numbers. The hashing process securely strips away the real phone number, so Duolingo cannot use the hashes to identify your contacts’ real phone numbers, contact your contacts, or share their information with anyone else. This hashing process applies only to your contacts’ phone numbers and not yours.\n\n    If you have submitted your phone number to Duolingo, whether through Contact Sync or some other way (such as adding the phone number to your profile, using it to register, or using it to activate other product features), other Duolingo users who have your phone number in their contacts may be able to locate your Profile using Contact Sync and be recommended your profile to follow.\n\n    You can disable the Contact Sync feature and your sharing of contacts with Duolingo by accessing the Social Accounts section of the app Settings. This will also instruct Duolingo to automatically delete any previously shared information about your contacts.\n\n    #### f. Activity Data & IP Addresses\n\n    When you use the Service, we may generate data about your use of the Service, which may include your browser and device data, log data, and IP address. We will also generate data regarding your engagement in educational activities on the Service.\n\n    We may recommend other Duolingo users for you to follow, and for other users to follow you, based on a shared IP address such as other users on the same WiFi network as you, or if other users share your device. We will retain your IP address for no more than thirty (30) days, unless exceptional circumstances require longer retention.\n\n    If you purchase a Duolingo subscription and submit a payment method to Duolingo, Duolingo may retain your IP address for longer solely for purposes of payment processing and fraud prevention.\n\n    #### g. FullStory & Session Replay\n\n    When you use Duolingo in our app or on our website, some of your activity will be logged by services called FullStory and Session Replay. You can disable both FullStory and Session Replay activity recording by using the Tracking toggle within the app Settings. FullStory and Session Replay are disabled for Child Users.\n\n    FullStory and Session Replay capture and analyze your activity and provide us with data and a video session replay of your activity to help us make the Duolingo experience better. They record usage patterns (e.g., clicks, mouse movements, scrolling, and typing), tech specs (e.g., browser, device type, operating system, viewfinder size, script errors, and IP address), navigation (e.g., pages visited, referrers, URL parameters, and session duration), and learning activity (e.g., session progress and answers).\n\n    Session Replay does not record email addresses, phone numbers, user-uploaded profile images, or passwords.\n\n    FullStory does not record usernames, names, profile images, email addresses, profile locations or bios, or passwords.\n\n    When you access the Duolingo website, we store certain data from your browser using cookies. A cookie is a piece of data stored on the user’s computer tied to data about the user. We use session ID cookies to confirm that users are logged in. If you do not want your data to be collected by cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. However, cookies may be necessary to provide you with certain features available on the website (e.g., customized information).\n\n    You can see a list of all cookies used at Duolingo on our Cookie List page and manage your cookies in the Privacy Preference Center. Please note that our cookies include Targeting Cookies from Google, Meta, Amazon, and other companies, which these companies may use to track your activities across multiple websites to deliver personalized advertising to you.\n\n    #### i. Google Analytics\n\n    We use Google Analytics, which is a web analytics tool that helps us understand how users engage with our website. Like many services, Google Analytics uses first-party cookies to track user interactions, as in our case, where they are used to collect information about how users use our site. This information is used to compile reports and to help us improve our site. These reports disclose website trends without identifying individual visitors. You can opt out of Google Analytics by installing Google’s browser add-on available here.\n\n3. ### How We Process Your Information\n\n    Duolingo may process your personal information according to the following legal bases: to provide products or services you request, to promote Duolingo’s legitimate interests, to comply with legal obligations, and with your consent. In particular, Duolingo may process and share your personal information in the following ways:\n\n    #### a. Providing and improving the Service\n\n    Duolingo will process your personal information to provide and improve the Service. For example, we will use the information you provide to maintain your Profile and learning progress, display your Profile to other users (unless you make it private), personalize learning content, detect and fix bugs, perform research, and provide customer service to you.\n\n    Duolingo may share personal information with third parties that help us provide or improve the Service, including hosting providers such as Amazon Web Services, search engine providers such as Google, analytics providers such as Crashlytics, support providers such as ZenDesk, and payment processors such as Stripe. Duolingo may also share your information with third-party vendors that support product features such as AI, speech recognition, and content moderation.\n\n    If you redeem a promotion code to gain a Duolingo subscription, we may share data regarding your usage of Duolingo with the organization that provided the promotion code to you.\n\n    #### b. Communicating with you\n\n    Duolingo will use the email address or phone number you provide to send you the following types of messages:\n\n   - Messages to support the Duolingo teaching methodology and reinforce your learning, such as learning tips, reminders to practice, and progress reports.\n\n   - Notifications about friend requests and your friends’ activity on Duolingo.\n\n   - Notifications of messages and nudges from your friends.\n\n   - Announcements regarding changes to the Service or products.\n\n   - Announcements of new Duolingo products, services, offers, or research opportunities.\n\n    You may opt-out of receiving non-essential messages within the app Settings.\n\n   - Essential messages to support the operation of the Service such as password reset emails.\n\n    #### c. Complying with law and preventing harmful activities\n\n    Duolingo may process and share personal information if necessary to comply with legal requests, such as subpoenas or court orders. Duolingo may share personal information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity, to assist law enforcement, or to prevent imminent harm. This may include sharing information with other companies, lawyers, agents, or government agencies.\n\n    #### d. Personalized advertising\n\n    Duolingo may process and share your personal information for the purpose of providing you with personalized advertising. To provide personalized advertising, we may work with a variety of marketing analytics service providers, website analysis firms, and third-party advertising networks, such as Unity, Meta, LiftOff, Pangle, Moloco, and Google. These third-party advertising service providers collect and use personal information about your visits to and use of the Service, as well as other websites, in order to serve you with advertisements and content tailored to meet your preferences and likely interests, better understand ad effectiveness, and for market research purposes.\n\n    You can opt out of receiving personalized advertising within the app Settings. In addition, your mobile devices may offer settings that let you make choices about the collection, use, and transfer of mobile app information for personalized ads (for example, Apple iOS’ Advertising ID and Google Android’s Advertising ID). Users in certain jurisdictions (including the European Union and United Kingdom) are opted out of personalized advertising by default, but may opt in.\n\n    Please note that opting out of personalized advertising does not prevent the display of all advertisements to you. Certain Duolingo subscriptions may offer an ad-free experience.\n\n    #### e. Anonymous information\n\n    Duolingo may anonymize your personal information, and use this de-identified data for any purpose, such as better understanding learning trends and training artificial intelligence models. Such information is not considered personal information since it cannot identify any individual.\n\n4. ### Your Data Subject Rights\n\n    You also have the following rights in relation to the personal information we hold about you, in addition to any other rights required by applicable law:\n\n   - Know what personal information we have collected about you.\n\n   - Access a copy of the personal information that we hold about you.\n\n   - Know what personal information about you we have shared with third parties.\n\n   - Opt out of the sharing of your personal information with third parties.\n\n   - Object to our processing of your personal information.\n\n   - Request that we limit our use of your sensitive personal information to what is necessary to perform the services you requested.\n\n   - Not be discriminated against for exercising your data subject rights.\n\n   - Request that we delete any personal information we have collected from you.\n\n   - Request that we correct any inaccurate personal information about you.\n\n   - Export the personal information you have provided to Duolingo in a format that can be transferred electronically to a third party.\n\n   - Withdraw any consent you previously gave us to process your personal information.\n\n   - Delete your Duolingo account by following the instructions in the Service.\n\n    You may update or correct your information, and exercise certain opt-out rights, in your Settings page. You may request to access or erase your personal information and delete your account at the Duolingo Data Vault. To make another privacy-related request, please send an email to privacy@duolingo.com.\n\n    Please note that these rights are not absolute and Duolingo may refuse requests to exercise data subject rights if there is a legitimate reason, such as if we cannot authenticate your identity, if the request could violate the rights of a third party or applicable law, or if the request could interfere with a Duolingo service or prevent us from delivering a service you requested.\n\n    You may also have the right to make a GDPR complaint to the relevant Supervisory Authority. Here is a list of EEA Supervisory Authorities, and a link to the UK Supervisory Authority.\n\n5. ### Data Retention\n\n    To ensure your account stays operational, Duolingo will generally retain your personal information until your account is deleted. However, Duolingo may retain certain information longer if necessary to provide our Service, defend our legitimate interests or those of third parties, comply with legal requirements, resolve or defend ourselves in disputes, investigate misuse or disruption of the Service, or perform agreements. We may also retain anonymous data indefinitely.\n\n6. ### Child Users\n\n    We know that children deserve extra privacy protection, and each country has different rules on how children should be treated depending on their age. That’s why children who use Duolingo get a slightly different experience when using the app. Duolingo treats Child Users (meaning users under the age of 13 in the United States or another age of digital consent in their country) differently to ensure their parents are in control and we only collect the bare minimum information we need to make Duolingo work.\n\n    #### a. Registration\n\n    Child Users are permitted to create a Duolingo account, but instead of using an email address, we ask them to register using a username that is not tied to their real name. We do not collect their name, email address, phone number, or any other personal information.\n\n    The first time Child Users log out, to ensure they do not forget their details we will ask them to provide their parent’s email address. We will then send an email to the parent describing Duolingo’s privacy practices regarding Child Users, including what personal information we collect and how we use, share, and protect that personal information. The email also explains how parents can request to access, change, or delete information about their child.\n\n    #### b. Special Treatment\n\n    All Child Users receive the following special treatment when using Duolingo:\n\n   - Lessons are made age-appropriate by removing mature words.\n\n   - Advertisements are non-personalized and set to family-safe content.\n\n   - Third-party behavioral tracking is disabled.\n\n   - Third-party analytics are disabled.\n\n   - Promotional emails are disabled.\n\n   - Child Users’ speech data is not shared with Duolingo for product improvement purposes.\n\n    Child Users have a limited set of social features enabled:\n\n   - Child Users cannot submit their real name or any pictures to their Profile, but are represented only by a letter avatar or cartoon avatar they can create from preset options.\n\n   - The Contact Sync feature is disabled for Child Users.\n\n   - Child Users may follow and be followed by other users.\n\n   - Child Users can search for other users, or be searched for by other users, but only by providing an exact username or a referral link.\n\n   - Duolingo may suggest following other Child Users who already follow the Child User or have mutual followers with them, but non-Child Users will not be suggested to Child Users, and Child Users will not be suggested to non-Child Users.\n\n   - Child Users’ Profiles are visible from the profiles of users they follow or who follow them.\n\n   - Child Users can only send or receive canned comments to or from Friends; they cannot send or receive user-written comments.\n\n   - Child Users can like and celebrate other users’ achievements.\n\n   - Interactive features between users, such as nudges, challenges, and quests, are only enabled for Child Users with their followers and users they follow.\n\n   - Friends, followers, and other users can be blocked, reported, or unfollowed.\n\n   - Social features can be disabled within the app Settings.\n\n    Child Users have access to leaderboards but receive the following special treatment:\n\n   - The Child User’s username will be replaced with a random fake name to all other users in the leaderboard. For example, the Child User could appear as “John Smith” instead of their real username to other users.\n\n   - Other leaderboard users cannot view the Child User’s Profile or follow the Child User from leaderboards.\n\n   - Child Users will only see avatars of other users instead of profile pictures in their leaderboard.\n\n   - Child Users will see sanitized names on their leaderboard; names that have profane or obscene words will be replaced with a fake name for Child Users.\n\n   - The leaderboards feature can be disabled within the app Settings.\n\n    #### c. Family Plans\n\n    Child Users may join paid Duolingo Family Plans. If a Child User joins a paid Duolingo Family Plan, their profile will be visible to other members of the same Duolingo Family Plan.\n\n    #### d. All Users under 16\n\n    In addition to the above, all users under the age of 16 receive the following special treatment:\n\n   - Advertisements are set to non-personalised.\n\n   - Third-party behavioral tracking is disabled.\n\n   - Third-party analytics are disabled.\n\n    #### e. Assistance\n\n    Parents may remove their child’s age restrictions by emailing us at privacy@duolingo.com. Additionally, parents can report any abuse to us at abuse@duolingo.com\n\n    #### f. COPPA\n\n    With regards to the Children’s Online Privacy Protection Act (“COPPA”), Duolingo collects personal information from children under the age of 13 for the sole purpose of performing internal operations of the Service. If we discover that we have unknowingly collected additional personal information from these children, we will delete it. If you believe this to be the case, please contact us at privacy@duolingo.com.\n\n7. ### Duolingo ABC\n\n    Duolingo ABC is designed to be set up by parents and will ask you to provide your child’s age. This information is kept anonymously for research purposes and not tied to your or your child’s personal information in any way. Duolingo ABC does not collect any personal information from children.\n\n    You can choose whether to enable speaking exercises for your child on Duolingo ABC. Duolingo ABC speech data is stored on your phone and uses Apple’s speech recognition service to convert voice into text. No speech data is shared with Duolingo.\n\n    As a parent, you also have the option of providing your email address so that Duolingo may send you information about product updates and ask you about participating in product research. If you do provide your email address, you can unsubscribe any time by emailing literacy-feedback@duolingo.com or by clicking the unsubscribe link in any Duolingo ABC emails. Your Duolingo ABC data is backed up into Apple’s iCloud, which allows you to synchronize and restore the data onto another Apple device.\n\n8. ### Duolingo for Schools\n\n    Duolingo for Schools allows learners to join virtual classrooms where fellow users act as teachers to manage their students’ accounts, assign XP targets and track assignment progress. If you give your email address to a teacher they may send you an invitation to their classroom. You’ll see the teacher’s name and their classroom name on the invitation. If you accept an invitation to join a classroom, teachers can see your name and email address, can reset your password, can send you login links, and can log in as you to help manage your account. Be sure to only join classrooms of teachers you know.\n\n    Teachers can email you learning assignments, and can see your learning progress, such as what lessons you studied, how long you spent on a lesson and how many XP you earned. To withdraw consent and remove all teacher control and their access to your data you can leave a classroom at any time by accessing the Duolingo for Schools section within the app Settings.\n\n    For more information about Duolingo for Schools and help articles, please visit our help center.\n\n9. ### Do Not Track\n\n    The Service is not designed to respond to “do not track” signals sent by some browsers.\n\n10. ### Links to Third-Party Websites\n\n    The Service may contain links to other websites. Duolingo is not responsible for the content or privacy practices of other websites, including any personal or financial information collected by third-party payment processors. We encourage users to be aware of the privacy policies of other websites they visit. This Privacy Policy applies only to information collected by Duolingo. Any time you click on a link (including advertising banners) or submit your personal information to a third-party website, you will be subject to that third party’s privacy policies.\n\n11. ### Privacy Policy Updates\n\n    We may update our Privacy Policy to reflect changes to our information practices. If we do this and the changes are material, we will notify you by email to describe the changes, and we will indicate the date these terms were last revised at the bottom of the Privacy Policy.\n\n12. ### Data Transfer\n\n    Duolingo is based in the United States and processes data in the United States, which may not provide equivalent levels of data protection as your home jurisdiction. Duolingo may transfer the data of users outside the United States to the United States.\n\n    #### a. Data Privacy Framework (DPF)\n\n    Duolingo complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Duolingo has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Duolingo has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.\n\n    In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Duolingo commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Duolingo at: privacy@duolingo.com.\n\n    In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Duolingo commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. Individuals have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms. See Annex I of the DPF Principles for additional information: https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction.\n\n    Duolingo has responsibility for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Duolingo shall remain liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Duolingo proves that it is not responsible for the event giving rise to the damage.\n\n    The Federal Trade Commission has jurisdiction over Duolingo’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF). Duolingo may disclose personal information in response to lawful requests by US public authorities, including to meet national security or law enforcement requirements.\n\n13. ### Supplemental Terms in Certain Jurisdictions\n\n    In some jurisdictions, the Service may be subject to supplemental privacy policies or local laws. For users in those jurisdictions, the applicable supplemental privacy policies and local laws will take precedence over this Privacy Policy to the extent they conflict.\n\n14. ### Contact Us\n\n    Duolingo, Inc. is the data controller of your data for the purposes of the General Data Protection Regulation (“GDPR”) and any relevant local legislation. Duolingo’s headquarters are located within the United States at:\n\n    Duolingo, Inc.\n\n    5900 Penn Ave.\n\n    Pittsburgh, PA 15206\n\n    United States of America\n\n    Phone: +1-412-567-6602\n\n    Duolingo, Inc. is also a registered Data Controller with the UK Information Commissioner's Office (ICO), number ZA294891, at the address:\n\n    Duolingo, Inc.\n\n    141 Wardour Street\n\n    London\n\n    W1F 0UT\n\n    United Kingdom\n\n    For all data privacy inquiries and any questions or concerns you have about this Privacy Policy, please contact our Data Protection Officer at privacy@duolingo.com.\n\n    For all support inquiries, please go to https://duolingo.com/help.\n\nLast revised on May 26, 2026.\n",
+   "sentences": [
+    {
+     "id": "S1",
+     "section": "Privacy - Duolingo",
+     "text": "**This Privacy Policy was last revised on May 26, 2026.** 1.",
+     "labels": []
+    },
+    {
+     "id": "S2",
+     "section": "Privacy - Duolingo",
+     "text": "### General At Duolingo, we care about your personal information, so we have prepared this Privacy Policy to explain how we collect, use, and share it.",
+     "labels": []
+    },
+    {
+     "id": "S3",
+     "section": "Privacy - Duolingo",
+     "text": "This Privacy Policy applies to Duolingo websites, mobile apps, and related services (“Service”).",
+     "labels": []
+    },
+    {
+     "id": "S4",
+     "section": "Privacy - Duolingo",
+     "text": "By using the Service, you agree with Duolingo’s collection, use, and sharing of your personal information in accordance with the terms of this Privacy Policy.",
+     "labels": []
+    },
+    {
+     "id": "S5",
+     "section": "Privacy - Duolingo",
+     "text": "Certain Duolingo services are subject to additional or different terms.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S6",
+     "section": "Privacy - Duolingo",
+     "text": "For example, when you register for or take the Duolingo English Test, you are also subject to the Supplemental Privacy Terms for the Duolingo English Test.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S7",
+     "section": "Privacy - Duolingo",
+     "text": "Please note that Duolingo is constantly testing and improving our product features.",
+     "labels": []
+    },
+    {
+     "id": "S8",
+     "section": "Privacy - Duolingo",
+     "text": "Any features discussed in this Privacy Policy may not be available to all users or in all jurisdictions.",
+     "labels": []
+    },
+    {
+     "id": "S9",
+     "section": "Privacy - Duolingo",
+     "text": "2.",
+     "labels": []
+    },
+    {
+     "id": "S10",
+     "section": "Privacy - Duolingo",
+     "text": "### Information We Collect When you use the Service, Duolingo may collect the following personal information about you.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S11",
+     "section": "Privacy - Duolingo",
+     "text": "#### a.",
+     "labels": []
+    },
+    {
+     "id": "S12",
+     "section": "Privacy - Duolingo",
+     "text": "Account Registration To register for a Duolingo account, you may provide us with a username, your age and email address.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S13",
+     "section": "Privacy - Duolingo",
+     "text": "In some countries, you may also provide us with your phone number.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S14",
+     "section": "Privacy - Duolingo",
+     "text": "You may also register for a Duolingo account using certain social logins, such as Google and Facebook.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S15",
+     "section": "Privacy - Duolingo",
+     "text": "If you register for Duolingo using a social login, Duolingo may receive information about you from your social login provider, including your email address and contacts.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S16",
+     "section": "Privacy - Duolingo",
+     "text": "If you try to log in with a password when you have registered using a social login, we may remind you to log in using the social provider instead.",
+     "labels": []
+    },
+    {
+     "id": "S17",
+     "section": "Privacy - Duolingo",
+     "text": "You can manage your Duolingo account and social logins within the app Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S18",
+     "section": "Privacy - Duolingo",
+     "text": "#### b.",
+     "labels": []
+    },
+    {
+     "id": "S19",
+     "section": "Privacy - Duolingo",
+     "text": "Profile & Public Profile Information After you register for your Duolingo account, a profile page will be created for you (“Profile”).",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S20",
+     "section": "Privacy - Duolingo",
+     "text": "Your Profile will be populated by information you submit, such as your name, bio, and profile picture (“Public Profile Information”) and your username.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S21",
+     "section": "Privacy - Duolingo",
+     "text": "Your age, phone number, and email address are not included in your public Profile and are not considered Public Profile Information under this Privacy Policy.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S22",
+     "section": "Privacy - Duolingo",
+     "text": "Other Duolingo users may be able to search for your Profile using your name, username, email address, or phone number.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S23",
+     "section": "Privacy - Duolingo",
+     "text": "Your Profile will also include information about your learning progress, such as the languages you are learning, your learning statistics, and your achievements.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S24",
+     "section": "Privacy - Duolingo",
+     "text": "Moreover, your Profile will show a list of your followers and the users you follow.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S25",
+     "section": "Privacy - Duolingo",
+     "text": "We call users that follow each other “Friends”.",
+     "labels": []
+    },
+    {
+     "id": "S26",
+     "section": "Privacy - Duolingo",
+     "text": "By default, your Profile is public, and visible to other Duolingo users and anyone else on the Internet.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S27",
+     "section": "Privacy - Duolingo",
+     "text": "In addition, your Public Profile Information may be publicly visible.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S28",
+     "section": "Privacy - Duolingo",
+     "text": "If your Profile is public, third-party websites or web scrapers may be able to read, collect, and use your public information for their own purposes.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S29",
+     "section": "Privacy - Duolingo",
+     "text": "However, you can set your Profile to private in your Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S30",
+     "section": "Privacy - Duolingo",
+     "text": "You may be able to submit comments, likes, reactions, and celebrations (“Kudos”) that will supplement other users’ Profiles and other users may be able to submit Kudos that will supplement your Profile.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S31",
+     "section": "Privacy - Duolingo",
+     "text": "Any Kudos you submit is considered Public Profile Information under this Privacy Policy.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S32",
+     "section": "Privacy - Duolingo",
+     "text": "You can delete Kudos you submit or Kudos that other users submit to your Profile.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S33",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may scan or review any Public Profile Information, or share your Public Profile Information with a third-party content moderation service provider, to ensure compliance with our Community Guidelines.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S34",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may restrict or delete Public Profile Information if it violates our Community Guidelines or for any other reason.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S35",
+     "section": "Privacy - Duolingo",
+     "text": "#### c.",
+     "labels": []
+    },
+    {
+     "id": "S36",
+     "section": "Privacy - Duolingo",
+     "text": "AI Features & Video Call Duolingo uses Artificial Intelligence (“AI”) to help create lessons, matches, and other content within the app, based on users’ learning activity.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S37",
+     "section": "Privacy - Duolingo",
+     "text": "For example, AI might be used to tailor a Spanish lesson to include more words that a user is struggling with, or play a chess match in real-time to adapt to a user’s moves.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S38",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may offer a Video Call feature where you can have an AI-powered spoken conversation with a Duolingo character to practice the language you are learning.",
+     "labels": []
+    },
+    {
+     "id": "S39",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may also offer other AI-powered features that allow you to send text or audio messages to AI chat companions in a conversational format.",
+     "labels": []
+    },
+    {
+     "id": "S40",
+     "section": "Privacy - Duolingo",
+     "text": "When you interact with Video Call or other AI-enabled features, the text and audio you submit may be shared with AI vendors such as OpenAI and Google.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S41",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo’s agreements with these AI vendors mean they are not permitted to use any personal information for their own purposes.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S42",
+     "section": "Privacy - Duolingo",
+     "text": "Additionally, Duolingo may generate, record, and store audio recordings or transcripts of the text and audio you submit, and use these recordings or transcripts for product improvement and personalization purposes, including training and running Duolingo’s own artificial intelligence models.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "states"
+      },
+      {
+       "item": "T3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S43",
+     "section": "Privacy - Duolingo",
+     "text": "Please do not submit any personal, sensitive, or confidential information when using Video Call or other AI features.",
+     "labels": []
+    },
+    {
+     "id": "S44",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may also offer a video Math Tutor feature where you can have an AI-powered spoken conversation with a Duolingo character to work on a math problem.",
+     "labels": []
+    },
+    {
+     "id": "S45",
+     "section": "Privacy - Duolingo",
+     "text": "Notwithstanding anything else in this section, when you use the Math Tutor feature, your audio may be shared only with Apple for purposes of speech recognition and conversion into a text transcript and is then immediately deleted.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S46",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may retain, use, and share with AI vendors the text transcript as described above.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S47",
+     "section": "Privacy - Duolingo",
+     "text": "#### d.",
+     "labels": []
+    },
+    {
+     "id": "S48",
+     "section": "Privacy - Duolingo",
+     "text": "Speaking Activities Some activities, including Video Call, involve you speaking into the Duolingo app.",
+     "labels": []
+    },
+    {
+     "id": "S49",
+     "section": "Privacy - Duolingo",
+     "text": "To recognize speech, your audio may be sent to a third-party provider such as Google, Apple, or Amazon Web Services.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S50",
+     "section": "Privacy - Duolingo",
+     "text": "Additionally, Duolingo may collect and analyze your speech to help us understand the effectiveness of our lessons and to improve or personalize the product.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S51",
+     "section": "Privacy - Duolingo",
+     "text": "You may skip speaking activities.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S52",
+     "section": "Privacy - Duolingo",
+     "text": "You may also choose not to share your audio with us for product improvement purposes within the app Settings.",
+     "labels": [
+      {
+       "item": "T2",
+       "stance": "states"
+      },
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S53",
+     "section": "Privacy - Duolingo",
+     "text": "We will not use your audio recordings to develop any voice cloning technology.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      }
+     ]
+    },
+    {
+     "id": "S54",
+     "section": "Privacy - Duolingo",
+     "text": "#### e.",
+     "labels": []
+    },
+    {
+     "id": "S55",
+     "section": "Privacy - Duolingo",
+     "text": "Contact Sync Feature Duolingo has a Contact Sync feature, which allows you to find your contacts who also use Duolingo.",
+     "labels": []
+    },
+    {
+     "id": "S56",
+     "section": "Privacy - Duolingo",
+     "text": "If you use Contact Sync, you will provide your phone number and give the Duolingo app permission to access the contacts stored on your phone, including the phone number, name, photo, and other information stored in that contact for the purpose of identifying your contacts who also use Duolingo and recommending them as users you may wish to engage with.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S57",
+     "section": "Privacy - Duolingo",
+     "text": "If you use the Contact Sync feature, Duolingo will not store your contacts’ phone numbers, but only an encrypted “hash” of them.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C6",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S58",
+     "section": "Privacy - Duolingo",
+     "text": "This hash is an alternative code to the actual phone number and can be used only to match the hash of other users’ numbers.",
+     "labels": [
+      {
+       "item": "C6",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S59",
+     "section": "Privacy - Duolingo",
+     "text": "The hashing process securely strips away the real phone number, so Duolingo cannot use the hashes to identify your contacts’ real phone numbers, contact your contacts, or share their information with anyone else.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      },
+      {
+       "item": "C6",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S60",
+     "section": "Privacy - Duolingo",
+     "text": "This hashing process applies only to your contacts’ phone numbers and not yours.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S61",
+     "section": "Privacy - Duolingo",
+     "text": "If you have submitted your phone number to Duolingo, whether through Contact Sync or some other way (such as adding the phone number to your profile, using it to register, or using it to activate other product features), other Duolingo users who have your phone number in their contacts may be able to locate your Profile using Contact Sync and be recommended your profile to follow.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S62",
+     "section": "Privacy - Duolingo",
+     "text": "You can disable the Contact Sync feature and your sharing of contacts with Duolingo by accessing the Social Accounts section of the app Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S63",
+     "section": "Privacy - Duolingo",
+     "text": "This will also instruct Duolingo to automatically delete any previously shared information about your contacts.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S64",
+     "section": "Privacy - Duolingo",
+     "text": "#### f.",
+     "labels": []
+    },
+    {
+     "id": "S65",
+     "section": "Privacy - Duolingo",
+     "text": "Activity Data & IP Addresses When you use the Service, we may generate data about your use of the Service, which may include your browser and device data, log data, and IP address.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S66",
+     "section": "Privacy - Duolingo",
+     "text": "We will also generate data regarding your engagement in educational activities on the Service.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S67",
+     "section": "Privacy - Duolingo",
+     "text": "We may recommend other Duolingo users for you to follow, and for other users to follow you, based on a shared IP address such as other users on the same WiFi network as you, or if other users share your device.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S68",
+     "section": "Privacy - Duolingo",
+     "text": "We will retain your IP address for no more than thirty (30) days, unless exceptional circumstances require longer retention.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S69",
+     "section": "Privacy - Duolingo",
+     "text": "If you purchase a Duolingo subscription and submit a payment method to Duolingo, Duolingo may retain your IP address for longer solely for purposes of payment processing and fraud prevention.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S70",
+     "section": "Privacy - Duolingo",
+     "text": "#### g.",
+     "labels": []
+    },
+    {
+     "id": "S71",
+     "section": "Privacy - Duolingo",
+     "text": "FullStory & Session Replay When you use Duolingo in our app or on our website, some of your activity will be logged by services called FullStory and Session Replay.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S72",
+     "section": "Privacy - Duolingo",
+     "text": "You can disable both FullStory and Session Replay activity recording by using the Tracking toggle within the app Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S73",
+     "section": "Privacy - Duolingo",
+     "text": "FullStory and Session Replay are disabled for Child Users.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S74",
+     "section": "Privacy - Duolingo",
+     "text": "FullStory and Session Replay capture and analyze your activity and provide us with data and a video session replay of your activity to help us make the Duolingo experience better.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S75",
+     "section": "Privacy - Duolingo",
+     "text": "They record usage patterns (e.g., clicks, mouse movements, scrolling, and typing), tech specs (e.g., browser, device type, operating system, viewfinder size, script errors, and IP address), navigation (e.g., pages visited, referrers, URL parameters, and session duration), and learning activity (e.g., session progress and answers).",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S76",
+     "section": "Privacy - Duolingo",
+     "text": "Session Replay does not record email addresses, phone numbers, user-uploaded profile images, or passwords.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      }
+     ]
+    },
+    {
+     "id": "S77",
+     "section": "Privacy - Duolingo",
+     "text": "FullStory does not record usernames, names, profile images, email addresses, profile locations or bios, or passwords.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      }
+     ]
+    },
+    {
+     "id": "S78",
+     "section": "Privacy - Duolingo",
+     "text": "When you access the Duolingo website, we store certain data from your browser using cookies.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S79",
+     "section": "Privacy - Duolingo",
+     "text": "A cookie is a piece of data stored on the user’s computer tied to data about the user.",
+     "labels": []
+    },
+    {
+     "id": "S80",
+     "section": "Privacy - Duolingo",
+     "text": "We use session ID cookies to confirm that users are logged in.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S81",
+     "section": "Privacy - Duolingo",
+     "text": "If you do not want your data to be collected by cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S82",
+     "section": "Privacy - Duolingo",
+     "text": "However, cookies may be necessary to provide you with certain features available on the website (e.g., customized information).",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S83",
+     "section": "Privacy - Duolingo",
+     "text": "You can see a list of all cookies used at Duolingo on our Cookie List page and manage your cookies in the Privacy Preference Center.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S84",
+     "section": "Privacy - Duolingo",
+     "text": "Please note that our cookies include Targeting Cookies from Google, Meta, Amazon, and other companies, which these companies may use to track your activities across multiple websites to deliver personalized advertising to you.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S85",
+     "section": "Privacy - Duolingo",
+     "text": "#### i.",
+     "labels": []
+    },
+    {
+     "id": "S86",
+     "section": "Privacy - Duolingo",
+     "text": "Google Analytics We use Google Analytics, which is a web analytics tool that helps us understand how users engage with our website.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S87",
+     "section": "Privacy - Duolingo",
+     "text": "Like many services, Google Analytics uses first-party cookies to track user interactions, as in our case, where they are used to collect information about how users use our site.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S88",
+     "section": "Privacy - Duolingo",
+     "text": "This information is used to compile reports and to help us improve our site.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S89",
+     "section": "Privacy - Duolingo",
+     "text": "These reports disclose website trends without identifying individual visitors.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S90",
+     "section": "Privacy - Duolingo",
+     "text": "You can opt out of Google Analytics by installing Google’s browser add-on available here.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S91",
+     "section": "Privacy - Duolingo",
+     "text": "3.",
+     "labels": []
+    },
+    {
+     "id": "S92",
+     "section": "Privacy - Duolingo",
+     "text": "### How We Process Your Information Duolingo may process your personal information according to the following legal bases: to provide products or services you request, to promote Duolingo’s legitimate interests, to comply with legal obligations, and with your consent.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S93",
+     "section": "Privacy - Duolingo",
+     "text": "In particular, Duolingo may process and share your personal information in the following ways: #### a.",
+     "labels": []
+    },
+    {
+     "id": "S94",
+     "section": "Privacy - Duolingo",
+     "text": "Providing and improving the Service Duolingo will process your personal information to provide and improve the Service.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S95",
+     "section": "Privacy - Duolingo",
+     "text": "For example, we will use the information you provide to maintain your Profile and learning progress, display your Profile to other users (unless you make it private), personalize learning content, detect and fix bugs, perform research, and provide customer service to you.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S96",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may share personal information with third parties that help us provide or improve the Service, including hosting providers such as Amazon Web Services, search engine providers such as Google, analytics providers such as Crashlytics, support providers such as ZenDesk, and payment processors such as Stripe.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S97",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may also share your information with third-party vendors that support product features such as AI, speech recognition, and content moderation.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S98",
+     "section": "Privacy - Duolingo",
+     "text": "If you redeem a promotion code to gain a Duolingo subscription, we may share data regarding your usage of Duolingo with the organization that provided the promotion code to you.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S99",
+     "section": "Privacy - Duolingo",
+     "text": "#### b.",
+     "labels": []
+    },
+    {
+     "id": "S100",
+     "section": "Privacy - Duolingo",
+     "text": "Communicating with you Duolingo will use the email address or phone number you provide to send you the following types of messages: - Messages to support the Duolingo teaching methodology and reinforce your learning, such as learning tips, reminders to practice, and progress reports.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S101",
+     "section": "Privacy - Duolingo",
+     "text": "- Notifications about friend requests and your friends’ activity on Duolingo.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S102",
+     "section": "Privacy - Duolingo",
+     "text": "- Notifications of messages and nudges from your friends.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S103",
+     "section": "Privacy - Duolingo",
+     "text": "- Announcements regarding changes to the Service or products.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S104",
+     "section": "Privacy - Duolingo",
+     "text": "- Announcements of new Duolingo products, services, offers, or research opportunities.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S105",
+     "section": "Privacy - Duolingo",
+     "text": "You may opt-out of receiving non-essential messages within the app Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S106",
+     "section": "Privacy - Duolingo",
+     "text": "- Essential messages to support the operation of the Service such as password reset emails.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S107",
+     "section": "Privacy - Duolingo",
+     "text": "#### c.",
+     "labels": []
+    },
+    {
+     "id": "S108",
+     "section": "Privacy - Duolingo",
+     "text": "Complying with law and preventing harmful activities Duolingo may process and share personal information if necessary to comply with legal requests, such as subpoenas or court orders.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S109",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may share personal information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity, to assist law enforcement, or to prevent imminent harm.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S110",
+     "section": "Privacy - Duolingo",
+     "text": "This may include sharing information with other companies, lawyers, agents, or government agencies.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S111",
+     "section": "Privacy - Duolingo",
+     "text": "#### d.",
+     "labels": []
+    },
+    {
+     "id": "S112",
+     "section": "Privacy - Duolingo",
+     "text": "Personalized advertising Duolingo may process and share your personal information for the purpose of providing you with personalized advertising.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S113",
+     "section": "Privacy - Duolingo",
+     "text": "To provide personalized advertising, we may work with a variety of marketing analytics service providers, website analysis firms, and third-party advertising networks, such as Unity, Meta, LiftOff, Pangle, Moloco, and Google.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S114",
+     "section": "Privacy - Duolingo",
+     "text": "These third-party advertising service providers collect and use personal information about your visits to and use of the Service, as well as other websites, in order to serve you with advertisements and content tailored to meet your preferences and likely interests, better understand ad effectiveness, and for market research purposes.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S115",
+     "section": "Privacy - Duolingo",
+     "text": "You can opt out of receiving personalized advertising within the app Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S116",
+     "section": "Privacy - Duolingo",
+     "text": "In addition, your mobile devices may offer settings that let you make choices about the collection, use, and transfer of mobile app information for personalized ads (for example, Apple iOS’ Advertising ID and Google Android’s Advertising ID).",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S117",
+     "section": "Privacy - Duolingo",
+     "text": "Users in certain jurisdictions (including the European Union and United Kingdom) are opted out of personalized advertising by default, but may opt in.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S118",
+     "section": "Privacy - Duolingo",
+     "text": "Please note that opting out of personalized advertising does not prevent the display of all advertisements to you.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S119",
+     "section": "Privacy - Duolingo",
+     "text": "Certain Duolingo subscriptions may offer an ad-free experience.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S120",
+     "section": "Privacy - Duolingo",
+     "text": "#### e.",
+     "labels": []
+    },
+    {
+     "id": "S121",
+     "section": "Privacy - Duolingo",
+     "text": "Anonymous information Duolingo may anonymize your personal information, and use this de-identified data for any purpose, such as better understanding learning trends and training artificial intelligence models.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S122",
+     "section": "Privacy - Duolingo",
+     "text": "Such information is not considered personal information since it cannot identify any individual.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S123",
+     "section": "Privacy - Duolingo",
+     "text": "4.",
+     "labels": []
+    },
+    {
+     "id": "S124",
+     "section": "Privacy - Duolingo",
+     "text": "### Your Data Subject Rights You also have the following rights in relation to the personal information we hold about you, in addition to any other rights required by applicable law: - Know what personal information we have collected about you.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S125",
+     "section": "Privacy - Duolingo",
+     "text": "- Access a copy of the personal information that we hold about you.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S126",
+     "section": "Privacy - Duolingo",
+     "text": "- Know what personal information about you we have shared with third parties.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S127",
+     "section": "Privacy - Duolingo",
+     "text": "- Opt out of the sharing of your personal information with third parties.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S128",
+     "section": "Privacy - Duolingo",
+     "text": "- Object to our processing of your personal information.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S129",
+     "section": "Privacy - Duolingo",
+     "text": "- Request that we limit our use of your sensitive personal information to what is necessary to perform the services you requested.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S130",
+     "section": "Privacy - Duolingo",
+     "text": "- Not be discriminated against for exercising your data subject rights.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S131",
+     "section": "Privacy - Duolingo",
+     "text": "- Request that we delete any personal information we have collected from you.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S132",
+     "section": "Privacy - Duolingo",
+     "text": "- Request that we correct any inaccurate personal information about you.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S133",
+     "section": "Privacy - Duolingo",
+     "text": "- Export the personal information you have provided to Duolingo in a format that can be transferred electronically to a third party.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S134",
+     "section": "Privacy - Duolingo",
+     "text": "- Withdraw any consent you previously gave us to process your personal information.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S135",
+     "section": "Privacy - Duolingo",
+     "text": "- Delete your Duolingo account by following the instructions in the Service.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S136",
+     "section": "Privacy - Duolingo",
+     "text": "You may update or correct your information, and exercise certain opt-out rights, in your Settings page.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S137",
+     "section": "Privacy - Duolingo",
+     "text": "You may request to access or erase your personal information and delete your account at the Duolingo Data Vault.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S138",
+     "section": "Privacy - Duolingo",
+     "text": "To make another privacy-related request, please send an email to privacy@duolingo.com.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S139",
+     "section": "Privacy - Duolingo",
+     "text": "Please note that these rights are not absolute and Duolingo may refuse requests to exercise data subject rights if there is a legitimate reason, such as if we cannot authenticate your identity, if the request could violate the rights of a third party or applicable law, or if the request could interfere with a Duolingo service or prevent us from delivering a service you requested.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S140",
+     "section": "Privacy - Duolingo",
+     "text": "You may also have the right to make a GDPR complaint to the relevant Supervisory Authority.",
+     "labels": [
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S141",
+     "section": "Privacy - Duolingo",
+     "text": "Here is a list of EEA Supervisory Authorities, and a link to the UK Supervisory Authority.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S142",
+     "section": "Privacy - Duolingo",
+     "text": "5.",
+     "labels": []
+    },
+    {
+     "id": "S143",
+     "section": "Privacy - Duolingo",
+     "text": "### Data Retention To ensure your account stays operational, Duolingo will generally retain your personal information until your account is deleted.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S144",
+     "section": "Privacy - Duolingo",
+     "text": "However, Duolingo may retain certain information longer if necessary to provide our Service, defend our legitimate interests or those of third parties, comply with legal requirements, resolve or defend ourselves in disputes, investigate misuse or disruption of the Service, or perform agreements.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S145",
+     "section": "Privacy - Duolingo",
+     "text": "We may also retain anonymous data indefinitely.",
+     "labels": [
+      {
+       "item": "C5",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S146",
+     "section": "Privacy - Duolingo",
+     "text": "6.",
+     "labels": []
+    },
+    {
+     "id": "S147",
+     "section": "Privacy - Duolingo",
+     "text": "### Child Users We know that children deserve extra privacy protection, and each country has different rules on how children should be treated depending on their age.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S148",
+     "section": "Privacy - Duolingo",
+     "text": "That’s why children who use Duolingo get a slightly different experience when using the app.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S149",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo treats Child Users (meaning users under the age of 13 in the United States or another age of digital consent in their country) differently to ensure their parents are in control and we only collect the bare minimum information we need to make Duolingo work.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S150",
+     "section": "Privacy - Duolingo",
+     "text": "#### a.",
+     "labels": []
+    },
+    {
+     "id": "S151",
+     "section": "Privacy - Duolingo",
+     "text": "Registration Child Users are permitted to create a Duolingo account, but instead of using an email address, we ask them to register using a username that is not tied to their real name.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S152",
+     "section": "Privacy - Duolingo",
+     "text": "We do not collect their name, email address, phone number, or any other personal information.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      },
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S153",
+     "section": "Privacy - Duolingo",
+     "text": "The first time Child Users log out, to ensure they do not forget their details we will ask them to provide their parent’s email address.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S154",
+     "section": "Privacy - Duolingo",
+     "text": "We will then send an email to the parent describing Duolingo’s privacy practices regarding Child Users, including what personal information we collect and how we use, share, and protect that personal information.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S155",
+     "section": "Privacy - Duolingo",
+     "text": "The email also explains how parents can request to access, change, or delete information about their child.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      },
+      {
+       "item": "C4",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S156",
+     "section": "Privacy - Duolingo",
+     "text": "#### b.",
+     "labels": []
+    },
+    {
+     "id": "S157",
+     "section": "Privacy - Duolingo",
+     "text": "Special Treatment All Child Users receive the following special treatment when using Duolingo: - Lessons are made age-appropriate by removing mature words.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S158",
+     "section": "Privacy - Duolingo",
+     "text": "- Advertisements are non-personalized and set to family-safe content.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S159",
+     "section": "Privacy - Duolingo",
+     "text": "- Third-party behavioral tracking is disabled.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S160",
+     "section": "Privacy - Duolingo",
+     "text": "- Third-party analytics are disabled.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S161",
+     "section": "Privacy - Duolingo",
+     "text": "- Promotional emails are disabled.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S162",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users’ speech data is not shared with Duolingo for product improvement purposes.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      },
+      {
+       "item": "T1",
+       "stance": "denies"
+      }
+     ]
+    },
+    {
+     "id": "S163",
+     "section": "Privacy - Duolingo",
+     "text": "Child Users have a limited set of social features enabled: - Child Users cannot submit their real name or any pictures to their Profile, but are represented only by a letter avatar or cartoon avatar they can create from preset options.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S164",
+     "section": "Privacy - Duolingo",
+     "text": "- The Contact Sync feature is disabled for Child Users.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S165",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users may follow and be followed by other users.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S166",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users can search for other users, or be searched for by other users, but only by providing an exact username or a referral link.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S167",
+     "section": "Privacy - Duolingo",
+     "text": "- Duolingo may suggest following other Child Users who already follow the Child User or have mutual followers with them, but non-Child Users will not be suggested to Child Users, and Child Users will not be suggested to non-Child Users.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S168",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users’ Profiles are visible from the profiles of users they follow or who follow them.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S169",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users can only send or receive canned comments to or from Friends; they cannot send or receive user-written comments.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S170",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users can like and celebrate other users’ achievements.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S171",
+     "section": "Privacy - Duolingo",
+     "text": "- Interactive features between users, such as nudges, challenges, and quests, are only enabled for Child Users with their followers and users they follow.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S172",
+     "section": "Privacy - Duolingo",
+     "text": "- Friends, followers, and other users can be blocked, reported, or unfollowed.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S173",
+     "section": "Privacy - Duolingo",
+     "text": "- Social features can be disabled within the app Settings.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      },
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S174",
+     "section": "Privacy - Duolingo",
+     "text": "Child Users have access to leaderboards but receive the following special treatment: - The Child User’s username will be replaced with a random fake name to all other users in the leaderboard.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S175",
+     "section": "Privacy - Duolingo",
+     "text": "For example, the Child User could appear as “John Smith” instead of their real username to other users.",
+     "labels": []
+    },
+    {
+     "id": "S176",
+     "section": "Privacy - Duolingo",
+     "text": "- Other leaderboard users cannot view the Child User’s Profile or follow the Child User from leaderboards.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S177",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users will only see avatars of other users instead of profile pictures in their leaderboard.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S178",
+     "section": "Privacy - Duolingo",
+     "text": "- Child Users will see sanitized names on their leaderboard; names that have profane or obscene words will be replaced with a fake name for Child Users.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S179",
+     "section": "Privacy - Duolingo",
+     "text": "- The leaderboards feature can be disabled within the app Settings.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      },
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S180",
+     "section": "Privacy - Duolingo",
+     "text": "#### c.",
+     "labels": []
+    },
+    {
+     "id": "S181",
+     "section": "Privacy - Duolingo",
+     "text": "Family Plans Child Users may join paid Duolingo Family Plans.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S182",
+     "section": "Privacy - Duolingo",
+     "text": "If a Child User joins a paid Duolingo Family Plan, their profile will be visible to other members of the same Duolingo Family Plan.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S183",
+     "section": "Privacy - Duolingo",
+     "text": "#### d.",
+     "labels": []
+    },
+    {
+     "id": "S184",
+     "section": "Privacy - Duolingo",
+     "text": "All Users under 16 In addition to the above, all users under the age of 16 receive the following special treatment: - Advertisements are set to non-personalised.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S185",
+     "section": "Privacy - Duolingo",
+     "text": "- Third-party behavioral tracking is disabled.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S186",
+     "section": "Privacy - Duolingo",
+     "text": "- Third-party analytics are disabled.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S187",
+     "section": "Privacy - Duolingo",
+     "text": "#### e.",
+     "labels": []
+    },
+    {
+     "id": "S188",
+     "section": "Privacy - Duolingo",
+     "text": "Assistance Parents may remove their child’s age restrictions by emailing us at privacy@duolingo.com.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S189",
+     "section": "Privacy - Duolingo",
+     "text": "Additionally, parents can report any abuse to us at abuse@duolingo.com #### f.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S190",
+     "section": "Privacy - Duolingo",
+     "text": "COPPA With regards to the Children’s Online Privacy Protection Act (“COPPA”), Duolingo collects personal information from children under the age of 13 for the sole purpose of performing internal operations of the Service.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S191",
+     "section": "Privacy - Duolingo",
+     "text": "If we discover that we have unknowingly collected additional personal information from these children, we will delete it.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S192",
+     "section": "Privacy - Duolingo",
+     "text": "If you believe this to be the case, please contact us at privacy@duolingo.com.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S193",
+     "section": "Privacy - Duolingo",
+     "text": "7.",
+     "labels": []
+    },
+    {
+     "id": "S194",
+     "section": "Privacy - Duolingo",
+     "text": "### Duolingo ABC Duolingo ABC is designed to be set up by parents and will ask you to provide your child’s age.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S195",
+     "section": "Privacy - Duolingo",
+     "text": "This information is kept anonymously for research purposes and not tied to your or your child’s personal information in any way.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      },
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S196",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo ABC does not collect any personal information from children.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      },
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S197",
+     "section": "Privacy - Duolingo",
+     "text": "You can choose whether to enable speaking exercises for your child on Duolingo ABC.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S198",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo ABC speech data is stored on your phone and uses Apple’s speech recognition service to convert voice into text.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S199",
+     "section": "Privacy - Duolingo",
+     "text": "No speech data is shared with Duolingo.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "denies"
+      },
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S200",
+     "section": "Privacy - Duolingo",
+     "text": "As a parent, you also have the option of providing your email address so that Duolingo may send you information about product updates and ask you about participating in product research.",
+     "labels": [
+      {
+       "item": "C1",
+       "stance": "mentions"
+      },
+      {
+       "item": "C3",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S201",
+     "section": "Privacy - Duolingo",
+     "text": "If you do provide your email address, you can unsubscribe any time by emailing literacy-feedback@duolingo.com or by clicking the unsubscribe link in any Duolingo ABC emails.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S202",
+     "section": "Privacy - Duolingo",
+     "text": "Your Duolingo ABC data is backed up into Apple’s iCloud, which allows you to synchronize and restore the data onto another Apple device.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S203",
+     "section": "Privacy - Duolingo",
+     "text": "8.",
+     "labels": []
+    },
+    {
+     "id": "S204",
+     "section": "Privacy - Duolingo",
+     "text": "### Duolingo for Schools Duolingo for Schools allows learners to join virtual classrooms where fellow users act as teachers to manage their students’ accounts, assign XP targets and track assignment progress.",
+     "labels": [
+      {
+       "item": "T5",
+       "stance": "mentions"
+      },
+      {
+       "item": "C1",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S205",
+     "section": "Privacy - Duolingo",
+     "text": "If you give your email address to a teacher they may send you an invitation to their classroom.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S206",
+     "section": "Privacy - Duolingo",
+     "text": "You’ll see the teacher’s name and their classroom name on the invitation.",
+     "labels": []
+    },
+    {
+     "id": "S207",
+     "section": "Privacy - Duolingo",
+     "text": "If you accept an invitation to join a classroom, teachers can see your name and email address, can reset your password, can send you login links, and can log in as you to help manage your account.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S208",
+     "section": "Privacy - Duolingo",
+     "text": "Be sure to only join classrooms of teachers you know.",
+     "labels": []
+    },
+    {
+     "id": "S209",
+     "section": "Privacy - Duolingo",
+     "text": "Teachers can email you learning assignments, and can see your learning progress, such as what lessons you studied, how long you spent on a lesson and how many XP you earned.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S210",
+     "section": "Privacy - Duolingo",
+     "text": "To withdraw consent and remove all teacher control and their access to your data you can leave a classroom at any time by accessing the Duolingo for Schools section within the app Settings.",
+     "labels": [
+      {
+       "item": "C3",
+       "stance": "states"
+      },
+      {
+       "item": "T5",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S211",
+     "section": "Privacy - Duolingo",
+     "text": "For more information about Duolingo for Schools and help articles, please visit our help center.",
+     "labels": []
+    },
+    {
+     "id": "S212",
+     "section": "Privacy - Duolingo",
+     "text": "9.",
+     "labels": []
+    },
+    {
+     "id": "S213",
+     "section": "Privacy - Duolingo",
+     "text": "### Do Not Track The Service is not designed to respond to “do not track” signals sent by some browsers.",
+     "labels": [
+      {
+       "item": "C8",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S214",
+     "section": "Privacy - Duolingo",
+     "text": "10.",
+     "labels": []
+    },
+    {
+     "id": "S215",
+     "section": "Privacy - Duolingo",
+     "text": "### Links to Third-Party Websites The Service may contain links to other websites.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S216",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo is not responsible for the content or privacy practices of other websites, including any personal or financial information collected by third-party payment processors.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S217",
+     "section": "Privacy - Duolingo",
+     "text": "We encourage users to be aware of the privacy policies of other websites they visit.",
+     "labels": []
+    },
+    {
+     "id": "S218",
+     "section": "Privacy - Duolingo",
+     "text": "This Privacy Policy applies only to information collected by Duolingo.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S219",
+     "section": "Privacy - Duolingo",
+     "text": "Any time you click on a link (including advertising banners) or submit your personal information to a third-party website, you will be subject to that third party’s privacy policies.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S220",
+     "section": "Privacy - Duolingo",
+     "text": "11.",
+     "labels": []
+    },
+    {
+     "id": "S221",
+     "section": "Privacy - Duolingo",
+     "text": "### Privacy Policy Updates We may update our Privacy Policy to reflect changes to our information practices.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S222",
+     "section": "Privacy - Duolingo",
+     "text": "If we do this and the changes are material, we will notify you by email to describe the changes, and we will indicate the date these terms were last revised at the bottom of the Privacy Policy.",
+     "labels": [
+      {
+       "item": "C7",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S223",
+     "section": "Privacy - Duolingo",
+     "text": "12.",
+     "labels": []
+    },
+    {
+     "id": "S224",
+     "section": "Privacy - Duolingo",
+     "text": "### Data Transfer Duolingo is based in the United States and processes data in the United States, which may not provide equivalent levels of data protection as your home jurisdiction.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S225",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may transfer the data of users outside the United States to the United States.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S226",
+     "section": "Privacy - Duolingo",
+     "text": "#### a.",
+     "labels": []
+    },
+    {
+     "id": "S227",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework (DPF) Duolingo complies with the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S228",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework (EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S229",
+     "section": "Privacy - Duolingo",
+     "text": "DPF), the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S230",
+     "section": "Privacy - Duolingo",
+     "text": "DPF, and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S231",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework (Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S232",
+     "section": "Privacy - Duolingo",
+     "text": "DPF) as set forth by the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S233",
+     "section": "Privacy - Duolingo",
+     "text": "Department of Commerce.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S234",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo has certified to the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S235",
+     "section": "Privacy - Duolingo",
+     "text": "Department of Commerce that it adheres to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S236",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework Principles (EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S237",
+     "section": "Privacy - Duolingo",
+     "text": "DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S238",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S239",
+     "section": "Privacy - Duolingo",
+     "text": "DPF.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S240",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo has certified to the U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S241",
+     "section": "Privacy - Duolingo",
+     "text": "Department of Commerce that it adheres to the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S242",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework Principles (Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S243",
+     "section": "Privacy - Duolingo",
+     "text": "DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S244",
+     "section": "Privacy - Duolingo",
+     "text": "DPF.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S245",
+     "section": "Privacy - Duolingo",
+     "text": "If there is any conflict between the terms in this privacy policy and the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S246",
+     "section": "Privacy - Duolingo",
+     "text": "DPF Principles and/or the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S247",
+     "section": "Privacy - Duolingo",
+     "text": "DPF Principles, the Principles shall govern.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S248",
+     "section": "Privacy - Duolingo",
+     "text": "To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.",
+     "labels": []
+    },
+    {
+     "id": "S249",
+     "section": "Privacy - Duolingo",
+     "text": "In compliance with the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S250",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S251",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S252",
+     "section": "Privacy - Duolingo",
+     "text": "DPF, Duolingo commits to resolve DPF Principles-related complaints about our collection and use of your personal information.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S253",
+     "section": "Privacy - Duolingo",
+     "text": "EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S254",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S255",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S256",
+     "section": "Privacy - Duolingo",
+     "text": "DPF should first contact Duolingo at: privacy@duolingo.com.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S257",
+     "section": "Privacy - Duolingo",
+     "text": "In compliance with the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S258",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S259",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S260",
+     "section": "Privacy - Duolingo",
+     "text": "DPF, Duolingo commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S261",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S262",
+     "section": "Privacy - Duolingo",
+     "text": "DPF and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S263",
+     "section": "Privacy - Duolingo",
+     "text": "DPF.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S264",
+     "section": "Privacy - Duolingo",
+     "text": "Individuals have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S265",
+     "section": "Privacy - Duolingo",
+     "text": "See Annex I of the DPF Principles for additional information: https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction.",
+     "labels": []
+    },
+    {
+     "id": "S266",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo has responsibility for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      },
+      {
+       "item": "C2",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S267",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo shall remain liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Duolingo proves that it is not responsible for the event giving rise to the damage.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S268",
+     "section": "Privacy - Duolingo",
+     "text": "The Federal Trade Commission has jurisdiction over Duolingo’s compliance with the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S269",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework (EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S270",
+     "section": "Privacy - Duolingo",
+     "text": "DPF) and the UK Extension to the EU-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S271",
+     "section": "Privacy - Duolingo",
+     "text": "DPF, and the Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S272",
+     "section": "Privacy - Duolingo",
+     "text": "Data Privacy Framework (Swiss-U.S.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S273",
+     "section": "Privacy - Duolingo",
+     "text": "DPF).",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S274",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo may disclose personal information in response to lawful requests by US public authorities, including to meet national security or law enforcement requirements.",
+     "labels": [
+      {
+       "item": "C2",
+       "stance": "states"
+      },
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S275",
+     "section": "Privacy - Duolingo",
+     "text": "13.",
+     "labels": []
+    },
+    {
+     "id": "S276",
+     "section": "Privacy - Duolingo",
+     "text": "### Supplemental Terms in Certain Jurisdictions In some jurisdictions, the Service may be subject to supplemental privacy policies or local laws.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S277",
+     "section": "Privacy - Duolingo",
+     "text": "For users in those jurisdictions, the applicable supplemental privacy policies and local laws will take precedence over this Privacy Policy to the extent they conflict.",
+     "labels": [
+      {
+       "item": "C9",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S278",
+     "section": "Privacy - Duolingo",
+     "text": "14.",
+     "labels": []
+    },
+    {
+     "id": "S279",
+     "section": "Privacy - Duolingo",
+     "text": "### Contact Us Duolingo, Inc.",
+     "labels": []
+    },
+    {
+     "id": "S280",
+     "section": "Privacy - Duolingo",
+     "text": "is the data controller of your data for the purposes of the General Data Protection Regulation (“GDPR”) and any relevant local legislation.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S281",
+     "section": "Privacy - Duolingo",
+     "text": "Duolingo’s headquarters are located within the United States at: Duolingo, Inc.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S282",
+     "section": "Privacy - Duolingo",
+     "text": "5900 Penn Ave.",
+     "labels": []
+    },
+    {
+     "id": "S283",
+     "section": "Privacy - Duolingo",
+     "text": "Pittsburgh, PA 15206 United States of America Phone: +1-412-567-6602 Duolingo, Inc.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S284",
+     "section": "Privacy - Duolingo",
+     "text": "is also a registered Data Controller with the UK Information Commissioner's Office (ICO), number ZA294891, at the address: Duolingo, Inc.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      },
+      {
+       "item": "C9",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S285",
+     "section": "Privacy - Duolingo",
+     "text": "141 Wardour Street London W1F 0UT United Kingdom For all data privacy inquiries and any questions or concerns you have about this Privacy Policy, please contact our Data Protection Officer at privacy@duolingo.com.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "states"
+      }
+     ]
+    },
+    {
+     "id": "S286",
+     "section": "Privacy - Duolingo",
+     "text": "For all support inquiries, please go to https://duolingo.com/help.",
+     "labels": [
+      {
+       "item": "C10",
+       "stance": "mentions"
+      }
+     ]
+    },
+    {
+     "id": "S287",
+     "section": "Privacy - Duolingo",
+     "text": "Last revised on May 26, 2026.",
+     "labels": []
+    }
+   ]
+  }
+ ],
+ "items": {
+  "C1": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S10"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S12"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S42"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S65"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S94"
+    }
+   ]
+  },
+  "C2": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S40"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S96"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S109"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S113"
+    }
+   ]
+  },
+  "C3": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S17"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S29"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S52"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S62"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S105"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S115"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S127"
+    }
+   ]
+  },
+  "C4": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S124"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S125"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S131"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S132"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S137"
+    }
+   ]
+  },
+  "C5": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S68"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S143"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S144"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S145"
+    }
+   ]
+  },
+  "C6": {
+   "state": "partially stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S57"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S59"
+    }
+   ]
+  },
+  "C7": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S221"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S222"
+    }
+   ]
+  },
+  "C8": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S213"
+    }
+   ]
+  },
+  "C9": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S224"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S225"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S276"
+    }
+   ]
+  },
+  "C10": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S147"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S149"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S190"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S285"
+    }
+   ]
+  },
+  "T1": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S42"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S121"
+    }
+   ]
+  },
+  "T2": {
+   "state": "partially stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S52"
+    }
+   ]
+  },
+  "T3": {
+   "state": "stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S42"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S46"
+    }
+   ]
+  },
+  "T4": {
+   "state": "not stated",
+   "evidence": []
+  },
+  "T5": {
+   "state": "partially stated",
+   "evidence": [
+    {
+     "document": "Policy",
+     "sentence_id": "S5"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S6"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S162"
+    },
+    {
+     "document": "Policy",
+     "sentence_id": "S204"
+    }
+   ]
+  },
+  "T6": {
+   "state": "not stated",
+   "evidence": []
+  }
+ }
+}
