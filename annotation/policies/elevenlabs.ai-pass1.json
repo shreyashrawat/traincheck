@@ -1,0 +1,3293 @@
+{
+  "policy_id": "elevenlabs",
+  "source_url": "https://elevenlabs.io/privacy-policy",
+  "annotator": "ai-pass1",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy\n\nUpdated 9 October 2026\n\n## 1. Introduction and scope\n\nThis Privacy Policy explains how we use your personal information when you use our Services. It applies to everyone globally, but depending on where you live, there may be a few extra points for you to know.\n\n**About this Policy and when it applies**\n\nThis Privacy Policy (“Policy”) explains how we, ElevenLabs, collect and use your personal information. It applies when:\n\n- you visit our websites (including https://elevenlabs.io/ or reception.ai);\n- you use any of our services through our websites, mobile apps, or APIs (which we refer to collectively as our “Services”);\n- you contact us; or\n- others give us information about you.\n\nThis Policy also explains your rights in connection with your personal information and how to use them.\n\nThis Policy does not cover personal information we collect when you use ElevenLabs services through one of our business customers (for example, if you use an ElevenLabs service through your employer or our technology powers voice functionality on a service offered by another company). When we do that we act as a “service provider” or ”data processor”. In those cases, the business customer's contract with us, not this Policy, governs how we use the information. If you have questions about personal information we process for one of our customers, please contact that customer directly.\n\nThis Policy applies to all our users around the world. If you are resident in Brazil, the EEA, UK or Switzerland, India or the United States please read the extra information that applies to you.\n\nIf you have any questions or concerns about our use of your personal information, please email dpo@elevenlabs.io\n\n## 2. Personal Information We Process\n\nWe collect and process different categories of personal information in connection with our Services, including information you provide to us directly, information we collect when you use our Services, and information we receive or collect from third party sources.\n\n**(a) Personal Information You Provide to Us**\n\n**Account & Contact Details.** When you set up an account to use our Services, we ask you for details such as your name, email address, phone number, address, and your account and contact preferences.\n**Inputs & Outputs.** You can type or upload prompts into our AI tools. We call these inputs. Inputs can include text, voice, or other content. We create results from Inputs which we call outputs. Both inputs and outputs can include personal information.\n**Voice data and voice models.** One kind of input is voice data. This could be an audio recording or live narration of your voice, or someone else's voice you ask us to use. We use these voices to create the output of a synthetic copy of the voice called a \"voice model\".\n**Profile Information.** When you sign up, you can choose to tell us more information - for example how you plan to use the Services (e.g. personal, professional, educational) and how you heard about us. If you add your voice model to the Voice Library, you can also choose to include profile information such as your name, bio/description, and information about social media accounts.\n**Feedback/Communications.** If you contact us, sign up for our newsletter, participate in a survey or send feedback, we collect information such as your name, email address, and anything you include in your message or answers.\n**Payment Details.** You might pay for our Services, or become eligible to be paid. If so, we'll send you to our payment processor. They will collect and use your payment details under their own Privacy Policy.\n**Verification Information.** Where the law allows or requires us to do so, we may ask you to prove your age or who you are. This might use your information about you like your date of birth, proof of address, a copy of an ID, or your voice.\n**Other Information You Provide.** We collect other information you may provide to us, such as when you use our alpha or beta services (i.e. where we are testing new products and features), participate in our responsible disclosure program, attend our events, or otherwise interact with us.\n\n**(b) Personal Information We Collect Automatically**\n\n**Location Information.** When you use our Services, we work out your rough location, such as your city. We do this from your IP address.\n**Device Information.** We collect information about the device and network you use to access our Services, including IP address, browser type, operating system version, software, phone carrier and manufacturer, app installs, device IDs, advertising IDs, and push notification tokens.\n**Usage Information.** We collect information about how you use our Services (and/or third party services that you access through our Services). This includes what you view and how and when you use our Services. Our understanding of your usage may include the use of tools that look at mouse movements, clicks, keystrokes, data or text entered, which of our emails you've opened and which pages you visit.\n\nWe may collect the information above using cookies, pixel tags, SDKs, or similar technologies (which we refer to collectively as “Cookies”). For more information about our use of Cookies, please see the “Cookies” section.\n\n**(c) Personal Information We Collect from Third Parties**\n\n**Contact Details and Voice Data.** In certain circumstances, we may collect information (such as your name and identification information) and voice data from third parties. For example, where a registered user provides the voice data or other information about another person, we collect that information.\n**Publicly Available or Licensed Information.** Where permitted by applicable laws, we obtain publicly available or third-party information to train our models and systems. By training, we mean providing data to our AI models and systems so they can operate more effectively.\n**Third-Party Logins.** If you sign up or log in using an account you have with a third party, we'll receive information from that company, such as your name, email address, username, and profile picture.\n**Information from Partners.** Where the law allows us, we may receive information from third-party partners that helps with things like identity or background checks, data enrichment, and stopping fraud and crime.\n\nIn connection with your use of our Services, any use of information received from Google Workspace APIs will adhere to the Google User Data Policy including Google's Limited Use Requirements.\n\n## 3. How We Use Your Personal Information and Our Legal Basis\n\nWe use your personal information for different purposes connected to your use of our Services, the development of our Services, compliance with law and the protection of our, and third party, rights and interests.\n\n**(a) Purpose and Legal Basis**\n\nThe table below shows why we use your personal information and, where data protection law requires it, the legal basis we rely on for each purpose. If you live in a country that requires a legal basis for processing, and a legal basis listed here doesn't apply, we'll rely on consent or another basis the law of your country allows.\n\n**Provide our Services:** We use your personal information to provide the Services you request. For example we process your information: In inputs in order to create outputs. For example, if you use voice modelling, our AI analyzes how you speak. It then builds a voice model that can create audio that sounds like you. However, we do not use voice data to infer sensitive information about you, such as your health, ethnicity or political opinions. To share your outputs with other users, if you choose that; To provide technical support.\nData Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communication; Verification Information; Location Information; Device Information; Third-Party Logins.\nLegal basis (where relevant under applicable law): Depending on the circumstances and applicable law: Necessary for the performance of our contract with you. Legitimate interests - namely our interests in providing our Services to you. Where this involves the processing of special category, such as when we use your voice data to check that it belongs to you, we also rely on consent.\n\n**Check that your voice or other inputs belong to you:** Check that your voice or other inputs are really yours. For example, for some Services like voice cloning, we may ask you to record yourself so we can confirm the voice you upload is yours. When we use your voice data to check it belongs to you, we may be handling biometric or sensitive or special category data under some laws.\nData Categories: Voice data and voice models.\nLegal basis: Depending on the circumstances and applicable law: Necessary for the performance of our contract with you. Legitimate interests - namely our interests in ensuring that we verify the voice relates to a particular individual. Where this involves the processing of special category, such as when we use your voice data to check that it belongs to you, we also rely on consent or (in limited circumstances) substantial public interest.\n\n**Personalize our Services:** We may use your personal information to enhance and personalize your experience of our Services, including suggesting content and features that could be of interest to you.\nData Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communication; Verification Information; Location Information; Device Information; Usage Information.\nLegal basis: Depending on the circumstances and applicable law: Legitimate interests - namely our interest in providing you with an optimised and personalized version of the Services. Or, if required by law, with your consent.\n\n**Send you Service or support communications:** We may use your personal information to send Service or support-related communications to you (for example, about updating your account details or updates to our Terms of Service), as well as to respond to your inquiries.\nData Categories: Account & Contact Details; Profile Information.\nLegal basis: Depending on the circumstances and applicable law: Necessary for the performance of our contract with you. Or, legitimate interest - namely our interest in communicating with you about our Services or your interest in our Services.\n\n**Send you marketing communications:** We may use your personal information to send you marketing communications (including emails or push notifications).\nData Categories: Account & Contact Details; Profile Information; Location Information; Usage Information; Device Information.\nLegal basis: Depending on the circumstances and applicable law: With your consent. Or, if permitted by law - legitimate interests - namely our interest in promoting and marketing our services.\n\n**Keep our services safe and protect rights:** We use your personal information to find and stop unlawful or harmful activity. We use it to uphold and enforce our Prohibited Use Policy and Terms of Service. We use it to protect our rights and other people's rights. We use it to set up, bring, and defend legal claims. We use it to respond to law enforcement, regulators or public authorities.\nData Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communications; Verification Information; Location Information; Device Information; Usage Information; Third-Party Logins; Information from Partners.\nLegal basis: Legitimate interests - namely our interest in protecting our Services, other users, and third parties against fraud and other potentially harmful or illegal activities. Where this involves the processing of special category data, we also rely on it being necessary for: reasons of substantial public interest; the establishment, exercise or defence of legal claims.\n\n**Fixing issues with our service:** We may use your personal information to investigate and fix errors that affect our Services.\nData Categories: Account & Contact Details; Inputs & Outputs; Feedback/Communications; Location Information; Device Information; Usage Information.\nLegal basis: Legitimate interests - namely our legitimate interests in maintaining proper and optimal functioning of our Services.\n\n**Analysing your use of and improving our Services:** We may use your personal information to understand how our Services are used. This helps us spot trends, improve the Services, and to build new services.\nData Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communications; Verification Information; Location Information; Device Information; Usage Information; Third-Party Logins.\nLegal basis: Legitimate interests - namely our interest in understanding how our Services are used and can be improved. Or, if required by law - with your consent.\n\n**Complying with legal obligations:** We may use your personal information to meet a legal obligation. For example this could be accounting, tax or anti-money laundering rules, or a court order.\nData Categories: Potentially all categories of data, dependent on the nature of the legal obligation or order.\nLegal basis: Compliance with a legal obligation. Where this involves the processing of special category data, we also rely on it being necessary for: reasons of substantial public interest; the establishment, exercise or defence of legal claims.\n\n**Research and develop our AI models:** We use your personal information to research, build, train and improve our AI models. This includes our models learning patterns in speech and audio. For more information about our training practices, and controls we offer you, see here.\nData Categories: Inputs & Outputs; Device Information; Usage Information; Publicly Available or Licensed Information; Information from Partners.\nLegal basis: Legitimate interests - namely to develop and improve our Services. Or, if required by law - with your consent.\n\n**Marketing and advertising to you on our Service and third party services:** We may use your personal information to serve you with more relevant marketing and advertising on our Services as well as on third-party websites, apps, digital properties, and to measure the effectiveness of such activities. We do not use voice data to target individuals.\nData Categories: Location Information; Device Information; Usage Information.\nLegal basis: Depending on the circumstances and applicable law: Consent. Or, if permitted by law, legitimate interests - namely our interest in promoting our Services and understanding the effectiveness of these campaigns.\n\n**Other purposes:** If we intend to use your personal information for other purposes, we will make this clear when the personal information is collected.\nData Categories: As indicated at the point we collect this information.\nLegal basis: As indicated at the point we collect this information.\n\n## 4. Data Recipients\n\nWe share your personal information with third parties that support us in providing and marketing our Services and where necessary, to protect and support our business interests and the interests of our users.\n\nWe may share your personal information with the following categories of recipients.\n\n**Affiliates.** We may share your personal information with the ElevenLabs group of companies for the purposes described in this policy. You can see the names of our \"Affiliates\" listed in our Trust Center.\n**Vendors and Service Providers.** We share your personal information with vendors and service providers who help us run the Services and handle data on our behalf. They help with things like content moderation, service eligibility, intellectual property protection, analytics, web hosting, data analysis or enrichment, advertising, marketing, IT, customer service and auditing. We also share information with vendors and partners who work with us to provide parts of our Services, such as payment processing and background checks.\n\nYou can find out more information about these categories of recipients here.\n\n**Other Users and Third Parties through Sharing Features.** If you choose to use sharing features, we share your information with other users — for example, if you add your voice model to the Voice Library, your voice is available to users of that service. Other features may allow you to share information directly with other users or with unaffiliated third parties that process the data in accordance with their own privacy policies. Only share information with those you trust.\n**Partners.** We share your personal information with third party partners who help us advertise and promote our Services. This includes companies that help us with background checks, analytics and advertising partners, payment processors or partners who may jointly develop or promote our services.\n**When the law requires it, or to protect rights.** We may share your personal information with law enforcement, regulators, and public authorities. We may share it as part of legal proceedings. We also do this where we believe it's needed for a legal process or to follow an order from a court, regulator or other authority. We also do this to protect your, our, or other people's rights, property, or safety, or to find, stop, or report illegal activity.\n**Business sale or reorganisation.** We may be involved in a merger sale or reorganisation. This could affect some of all of our business. If so, we may share your personal information with advisers, possible buyers, and others involved in the deal.\n**Other Data Recipients.** We will only disclose your information to other third-parties with your consent or where we are required or permitted by law to do so.\n\n## 5. International Data Transfers\n\nElevenLabs may transfer your personal information to recipients based outside of the country that you reside. Where it does, it will implement measures to ensure the adequate protection of your information.\n\nOur affiliates, partners, and service providers work in many countries. So when you use our Services, your personal information may move outside the area where you live. Wherever you are, your personal information will be transferred to the United States for storage. Some countries set extra rules for moving personal information outside the place you live. Depending on where you live, we protect your information in the following ways.\n\nWe may only send it only to countries that relevant authorities have decided will adequately protect it.\nWe may use approved contract terms, such as the EU Standard Contractual Clauses, the Brazil Standard Contractual Clauses, or, in Japan, contracts with safeguards equal to Japanese data protection law).\nWe may rely on another legal ground such as your consent.\n\nPlease refer to the Additional Information for Specific Countries for further information for those territories.\n\nFor more information about how we transfer personal information or to obtain a copy of the contractual safeguards we use for such transfers (to the extent you are entitled to this under applicable law), you may contact us using the contact details indicated in the “Contact Us” section below.\n\nPlease note that the data protection laws in the locations where we transfer or process data may differ from those in your area.\n\n## 6. Data Retention\n\nWe generally keep your personal information for as long as necessary to provide you with our Services or as otherwise required or permitted by law or to protect our rights. After this we will either securely delete or de-identify it.\nWe keep your personal information only as long as we need it for the reasons we collected it, for example, for as long as you have an account with us, or as long as the law requires. We take measures to delete your personal information or de-identify it when no longer needed unless we are required or permitted by law to keep this information for a longer period.\n\nTo decide how long to keep information, we weigh several things. These include the type of information, the Service you used, how long our relationship lasts, any time periods the law sets, and any time limits for legal claims. We won't keep data we generate about your voice for longer than 3 years after your last interaction with us, unless the law requires or allows otherwise.\n\n## 7. Cookies\n\nOur Services use cookies and similar technologies to make them work, to improve them, to allow us to understand how you engage with them and for marketing and advertising.\n\nCookies, pixel tags, SDKs, or similar technologies (which we refer to collectively as “Cookies”) are technologies used to collect information about a user's device and their activities on a website, app or online service. We and our partners, such as analytics and advertising partners, may collect information from your device using Cookies to understand your online activities over time and across different services (including our Services).\n\nThe information we may collect via Cookies is described in the “Information we collect automatically” part of Section 2 of this Policy.\n\n**Types of Cookies**\n\nCookies set by us are called “first party Cookies”. We also use third-party Cookies; these are set by a domain different to the one you are accessing. We may use both session cookies and persistent Cookies. A session Cookie disappears after you close your browser. A persistent Cookie remains and may be used by your browser on subsequent visits to our Services. Cookies used on our Services can be categorised as follows:\n\n**Strictly Necessary Cookies.** These Cookies are essential to provide our Services. For example, they let you log in and help us to spot bots. You cannot turn these off, because our Services need them.\n**Preferences.** These Cookies remember things that change how our Services work or look, such as your language or region.\n**Statistics.** These Cookies help us see how our Services perform and how visitors use them.\n**Marketing.** These Cookies are used to track users across our Services and third party services. These Cookies help us to deliver more relevant marketing and advertising and measure how well our campaigns work.\n\nDepending on your location, we may ask for your consent before we use any non-essential Cookies. You can manage your choices through the Cookie Settings link on the footer of our website. In addition, you have the following controls concerning the use of Cookies.\n\n**Browser Settings.** Certain web browsers allow you to refuse Cookies or delete certain Cookies. Please note that if you choose to block all Cookies, doing so may impair your use of our Services.\n**Google Analytics Opt-out.** To opt out from Google Analytics' use of information collected on the Services through Cookies, you can download the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.\n**Universal Opt-out Signals.** If you choose to use a tool to communicate your consent choices automatically through a legally determined opt-out preference signal, such as Global Privacy Control/GPC, on your browser or device, ElevenLabs will honor those signals as a request to opt-out of targeting & marketing cookies.\n\n## 8. Your Rights\n\nData protection laws give some people certain rights in relation to their personal information. You can exercise these rights in your account settings or via our online form.\n\n**(a) Your Rights**\n\nData protection laws give individuals certain rights regarding the collection and use of their personal information. Depending on the laws that apply in your country and that we are subject to, you may have the right to do the following.\n\nTo ask for a copy of your personal information.\nTo ask us to correct personal information about you that is wrong.\nTo ask us to restrict, delete or where applicable, anonymize your personal information.\nTo ask us to transfer your personal information (portability).\nTo object to some uses of your information. For example:\nOpt out of training: You can opt out of our use of your personal information at any time by navigating to the 'Data use' menu in the 'Terms and Privacy' section of your ElevenLabs account. The opt-out only applies to and affects use of your personal information for training after you opt-out.\nTo opt-out of marketing communications that we send you. Specifically, you can:\nDeactivate Push Notifications: You can deactivate push notifications that you have enabled at any time by changing the notification settings on your mobile device.\nUnsubscribe from Marketing Emails: You can unsubscribe from marketing emails at any time by following the instructions contained within the email or by using this unsubscribe form. Please be aware that you may continue to receive promotional communications from us for a short time after opt-out while your request is processed. Note that you will still receive service related communications (i.e. emails sent about account or customer service related matters) after you have opted out of marketing.\nTo withdraw your consent to any processing that is based on your consent.\nTo complain to your local privacy regulator about our use of your personal information. We ask that you contact us first, so we can try to help, but you do not have to.\n\n**(b) Exercising Your Rights**\n\nYou can exercise some of your rights directly via your account or account settings. For example, you can access and correct some of the personal information we process via your account or delete your account.\nAlternatively, you can exercise any of these rights via our online form (or to the extent that the online form is unavailable, by emailing our Data Protection Officer at the following email address: dpo@elevenlabs.io). Using this form enables us to collect information we need to verify your identity, and manage your request more efficiently.\nSimilarly, if submitting a request via email, please specify the right you would like to exercise and the country you reside in.\nWe will fulfil any rights requests in accordance with applicable data protection laws.\n\n## 9. Third Parties\n\nWe are not responsible for the privacy practices of any third party services that our Services may link to.\n\nOur Services may link to other websites, products, or services that we do not run. We are not responsible for how those companies handle privacy. This Policy does not apply to what you do on those websites, products or services. We encourage you to read their privacy policies before providing any information to them.\n\n## 10. Children's Privacy\n\nOur Services are not intended for, and we do not knowingly process personal information of, anyone under 18.\n\nOur Services are not meant for or directed at children under the age of 18. We do not knowingly collect, store, or use personal information of anyone under 18.\n\nIf you are under 18, you are not allowed to send us any personal information. If we become aware that we have inadvertently received personal information from or about a child under the age of 18, we will delete it.\n\nAdditionally, all users are strictly prohibited from uploading, transmitting, emailing, or otherwise providing us with voice data from or about anyone under the age of 18. If you believe we may have inadvertently processed such personal information, please contact us at dpo@elevenlabs.io.\n\n## 11. Updates to this Policy\n\nWe will notify you of any significant changes to this Policy.\n\nWe may update this Policy from time to time. We will tell you if we make any material changes to the Policy as the law requires.\n\nTo see when this Policy was last updated, please see the “Updated” date at the top.\n\n## 12. Contact Us\n\nFor any questions regarding this Policy or our processing of your personal information, please contact our Data Protection Officer at dpo@elevenlabs.io.\n\nYou may also write to our Data Protection Office at:\n\nData Protection Office\n\nEleven Labs Inc.\n169 Madison Ave #2484\nNew York, NY 10016\nUnited States\n\n## 13. Additional Information for Specific Countries\n\nCertain countries require us to provide you with additional information about our processing of your personal information. If you are located in Brazil, the EEA/UK or Switzerland, India or the United States, please note the additional information below.\n\n**(a) Additional Information for Residents of Brazil**\n\nFor residents of Brazil, our Data Protection Officer is Paulo Eduardo Lilia, who can be reached at dpo@elevenlabs.io.\n\n**(b) Additional Information for Residents of the EEA/UK or Switzerland**\n\nIf you are a resident in the European Economic Area (“EEA”), UK or Switzerland then please note the following additional information:\n\n**Data controller:**\n\nThe data controller is:\n\nElevenLabs Poland sp. z o.o.\nPlac Marszałka Józefa Piłsudskiego 8, 00-073\nWarsaw\nPoland\n\nYou can contact ElevenLabs Poland sp. Z.o.o using the details provided above or by email to dpo@elevenlabs.io\n\n**International transfers:**\n\nIf ElevenLabs transfers your personal information to a country outside of the EEA (for EEA residents), the UK (for UK residents) or Switzerland (for Swiss residents) we will ensure that these transfers comply with the laws in the country in which you reside.\n\nIn practice, this means that ElevenLabs will only transfer your personal information to a non-EEA, UK or Swiss recipient either where:\n\n(i) Adequacy - the recipient is located in a country that the European Commission, the UK Secretary of State and/or Swiss Federal Council has decided is adequate to receive personal information from the country in which you reside (as applicable). This includes for example transfers made to recipients certified under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF);\n(ii) Standard Contractual Clauses - the recipient has signed appropriate contractual terms with ElevenLabs that incorporate the European Commission's Standard Contractual Clauses or the UK Information Commissioner's International Data Transfer Agreement or International Data Transfer Addendum (as applicable); or\n(iii) Derogation - a data transfer derogation applies (for example, where you have consented to the transfer of your personal information).\n\n**ElevenLabs' DPF Certification**\n\nFor transfers from the EU, UK and Switzerland to ElevenLabs in the United States, ElevenLabs relies on and complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.\n\nYou can find further information about our DPF Certification and commitment to the DPF at elevenlabs.io/eu-us-data-privacy-framework-policy. Please note that this certification applies only to ElevenLabs' U.S. entity. Transfers of personal information out of the EEA, UK and/or Switzerland to our other entities are carried out in reliance on one of the measures above.\n\nWe have implemented transfer impact assessments for transfers that rely on the Standard Contractual Clauses. If you have further questions about our international data transfers and the specific measures we use in any case, you can contact us using the information in the “Contact Us” section.\n\n**(c) Additional Information for Residents of India**\n\nIf you are a resident in India, in addition to the rights set out in the “Your Rights” section above, you also have the following rights regarding your personal information:\n\n**Right to nominate:** You have the right to nominate any individual who will exercise the rights available to you in case of your death or incapacity.\n**Right of grievance redressal:** You have the right to contact us about how we process your personal information, our obligations in relation to such personal information and/or with regard to your rights regarding such personal information. You may exercise these rights by contacting us as described in Section 12, unless otherwise required under the law.\n\n**d) Additional Information for Residents of the United States**\n\nSome U.S. state privacy laws require specific disclosures and provide certain privacy rights to their residents, which we cover in this section. This section also serves as our California notice at collection. In other sections of this Policy, we explain the categories of personal information we collect, the sources from which we collect it, how we use the personal information we collect, including information that may be “sensitive” under state privacy laws, and for how long we retain the personal information we collect, and the circumstances in which we disclose it.\n\n**Your Access, Correction, and Deletion Rights**\n\nIf you live in a state covered by this section you have the access, correction, and deletion rights set out in the “Your Rights” section above, which you can exercise using the methods we describe in that section. To verify your identity in connection with a rights request, we may ask you to authenticate through your account on our Services or otherwise provide information reasonably necessary for verification purposes. If you live in California, you may use an authorized agent to make requests to access, correct, or delete your personal information. Authorized agents may make requests by emailing dpo@elevenlabs.io. We will ask authorized agents to provide proof of their authority to operate on your behalf and may also ask you to verify your identity with us.\n\n**Your Right to Opt Out of Sales, Sharing for Cross-Context Behavioral Advertising, and Targeted Advertising**\n\nWe share limited personal information with advertising partners, social networks, and affiliate marketing companies that help us promote our Services on third-party properties, including through targeting Cookies. These data disclosures are considered sharing for cross-context behavioral advertising or targeted advertising, and may also be considered “selling” personal information, under certain state privacy laws. The categories of personal information we share for these purposes include identifiers (like your IP address, an advertising ID, or a hashed version of your email address or phone number), electronic network activity information (like the page of our website that you visited), and commercial information (like whether you're a paid subscriber). You can opt out by clicking 'Your Privacy Choices' in the website footer and adjusting your settings. You can also opt out by visiting our Services with a legally recognized opt-out mechanism enabled, such as the Global Privacy Control.\n\nWe do not knowingly “sell” or “share” personal information of individuals under the age of 18.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Privacy Policy",
+          "text": "Updated 9 October 2026",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S2",
+          "section": "1. Introduction and scope",
+          "text": "This Privacy Policy explains how we use your personal information when you use our Services.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "1. Introduction and scope",
+          "text": "It applies to everyone globally, but depending on where you live, there may be a few extra points for you to know.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S4",
+          "section": "1. Introduction and scope",
+          "text": "**About this Policy and when it applies** This Privacy Policy (“Policy”) explains how we, ElevenLabs, collect and use your personal information.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "1. Introduction and scope",
+          "text": "It applies when: - you visit our websites (including https://elevenlabs.io/ or reception.ai); - you use any of our services through our websites, mobile apps, or APIs (which we refer to collectively as our “Services”); - you contact us; or - others give us information about you.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S6",
+          "section": "1. Introduction and scope",
+          "text": "This Policy also explains your rights in connection with your personal information and how to use them.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S7",
+          "section": "1. Introduction and scope",
+          "text": "This Policy does not cover personal information we collect when you use ElevenLabs services through one of our business customers (for example, if you use an ElevenLabs service through your employer or our technology powers voice functionality on a service offered by another company).",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "denies"
+            },
+            {
+              "item": "T5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S8",
+          "section": "1. Introduction and scope",
+          "text": "When we do that we act as a “service provider” or ”data processor”.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S9",
+          "section": "1. Introduction and scope",
+          "text": "In those cases, the business customer's contract with us, not this Policy, governs how we use the information.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "denies"
+            },
+            {
+              "item": "T5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S10",
+          "section": "1. Introduction and scope",
+          "text": "If you have questions about personal information we process for one of our customers, please contact that customer directly.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S11",
+          "section": "1. Introduction and scope",
+          "text": "This Policy applies to all our users around the world.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S12",
+          "section": "1. Introduction and scope",
+          "text": "If you are resident in Brazil, the EEA, UK or Switzerland, India or the United States please read the extra information that applies to you.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S13",
+          "section": "1. Introduction and scope",
+          "text": "If you have any questions or concerns about our use of your personal information, please email dpo@elevenlabs.io",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S14",
+          "section": "2. Personal Information We Process",
+          "text": "We collect and process different categories of personal information in connection with our Services, including information you provide to us directly, information we collect when you use our Services, and information we receive or collect from third party sources.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S15",
+          "section": "2. Personal Information We Process",
+          "text": "**(a) Personal Information You Provide to Us** **Account & Contact Details.** When you set up an account to use our Services, we ask you for details such as your name, email address, phone number, address, and your account and contact preferences.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S16",
+          "section": "2. Personal Information We Process",
+          "text": "**Inputs & Outputs.** You can type or upload prompts into our AI tools.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S17",
+          "section": "2. Personal Information We Process",
+          "text": "We call these inputs.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "2. Personal Information We Process",
+          "text": "Inputs can include text, voice, or other content.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S19",
+          "section": "2. Personal Information We Process",
+          "text": "We create results from Inputs which we call outputs.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "2. Personal Information We Process",
+          "text": "Both inputs and outputs can include personal information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S21",
+          "section": "2. Personal Information We Process",
+          "text": "**Voice data and voice models.** One kind of input is voice data.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S22",
+          "section": "2. Personal Information We Process",
+          "text": "This could be an audio recording or live narration of your voice, or someone else's voice you ask us to use.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S23",
+          "section": "2. Personal Information We Process",
+          "text": "We use these voices to create the output of a synthetic copy of the voice called a \"voice model\".",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S24",
+          "section": "2. Personal Information We Process",
+          "text": "**Profile Information.** When you sign up, you can choose to tell us more information - for example how you plan to use the Services (e.g.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S25",
+          "section": "2. Personal Information We Process",
+          "text": "personal, professional, educational) and how you heard about us.",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "2. Personal Information We Process",
+          "text": "If you add your voice model to the Voice Library, you can also choose to include profile information such as your name, bio/description, and information about social media accounts.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S27",
+          "section": "2. Personal Information We Process",
+          "text": "**Feedback/Communications.** If you contact us, sign up for our newsletter, participate in a survey or send feedback, we collect information such as your name, email address, and anything you include in your message or answers.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S28",
+          "section": "2. Personal Information We Process",
+          "text": "**Payment Details.** You might pay for our Services, or become eligible to be paid.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S29",
+          "section": "2. Personal Information We Process",
+          "text": "If so, we'll send you to our payment processor.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S30",
+          "section": "2. Personal Information We Process",
+          "text": "They will collect and use your payment details under their own Privacy Policy.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S31",
+          "section": "2. Personal Information We Process",
+          "text": "**Verification Information.** Where the law allows or requires us to do so, we may ask you to prove your age or who you are.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S32",
+          "section": "2. Personal Information We Process",
+          "text": "This might use your information about you like your date of birth, proof of address, a copy of an ID, or your voice.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S33",
+          "section": "2. Personal Information We Process",
+          "text": "**Other Information You Provide.** We collect other information you may provide to us, such as when you use our alpha or beta services (i.e.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S34",
+          "section": "2. Personal Information We Process",
+          "text": "where we are testing new products and features), participate in our responsible disclosure program, attend our events, or otherwise interact with us.",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "2. Personal Information We Process",
+          "text": "**(b) Personal Information We Collect Automatically** **Location Information.** When you use our Services, we work out your rough location, such as your city.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S36",
+          "section": "2. Personal Information We Process",
+          "text": "We do this from your IP address.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S37",
+          "section": "2. Personal Information We Process",
+          "text": "**Device Information.** We collect information about the device and network you use to access our Services, including IP address, browser type, operating system version, software, phone carrier and manufacturer, app installs, device IDs, advertising IDs, and push notification tokens.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S38",
+          "section": "2. Personal Information We Process",
+          "text": "**Usage Information.** We collect information about how you use our Services (and/or third party services that you access through our Services).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S39",
+          "section": "2. Personal Information We Process",
+          "text": "This includes what you view and how and when you use our Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S40",
+          "section": "2. Personal Information We Process",
+          "text": "Our understanding of your usage may include the use of tools that look at mouse movements, clicks, keystrokes, data or text entered, which of our emails you've opened and which pages you visit.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S41",
+          "section": "2. Personal Information We Process",
+          "text": "We may collect the information above using cookies, pixel tags, SDKs, or similar technologies (which we refer to collectively as “Cookies”).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S42",
+          "section": "2. Personal Information We Process",
+          "text": "For more information about our use of Cookies, please see the “Cookies” section.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "2. Personal Information We Process",
+          "text": "**(c) Personal Information We Collect from Third Parties** **Contact Details and Voice Data.** In certain circumstances, we may collect information (such as your name and identification information) and voice data from third parties.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S44",
+          "section": "2. Personal Information We Process",
+          "text": "For example, where a registered user provides the voice data or other information about another person, we collect that information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S45",
+          "section": "2. Personal Information We Process",
+          "text": "**Publicly Available or Licensed Information.** Where permitted by applicable laws, we obtain publicly available or third-party information to train our models and systems.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S46",
+          "section": "2. Personal Information We Process",
+          "text": "By training, we mean providing data to our AI models and systems so they can operate more effectively.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S47",
+          "section": "2. Personal Information We Process",
+          "text": "**Third-Party Logins.** If you sign up or log in using an account you have with a third party, we'll receive information from that company, such as your name, email address, username, and profile picture.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S48",
+          "section": "2. Personal Information We Process",
+          "text": "**Information from Partners.** Where the law allows us, we may receive information from third-party partners that helps with things like identity or background checks, data enrichment, and stopping fraud and crime.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S49",
+          "section": "2. Personal Information We Process",
+          "text": "In connection with your use of our Services, any use of information received from Google Workspace APIs will adhere to the Google User Data Policy including Google's Limited Use Requirements.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S50",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "We use your personal information for different purposes connected to your use of our Services, the development of our Services, compliance with law and the protection of our, and third party, rights and interests.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S51",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**(a) Purpose and Legal Basis** The table below shows why we use your personal information and, where data protection law requires it, the legal basis we rely on for each purpose.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "If you live in a country that requires a legal basis for processing, and a legal basis listed here doesn't apply, we'll rely on consent or another basis the law of your country allows.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S53",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Provide our Services:** We use your personal information to provide the Services you request.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S54",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "For example we process your information: In inputs in order to create outputs.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S55",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "For example, if you use voice modelling, our AI analyzes how you speak.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S56",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "It then builds a voice model that can create audio that sounds like you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S57",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "However, we do not use voice data to infer sensitive information about you, such as your health, ethnicity or political opinions.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S58",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "To share your outputs with other users, if you choose that; To provide technical support.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S59",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communication; Verification Information; Location Information; Device Information; Third-Party Logins.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S60",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis (where relevant under applicable law): Depending on the circumstances and applicable law: Necessary for the performance of our contract with you.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legitimate interests - namely our interests in providing our Services to you.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Where this involves the processing of special category, such as when we use your voice data to check that it belongs to you, we also rely on consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S63",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Check that your voice or other inputs belong to you:** Check that your voice or other inputs are really yours.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S64",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "For example, for some Services like voice cloning, we may ask you to record yourself so we can confirm the voice you upload is yours.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S65",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "When we use your voice data to check it belongs to you, we may be handling biometric or sensitive or special category data under some laws.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S66",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Voice data and voice models.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S67",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Depending on the circumstances and applicable law: Necessary for the performance of our contract with you.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legitimate interests - namely our interests in ensuring that we verify the voice relates to a particular individual.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Where this involves the processing of special category, such as when we use your voice data to check that it belongs to you, we also rely on consent or (in limited circumstances) substantial public interest.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S70",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Personalize our Services:** We may use your personal information to enhance and personalize your experience of our Services, including suggesting content and features that could be of interest to you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S71",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communication; Verification Information; Location Information; Device Information; Usage Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S72",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Depending on the circumstances and applicable law: Legitimate interests - namely our interest in providing you with an optimised and personalized version of the Services.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Or, if required by law, with your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S74",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Send you Service or support communications:** We may use your personal information to send Service or support-related communications to you (for example, about updating your account details or updates to our Terms of Service), as well as to respond to your inquiries.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S75",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Profile Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S76",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Depending on the circumstances and applicable law: Necessary for the performance of our contract with you.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Or, legitimate interest - namely our interest in communicating with you about our Services or your interest in our Services.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Send you marketing communications:** We may use your personal information to send you marketing communications (including emails or push notifications).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S79",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Profile Information; Location Information; Usage Information; Device Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S80",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Depending on the circumstances and applicable law: With your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S81",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Or, if permitted by law - legitimate interests - namely our interest in promoting and marketing our services.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Keep our services safe and protect rights:** We use your personal information to find and stop unlawful or harmful activity.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S83",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "We use it to uphold and enforce our Prohibited Use Policy and Terms of Service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S84",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "We use it to protect our rights and other people's rights.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S85",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "We use it to set up, bring, and defend legal claims.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S86",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "We use it to respond to law enforcement, regulators or public authorities.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S87",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communications; Verification Information; Location Information; Device Information; Usage Information; Third-Party Logins; Information from Partners.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S88",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Legitimate interests - namely our interest in protecting our Services, other users, and third parties against fraud and other potentially harmful or illegal activities.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Where this involves the processing of special category data, we also rely on it being necessary for: reasons of substantial public interest; the establishment, exercise or defence of legal claims.",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Fixing issues with our service:** We may use your personal information to investigate and fix errors that affect our Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S91",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Inputs & Outputs; Feedback/Communications; Location Information; Device Information; Usage Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S92",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Legitimate interests - namely our legitimate interests in maintaining proper and optimal functioning of our Services.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Analysing your use of and improving our Services:** We may use your personal information to understand how our Services are used.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S94",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "This helps us spot trends, improve the Services, and to build new services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S95",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communications; Verification Information; Location Information; Device Information; Usage Information; Third-Party Logins.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S96",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Legitimate interests - namely our interest in understanding how our Services are used and can be improved.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Or, if required by law - with your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S98",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Complying with legal obligations:** We may use your personal information to meet a legal obligation.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S99",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "For example this could be accounting, tax or anti-money laundering rules, or a court order.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S100",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Potentially all categories of data, dependent on the nature of the legal obligation or order.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S101",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Compliance with a legal obligation.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Where this involves the processing of special category data, we also rely on it being necessary for: reasons of substantial public interest; the establishment, exercise or defence of legal claims.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Research and develop our AI models:** We use your personal information to research, build, train and improve our AI models.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S104",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "This includes our models learning patterns in speech and audio.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S105",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "For more information about our training practices, and controls we offer you, see here.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S106",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Inputs & Outputs; Device Information; Usage Information; Publicly Available or Licensed Information; Information from Partners.",
+          "labels": [
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S107",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Legitimate interests - namely to develop and improve our Services.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S108",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Or, if required by law - with your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S109",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Marketing and advertising to you on our Service and third party services:** We may use your personal information to serve you with more relevant marketing and advertising on our Services as well as on third-party websites, apps, digital properties, and to measure the effectiveness of such activities.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S110",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "We do not use voice data to target individuals.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S111",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: Location Information; Device Information; Usage Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S112",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: Depending on the circumstances and applicable law: Consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S113",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Or, if permitted by law, legitimate interests - namely our interest in promoting our Services and understanding the effectiveness of these campaigns.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S114",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "**Other purposes:** If we intend to use your personal information for other purposes, we will make this clear when the personal information is collected.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S115",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Data Categories: As indicated at the point we collect this information.",
+          "labels": []
+        },
+        {
+          "id": "S116",
+          "section": "3. How We Use Your Personal Information and Our Legal Basis",
+          "text": "Legal basis: As indicated at the point we collect this information.",
+          "labels": []
+        },
+        {
+          "id": "S117",
+          "section": "4. Data Recipients",
+          "text": "We share your personal information with third parties that support us in providing and marketing our Services and where necessary, to protect and support our business interests and the interests of our users.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S118",
+          "section": "4. Data Recipients",
+          "text": "We may share your personal information with the following categories of recipients.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S119",
+          "section": "4. Data Recipients",
+          "text": "**Affiliates.** We may share your personal information with the ElevenLabs group of companies for the purposes described in this policy.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S120",
+          "section": "4. Data Recipients",
+          "text": "You can see the names of our \"Affiliates\" listed in our Trust Center.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "4. Data Recipients",
+          "text": "**Vendors and Service Providers.** We share your personal information with vendors and service providers who help us run the Services and handle data on our behalf.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S122",
+          "section": "4. Data Recipients",
+          "text": "They help with things like content moderation, service eligibility, intellectual property protection, analytics, web hosting, data analysis or enrichment, advertising, marketing, IT, customer service and auditing.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S123",
+          "section": "4. Data Recipients",
+          "text": "We also share information with vendors and partners who work with us to provide parts of our Services, such as payment processing and background checks.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S124",
+          "section": "4. Data Recipients",
+          "text": "You can find out more information about these categories of recipients here.",
+          "labels": []
+        },
+        {
+          "id": "S125",
+          "section": "4. Data Recipients",
+          "text": "**Other Users and Third Parties through Sharing Features.** If you choose to use sharing features, we share your information with other users — for example, if you add your voice model to the Voice Library, your voice is available to users of that service.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S126",
+          "section": "4. Data Recipients",
+          "text": "Other features may allow you to share information directly with other users or with unaffiliated third parties that process the data in accordance with their own privacy policies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S127",
+          "section": "4. Data Recipients",
+          "text": "Only share information with those you trust.",
+          "labels": []
+        },
+        {
+          "id": "S128",
+          "section": "4. Data Recipients",
+          "text": "**Partners.** We share your personal information with third party partners who help us advertise and promote our Services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S129",
+          "section": "4. Data Recipients",
+          "text": "This includes companies that help us with background checks, analytics and advertising partners, payment processors or partners who may jointly develop or promote our services.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S130",
+          "section": "4. Data Recipients",
+          "text": "**When the law requires it, or to protect rights.** We may share your personal information with law enforcement, regulators, and public authorities.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S131",
+          "section": "4. Data Recipients",
+          "text": "We may share it as part of legal proceedings.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S132",
+          "section": "4. Data Recipients",
+          "text": "We also do this where we believe it's needed for a legal process or to follow an order from a court, regulator or other authority.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S133",
+          "section": "4. Data Recipients",
+          "text": "We also do this to protect your, our, or other people's rights, property, or safety, or to find, stop, or report illegal activity.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S134",
+          "section": "4. Data Recipients",
+          "text": "**Business sale or reorganisation.** We may be involved in a merger sale or reorganisation.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S135",
+          "section": "4. Data Recipients",
+          "text": "This could affect some of all of our business.",
+          "labels": []
+        },
+        {
+          "id": "S136",
+          "section": "4. Data Recipients",
+          "text": "If so, we may share your personal information with advisers, possible buyers, and others involved in the deal.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S137",
+          "section": "4. Data Recipients",
+          "text": "**Other Data Recipients.** We will only disclose your information to other third-parties with your consent or where we are required or permitted by law to do so.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S138",
+          "section": "5. International Data Transfers",
+          "text": "ElevenLabs may transfer your personal information to recipients based outside of the country that you reside.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S139",
+          "section": "5. International Data Transfers",
+          "text": "Where it does, it will implement measures to ensure the adequate protection of your information.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S140",
+          "section": "5. International Data Transfers",
+          "text": "Our affiliates, partners, and service providers work in many countries.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S141",
+          "section": "5. International Data Transfers",
+          "text": "So when you use our Services, your personal information may move outside the area where you live.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S142",
+          "section": "5. International Data Transfers",
+          "text": "Wherever you are, your personal information will be transferred to the United States for storage.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S143",
+          "section": "5. International Data Transfers",
+          "text": "Some countries set extra rules for moving personal information outside the place you live.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S144",
+          "section": "5. International Data Transfers",
+          "text": "Depending on where you live, we protect your information in the following ways.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S145",
+          "section": "5. International Data Transfers",
+          "text": "We may only send it only to countries that relevant authorities have decided will adequately protect it.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S146",
+          "section": "5. International Data Transfers",
+          "text": "We may use approved contract terms, such as the EU Standard Contractual Clauses, the Brazil Standard Contractual Clauses, or, in Japan, contracts with safeguards equal to Japanese data protection law).",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S147",
+          "section": "5. International Data Transfers",
+          "text": "We may rely on another legal ground such as your consent.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S148",
+          "section": "5. International Data Transfers",
+          "text": "Please refer to the Additional Information for Specific Countries for further information for those territories.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S149",
+          "section": "5. International Data Transfers",
+          "text": "For more information about how we transfer personal information or to obtain a copy of the contractual safeguards we use for such transfers (to the extent you are entitled to this under applicable law), you may contact us using the contact details indicated in the “Contact Us” section below.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S150",
+          "section": "5. International Data Transfers",
+          "text": "Please note that the data protection laws in the locations where we transfer or process data may differ from those in your area.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S151",
+          "section": "6. Data Retention",
+          "text": "We generally keep your personal information for as long as necessary to provide you with our Services or as otherwise required or permitted by law or to protect our rights.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S152",
+          "section": "6. Data Retention",
+          "text": "After this we will either securely delete or de-identify it.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S153",
+          "section": "6. Data Retention",
+          "text": "We keep your personal information only as long as we need it for the reasons we collected it, for example, for as long as you have an account with us, or as long as the law requires.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S154",
+          "section": "6. Data Retention",
+          "text": "We take measures to delete your personal information or de-identify it when no longer needed unless we are required or permitted by law to keep this information for a longer period.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S155",
+          "section": "6. Data Retention",
+          "text": "To decide how long to keep information, we weigh several things.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S156",
+          "section": "6. Data Retention",
+          "text": "These include the type of information, the Service you used, how long our relationship lasts, any time periods the law sets, and any time limits for legal claims.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S157",
+          "section": "6. Data Retention",
+          "text": "We won't keep data we generate about your voice for longer than 3 years after your last interaction with us, unless the law requires or allows otherwise.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S158",
+          "section": "7. Cookies",
+          "text": "Our Services use cookies and similar technologies to make them work, to improve them, to allow us to understand how you engage with them and for marketing and advertising.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S159",
+          "section": "7. Cookies",
+          "text": "Cookies, pixel tags, SDKs, or similar technologies (which we refer to collectively as “Cookies”) are technologies used to collect information about a user's device and their activities on a website, app or online service.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S160",
+          "section": "7. Cookies",
+          "text": "We and our partners, such as analytics and advertising partners, may collect information from your device using Cookies to understand your online activities over time and across different services (including our Services).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S161",
+          "section": "7. Cookies",
+          "text": "The information we may collect via Cookies is described in the “Information we collect automatically” part of Section 2 of this Policy.",
+          "labels": []
+        },
+        {
+          "id": "S162",
+          "section": "7. Cookies",
+          "text": "**Types of Cookies** Cookies set by us are called “first party Cookies”.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S163",
+          "section": "7. Cookies",
+          "text": "We also use third-party Cookies; these are set by a domain different to the one you are accessing.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S164",
+          "section": "7. Cookies",
+          "text": "We may use both session cookies and persistent Cookies.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S165",
+          "section": "7. Cookies",
+          "text": "A session Cookie disappears after you close your browser.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S166",
+          "section": "7. Cookies",
+          "text": "A persistent Cookie remains and may be used by your browser on subsequent visits to our Services.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S167",
+          "section": "7. Cookies",
+          "text": "Cookies used on our Services can be categorised as follows: **Strictly Necessary Cookies.** These Cookies are essential to provide our Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S168",
+          "section": "7. Cookies",
+          "text": "For example, they let you log in and help us to spot bots.",
+          "labels": []
+        },
+        {
+          "id": "S169",
+          "section": "7. Cookies",
+          "text": "You cannot turn these off, because our Services need them.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S170",
+          "section": "7. Cookies",
+          "text": "**Preferences.** These Cookies remember things that change how our Services work or look, such as your language or region.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S171",
+          "section": "7. Cookies",
+          "text": "**Statistics.** These Cookies help us see how our Services perform and how visitors use them.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S172",
+          "section": "7. Cookies",
+          "text": "**Marketing.** These Cookies are used to track users across our Services and third party services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S173",
+          "section": "7. Cookies",
+          "text": "These Cookies help us to deliver more relevant marketing and advertising and measure how well our campaigns work.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S174",
+          "section": "7. Cookies",
+          "text": "Depending on your location, we may ask for your consent before we use any non-essential Cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S175",
+          "section": "7. Cookies",
+          "text": "You can manage your choices through the Cookie Settings link on the footer of our website.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S176",
+          "section": "7. Cookies",
+          "text": "In addition, you have the following controls concerning the use of Cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S177",
+          "section": "7. Cookies",
+          "text": "**Browser Settings.** Certain web browsers allow you to refuse Cookies or delete certain Cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S178",
+          "section": "7. Cookies",
+          "text": "Please note that if you choose to block all Cookies, doing so may impair your use of our Services.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S179",
+          "section": "7. Cookies",
+          "text": "**Google Analytics Opt-out.** To opt out from Google Analytics' use of information collected on the Services through Cookies, you can download the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S180",
+          "section": "7. Cookies",
+          "text": "**Universal Opt-out Signals.** If you choose to use a tool to communicate your consent choices automatically through a legally determined opt-out preference signal, such as Global Privacy Control/GPC, on your browser or device, ElevenLabs will honor those signals as a request to opt-out of targeting & marketing cookies.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C8",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S181",
+          "section": "8. Your Rights",
+          "text": "Data protection laws give some people certain rights in relation to their personal information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S182",
+          "section": "8. Your Rights",
+          "text": "You can exercise these rights in your account settings or via our online form.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S183",
+          "section": "8. Your Rights",
+          "text": "**(a) Your Rights** Data protection laws give individuals certain rights regarding the collection and use of their personal information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S184",
+          "section": "8. Your Rights",
+          "text": "Depending on the laws that apply in your country and that we are subject to, you may have the right to do the following.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S185",
+          "section": "8. Your Rights",
+          "text": "To ask for a copy of your personal information.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S186",
+          "section": "8. Your Rights",
+          "text": "To ask us to correct personal information about you that is wrong.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S187",
+          "section": "8. Your Rights",
+          "text": "To ask us to restrict, delete or where applicable, anonymize your personal information.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S188",
+          "section": "8. Your Rights",
+          "text": "To ask us to transfer your personal information (portability).",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S189",
+          "section": "8. Your Rights",
+          "text": "To object to some uses of your information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S190",
+          "section": "8. Your Rights",
+          "text": "For example: Opt out of training: You can opt out of our use of your personal information at any time by navigating to the 'Data use' menu in the 'Terms and Privacy' section of your ElevenLabs account.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S191",
+          "section": "8. Your Rights",
+          "text": "The opt-out only applies to and affects use of your personal information for training after you opt-out.",
+          "labels": [
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            },
+            {
+              "item": "T6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S192",
+          "section": "8. Your Rights",
+          "text": "To opt-out of marketing communications that we send you.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S193",
+          "section": "8. Your Rights",
+          "text": "Specifically, you can: Deactivate Push Notifications: You can deactivate push notifications that you have enabled at any time by changing the notification settings on your mobile device.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S194",
+          "section": "8. Your Rights",
+          "text": "Unsubscribe from Marketing Emails: You can unsubscribe from marketing emails at any time by following the instructions contained within the email or by using this unsubscribe form.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S195",
+          "section": "8. Your Rights",
+          "text": "Please be aware that you may continue to receive promotional communications from us for a short time after opt-out while your request is processed.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S196",
+          "section": "8. Your Rights",
+          "text": "Note that you will still receive service related communications (i.e.",
+          "labels": []
+        },
+        {
+          "id": "S197",
+          "section": "8. Your Rights",
+          "text": "emails sent about account or customer service related matters) after you have opted out of marketing.",
+          "labels": []
+        },
+        {
+          "id": "S198",
+          "section": "8. Your Rights",
+          "text": "To withdraw your consent to any processing that is based on your consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S199",
+          "section": "8. Your Rights",
+          "text": "To complain to your local privacy regulator about our use of your personal information.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S200",
+          "section": "8. Your Rights",
+          "text": "We ask that you contact us first, so we can try to help, but you do not have to.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S201",
+          "section": "8. Your Rights",
+          "text": "**(b) Exercising Your Rights** You can exercise some of your rights directly via your account or account settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S202",
+          "section": "8. Your Rights",
+          "text": "For example, you can access and correct some of the personal information we process via your account or delete your account.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S203",
+          "section": "8. Your Rights",
+          "text": "Alternatively, you can exercise any of these rights via our online form (or to the extent that the online form is unavailable, by emailing our Data Protection Officer at the following email address: dpo@elevenlabs.io).",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S204",
+          "section": "8. Your Rights",
+          "text": "Using this form enables us to collect information we need to verify your identity, and manage your request more efficiently.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S205",
+          "section": "8. Your Rights",
+          "text": "Similarly, if submitting a request via email, please specify the right you would like to exercise and the country you reside in.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S206",
+          "section": "8. Your Rights",
+          "text": "We will fulfil any rights requests in accordance with applicable data protection laws.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S207",
+          "section": "9. Third Parties",
+          "text": "We are not responsible for the privacy practices of any third party services that our Services may link to.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S208",
+          "section": "9. Third Parties",
+          "text": "Our Services may link to other websites, products, or services that we do not run.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S209",
+          "section": "9. Third Parties",
+          "text": "We are not responsible for how those companies handle privacy.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S210",
+          "section": "9. Third Parties",
+          "text": "This Policy does not apply to what you do on those websites, products or services.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S211",
+          "section": "9. Third Parties",
+          "text": "We encourage you to read their privacy policies before providing any information to them.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S212",
+          "section": "10. Children's Privacy",
+          "text": "Our Services are not intended for, and we do not knowingly process personal information of, anyone under 18.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S213",
+          "section": "10. Children's Privacy",
+          "text": "Our Services are not meant for or directed at children under the age of 18.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S214",
+          "section": "10. Children's Privacy",
+          "text": "We do not knowingly collect, store, or use personal information of anyone under 18.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S215",
+          "section": "10. Children's Privacy",
+          "text": "If you are under 18, you are not allowed to send us any personal information.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S216",
+          "section": "10. Children's Privacy",
+          "text": "If we become aware that we have inadvertently received personal information from or about a child under the age of 18, we will delete it.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S217",
+          "section": "10. Children's Privacy",
+          "text": "Additionally, all users are strictly prohibited from uploading, transmitting, emailing, or otherwise providing us with voice data from or about anyone under the age of 18.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S218",
+          "section": "10. Children's Privacy",
+          "text": "If you believe we may have inadvertently processed such personal information, please contact us at dpo@elevenlabs.io.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S219",
+          "section": "11. Updates to this Policy",
+          "text": "We will notify you of any significant changes to this Policy.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S220",
+          "section": "11. Updates to this Policy",
+          "text": "We may update this Policy from time to time.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S221",
+          "section": "11. Updates to this Policy",
+          "text": "We will tell you if we make any material changes to the Policy as the law requires.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S222",
+          "section": "11. Updates to this Policy",
+          "text": "To see when this Policy was last updated, please see the “Updated” date at the top.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S223",
+          "section": "12. Contact Us",
+          "text": "For any questions regarding this Policy or our processing of your personal information, please contact our Data Protection Officer at dpo@elevenlabs.io.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S224",
+          "section": "12. Contact Us",
+          "text": "You may also write to our Data Protection Office at: Data Protection Office Eleven Labs Inc.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S225",
+          "section": "12. Contact Us",
+          "text": "169 Madison Ave #2484 New York, NY 10016 United States",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S226",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Certain countries require us to provide you with additional information about our processing of your personal information.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S227",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "If you are located in Brazil, the EEA/UK or Switzerland, India or the United States, please note the additional information below.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S228",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**(a) Additional Information for Residents of Brazil** For residents of Brazil, our Data Protection Officer is Paulo Eduardo Lilia, who can be reached at dpo@elevenlabs.io.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S229",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**(b) Additional Information for Residents of the EEA/UK or Switzerland** If you are a resident in the European Economic Area (“EEA”), UK or Switzerland then please note the following additional information: **Data controller:** The data controller is: ElevenLabs Poland sp.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S230",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "z o.o.",
+          "labels": []
+        },
+        {
+          "id": "S231",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Plac Marszałka Józefa Piłsudskiego 8, 00-073 Warsaw Poland You can contact ElevenLabs Poland sp.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S232",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Z.o.o using the details provided above or by email to dpo@elevenlabs.io **International transfers:** If ElevenLabs transfers your personal information to a country outside of the EEA (for EEA residents), the UK (for UK residents) or Switzerland (for Swiss residents) we will ensure that these transfers comply with the laws in the country in which you reside.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S233",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "In practice, this means that ElevenLabs will only transfer your personal information to a non-EEA, UK or Swiss recipient either where: (i) Adequacy - the recipient is located in a country that the European Commission, the UK Secretary of State and/or Swiss Federal Council has decided is adequate to receive personal information from the country in which you reside (as applicable).",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S234",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "This includes for example transfers made to recipients certified under the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S235",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Data Privacy Framework (EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S236",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "DPF), the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S237",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "DPF, and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S238",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Data Privacy Framework (Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S239",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "DPF); (ii) Standard Contractual Clauses - the recipient has signed appropriate contractual terms with ElevenLabs that incorporate the European Commission's Standard Contractual Clauses or the UK Information Commissioner's International Data Transfer Agreement or International Data Transfer Addendum (as applicable); or (iii) Derogation - a data transfer derogation applies (for example, where you have consented to the transfer of your personal information).",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S240",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**ElevenLabs' DPF Certification** For transfers from the EU, UK and Switzerland to ElevenLabs in the United States, ElevenLabs relies on and complies with the EU-U.S.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S241",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Data Privacy Framework (EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S242",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "DPF), the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S243",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "DPF, and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S244",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Data Privacy Framework (Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S245",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "DPF) as set forth by the U.S.",
+          "labels": []
+        },
+        {
+          "id": "S246",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Department of Commerce.",
+          "labels": []
+        },
+        {
+          "id": "S247",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "You can find further information about our DPF Certification and commitment to the DPF at elevenlabs.io/eu-us-data-privacy-framework-policy.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S248",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Please note that this certification applies only to ElevenLabs' U.S.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S249",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "entity.",
+          "labels": []
+        },
+        {
+          "id": "S250",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Transfers of personal information out of the EEA, UK and/or Switzerland to our other entities are carried out in reliance on one of the measures above.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S251",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "We have implemented transfer impact assessments for transfers that rely on the Standard Contractual Clauses.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S252",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "If you have further questions about our international data transfers and the specific measures we use in any case, you can contact us using the information in the “Contact Us” section.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S253",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**(c) Additional Information for Residents of India** If you are a resident in India, in addition to the rights set out in the “Your Rights” section above, you also have the following rights regarding your personal information: **Right to nominate:** You have the right to nominate any individual who will exercise the rights available to you in case of your death or incapacity.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S254",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**Right of grievance redressal:** You have the right to contact us about how we process your personal information, our obligations in relation to such personal information and/or with regard to your rights regarding such personal information.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            },
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S255",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "You may exercise these rights by contacting us as described in Section 12, unless otherwise required under the law.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S256",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**d) Additional Information for Residents of the United States** Some U.S.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S257",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "state privacy laws require specific disclosures and provide certain privacy rights to their residents, which we cover in this section.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S258",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "This section also serves as our California notice at collection.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S259",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "In other sections of this Policy, we explain the categories of personal information we collect, the sources from which we collect it, how we use the personal information we collect, including information that may be “sensitive” under state privacy laws, and for how long we retain the personal information we collect, and the circumstances in which we disclose it.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            },
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S260",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**Your Access, Correction, and Deletion Rights** If you live in a state covered by this section you have the access, correction, and deletion rights set out in the “Your Rights” section above, which you can exercise using the methods we describe in that section.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S261",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "To verify your identity in connection with a rights request, we may ask you to authenticate through your account on our Services or otherwise provide information reasonably necessary for verification purposes.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S262",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "If you live in California, you may use an authorized agent to make requests to access, correct, or delete your personal information.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S263",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "Authorized agents may make requests by emailing dpo@elevenlabs.io.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S264",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "We will ask authorized agents to provide proof of their authority to operate on your behalf and may also ask you to verify your identity with us.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S265",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "**Your Right to Opt Out of Sales, Sharing for Cross-Context Behavioral Advertising, and Targeted Advertising** We share limited personal information with advertising partners, social networks, and affiliate marketing companies that help us promote our Services on third-party properties, including through targeting Cookies.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S266",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "These data disclosures are considered sharing for cross-context behavioral advertising or targeted advertising, and may also be considered “selling” personal information, under certain state privacy laws.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S267",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "The categories of personal information we share for these purposes include identifiers (like your IP address, an advertising ID, or a hashed version of your email address or phone number), electronic network activity information (like the page of our website that you visited), and commercial information (like whether you're a paid subscriber).",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S268",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "You can opt out by clicking 'Your Privacy Choices' in the website footer and adjusting your settings.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S269",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "You can also opt out by visiting our Services with a legally recognized opt-out mechanism enabled, such as the Global Privacy Control.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C8",
+              "stance": "mentions"
+            },
+            {
+              "item": "C9",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S270",
+          "section": "13. Additional Information for Specific Countries",
+          "text": "We do not knowingly “sell” or “share” personal information of individuals under the age of 18.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            },
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S14"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S15"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S37"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S53"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S103"
+        }
+      ]
+    },
+    "C2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S117"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S119"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S121"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S125"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S130"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S265"
+        }
+      ]
+    },
+    "C3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S175"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S182"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S190"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S194"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S198"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S268"
+        }
+      ]
+    },
+    "C4": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S185"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S186"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S187"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S202"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S260"
+        }
+      ]
+    },
+    "C5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S151"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S153"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S157"
+        }
+      ]
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S219"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S220"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S221"
+        }
+      ]
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S138"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S142"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S226"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S229"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S253"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S256"
+        }
+      ]
+    },
+    "C10": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S13"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S212"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S214"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S223"
+        }
+      ]
+    },
+    "T1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S103"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S104"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S190"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S191"
+        }
+      ]
+    },
+    "T2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S190"
+        }
+      ]
+    },
+    "T3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S103"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S104"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S106"
+        }
+      ]
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S7"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S8"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S9"
+        }
+      ]
+    },
+    "T6": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S191"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S122"
+        }
+      ]
+    }
+  }
+}

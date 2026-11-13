@@ -11,13 +11,12 @@ the 16-item rubric from the text alone. They are a starting point, not
 gold labels: every item state and sentence label needs human review
 before it is used as training or evaluation data.
 
-- **elevenlabs and suno ai-pass1 labels are DEFERRED** to a follow-up
-  pass: their source texts were replaced with current official
-  versions after this pass, so labels against the old texts would be
-  invalid (sentence IDs changed). No `elevenlabs.ai-pass1.json` or
-  `suno.ai-pass1.json` exists in this directory. The follow-up pass
-  (same blind rules) will also cover khanmigo and quillbot once their
-  templates exist.
+- **All 34 policies are now labeled.** The follow-up pass (same blind
+  rules) completed 2026-11-12 for khanmigo, quillbot, elevenlabs, and
+  suno — the elevenlabs/suno labels are against the current official
+  texts, not the replaced provisional versions. Full totals: 353 stated
+  / 67 partially stated / 124 not stated / 0 contradictory (of 544
+  items).
 - Zero items were judged "contradictory" in this pass; treat that as
   a property of the pass, not of the policies.
 

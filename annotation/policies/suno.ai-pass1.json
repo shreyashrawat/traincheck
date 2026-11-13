@@ -1,0 +1,2321 @@
+{
+  "policy_id": "suno",
+  "source_url": "https://suno.com/privacy",
+  "annotator": "ai-pass1",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Notice\n\nLast Modified: June 23, 2026\n\nThis Privacy Notice explains how information about you is collected, used, shared, stored and secured by Suno, Inc. and our affiliates and subsidiaries (collectively referred to as \"Suno,\" \"we,\" \"our\" and \"us\") when you use our websites, mobile applications, products, services and/or datasets (collectively, the \"Services\") or when you otherwise interact with us. This Privacy Notice also explains your choices regarding your information.\n\n## Overview\n\nSuno is committed to protecting your privacy and complying with all applicable laws in collecting and processing personal information.\n\nOur Services contain links to other websites operated by third parties as well as certain features that allow you to initiate interactions between the Services and third-party services or platforms, such as social networks through “liking” or “sharing” our content. Information collected by such third parties is governed by their privacy policies which we encourage you to review to learn about the privacy practices of those third parties. We are not responsible for the privacy or security of, or information found on, these sites or platforms. Information you provide on public or semi-public venues, such as third-party social networking platforms, may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use. Our inclusion of such links or features does not, by itself, imply any endorsement of the content on such platforms or of their owners or operators.\n\n## What Information We Collect\n\nWe collect information about you when you provide it to us, when you use the Services, and/or when other sources provide it to us. We collect Contact Information, User Account Information, User Activity Information, and Content, as such terms are defined below. The specific types of information included in each of these categories are described in more detail below.\n\n**1. Information You Provide to Us, including through the Services.** We collect information about you when you input it into the Services (such as completing a web form, creating or accessing your account, or using our chat function) or otherwise provide it directly to us. For example, we collect information when you submit a request for a demonstration or customer support or otherwise communicate with us, or when we establish an account for you. The types of information we collect may include but are not limited to your contact information or your billing contact information (such as your name, physical addresses or geographic location, email addresses and phone numbers), your employer or other company affiliation, your business title, your birthday, and any other information you choose to provide (collectively, \"Contact Information\"). If we establish an account for you for use of paid and/or secured access portions of the Services, such as an account established in connection with a license to use software platforms and applications (collectively, the \"Platform\"), we also collect your username and password for said account, and information about your subscription tier and transactions (collectively, \"User Account Information\"). Our payment processors also collect payment information to provide paid access to the Services, as described further under the heading \"Payment Processing\" below. Finally, if you use our Services to record or upload data, music, sound, photographs, videos, voice recordings, or other Submissions, including to generate and return Output (as such terms are defined in our Terms of Service, and collectively, \"Content\"), we collect the data contained and associated with such Content. Content may constitute or contain personal information, depending on the substance and how it is associated with you and your account. If you use the Services through interactive features that allow you to have conversations or otherwise provide iterative creative inputs (such as through our chat-based creation tools), we collect any information submitted through such interactions, including user prompts, Content, or other inputs you provide to assist in the music creation process (“Interactive Chat Information”). Interactive Chat Information, Contact Information, and User Account Information may be associated with User Activity Information that we collect as described below.\n\n**2. Information We Collect Automatically When You Use the Services.** We collect information about you when you use our Services, including establishing a new account, visiting and browsing our websites, installing and using our mobile applications, and taking certain actions within the Services. For example, we collect and log information about the features you use, your access times, pages viewed, browser type, IP address, Internet service provider and/or mobile carrier, how you found our Services, subscription activity, and information about the computer, phone, tablet or other devices you use to access the Services, including hardware model and operating system and version. In connection with your use of the Services, we log information related to your creation, upload, download, processing, access and playback of media and the associated results generated by the Platform, frequently used search terms, creation of Collections and Watchlists, social interactions such as your “likes” and comments, and other actions taken. We collect the information about you when you use the Services as described in this section above (collectively, \"User Activity Information\") using various technologies, including cookies, as described under the heading \"How We Use Cookies\" below. Please be advised that such tracking will apply across your use of our Services, whether accessed through web, mobile app, or otherwise. We may also use User Activity Information and Content to generate preferences and personalization profiles that reflect your tastes and creative tendencies. Where we provide such features, you will be able to view, edit, and disable your personalization profile through the applicable feature interface.\n\n**3. Information We Collect From Other Sources.** If you use the Services on behalf of a company or other organization (such as your employer), we may collect information about you from such company or organization in order to establish an account for you and/or provide support or other Services to you. We may obtain information about you from third-party partners that market and promote our Services, generate leads for us, resell our Services, or provide other services to us. We also receive information about you from login integration partners when you access the Services through a third party account such as Apple, Discord, Microsoft, or Google. We may also obtain information about you from other sources, including information from publicly and commercially available sources and other third parties, as permitted by law. The information we collect from any of these other sources is generally Contact Information.\n\n## How We Use Your Information\n\nWe use information about you to provide the Services to you, to communicate with you in connection with your use of the Services and/or requests for information, to market and promote products, services and other offerings, to maintain, monitor and secure the Services, for legal and compliance purposes, and to develop and improve our products and services, as follows:\n\n**1. To Provide Services to You.** We use your information, including Contact Information, User Account Information, User Activity Information, Interactive Chat Information, and Content, in order to perform our contract with you, such as to provide Services to you, including to authenticate you when you log in to the Platform (or other Services with secured access), to configure features of the Services for you, to personalize and customize your experience on the Services (for example, by tailoring creative suggestions to your preferences), and to operate the Services.\n\n**2. To Communicate with You.** In order to provide effective Services to you as a matter of our legitimate interests, we use your Contact Information and User Account Information to communicate with you, including in providing support through our telephone, email and chat support channels, and in responding to your requests for information, questions and comments related to Suno's business, products and/or services. From time to time, and in pursuit of the same legitimate interests, we may also send you technical notices, updates, service notifications, security alerts, support, billing and administrative messages in connection with your use of the Services.\n\n**3. To Inform You of Offerings.** In order to maintain our business relationship as a matter of our legitimate interests, or where required with your consent, we use your Contact Information and User Activity Information to communicate with you about products, services, offers, promotions, rewards, and events offered by Suno and to provide news and information that we think will be of interest to you, and to understand how you interact with or respond to such communications and advertisements. You can opt out from receiving these types of communications at any time, as discussed under the heading \"Opt Out From Receiving Communications\" below, and you can restrict some of the User Activity Information we may collect by changing the settings on your browser, as discussed under the heading \"Disabling Cookies and Similar Technologies\" below.\n\n**4. To Maintain, Monitor and Secure the Services.** We use certain User Account Information, User Activity Information, Interactive Chat Information, and Content to monitor and analyze trends, usage and activities in connection with our Services; to monitor, detect, investigate and/or prevent suspicious, fraudulent, unauthorized or illegal activity; and to secure the Services and communicate with you regarding any security incidents. We process your information for these purposes in order to protect or defend the Services, our rights, the rights of our users, or others, as a matter of our legitimate interests to protect our Services or to comply with any applicable legal obligations.\n\n**5. For Legal and Compliance Purposes.** We use Contact Information, User Account Information, User Activity Information, and Content as reasonably necessary to (a) comply with any applicable legal obligation, including any applicable law, regulation, legal process or governmental request, and (b) enforce our agreements, policies and terms of service, to exercise or defend any legal claims, protect us against legal liability, or otherwise protect or defend our rights or property.\n\n**6. To Develop and Improve our Products and Services.** We use certain User Activity Information, Submissions, Interactive Chat Information, and other Content to improve our Services, product offerings, promotional activity, and business, including to train and enhance the models that power our Services as it is in our legitimate interests to improve our Services and provide effective Services to you.\n\n## How We Use Cookies and Similar Technologies\n\nWe use cookies and similar technologies such as pixels, web beacons, and software development kits to collect User Activity Information, including your browsing activities and preferences, to improve and customize your user experience and interactions with us. We or third parties use cookies and similar technologies on the Services for the following purposes:\n\n**1. Necessary purposes.** These are cookies and similar technologies that are required for the operation of certain Services, including, for example, cookies that enable you to log in to secure areas of the Services.\n\n**2. Functionality.** These cookies and similar technologies remember choices you make and are used to recognize you when you log in to the Services. This enables us to personalize the Services for you, greet you by name and remember your preferences (for example, your choice of language or region).\n\n**3. Analytics.** These cookies and similar technologies collect information about how you use the Services. They allow us to recognize and count the number of visitors and to see how visitors move around within the Services.\n\n**4. Targeting or Advertising.** These cookies and similar technologies collect information about your browsing activities in order to understand your interests for marketing purposes. We or third parties may place or recognize these on your browser when you visit certain websites for the purpose of serving you with advertisements regarding our products and services that may be of interest to you. These may also be used for frequency capping purposes (e.g., to ensure we do not display the same advertisement to you repeatedly) and to help us regulate the advertisements you receive and measure their effectiveness. We also use these technologies in our advertisements, email newsletters and/or other communications to collect information such as whether you clicked on an advertisement, opened our communication or clicked on any of the content contained therein. Analytical, targeting and advertising cookies, and the User Activity Information generated from these cookies, are created, stored and/or managed by third-party service providers that provide us with web traffic analytics, sales engagement and marketing automation services, such as Google Analytics.\n\nAnalytical, targeting and advertising cookies, and the User Activity Information generated from these cookies, are created, stored and/or managed by third-party service providers that provide us with web traffic analytics, sales engagement and marketing automation services, such as Google Analytics.\n\n**Disabling Cookies and Similar Technologies**\n\nBy using the Services and allowing cookies and similar technologies to be placed by us, you consent to our use of these technologies and the User Activity Information generated from them. You can withdraw or modify your consent by changing the settings on your browser. However, if you choose to disable this function, your experience using the Services may be diminished and some features may not work as intended. Although your browser may allow you to transmit a “Do Not Track” or “opt-out preference” signal, like many websites, our website is not designed to respond to such signals, and we do not use or disclose your information in any way that would legally require us to recognize opt-out preference signals.\n\n## How We Share Your Information\n\nWe may share information about you as discussed below. We do not sell your information to third parties.\n\n**1. With Other Users.** In connection with your use of certain features of the Services, such as certain sharing and/or collaboration features, we may share information about you (such as your name and email address) and your Content with such other persons, as part of your use of the Services or as otherwise directed by you through your use of relevant features.\n\n**2. With Service Providers.** We work with third parties that provide to us engine or application development and/or processing services; information systems hosting, infrastructure, maintenance, backup, storage, security, support and other information technology-related services; artificial-intelligence or machine-learning services that support certain features of the Services; advertising, marketing and related analytics services; promotion, distribution, resale and support services related to our products and services; consulting and other technical and/or business services, which may require access to information about you to perform such services on our behalf. We share your information with these service providers only for our business purposes pursuant to written contracts. Our contracts with these third-party service providers require protection of your information consistent with this Privacy Notice, and require that they retain, use and disclose your information only as necessary to provide the services in accordance with such contracts.\n\n**3. With Your Consent.** We share information about you with third parties when you give us consent or direct us to do so – for example, if you have agreed to be a reference for Suno or have provided a testimonial regarding our Services, or use login integrations provided by third parties such as Discord and Google.\n\n**4. For Legal and Compliance Purposes.** We may share information about you with a third party if we believe that sharing such information is reasonably necessary to (a) comply with any applicable legal obligation, including applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, or to exercise or defend any legal claims, (c) protect the security or integrity of our products and services, and (d) protect Suno, our customers, employees or other persons from harm, legal liability or illegal activities.\n\n**5. In connection with, or during negotiations of, any merger, sale of all or a portion of our business or assets, bankruptcy, or similar business transaction.** We may, in our legitimate interests or as required by law, share your personal data with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as restructuring, merger, or sale of our assets.\n\n## How We Store and Secure Your Information\n\nSuno is based in the United States, and we generally store your information on servers located in the United States. We also conduct business in other countries, directly or through one of our subsidiaries or partners, and may transfer your information to and/or store it in such other locations as reasonably necessary to provide the Services or for other legitimate business purposes, in accordance with this Privacy Notice.\n\nIf you are a resident in the EEA and / or UK, in order to perform our contract with you and provide our Services to you, your data will be transferred to and processed in the United States. To the extent we further transfer, store or otherwise process your personal data in countries outside the EEA/UK, we will only transfer personal data outside the EEA and/or UK to countries which have been found to have an adequate level of protection for personal data for the purposes of the European and/or United Kingdom General Data Protection Regulation (together, the “GDPR”) or where such transfers are subject to appropriate safeguards. For more information about data transfers, you can contact us at privacy@suno.com.\n\nWhile we have implemented commercially reasonable security measures and safeguards intended to protect your personal information, no measures are impenetrable and we cannot guarantee “perfect security”. Any information you send to use electronically, while using the Services or otherwise interacting with us, may not be secure while in transit. You are solely responsible for protecting your password, limiting access to your devices and signing out of websites after your sessions, and we recommend that you do not use insecure channels to send us information you consider to be sensitive or confidential.\n\n## How Long We Retain Your Information\n\nWe retain your information for as long as is reasonably necessary for the purposes specified in this Privacy Notice. When determining the length of time to retain information, we consider various criteria, including whether we need the information to continue to administer your account, provide the Services, resolve a dispute, enforce our contractual agreements, prevent harm, promote safety, security and integrity, or protect ourselves, including our rights, property or products. To the extent we process your biometric information in connection with the Services, we will retain this data for no longer than three (3) years following your last interaction with us, except as required otherwise by applicable law.\n\n## How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information\n\nYou can choose the types of communications you wish to receive from us, change your information or request that we delete certain information at any time, as follows:\n\n**1. Opt Out From Receiving Communications.** If you do not wish to receive communications from Suno that do not relate directly to your use of the Services (such as newsletters, event notifications or other marketing communications), you can opt out from receiving such communications at any time. We provide a link in all of our electronic marketing communications to allow you to easily \"unsubscribe\" to these communications. You can also notify us that you do not wish to receive further communications by contacting us at privacy@suno.com. Please note that, in connection with your use of certain Services, including the Platform, we will still need to send you certain notifications that relate directly to your use of the Services, such as technical notices, updates, service notifications, security alerts, billing and administrative messages, and will need to communicate with you to provide you with support.\n\n**2. Change Your Information.** You can change or update your information with us at any time. To change or update your information, please contact us at support@suno.ai, or contact your primary Suno support representative. However, if your information has been provided to us by your employer or other company for which we have provisioned your account, updates to certain information on your account must be requested by such company.\n\n**3. Delete Your Information.** You can request that we delete your information at any time, subject to certain exceptions as discussed below. You can request to have your information deleted through our Privacy Center. We will comply with your request within a reasonable period of time; however, in certain circumstances, we may not be able or required to delete all of your information. For example, if we have provisioned a user account for you and you intend to continue to use portions of the Services requiring access through said account, we must retain certain information in order to maintain your account and your access to the Services. We also retain certain information if required in connection with our performance of a contract (such as a license agreement between us and your employer), if required by law or relevant to a legal proceeding, or for other compliance or auditing purposes, as permitted by law. Please note that we may obtain information about you in the future, as discussed under the heading \"Information We Collect From Other Sources,\" and we may not be able to recognize it as your information due to complying with a previous deletion request from you. In this case, you will need to submit a new request if you wish to have your re-added information deleted. In addition, if we have deidentified, anonymized or aggregated data such that it no longer identifies or relates to you, we may retain and use that information for any lawful purpose.\n\n## Payment Processing\n\nWe utilize third-party service providers that act as resellers of, and/or payment processors for the fees payable for, licenses to certain of our Services and/or content that may be purchased through our Services (each, a \"Payment Processor\"). In order to purchase such Services through our Services, you will be required to provide credit/debit card and/or financial institution account information directly to the Payment Processor. Such information is not collected or stored by us.\n\n## Rights of U.S. Residents\n\nThis section applies if you are a resident of the State of California, Colorado or another U.S. state that has passed a privacy law similar to the California Consumer Privacy Act (“CCPA”) and requires specific privacy notice disclosures. For purposes of this section, references to “personal information” shall also include “sensitive personal information” as those terms are defined under the CCPA.\n\nDepending on where you live, you may have certain other rights regarding your personal information (in addition to those discussed elsewhere in this Privacy Notice), including:\n\n**1. Notice of Information Collected and Used.** We collect, use and disclose, and over the past 12 months have collected, used and disclosed the following categories of personal information as described further in this Privacy Notice under the headings \"What Information We Collect\", \"How We Use Your Information\" and \"How we Share Your Information:\" identifiers, personal information listed in the California Customer Records statute, commercial information, Internet and similar network activity information, geolocation information, visual and audio information that you upload to the Services, professional or employment-related information, inferences drawn from any of the above categories of personal information to create a profile reflecting your preferences, characteristics, or tendencies, and account access credentials.* We only use and disclose sensitive personal information for the purposes specified in the CCPA or otherwise in line with your consent. We may disclose your personal information as described in this Privacy Notice under the heading \"How We Share Your Information,\" but we do not \"sell\" or \"share\" your personal information, as those terms are defined in the CCPA and similar U.S. state privacy laws, nor have we done so in the preceding 12 months. Further, we do not have actual knowledge that we sell or share personal information of California residents under 16 years of age.\n\n**2. Right to Know Requests.** You may have a right to request (i) the categories and specific pieces of personal information about you that we have collected, (ii) the categories of sources from which such information was collected, (iii) the business or commercial purposes for which such information was collected and (iv) the categories of third parties with which such information is disclosed and the business purposes for such disclosure.\n\n**3. Right to Delete Requests.** You may have a right to request that we delete personal information we maintain about you.\n\n**4. Right to Correct Requests.** You may have a right to request that we correct inaccurate personal information we maintain about you.\n\n**5. Right to Request Deletion of Visible Content.** California residents under the age of 18 who have registered to use the Services and who posted Content that is visible to other users can request that such Content be removed from the Services. Such request must state that they personally made such Content available to other users and detail where such Content is posted. We will make reasonable good faith efforts to remove the Content from prospective public view or anonymize it so the minor cannot be individually identified in relation to such Content. This removal process cannot ensure complete or comprehensive removal. For instance, third parties may have republished the Content and archived copies of it may be stored by search engines and others that we do not control.\n\nYou may submit a request to exercise any of these rights through our Privacy Center. We will not discriminate against you for exercising these rights. However, we will need to verify your request by asking you to provide at least two pieces of personal information (e.g., full name and email address) as reasonably necessary to properly identify you. You may also designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us. Upon receipt of a verifiable request, we will respond to such request as required by, and subject to certain restrictions and exemptions under, applicable laws. If we deny your request, you may appeal our decision by contacting us by email at privacy@suno.com.\n\n## Rights of EEA Residents\n\nIf you are a resident of the European Economic Area (EEA) and/or UK, you have certain rights regarding our processing of your personal data (in addition to those discussed elsewhere in this Privacy Notice):\n\n**1. Access:** You have the right to receive a copy of your information that we process.\n\n**2. Portability:** You have the right to request that we transfer your data in an easily readable format to another company.\n\n**3. Restriction of processing to storage only:** You have the right to require us to stop processing the personal information we hold about you, other than for storage purposes, in certain circumstances.\n\n**4. Objection:** You have the right to object to our processing of your personal information in certain circumstances.\n\n**5. Withdrawal of consent:** Where we rely on consent to process your personal information, you have the right to withdraw this consent.\n\n**6. Complaints:** If you have complaints about how we process your personal data, please contact us and we will respond to your request as soon as possible. If you think we have infringed data protection laws, you have the right to file a complaint with the data protection supervisory authority in the EEA country in which you live or work or where you think we have infringed data protection laws, or with the UK Information Commissioner's Office, as applicable to you.\n\nPlease note that a number of these rights only apply in certain circumstances, and all of these rights may be limited by law. For example, where fulfilling your request would adversely affect other individuals or our trade secrets or intellectual property, where there are overriding public interests or where we are required by law to retain your personal information.\n\nTo exercise any of these rights, you can contact us online by email at privacy@suno.com or through our Privacy Center. We will respond to requests to exercise these rights without undue delay and at least within one month (though this may be extended by a further two months in certain circumstances).\n\n## Other Important Privacy Information\n\n**Suno Acting as a Data Processor**\n\nIn connection with the use of certain Services by our customers or other parties, such as under license agreements pertaining to use of our Platform and related Services, our customers or other parties and their designated end users may upload, process, store and/or share data through the Services (or may provide data to us through other means for processing), the contents of which are generally not known to us but may contain personal information. In these circumstances, we are acting as a \"data processor\" or \"service provider\". We process such data in accordance with the terms and conditions of our written agreements with, and any related instructions received from, such customers and other parties. This Privacy Notice does not apply to our processing of information as a data processor/service provider.\n\n**Use by Children**\n\nOur Services are not intended to be used by individuals under the age of 13, and we do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us at privacy@suno.com.\n\n**Additional Information About Biometric Data**\n\nWhen you choose to use certain voice-enabled features of the Services, we may collect, store, use, and otherwise process voice recordings to create voice models and generate audio Outputs. For example, when you use our Voices feature, we analyze characteristics of speech and develop a voice model capable of generating audio that resembles your voice. This process involves the processing of data that may be considered biometric identifiers or biometric information depending on where you reside, what laws apply, and how we use the information. We use this information to provide and develop our Services, including to train and enhance the models that power our Services, as further explained in the section above, How We Use Your Information. We may disclose this information to our affiliates and service providers to provide and develop our Services, as further explained in the section above, How We Share Your Information. We will retain this information for no longer than three (3) years following your last interaction with us (at which point, we will erase the informat, except as required otherwise by applicable law.\n\n**Data Protection Representatives**\n\nVeraSafe has been appointed as Suno's representative for data protection matters in the European Union and the United Kingdom, pursuant to Article 27 of the EU General Data Protection Regulation and Article 27 of the UK General Data Protection Regulation, respectively. If you are located in the European Economic Area or the United Kingdom, VeraSafe can be contacted in addition to privacy@suno.com, only on matters related to the processing of personal data.\n\nTo make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative\n\nAlternatively, VeraSafe can be contacted at:\n\nEuropean Union: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland — Tel: +420 228 881 031\n\nUnited Kingdom: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom — Tel: +44 (20) 4532 2003\n\n**Changes to our Privacy Notice**\n\nWe may change this Privacy Notice from time to time. We will post any Privacy Notice changes on this page, with a revised date at the top of this page. If the changes are material, we will provide a more prominent notice by adding a notice on the homepages of our websites or login screens for the Services, or by sending you an email notification. We encourage you to review the Privacy Notice whenever you access the Services to stay informed about our data privacy practices and your choices regarding your information.\n\nIf you disagree with this Privacy Notice and/or any changes hereto, you will need to stop using the Services.\n\n**Contact**\n\nIf you have any questions or concerns regarding this Privacy Notice, please email us at privacy@suno.com.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Privacy Notice",
+          "text": "Last Modified: June 23, 2026 This Privacy Notice explains how information about you is collected, used, shared, stored and secured by Suno, Inc.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S2",
+          "section": "Privacy Notice",
+          "text": "and our affiliates and subsidiaries (collectively referred to as \"Suno,\" \"we,\" \"our\" and \"us\") when you use our websites, mobile applications, products, services and/or datasets (collectively, the \"Services\") or when you otherwise interact with us.",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Privacy Notice",
+          "text": "This Privacy Notice also explains your choices regarding your information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S4",
+          "section": "Overview",
+          "text": "Suno is committed to protecting your privacy and complying with all applicable laws in collecting and processing personal information.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "Overview",
+          "text": "Our Services contain links to other websites operated by third parties as well as certain features that allow you to initiate interactions between the Services and third-party services or platforms, such as social networks through “liking” or “sharing” our content.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S6",
+          "section": "Overview",
+          "text": "Information collected by such third parties is governed by their privacy policies which we encourage you to review to learn about the privacy practices of those third parties.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S7",
+          "section": "Overview",
+          "text": "We are not responsible for the privacy or security of, or information found on, these sites or platforms.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S8",
+          "section": "Overview",
+          "text": "Information you provide on public or semi-public venues, such as third-party social networking platforms, may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S9",
+          "section": "Overview",
+          "text": "Our inclusion of such links or features does not, by itself, imply any endorsement of the content on such platforms or of their owners or operators.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "What Information We Collect",
+          "text": "We collect information about you when you provide it to us, when you use the Services, and/or when other sources provide it to us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S11",
+          "section": "What Information We Collect",
+          "text": "We collect Contact Information, User Account Information, User Activity Information, and Content, as such terms are defined below.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S12",
+          "section": "What Information We Collect",
+          "text": "The specific types of information included in each of these categories are described in more detail below.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "What Information We Collect",
+          "text": "**1.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "What Information We Collect",
+          "text": "Information You Provide to Us, including through the Services.** We collect information about you when you input it into the Services (such as completing a web form, creating or accessing your account, or using our chat function) or otherwise provide it directly to us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S15",
+          "section": "What Information We Collect",
+          "text": "For example, we collect information when you submit a request for a demonstration or customer support or otherwise communicate with us, or when we establish an account for you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S16",
+          "section": "What Information We Collect",
+          "text": "The types of information we collect may include but are not limited to your contact information or your billing contact information (such as your name, physical addresses or geographic location, email addresses and phone numbers), your employer or other company affiliation, your business title, your birthday, and any other information you choose to provide (collectively, \"Contact Information\").",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S17",
+          "section": "What Information We Collect",
+          "text": "If we establish an account for you for use of paid and/or secured access portions of the Services, such as an account established in connection with a license to use software platforms and applications (collectively, the \"Platform\"), we also collect your username and password for said account, and information about your subscription tier and transactions (collectively, \"User Account Information\").",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S18",
+          "section": "What Information We Collect",
+          "text": "Our payment processors also collect payment information to provide paid access to the Services, as described further under the heading \"Payment Processing\" below.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S19",
+          "section": "What Information We Collect",
+          "text": "Finally, if you use our Services to record or upload data, music, sound, photographs, videos, voice recordings, or other Submissions, including to generate and return Output (as such terms are defined in our Terms of Service, and collectively, \"Content\"), we collect the data contained and associated with such Content.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S20",
+          "section": "What Information We Collect",
+          "text": "Content may constitute or contain personal information, depending on the substance and how it is associated with you and your account.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S21",
+          "section": "What Information We Collect",
+          "text": "If you use the Services through interactive features that allow you to have conversations or otherwise provide iterative creative inputs (such as through our chat-based creation tools), we collect any information submitted through such interactions, including user prompts, Content, or other inputs you provide to assist in the music creation process (“Interactive Chat Information”).",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S22",
+          "section": "What Information We Collect",
+          "text": "Interactive Chat Information, Contact Information, and User Account Information may be associated with User Activity Information that we collect as described below.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S23",
+          "section": "What Information We Collect",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "What Information We Collect",
+          "text": "Information We Collect Automatically When You Use the Services.** We collect information about you when you use our Services, including establishing a new account, visiting and browsing our websites, installing and using our mobile applications, and taking certain actions within the Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S25",
+          "section": "What Information We Collect",
+          "text": "For example, we collect and log information about the features you use, your access times, pages viewed, browser type, IP address, Internet service provider and/or mobile carrier, how you found our Services, subscription activity, and information about the computer, phone, tablet or other devices you use to access the Services, including hardware model and operating system and version.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S26",
+          "section": "What Information We Collect",
+          "text": "In connection with your use of the Services, we log information related to your creation, upload, download, processing, access and playback of media and the associated results generated by the Platform, frequently used search terms, creation of Collections and Watchlists, social interactions such as your “likes” and comments, and other actions taken.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S27",
+          "section": "What Information We Collect",
+          "text": "We collect the information about you when you use the Services as described in this section above (collectively, \"User Activity Information\") using various technologies, including cookies, as described under the heading \"How We Use Cookies\" below.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S28",
+          "section": "What Information We Collect",
+          "text": "Please be advised that such tracking will apply across your use of our Services, whether accessed through web, mobile app, or otherwise.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S29",
+          "section": "What Information We Collect",
+          "text": "We may also use User Activity Information and Content to generate preferences and personalization profiles that reflect your tastes and creative tendencies.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S30",
+          "section": "What Information We Collect",
+          "text": "Where we provide such features, you will be able to view, edit, and disable your personalization profile through the applicable feature interface.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S31",
+          "section": "What Information We Collect",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "What Information We Collect",
+          "text": "Information We Collect From Other Sources.** If you use the Services on behalf of a company or other organization (such as your employer), we may collect information about you from such company or organization in order to establish an account for you and/or provide support or other Services to you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S33",
+          "section": "What Information We Collect",
+          "text": "We may obtain information about you from third-party partners that market and promote our Services, generate leads for us, resell our Services, or provide other services to us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S34",
+          "section": "What Information We Collect",
+          "text": "We also receive information about you from login integration partners when you access the Services through a third party account such as Apple, Discord, Microsoft, or Google.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S35",
+          "section": "What Information We Collect",
+          "text": "We may also obtain information about you from other sources, including information from publicly and commercially available sources and other third parties, as permitted by law.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S36",
+          "section": "What Information We Collect",
+          "text": "The information we collect from any of these other sources is generally Contact Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S37",
+          "section": "How We Use Your Information",
+          "text": "We use information about you to provide the Services to you, to communicate with you in connection with your use of the Services and/or requests for information, to market and promote products, services and other offerings, to maintain, monitor and secure the Services, for legal and compliance purposes, and to develop and improve our products and services, as follows: **1.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S38",
+          "section": "How We Use Your Information",
+          "text": "To Provide Services to You.** We use your information, including Contact Information, User Account Information, User Activity Information, Interactive Chat Information, and Content, in order to perform our contract with you, such as to provide Services to you, including to authenticate you when you log in to the Platform (or other Services with secured access), to configure features of the Services for you, to personalize and customize your experience on the Services (for example, by tailoring creative suggestions to your preferences), and to operate the Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S39",
+          "section": "How We Use Your Information",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "How We Use Your Information",
+          "text": "To Communicate with You.** In order to provide effective Services to you as a matter of our legitimate interests, we use your Contact Information and User Account Information to communicate with you, including in providing support through our telephone, email and chat support channels, and in responding to your requests for information, questions and comments related to Suno's business, products and/or services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S41",
+          "section": "How We Use Your Information",
+          "text": "From time to time, and in pursuit of the same legitimate interests, we may also send you technical notices, updates, service notifications, security alerts, support, billing and administrative messages in connection with your use of the Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S42",
+          "section": "How We Use Your Information",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "How We Use Your Information",
+          "text": "To Inform You of Offerings.** In order to maintain our business relationship as a matter of our legitimate interests, or where required with your consent, we use your Contact Information and User Activity Information to communicate with you about products, services, offers, promotions, rewards, and events offered by Suno and to provide news and information that we think will be of interest to you, and to understand how you interact with or respond to such communications and advertisements.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S44",
+          "section": "How We Use Your Information",
+          "text": "You can opt out from receiving these types of communications at any time, as discussed under the heading \"Opt Out From Receiving Communications\" below, and you can restrict some of the User Activity Information we may collect by changing the settings on your browser, as discussed under the heading \"Disabling Cookies and Similar Technologies\" below.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S45",
+          "section": "How We Use Your Information",
+          "text": "**4.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "How We Use Your Information",
+          "text": "To Maintain, Monitor and Secure the Services.** We use certain User Account Information, User Activity Information, Interactive Chat Information, and Content to monitor and analyze trends, usage and activities in connection with our Services; to monitor, detect, investigate and/or prevent suspicious, fraudulent, unauthorized or illegal activity; and to secure the Services and communicate with you regarding any security incidents.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S47",
+          "section": "How We Use Your Information",
+          "text": "We process your information for these purposes in order to protect or defend the Services, our rights, the rights of our users, or others, as a matter of our legitimate interests to protect our Services or to comply with any applicable legal obligations.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S48",
+          "section": "How We Use Your Information",
+          "text": "**5.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "How We Use Your Information",
+          "text": "For Legal and Compliance Purposes.** We use Contact Information, User Account Information, User Activity Information, and Content as reasonably necessary to (a) comply with any applicable legal obligation, including any applicable law, regulation, legal process or governmental request, and (b) enforce our agreements, policies and terms of service, to exercise or defend any legal claims, protect us against legal liability, or otherwise protect or defend our rights or property.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S50",
+          "section": "How We Use Your Information",
+          "text": "**6.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "How We Use Your Information",
+          "text": "To Develop and Improve our Products and Services.** We use certain User Activity Information, Submissions, Interactive Chat Information, and other Content to improve our Services, product offerings, promotional activity, and business, including to train and enhance the models that power our Services as it is in our legitimate interests to improve our Services and provide effective Services to you.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S52",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "We use cookies and similar technologies such as pixels, web beacons, and software development kits to collect User Activity Information, including your browsing activities and preferences, to improve and customize your user experience and interactions with us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S53",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "We or third parties use cookies and similar technologies on the Services for the following purposes: **1.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S54",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Necessary purposes.** These are cookies and similar technologies that are required for the operation of certain Services, including, for example, cookies that enable you to log in to secure areas of the Services.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Functionality.** These cookies and similar technologies remember choices you make and are used to recognize you when you log in to the Services.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "This enables us to personalize the Services for you, greet you by name and remember your preferences (for example, your choice of language or region).",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Analytics.** These cookies and similar technologies collect information about how you use the Services.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S60",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "They allow us to recognize and count the number of visitors and to see how visitors move around within the Services.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "**4.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Targeting or Advertising.** These cookies and similar technologies collect information about your browsing activities in order to understand your interests for marketing purposes.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S63",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "We or third parties may place or recognize these on your browser when you visit certain websites for the purpose of serving you with advertisements regarding our products and services that may be of interest to you.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S64",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "These may also be used for frequency capping purposes (e.g., to ensure we do not display the same advertisement to you repeatedly) and to help us regulate the advertisements you receive and measure their effectiveness.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S65",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "We also use these technologies in our advertisements, email newsletters and/or other communications to collect information such as whether you clicked on an advertisement, opened our communication or clicked on any of the content contained therein.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S66",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Analytical, targeting and advertising cookies, and the User Activity Information generated from these cookies, are created, stored and/or managed by third-party service providers that provide us with web traffic analytics, sales engagement and marketing automation services, such as Google Analytics.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S67",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Analytical, targeting and advertising cookies, and the User Activity Information generated from these cookies, are created, stored and/or managed by third-party service providers that provide us with web traffic analytics, sales engagement and marketing automation services, such as Google Analytics.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S68",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "**Disabling Cookies and Similar Technologies** By using the Services and allowing cookies and similar technologies to be placed by us, you consent to our use of these technologies and the User Activity Information generated from them.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S69",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "You can withdraw or modify your consent by changing the settings on your browser.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S70",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "However, if you choose to disable this function, your experience using the Services may be diminished and some features may not work as intended.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "How We Use Cookies and Similar Technologies",
+          "text": "Although your browser may allow you to transmit a “Do Not Track” or “opt-out preference” signal, like many websites, our website is not designed to respond to such signals, and we do not use or disclose your information in any way that would legally require us to recognize opt-out preference signals.",
+          "labels": [
+            {
+              "item": "C8",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S72",
+          "section": "How We Share Your Information",
+          "text": "We may share information about you as discussed below.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S73",
+          "section": "How We Share Your Information",
+          "text": "We do not sell your information to third parties.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S74",
+          "section": "How We Share Your Information",
+          "text": "**1.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "How We Share Your Information",
+          "text": "With Other Users.** In connection with your use of certain features of the Services, such as certain sharing and/or collaboration features, we may share information about you (such as your name and email address) and your Content with such other persons, as part of your use of the Services or as otherwise directed by you through your use of relevant features.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S76",
+          "section": "How We Share Your Information",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "How We Share Your Information",
+          "text": "With Service Providers.** We work with third parties that provide to us engine or application development and/or processing services; information systems hosting, infrastructure, maintenance, backup, storage, security, support and other information technology-related services; artificial-intelligence or machine-learning services that support certain features of the Services; advertising, marketing and related analytics services; promotion, distribution, resale and support services related to our products and services; consulting and other technical and/or business services, which may require access to information about you to perform such services on our behalf.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S78",
+          "section": "How We Share Your Information",
+          "text": "We share your information with these service providers only for our business purposes pursuant to written contracts.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S79",
+          "section": "How We Share Your Information",
+          "text": "Our contracts with these third-party service providers require protection of your information consistent with this Privacy Notice, and require that they retain, use and disclose your information only as necessary to provide the services in accordance with such contracts.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            },
+            {
+              "item": "C5",
+              "stance": "mentions"
+            },
+            {
+              "item": "C6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S80",
+          "section": "How We Share Your Information",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "How We Share Your Information",
+          "text": "With Your Consent.** We share information about you with third parties when you give us consent or direct us to do so – for example, if you have agreed to be a reference for Suno or have provided a testimonial regarding our Services, or use login integrations provided by third parties such as Discord and Google.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S82",
+          "section": "How We Share Your Information",
+          "text": "**4.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "How We Share Your Information",
+          "text": "For Legal and Compliance Purposes.** We may share information about you with a third party if we believe that sharing such information is reasonably necessary to (a) comply with any applicable legal obligation, including applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, or to exercise or defend any legal claims, (c) protect the security or integrity of our products and services, and (d) protect Suno, our customers, employees or other persons from harm, legal liability or illegal activities.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S84",
+          "section": "How We Share Your Information",
+          "text": "**5.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "How We Share Your Information",
+          "text": "In connection with, or during negotiations of, any merger, sale of all or a portion of our business or assets, bankruptcy, or similar business transaction.** We may, in our legitimate interests or as required by law, share your personal data with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as restructuring, merger, or sale of our assets.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S86",
+          "section": "How We Store and Secure Your Information",
+          "text": "Suno is based in the United States, and we generally store your information on servers located in the United States.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S87",
+          "section": "How We Store and Secure Your Information",
+          "text": "We also conduct business in other countries, directly or through one of our subsidiaries or partners, and may transfer your information to and/or store it in such other locations as reasonably necessary to provide the Services or for other legitimate business purposes, in accordance with this Privacy Notice.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S88",
+          "section": "How We Store and Secure Your Information",
+          "text": "If you are a resident in the EEA and / or UK, in order to perform our contract with you and provide our Services to you, your data will be transferred to and processed in the United States.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S89",
+          "section": "How We Store and Secure Your Information",
+          "text": "To the extent we further transfer, store or otherwise process your personal data in countries outside the EEA/UK, we will only transfer personal data outside the EEA and/or UK to countries which have been found to have an adequate level of protection for personal data for the purposes of the European and/or United Kingdom General Data Protection Regulation (together, the “GDPR”) or where such transfers are subject to appropriate safeguards.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S90",
+          "section": "How We Store and Secure Your Information",
+          "text": "For more information about data transfers, you can contact us at privacy@suno.com.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S91",
+          "section": "How We Store and Secure Your Information",
+          "text": "While we have implemented commercially reasonable security measures and safeguards intended to protect your personal information, no measures are impenetrable and we cannot guarantee “perfect security”.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S92",
+          "section": "How We Store and Secure Your Information",
+          "text": "Any information you send to use electronically, while using the Services or otherwise interacting with us, may not be secure while in transit.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S93",
+          "section": "How We Store and Secure Your Information",
+          "text": "You are solely responsible for protecting your password, limiting access to your devices and signing out of websites after your sessions, and we recommend that you do not use insecure channels to send us information you consider to be sensitive or confidential.",
+          "labels": [
+            {
+              "item": "C6",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S94",
+          "section": "How Long We Retain Your Information",
+          "text": "We retain your information for as long as is reasonably necessary for the purposes specified in this Privacy Notice.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S95",
+          "section": "How Long We Retain Your Information",
+          "text": "When determining the length of time to retain information, we consider various criteria, including whether we need the information to continue to administer your account, provide the Services, resolve a dispute, enforce our contractual agreements, prevent harm, promote safety, security and integrity, or protect ourselves, including our rights, property or products.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S96",
+          "section": "How Long We Retain Your Information",
+          "text": "To the extent we process your biometric information in connection with the Services, we will retain this data for no longer than three (3) years following your last interaction with us, except as required otherwise by applicable law.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "T4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S97",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "You can choose the types of communications you wish to receive from us, change your information or request that we delete certain information at any time, as follows: **1.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S98",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "Opt Out From Receiving Communications.** If you do not wish to receive communications from Suno that do not relate directly to your use of the Services (such as newsletters, event notifications or other marketing communications), you can opt out from receiving such communications at any time.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S99",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "We provide a link in all of our electronic marketing communications to allow you to easily \"unsubscribe\" to these communications.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S100",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "You can also notify us that you do not wish to receive further communications by contacting us at privacy@suno.com.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S101",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "Please note that, in connection with your use of certain Services, including the Platform, we will still need to send you certain notifications that relate directly to your use of the Services, such as technical notices, updates, service notifications, security alerts, billing and administrative messages, and will need to communicate with you to provide you with support.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S102",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "Change Your Information.** You can change or update your information with us at any time.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S104",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "To change or update your information, please contact us at support@suno.ai, or contact your primary Suno support representative.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S105",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "However, if your information has been provided to us by your employer or other company for which we have provisioned your account, updates to certain information on your account must be requested by such company.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S106",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "Delete Your Information.** You can request that we delete your information at any time, subject to certain exceptions as discussed below.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S108",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "You can request to have your information deleted through our Privacy Center.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S109",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "We will comply with your request within a reasonable period of time; however, in certain circumstances, we may not be able or required to delete all of your information.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S110",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "For example, if we have provisioned a user account for you and you intend to continue to use portions of the Services requiring access through said account, we must retain certain information in order to maintain your account and your access to the Services.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S111",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "We also retain certain information if required in connection with our performance of a contract (such as a license agreement between us and your employer), if required by law or relevant to a legal proceeding, or for other compliance or auditing purposes, as permitted by law.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            },
+            {
+              "item": "C5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S112",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "Please note that we may obtain information about you in the future, as discussed under the heading \"Information We Collect From Other Sources,\" and we may not be able to recognize it as your information due to complying with a previous deletion request from you.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S113",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "In this case, you will need to submit a new request if you wish to have your re-added information deleted.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S114",
+          "section": "How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information",
+          "text": "In addition, if we have deidentified, anonymized or aggregated data such that it no longer identifies or relates to you, we may retain and use that information for any lawful purpose.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "mentions"
+            },
+            {
+              "item": "T6",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S115",
+          "section": "Payment Processing",
+          "text": "We utilize third-party service providers that act as resellers of, and/or payment processors for the fees payable for, licenses to certain of our Services and/or content that may be purchased through our Services (each, a \"Payment Processor\").",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S116",
+          "section": "Payment Processing",
+          "text": "In order to purchase such Services through our Services, you will be required to provide credit/debit card and/or financial institution account information directly to the Payment Processor.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S117",
+          "section": "Payment Processing",
+          "text": "Such information is not collected or stored by us.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "denies"
+            },
+            {
+              "item": "C2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S118",
+          "section": "Rights of U.S. Residents",
+          "text": "This section applies if you are a resident of the State of California, Colorado or another U.S.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S119",
+          "section": "Rights of U.S. Residents",
+          "text": "state that has passed a privacy law similar to the California Consumer Privacy Act (“CCPA”) and requires specific privacy notice disclosures.",
+          "labels": []
+        },
+        {
+          "id": "S120",
+          "section": "Rights of U.S. Residents",
+          "text": "For purposes of this section, references to “personal information” shall also include “sensitive personal information” as those terms are defined under the CCPA.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "Rights of U.S. Residents",
+          "text": "Depending on where you live, you may have certain other rights regarding your personal information (in addition to those discussed elsewhere in this Privacy Notice), including: **1.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S122",
+          "section": "Rights of U.S. Residents",
+          "text": "Notice of Information Collected and Used.** We collect, use and disclose, and over the past 12 months have collected, used and disclosed the following categories of personal information as described further in this Privacy Notice under the headings \"What Information We Collect\", \"How We Use Your Information\" and \"How we Share Your Information:\" identifiers, personal information listed in the California Customer Records statute, commercial information, Internet and similar network activity information, geolocation information, visual and audio information that you upload to the Services, professional or employment-related information, inferences drawn from any of the above categories of personal information to create a profile reflecting your preferences, characteristics, or tendencies, and account access credentials.* We only use and disclose sensitive personal information for the purposes specified in the CCPA or otherwise in line with your consent.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S123",
+          "section": "Rights of U.S. Residents",
+          "text": "We may disclose your personal information as described in this Privacy Notice under the heading \"How We Share Your Information,\" but we do not \"sell\" or \"share\" your personal information, as those terms are defined in the CCPA and similar U.S.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S124",
+          "section": "Rights of U.S. Residents",
+          "text": "state privacy laws, nor have we done so in the preceding 12 months.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S125",
+          "section": "Rights of U.S. Residents",
+          "text": "Further, we do not have actual knowledge that we sell or share personal information of California residents under 16 years of age.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "denies"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S126",
+          "section": "Rights of U.S. Residents",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S127",
+          "section": "Rights of U.S. Residents",
+          "text": "Right to Know Requests.** You may have a right to request (i) the categories and specific pieces of personal information about you that we have collected, (ii) the categories of sources from which such information was collected, (iii) the business or commercial purposes for which such information was collected and (iv) the categories of third parties with which such information is disclosed and the business purposes for such disclosure.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S128",
+          "section": "Rights of U.S. Residents",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S129",
+          "section": "Rights of U.S. Residents",
+          "text": "Right to Delete Requests.** You may have a right to request that we delete personal information we maintain about you.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S130",
+          "section": "Rights of U.S. Residents",
+          "text": "**4.",
+          "labels": []
+        },
+        {
+          "id": "S131",
+          "section": "Rights of U.S. Residents",
+          "text": "Right to Correct Requests.** You may have a right to request that we correct inaccurate personal information we maintain about you.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S132",
+          "section": "Rights of U.S. Residents",
+          "text": "**5.",
+          "labels": []
+        },
+        {
+          "id": "S133",
+          "section": "Rights of U.S. Residents",
+          "text": "Right to Request Deletion of Visible Content.** California residents under the age of 18 who have registered to use the Services and who posted Content that is visible to other users can request that such Content be removed from the Services.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S134",
+          "section": "Rights of U.S. Residents",
+          "text": "Such request must state that they personally made such Content available to other users and detail where such Content is posted.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S135",
+          "section": "Rights of U.S. Residents",
+          "text": "We will make reasonable good faith efforts to remove the Content from prospective public view or anonymize it so the minor cannot be individually identified in relation to such Content.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S136",
+          "section": "Rights of U.S. Residents",
+          "text": "This removal process cannot ensure complete or comprehensive removal.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S137",
+          "section": "Rights of U.S. Residents",
+          "text": "For instance, third parties may have republished the Content and archived copies of it may be stored by search engines and others that we do not control.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S138",
+          "section": "Rights of U.S. Residents",
+          "text": "You may submit a request to exercise any of these rights through our Privacy Center.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S139",
+          "section": "Rights of U.S. Residents",
+          "text": "We will not discriminate against you for exercising these rights.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S140",
+          "section": "Rights of U.S. Residents",
+          "text": "However, we will need to verify your request by asking you to provide at least two pieces of personal information (e.g., full name and email address) as reasonably necessary to properly identify you.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S141",
+          "section": "Rights of U.S. Residents",
+          "text": "You may also designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S142",
+          "section": "Rights of U.S. Residents",
+          "text": "Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S143",
+          "section": "Rights of U.S. Residents",
+          "text": "Upon receipt of a verifiable request, we will respond to such request as required by, and subject to certain restrictions and exemptions under, applicable laws.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S144",
+          "section": "Rights of U.S. Residents",
+          "text": "If we deny your request, you may appeal our decision by contacting us by email at privacy@suno.com.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S145",
+          "section": "Rights of EEA Residents",
+          "text": "If you are a resident of the European Economic Area (EEA) and/or UK, you have certain rights regarding our processing of your personal data (in addition to those discussed elsewhere in this Privacy Notice): **1.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S146",
+          "section": "Rights of EEA Residents",
+          "text": "Access:** You have the right to receive a copy of your information that we process.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S147",
+          "section": "Rights of EEA Residents",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S148",
+          "section": "Rights of EEA Residents",
+          "text": "Portability:** You have the right to request that we transfer your data in an easily readable format to another company.",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S149",
+          "section": "Rights of EEA Residents",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S150",
+          "section": "Rights of EEA Residents",
+          "text": "Restriction of processing to storage only:** You have the right to require us to stop processing the personal information we hold about you, other than for storage purposes, in certain circumstances.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S151",
+          "section": "Rights of EEA Residents",
+          "text": "**4.",
+          "labels": []
+        },
+        {
+          "id": "S152",
+          "section": "Rights of EEA Residents",
+          "text": "Objection:** You have the right to object to our processing of your personal information in certain circumstances.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S153",
+          "section": "Rights of EEA Residents",
+          "text": "**5.",
+          "labels": []
+        },
+        {
+          "id": "S154",
+          "section": "Rights of EEA Residents",
+          "text": "Withdrawal of consent:** Where we rely on consent to process your personal information, you have the right to withdraw this consent.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "T2",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S155",
+          "section": "Rights of EEA Residents",
+          "text": "**6.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "Rights of EEA Residents",
+          "text": "Complaints:** If you have complaints about how we process your personal data, please contact us and we will respond to your request as soon as possible.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S157",
+          "section": "Rights of EEA Residents",
+          "text": "If you think we have infringed data protection laws, you have the right to file a complaint with the data protection supervisory authority in the EEA country in which you live or work or where you think we have infringed data protection laws, or with the UK Information Commissioner's Office, as applicable to you.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S158",
+          "section": "Rights of EEA Residents",
+          "text": "Please note that a number of these rights only apply in certain circumstances, and all of these rights may be limited by law.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S159",
+          "section": "Rights of EEA Residents",
+          "text": "For example, where fulfilling your request would adversely affect other individuals or our trade secrets or intellectual property, where there are overriding public interests or where we are required by law to retain your personal information.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S160",
+          "section": "Rights of EEA Residents",
+          "text": "To exercise any of these rights, you can contact us online by email at privacy@suno.com or through our Privacy Center.",
+          "labels": [
+            {
+              "item": "C3",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S161",
+          "section": "Rights of EEA Residents",
+          "text": "We will respond to requests to exercise these rights without undue delay and at least within one month (though this may be extended by a further two months in certain circumstances).",
+          "labels": [
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S162",
+          "section": "Other Important Privacy Information",
+          "text": "**Suno Acting as a Data Processor** In connection with the use of certain Services by our customers or other parties, such as under license agreements pertaining to use of our Platform and related Services, our customers or other parties and their designated end users may upload, process, store and/or share data through the Services (or may provide data to us through other means for processing), the contents of which are generally not known to us but may contain personal information.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S163",
+          "section": "Other Important Privacy Information",
+          "text": "In these circumstances, we are acting as a \"data processor\" or \"service provider\".",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S164",
+          "section": "Other Important Privacy Information",
+          "text": "We process such data in accordance with the terms and conditions of our written agreements with, and any related instructions received from, such customers and other parties.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S165",
+          "section": "Other Important Privacy Information",
+          "text": "This Privacy Notice does not apply to our processing of information as a data processor/service provider.",
+          "labels": [
+            {
+              "item": "T5",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "denies"
+            }
+          ]
+        },
+        {
+          "id": "S166",
+          "section": "Other Important Privacy Information",
+          "text": "**Use by Children** Our Services are not intended to be used by individuals under the age of 13, and we do not knowingly collect personal information from children under 13.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S167",
+          "section": "Other Important Privacy Information",
+          "text": "If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            },
+            {
+              "item": "C4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S168",
+          "section": "Other Important Privacy Information",
+          "text": "If you become aware that a child has provided us with personal information, please contact us at privacy@suno.com.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S169",
+          "section": "Other Important Privacy Information",
+          "text": "**Additional Information About Biometric Data** When you choose to use certain voice-enabled features of the Services, we may collect, store, use, and otherwise process voice recordings to create voice models and generate audio Outputs.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            },
+            {
+              "item": "T3",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S170",
+          "section": "Other Important Privacy Information",
+          "text": "For example, when you use our Voices feature, we analyze characteristics of speech and develop a voice model capable of generating audio that resembles your voice.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S171",
+          "section": "Other Important Privacy Information",
+          "text": "This process involves the processing of data that may be considered biometric identifiers or biometric information depending on where you reside, what laws apply, and how we use the information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S172",
+          "section": "Other Important Privacy Information",
+          "text": "We use this information to provide and develop our Services, including to train and enhance the models that power our Services, as further explained in the section above, How We Use Your Information.",
+          "labels": [
+            {
+              "item": "C1",
+              "stance": "states"
+            },
+            {
+              "item": "T1",
+              "stance": "states"
+            },
+            {
+              "item": "T3",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S173",
+          "section": "Other Important Privacy Information",
+          "text": "We may disclose this information to our affiliates and service providers to provide and develop our Services, as further explained in the section above, How We Share Your Information.",
+          "labels": [
+            {
+              "item": "C2",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S174",
+          "section": "Other Important Privacy Information",
+          "text": "We will retain this information for no longer than three (3) years following your last interaction with us (at which point, we will erase the informat, except as required otherwise by applicable law.",
+          "labels": [
+            {
+              "item": "C5",
+              "stance": "states"
+            },
+            {
+              "item": "T4",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S175",
+          "section": "Other Important Privacy Information",
+          "text": "**Data Protection Representatives** VeraSafe has been appointed as Suno's representative for data protection matters in the European Union and the United Kingdom, pursuant to Article 27 of the EU General Data Protection Regulation and Article 27 of the UK General Data Protection Regulation, respectively.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S176",
+          "section": "Other Important Privacy Information",
+          "text": "If you are located in the European Economic Area or the United Kingdom, VeraSafe can be contacted in addition to privacy@suno.com, only on matters related to the processing of personal data.",
+          "labels": [
+            {
+              "item": "C9",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S177",
+          "section": "Other Important Privacy Information",
+          "text": "To make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative Alternatively, VeraSafe can be contacted at: European Union: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland — Tel: +420 228 881 031 United Kingdom: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom — Tel: +44 (20) 4532 2003 **Changes to our Privacy Notice** We may change this Privacy Notice from time to time.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S178",
+          "section": "Other Important Privacy Information",
+          "text": "We will post any Privacy Notice changes on this page, with a revised date at the top of this page.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S179",
+          "section": "Other Important Privacy Information",
+          "text": "If the changes are material, we will provide a more prominent notice by adding a notice on the homepages of our websites or login screens for the Services, or by sending you an email notification.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "states"
+            }
+          ]
+        },
+        {
+          "id": "S180",
+          "section": "Other Important Privacy Information",
+          "text": "We encourage you to review the Privacy Notice whenever you access the Services to stay informed about our data privacy practices and your choices regarding your information.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S181",
+          "section": "Other Important Privacy Information",
+          "text": "If you disagree with this Privacy Notice and/or any changes hereto, you will need to stop using the Services.",
+          "labels": [
+            {
+              "item": "C7",
+              "stance": "mentions"
+            },
+            {
+              "item": "C10",
+              "stance": "mentions"
+            }
+          ]
+        },
+        {
+          "id": "S182",
+          "section": "Other Important Privacy Information",
+          "text": "**Contact** If you have any questions or concerns regarding this Privacy Notice, please email us at privacy@suno.com.",
+          "labels": [
+            {
+              "item": "C10",
+              "stance": "states"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S10"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S11"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S16"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S19"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S21"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S25"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S37"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S38"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S51"
+        }
+      ]
+    },
+    "C2": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S72"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S75"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S77"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S78"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S81"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S83"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S85"
+        }
+      ]
+    },
+    "C3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S30"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S44"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S69"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S97"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S98"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S99"
+        }
+      ]
+    },
+    "C4": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S103"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S107"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S108"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S127"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S129"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S131"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S146"
+        }
+      ]
+    },
+    "C5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S94"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S95"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S96"
+        }
+      ]
+    },
+    "C6": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S91"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S92"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S93"
+        }
+      ]
+    },
+    "C7": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S178"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S179"
+        }
+      ]
+    },
+    "C8": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S71"
+        }
+      ]
+    },
+    "C9": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S86"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S87"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S88"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S89"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S118"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S145"
+        }
+      ]
+    },
+    "C10": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S166"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S167"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S182"
+        }
+      ]
+    },
+    "T1": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S51"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S172"
+        }
+      ]
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S51"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S172"
+        }
+      ]
+    },
+    "T4": {
+      "state": "partially stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S174"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S96"
+        }
+      ]
+    },
+    "T5": {
+      "state": "stated",
+      "evidence": [
+        {
+          "document": "Policy",
+          "sentence_id": "S165"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S162"
+        },
+        {
+          "document": "Policy",
+          "sentence_id": "S163"
+        }
+      ]
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}
