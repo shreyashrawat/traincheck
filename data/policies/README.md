@@ -1,6 +1,6 @@
-# TrainCheck policy dataset (v1, raw)
+# TrainCheck policy dataset (v1.1, raw)
 
-Raw privacy-policy texts for 28 of 30 target consumer AI products — the source material
+Raw privacy-policy texts for 32 of 34 target consumer AI products — the source material
 for TrainCheck's ML training dataset. Each file is the full text of one
 product's official privacy policy, saved for annotation (sentence-level
 labels against the 16-item TrainCheck rubric) and classifier training.
@@ -35,30 +35,35 @@ in each file's frontmatter and in the manifest. Policies change: the
 `policy_date` is the version that was annotated, and re-fetching later
 may return a newer version.
 
-## Collection status (2026-11-12)
+## Collection status (2026-11-12, v1.1)
 
-28 of 30 fetched OK (**180,763 words, 7,688 sentences**). 2 failed:
+32 of 34 fetched OK (**204,026 words, 8,514 sentences**). v1 shipped
+28 of 30; the v1.1 round added 3 new policies (Canva, Fireflies.ai,
+Nomi), landed the Character.AI retry, and re-fetched Stability AI and
+Runway from their current official policies. 2 failed:
 
-- **Khanmigo** — Khan Academy's policy page returned a Cloudflare
-  challenge on both attempts. Re-fetch from
+- **Khanmigo** — Khan Academy's policy page returns a Cloudflare
+  challenge on every attempt; the Wayback retry failed with a transient
+  fetch error. Re-fetch from
   https://www.khanacademy.org/about/privacy-policy (Khanmigo is governed
-  by the main policy, not the separate Kids policy).
-- **Character.AI** — browser-service rate limit (429) on
-  https://character.ai/privacy; current policy effective 2026-07-01.
-  Clean re-fetch candidate once the rate limit cools.
+  by the main policy, not the separate Kids policy) — likely needs a
+  live browser.
+- **QuillBot** — live page is JS-rendered (a browser read returns nav
+  links only); Wayback returned 403. Current policy updated Nov 8,
+  2025; the legacy 2022 copy was deliberately not used. Needs a live
+  browser.
 
-4 fetched files are **provisional** and should be re-fetched from the
-official current policy before their annotations are trusted for
+2 fetched files are still **provisional** and should be re-fetched from
+the official current policy before their annotations are trusted for
 training (details in the manifest `notes`):
 
 - **ElevenLabs** — from a third-party GitHub snapshot (elevenlabs.io
-  blocked the fetch); a newer version (2026-10-09) may exist.
+  blocked the fetch); a newer version (updated 2026-10-09) exists. The
+  v1.1 re-fetch also failed (live blocked, Wayback 403).
 - **Suno** — from suno.tech, whose status as Suno's official domain is
-  uncertain; this version has no AI-training clause.
-- **Stability AI** — the 2025 version; current version effective
-  2026-09-30 was rate-limited.
-- **Runway** — the 2023 PDF; current policy (updated 2026-10-23) was
-  rate-limited. Treat as a placeholder.
+  uncertain; this version has no AI-training clause. The v1.1 re-fetch
+  also failed (live blocked, Wayback 403); official URL confirmed as
+  https://suno.com/privacy.
 
 ## From raw text to annotations
 

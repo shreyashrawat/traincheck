@@ -1,0 +1,751 @@
+{
+  "policy_id": "character-ai",
+  "source_url": "https://character.ai/privacy",
+  "annotator": "TEMPLATE",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Character.AI Privacy Policy\n\n**Character.AI Privacy Policy**\n\nEffective Date: July 1, 2026\n\nThis Privacy Policy (the “Privacy Policy” or “Policy”) describes the types of information Character Technologies, Inc., and its affiliates (“Character.AI,” “we,” “our,” or “us”) collect and process from and about you.\n\nExcept as described below, the Policy applies to all websites, mobile applications, and any other electronic /digital products or other services that are made available by Character.AI and that link to this Policy, and our offline services (collectively, the “Services”).\n\nUndefined capitalized terms used in this Policy have the meaning set forth in the Character.AI Terms of Service.\n\nFor residents of the European Economic Area, the United Kingdom, or the United States: please refer to our Regional Privacy Disclosures for additional details that may be relevant to you.\n\n**1. Information We Collect**\n\nWhen you access or otherwise use our Services, we collect information from you. The types of information we collect depend on how you use our Services. Please note that we need certain types of information to provide the Services to you. If you do not provide us with such information, or if you ask us to delete that information, you may no longer be able to access or use certain Services. The information we collect includes data you directly provide to us, data we obtain automatically from your interactions with our Services, and data we obtain from other sources.\n\n**Information you provide directly to us**. We collect information directly from you. For example, you provide us with information when you use the Services, communicate with us, register for an account, subscribe to our blog or newsletters, or participate in our community, social media discussions, or promotions. Information you provide directly to us may concern you and others and may include:\n\n- Identifiers, such as your name, email address, phone number, display name, or username;\n\n- Demographic information, such as your date of birth and general geolocation information;\n\n- Interests, such as categories like “Sports” or “Writing;”\n\n- Your preferences based on account settings, use of the Services, or feedback on the Services (from which we can also create inferences);\n\n- Financial information, such as payment information and other information collected through our payment processing vendors;\n\n- Commercial information, such as purchases and transaction history;\n\n- Your content you submit, such as chat communications, posted images or videos, biography description, and shared Characters;\n\n- Voice data, including recordings of your voice, if you chose to use certain voice features; and\n\n- Contents of communications with us, such as customer support messages.\n\nInformation you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation). Sensitive personal information is not required or necessary to use the Services – please do not include any sensitive personal information in your interactions with us or the Services.\n\n**Information we collect about your use of the Services**. We and our third-party providers, which include advertising and analytics providers and other service providers, use cookies, web beacons, and other tracking technologies to collect information about your use of the Services). Please note that the specific tracking technologies and third-party providers may vary depending on where you are located and whether you access the Services via our websites or mobile applications. For more information about these technologies, please refer to our Cookie Policy.\n\nAs described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data (“Technical Information”).\n\n**Information we collect from other sources**. We may also collect information from other sources, such as when you are referred to us by another user. In this context, we may receive your name and contact details. We may also receive information from third-party platforms, for example, such as when you interact with our ads on other platforms like YouTube, TikTok, or Reddit, or when you interact with our social media profiles on platforms like Facebook, Instagram, or Discord. Information we collect in this context includes information about how you interacted with our ads or the third-party platform; information about your device; demographic information (e.g., age, interests); and geolocation data.\n\nWe also collect information when you connect to your account using an account maintained by a third party, such as a social media account (“Third-Party Account”). The Services collect information about you from your Third-Party Accounts in accordance with your permissions. When you connect to us or log in through a Third-Party Account like Facebook or Google, we receive information from that third party identifying your account. Information we collect in this context includes third-party account details such as username or email address. We collect and store this information and use it to help you connect to the Services. Connecting your account to a Third-Party Account is completely optional, and you will have the opportunity to grant permission when you attempt to connect. You can revoke permission by logging into the Third-Party Account and disconnecting Character.AI from there, and through the native applications on your mobile device. Please note that if you revoke permission for a Third-Party Account, we may retain the information we collected previously from the Third-Party Account provider (but the accounts will not be linked going forward).\n\nWe also collect information that is available on the Internet or from other publicly available sources to evaluate and improve our Services, including for model training and development.\n\n**Information we collected during the initial development and training of our proprietary models.** For more information about how we collect and use information to develop our large language models, and your choices with respect to that information where applicable, please see our Regional Privacy Disclosures as well as Support Center article. While such information was collected in connection with the initial development of Character.AI’s proprietary large language models, we no longer carry out this processing.\n\n**2. How We Use the Information We Collect**\n\nWe use information for the following purposes:\n\n- Provide, administer, and operate the Services and our business;\n\n- Generate and analyze inferences about use of the Services, such as your preferences and interests and trends about our Services (e.g., which portions of the Services are used most frequently, how users navigate the Services, and what our users like or do not like);\n\n- Tailor the Services to your preferences and interests;\n\n- Evaluate the success of advertising campaigns;\n\n- Communicate with you, including to inform you about features or aspects of the Services we believe might be of interest to you;\n\n- Communicate with you about changes to our terms, conditions, or policies; or to respond to your inquiries, comments, feedback, or questions;\n\n- Analyze, maintain, improve, modify, customize, and measure the Services, including to train our artificial intelligence/machine learning models;\n\n- Develop new features, algorithms and machine learning models, programs, and services;\n\n- Provide advertising and recruit new users, including provision of tailored advertising;\n\n- Authenticate your account credentials, as necessary to log you in to the Services and help protect the security of your account;\n\n- Process payments;\n\n- Detect and prevent fraud, criminal activity, or misuse of our Service, and to maintain the security of our IT systems, architecture, assets, customers, and networks; and\n\n- Comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other parties, including to enforce our Terms of Service and any other agreements or policies.\n\nWe combine information that we collect through the Services with information that we obtain from other sources. We may also aggregate or anonymize information collected through the Services. We use and disclose aggregated or anonymized data for a number of purposes, including without limitation for research and marketing purposes. To the extent we anonymize any data originally based on personal information so that it is no longer reasonably linkable to an individual or household, we maintain and use such data in de-identified form and will not attempt to re-identify the data. Where necessary, we may process such data exclusively for verifying the effectiveness of the anonymization process, without enabling re-identification.\n\n**3. When We Disclose the Information We Collect**\n\nWe disclose information in any of the following circumstances:\n\n- **Affiliates**. We disclose information to our affiliates and subsidiaries, who may use the information we disclose in a manner consistent with this Policy.\n\n- **Vendors and Service Providers**. We disclose information to employees, consultants, service providers, and other vendors who need access to such information to carry out work or perform services on our behalf, such as those who provide data storage, payment, technology support and services, customer service, analytics, fraud prevention, content moderation, legal services, and marketing and advertising services.\n\n- **Safety and Protection of Character.AI and Others**. We may disclose certain information if we believe in good faith that doing so is necessary or appropriate to (i) protect or defend Character.AI or other parties, including to defend or enforce this Policy, our Terms of Service, our Community Guidelines or other policies, or any other contractual arrangement; and/or (ii) protect the rights, property or personal safety of Character.AI, our agents and affiliates, our employees, users and/or the public.\n\n- **Advertising and Analytics**. We may disclose personal information to advertising and analytics providers in connection with the provision of tailored advertising, to monitor the performance of advertisements displayed on our behalf on the Services and across the Internet, to provide analytics services, and to help improve our Services. These entities may use cookies and tracking technologies to allow us to, among other things, track and analyze data, determine the popularity of certain content, deliver tailored advertising and content, and better understand your online activity. For more information about how we use cookies and tracking technologies, please see our Cookie Policy.\n\n- **Your Content**. Certain actions you take might result in your content being made available to others, including the public. For example, if you create or share content, such as creating “public” Characters or a “public” Voice, we may make that content available and visible to others.\n\n- **Legal Requirements**. We may disclose certain information if we believe in good faith that doing so is necessary or appropriate to comply with any law enforcement, legal, or regulatory process, such as to respond to a warrant, subpoena, court order, or other applicable laws and regulations.\n\n- **Business Transfers**. We may disclose certain information, in connection with or during negotiations or closing of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.\n\n- **Other Disclosures with Consent or at Your Direction**. We might make additional disclosures of your information to third parties when you direct us to do so. For example, where you direct us to disclose information about you when you refer us or our Services to your friends or other acquaintances.\n\n**4. Your Choices**\n\nWe offer you certain choices regarding the collection, use, and disclosure of your personal information.\n\n**Profile information**. You may delete your account through your account profile page. You may also verify, correct, update, or delete certain of your information through your account profile page.\n\n**Marketing communications**. You can unsubscribe from marketing emails by following the directions in those emails. Please note that if you unsubscribe from marketing emails, we may still send you administrative emails regarding the Services, including, for example, notices of updates to our Terms of Service or this Policy.\n\n**Cookies**. Depending on where you live and the options available on your device or browser, you may have the ability to manage the cookies in use. For more information, please refer to our Cookie Policy.\n\n**Rights to information about you**. For more information about region-specific rights for residents of the European Economic Area, United Kingdom, and the United States, please refer to our Regional Privacy Disclosures. Depending on where you live and subject to applicable exceptions under local law, you may have the following rights:\n\n- To request information about our processing of your personal information;\n\n- To request access to and/or a copy of certain information we hold about you (including in a portable and/or machine-readable format);\n\n- To object to how we process your personal information;\n\n- To opt out of sales of personal information or targeted advertising;\n\n- To update or correct your personal information;\n\n- To request that we delete certain personal information we hold about you;\n\n- To restrict how we process certain personal information about you;\n\n- To request that we transfer your information to a third-party provider of services;\n\n- To withdraw consent for the processing of your personal information, when under applicable laws you had previously provided consent; and\n\n- The right not to be discriminated against for exercising your rights.\n\nPlease note that certain information may be exempt from such requests under applicable law. For example, we may retain certain information for legal compliance and to secure our Services. We may need certain information in order to provide the Services to you; if you ask us to delete it, you may no longer be able to use the Services.\n\nIf you would like information regarding your rights or would like to exercise any rights you may have under applicable law, contact us at https://support.character.ai/hc/en-us/requests/new, email us at privacy@character.ai or visit our Help Center at support.character.ai. To protect your privacy and security, we take reasonable steps to verify your identity and requests before granting such requests. If we are unable to verify your identity, we may be unable to respond to your requests.\n\n**5. Regional Privacy Disclosures**\n\nDepending on where you live, you may have specific rights or there may be certain information we need to make available to you. If you live in the European Economic Area, the United Kingdom, or the United States, please refer to our Regional Privacy Disclosures for additional information that may be relevant to you.\n\n**6. Children’s Privacy**\n\nThe Services are not designed for minors under 13, and our Terms of Service prohibit use by anyone under 13 or under 16 if you are a resident of the European Economic Area or the United Kingdom.\n\n**7. Data Retention**\n\n**In General**. We keep your information for the time necessary for the purposes for which it is processed or as otherwise described at the time the information is collected, unless a shorter retention period is required by law. The length of time for which we retain information depends on the purposes for which we collected and use it and your choices, after which time we may delete and/or aggregate it. We may also retain and use this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.\n\n**Popular Characters**. If a Character you create has been made available to other users, then we reserve the right to preserve that Character’s characteristics and to keep that Character active on the Services, even if you otherwise delete your data and your account. We do this to avoid impacting the experience of other users. To ensure that we do not retain information about you when this occurs, please avoid submitting any such information as part of the Character creation flow if you are creating a Character that you plan to make available to others.\n\n**8. Links to Third Party Websites**\n\nThe Services may contain links to third-party websites or services. We are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your information by third parties will be subject to the privacy policies of the third-party websites or services, and not this Policy. We urge you to read the privacy and security policies of these third parties before providing information to them.\n\n**9. Changes to this Policy**\n\nWe may update this Policy from time to time. We will indicate the date of the most recent update in this Policy. If we make a material change to the Policy, you will be provided with appropriate notice in accordance with legal requirements such as by email or prominent posting on our website or mobile application. By continuing to use the Services, you are confirming that you have read and understood the latest version of this Policy.\n\n**10. Contact Us**\n\nIf you have any questions about our Privacy Policy or information practices, please visit our Help Center at support.character.ai, email us at privacy@character.ai, or submit a request at https://support.character.ai/hc/en-us/requests/new. You can also write to us at:\nCharacter.AI\n\n#1152\n\n700 El Camino Real\n\nSuite 120\n\nMenlo Park CA 94025\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Character.AI Privacy Policy** Effective Date: July 1, 2026 This Privacy Policy (the “Privacy Policy” or “Policy”) describes the types of information Character Technologies, Inc., and its affiliates (“Character.AI,” “we,” “our,” or “us”) collect and process from and about you.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Character.AI Privacy Policy",
+          "text": "Except as described below, the Policy applies to all websites, mobile applications, and any other electronic /digital products or other services that are made available by Character.AI and that link to this Policy, and our offline services (collectively, the “Services”).",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Character.AI Privacy Policy",
+          "text": "Undefined capitalized terms used in this Policy have the meaning set forth in the Character.AI Terms of Service.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "Character.AI Privacy Policy",
+          "text": "For residents of the European Economic Area, the United Kingdom, or the United States: please refer to our Regional Privacy Disclosures for additional details that may be relevant to you.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "Character.AI Privacy Policy",
+          "text": "**1.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "Character.AI Privacy Policy",
+          "text": "Information We Collect** When you access or otherwise use our Services, we collect information from you.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "Character.AI Privacy Policy",
+          "text": "The types of information we collect depend on how you use our Services.",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Character.AI Privacy Policy",
+          "text": "Please note that we need certain types of information to provide the Services to you.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "Character.AI Privacy Policy",
+          "text": "If you do not provide us with such information, or if you ask us to delete that information, you may no longer be able to access or use certain Services.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "Character.AI Privacy Policy",
+          "text": "The information we collect includes data you directly provide to us, data we obtain automatically from your interactions with our Services, and data we obtain from other sources.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Information you provide directly to us**.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "Character.AI Privacy Policy",
+          "text": "We collect information directly from you.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "Character.AI Privacy Policy",
+          "text": "For example, you provide us with information when you use the Services, communicate with us, register for an account, subscribe to our blog or newsletters, or participate in our community, social media discussions, or promotions.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "Character.AI Privacy Policy",
+          "text": "Information you provide directly to us may concern you and others and may include: - Identifiers, such as your name, email address, phone number, display name, or username; - Demographic information, such as your date of birth and general geolocation information; - Interests, such as categories like “Sports” or “Writing;” - Your preferences based on account settings, use of the Services, or feedback on the Services (from which we can also create inferences); - Financial information, such as payment information and other information collected through our payment processing vendors; - Commercial information, such as purchases and transaction history; - Your content you submit, such as chat communications, posted images or videos, biography description, and shared Characters; - Voice data, including recordings of your voice, if you chose to use certain voice features; and - Contents of communications with us, such as customer support messages.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "Character.AI Privacy Policy",
+          "text": "Information you provide directly to us might also include information that may be treated as sensitive under applicable laws, such as login credentials, personal communications received or sent using our Services, or other information about yourself that you choose to provide when using our Services (e.g., if you voluntarily post user content revealing your race, religion, or sexual orientation).",
+          "labels": []
+        },
+        {
+          "id": "S16",
+          "section": "Character.AI Privacy Policy",
+          "text": "Sensitive personal information is not required or necessary to use the Services – please do not include any sensitive personal information in your interactions with us or the Services.",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Information we collect about your use of the Services**.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "Character.AI Privacy Policy",
+          "text": "We and our third-party providers, which include advertising and analytics providers and other service providers, use cookies, web beacons, and other tracking technologies to collect information about your use of the Services).",
+          "labels": []
+        },
+        {
+          "id": "S19",
+          "section": "Character.AI Privacy Policy",
+          "text": "Please note that the specific tracking technologies and third-party providers may vary depending on where you are located and whether you access the Services via our websites or mobile applications.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "Character.AI Privacy Policy",
+          "text": "For more information about these technologies, please refer to our Cookie Policy.",
+          "labels": []
+        },
+        {
+          "id": "S21",
+          "section": "Character.AI Privacy Policy",
+          "text": "As described further in the Cookie Policy, we use these technologies to collect and analyze device, Internet, and other electronic network activity information including information about your computer or device (e.g., device type; browser type; ISP or operating system; IP address; device identifiers such as IDFA, Android ID, etc.; version of our Services you are using); information about how you use and interact with the Services (e.g., domain name; access time; referring or exit pages; page views; Service-related identifiers such as User ID, Chat ID, Session ID, etc.; and actions taken within the Services); and geolocation data (“Technical Information”).",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Information we collect from other sources**.",
+          "labels": []
+        },
+        {
+          "id": "S23",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may also collect information from other sources, such as when you are referred to us by another user.",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "Character.AI Privacy Policy",
+          "text": "In this context, we may receive your name and contact details.",
+          "labels": []
+        },
+        {
+          "id": "S25",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may also receive information from third-party platforms, for example, such as when you interact with our ads on other platforms like YouTube, TikTok, or Reddit, or when you interact with our social media profiles on platforms like Facebook, Instagram, or Discord.",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "Character.AI Privacy Policy",
+          "text": "Information we collect in this context includes information about how you interacted with our ads or the third-party platform; information about your device; demographic information (e.g., age, interests); and geolocation data.",
+          "labels": []
+        },
+        {
+          "id": "S27",
+          "section": "Character.AI Privacy Policy",
+          "text": "We also collect information when you connect to your account using an account maintained by a third party, such as a social media account (“Third-Party Account”).",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "Character.AI Privacy Policy",
+          "text": "The Services collect information about you from your Third-Party Accounts in accordance with your permissions.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "Character.AI Privacy Policy",
+          "text": "When you connect to us or log in through a Third-Party Account like Facebook or Google, we receive information from that third party identifying your account.",
+          "labels": []
+        },
+        {
+          "id": "S30",
+          "section": "Character.AI Privacy Policy",
+          "text": "Information we collect in this context includes third-party account details such as username or email address.",
+          "labels": []
+        },
+        {
+          "id": "S31",
+          "section": "Character.AI Privacy Policy",
+          "text": "We collect and store this information and use it to help you connect to the Services.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "Character.AI Privacy Policy",
+          "text": "Connecting your account to a Third-Party Account is completely optional, and you will have the opportunity to grant permission when you attempt to connect.",
+          "labels": []
+        },
+        {
+          "id": "S33",
+          "section": "Character.AI Privacy Policy",
+          "text": "You can revoke permission by logging into the Third-Party Account and disconnecting Character.AI from there, and through the native applications on your mobile device.",
+          "labels": []
+        },
+        {
+          "id": "S34",
+          "section": "Character.AI Privacy Policy",
+          "text": "Please note that if you revoke permission for a Third-Party Account, we may retain the information we collected previously from the Third-Party Account provider (but the accounts will not be linked going forward).",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "Character.AI Privacy Policy",
+          "text": "We also collect information that is available on the Internet or from other publicly available sources to evaluate and improve our Services, including for model training and development.",
+          "labels": []
+        },
+        {
+          "id": "S36",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Information we collected during the initial development and training of our proprietary models.** For more information about how we collect and use information to develop our large language models, and your choices with respect to that information where applicable, please see our Regional Privacy Disclosures as well as Support Center article.",
+          "labels": []
+        },
+        {
+          "id": "S37",
+          "section": "Character.AI Privacy Policy",
+          "text": "While such information was collected in connection with the initial development of Character.AI’s proprietary large language models, we no longer carry out this processing.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "Character.AI Privacy Policy",
+          "text": "**2.",
+          "labels": []
+        },
+        {
+          "id": "S39",
+          "section": "Character.AI Privacy Policy",
+          "text": "How We Use the Information We Collect** We use information for the following purposes: - Provide, administer, and operate the Services and our business; - Generate and analyze inferences about use of the Services, such as your preferences and interests and trends about our Services (e.g., which portions of the Services are used most frequently, how users navigate the Services, and what our users like or do not like); - Tailor the Services to your preferences and interests; - Evaluate the success of advertising campaigns; - Communicate with you, including to inform you about features or aspects of the Services we believe might be of interest to you; - Communicate with you about changes to our terms, conditions, or policies; or to respond to your inquiries, comments, feedback, or questions; - Analyze, maintain, improve, modify, customize, and measure the Services, including to train our artificial intelligence/machine learning models; - Develop new features, algorithms and machine learning models, programs, and services; - Provide advertising and recruit new users, including provision of tailored advertising; - Authenticate your account credentials, as necessary to log you in to the Services and help protect the security of your account; - Process payments; - Detect and prevent fraud, criminal activity, or misuse of our Service, and to maintain the security of our IT systems, architecture, assets, customers, and networks; and - Comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other parties, including to enforce our Terms of Service and any other agreements or policies.",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "Character.AI Privacy Policy",
+          "text": "We combine information that we collect through the Services with information that we obtain from other sources.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may also aggregate or anonymize information collected through the Services.",
+          "labels": []
+        },
+        {
+          "id": "S42",
+          "section": "Character.AI Privacy Policy",
+          "text": "We use and disclose aggregated or anonymized data for a number of purposes, including without limitation for research and marketing purposes.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "Character.AI Privacy Policy",
+          "text": "To the extent we anonymize any data originally based on personal information so that it is no longer reasonably linkable to an individual or household, we maintain and use such data in de-identified form and will not attempt to re-identify the data.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "Character.AI Privacy Policy",
+          "text": "Where necessary, we may process such data exclusively for verifying the effectiveness of the anonymization process, without enabling re-identification.",
+          "labels": []
+        },
+        {
+          "id": "S45",
+          "section": "Character.AI Privacy Policy",
+          "text": "**3.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "Character.AI Privacy Policy",
+          "text": "When We Disclose the Information We Collect** We disclose information in any of the following circumstances: - **Affiliates**.",
+          "labels": []
+        },
+        {
+          "id": "S47",
+          "section": "Character.AI Privacy Policy",
+          "text": "We disclose information to our affiliates and subsidiaries, who may use the information we disclose in a manner consistent with this Policy.",
+          "labels": []
+        },
+        {
+          "id": "S48",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Vendors and Service Providers**.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "Character.AI Privacy Policy",
+          "text": "We disclose information to employees, consultants, service providers, and other vendors who need access to such information to carry out work or perform services on our behalf, such as those who provide data storage, payment, technology support and services, customer service, analytics, fraud prevention, content moderation, legal services, and marketing and advertising services.",
+          "labels": []
+        },
+        {
+          "id": "S50",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Safety and Protection of Character.AI and Others**.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may disclose certain information if we believe in good faith that doing so is necessary or appropriate to (i) protect or defend Character.AI or other parties, including to defend or enforce this Policy, our Terms of Service, our Community Guidelines or other policies, or any other contractual arrangement; and/or (ii) protect the rights, property or personal safety of Character.AI, our agents and affiliates, our employees, users and/or the public.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Advertising and Analytics**.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may disclose personal information to advertising and analytics providers in connection with the provision of tailored advertising, to monitor the performance of advertisements displayed on our behalf on the Services and across the Internet, to provide analytics services, and to help improve our Services.",
+          "labels": []
+        },
+        {
+          "id": "S54",
+          "section": "Character.AI Privacy Policy",
+          "text": "These entities may use cookies and tracking technologies to allow us to, among other things, track and analyze data, determine the popularity of certain content, deliver tailored advertising and content, and better understand your online activity.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "Character.AI Privacy Policy",
+          "text": "For more information about how we use cookies and tracking technologies, please see our Cookie Policy.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Your Content**.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "Character.AI Privacy Policy",
+          "text": "Certain actions you take might result in your content being made available to others, including the public.",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "Character.AI Privacy Policy",
+          "text": "For example, if you create or share content, such as creating “public” Characters or a “public” Voice, we may make that content available and visible to others.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Legal Requirements**.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may disclose certain information if we believe in good faith that doing so is necessary or appropriate to comply with any law enforcement, legal, or regulatory process, such as to respond to a warrant, subpoena, court order, or other applicable laws and regulations.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Business Transfers**.",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may disclose certain information, in connection with or during negotiations or closing of any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "Character.AI Privacy Policy",
+          "text": "- **Other Disclosures with Consent or at Your Direction**.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "Character.AI Privacy Policy",
+          "text": "We might make additional disclosures of your information to third parties when you direct us to do so.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "Character.AI Privacy Policy",
+          "text": "For example, where you direct us to disclose information about you when you refer us or our Services to your friends or other acquaintances.",
+          "labels": []
+        },
+        {
+          "id": "S66",
+          "section": "Character.AI Privacy Policy",
+          "text": "**4.",
+          "labels": []
+        },
+        {
+          "id": "S67",
+          "section": "Character.AI Privacy Policy",
+          "text": "Your Choices** We offer you certain choices regarding the collection, use, and disclosure of your personal information.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Profile information**.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "Character.AI Privacy Policy",
+          "text": "You may delete your account through your account profile page.",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "Character.AI Privacy Policy",
+          "text": "You may also verify, correct, update, or delete certain of your information through your account profile page.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Marketing communications**.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "Character.AI Privacy Policy",
+          "text": "You can unsubscribe from marketing emails by following the directions in those emails.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "Character.AI Privacy Policy",
+          "text": "Please note that if you unsubscribe from marketing emails, we may still send you administrative emails regarding the Services, including, for example, notices of updates to our Terms of Service or this Policy.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Cookies**.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "Character.AI Privacy Policy",
+          "text": "Depending on where you live and the options available on your device or browser, you may have the ability to manage the cookies in use.",
+          "labels": []
+        },
+        {
+          "id": "S76",
+          "section": "Character.AI Privacy Policy",
+          "text": "For more information, please refer to our Cookie Policy.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Rights to information about you**.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "Character.AI Privacy Policy",
+          "text": "For more information about region-specific rights for residents of the European Economic Area, United Kingdom, and the United States, please refer to our Regional Privacy Disclosures.",
+          "labels": []
+        },
+        {
+          "id": "S79",
+          "section": "Character.AI Privacy Policy",
+          "text": "Depending on where you live and subject to applicable exceptions under local law, you may have the following rights: - To request information about our processing of your personal information; - To request access to and/or a copy of certain information we hold about you (including in a portable and/or machine-readable format); - To object to how we process your personal information; - To opt out of sales of personal information or targeted advertising; - To update or correct your personal information; - To request that we delete certain personal information we hold about you; - To restrict how we process certain personal information about you; - To request that we transfer your information to a third-party provider of services; - To withdraw consent for the processing of your personal information, when under applicable laws you had previously provided consent; and - The right not to be discriminated against for exercising your rights.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "Character.AI Privacy Policy",
+          "text": "Please note that certain information may be exempt from such requests under applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "Character.AI Privacy Policy",
+          "text": "For example, we may retain certain information for legal compliance and to secure our Services.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may need certain information in order to provide the Services to you; if you ask us to delete it, you may no longer be able to use the Services.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "Character.AI Privacy Policy",
+          "text": "If you would like information regarding your rights or would like to exercise any rights you may have under applicable law, contact us at https://support.character.ai/hc/en-us/requests/new, email us at privacy@character.ai or visit our Help Center at support.character.ai.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "Character.AI Privacy Policy",
+          "text": "To protect your privacy and security, we take reasonable steps to verify your identity and requests before granting such requests.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "Character.AI Privacy Policy",
+          "text": "If we are unable to verify your identity, we may be unable to respond to your requests.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "Character.AI Privacy Policy",
+          "text": "**5.",
+          "labels": []
+        },
+        {
+          "id": "S87",
+          "section": "Character.AI Privacy Policy",
+          "text": "Regional Privacy Disclosures** Depending on where you live, you may have specific rights or there may be certain information we need to make available to you.",
+          "labels": []
+        },
+        {
+          "id": "S88",
+          "section": "Character.AI Privacy Policy",
+          "text": "If you live in the European Economic Area, the United Kingdom, or the United States, please refer to our Regional Privacy Disclosures for additional information that may be relevant to you.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "Character.AI Privacy Policy",
+          "text": "**6.",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "Character.AI Privacy Policy",
+          "text": "Children’s Privacy** The Services are not designed for minors under 13, and our Terms of Service prohibit use by anyone under 13 or under 16 if you are a resident of the European Economic Area or the United Kingdom.",
+          "labels": []
+        },
+        {
+          "id": "S91",
+          "section": "Character.AI Privacy Policy",
+          "text": "**7.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "Character.AI Privacy Policy",
+          "text": "Data Retention** **In General**.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "Character.AI Privacy Policy",
+          "text": "We keep your information for the time necessary for the purposes for which it is processed or as otherwise described at the time the information is collected, unless a shorter retention period is required by law.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "Character.AI Privacy Policy",
+          "text": "The length of time for which we retain information depends on the purposes for which we collected and use it and your choices, after which time we may delete and/or aggregate it.",
+          "labels": []
+        },
+        {
+          "id": "S95",
+          "section": "Character.AI Privacy Policy",
+          "text": "We may also retain and use this information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.",
+          "labels": []
+        },
+        {
+          "id": "S96",
+          "section": "Character.AI Privacy Policy",
+          "text": "**Popular Characters**.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "Character.AI Privacy Policy",
+          "text": "If a Character you create has been made available to other users, then we reserve the right to preserve that Character’s characteristics and to keep that Character active on the Services, even if you otherwise delete your data and your account.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "Character.AI Privacy Policy",
+          "text": "We do this to avoid impacting the experience of other users.",
+          "labels": []
+        },
+        {
+          "id": "S99",
+          "section": "Character.AI Privacy Policy",
+          "text": "To ensure that we do not retain information about you when this occurs, please avoid submitting any such information as part of the Character creation flow if you are creating a Character that you plan to make available to others.",
+          "labels": []
+        },
+        {
+          "id": "S100",
+          "section": "Character.AI Privacy Policy",
+          "text": "**8.",
+          "labels": []
+        },
+        {
+          "id": "S101",
+          "section": "Character.AI Privacy Policy",
+          "text": "Links to Third Party Websites** The Services may contain links to third-party websites or services.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "Character.AI Privacy Policy",
+          "text": "We are not responsible for the content or practices of those websites or services.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "Character.AI Privacy Policy",
+          "text": "The collection, use, and disclosure of your information by third parties will be subject to the privacy policies of the third-party websites or services, and not this Policy.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "Character.AI Privacy Policy",
+          "text": "We urge you to read the privacy and security policies of these third parties before providing information to them.",
+          "labels": []
+        },
+        {
+          "id": "S105",
+          "section": "Character.AI Privacy Policy",
+          "text": "**9.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "Character.AI Privacy Policy",
+          "text": "Changes to this Policy** We may update this Policy from time to time.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "Character.AI Privacy Policy",
+          "text": "We will indicate the date of the most recent update in this Policy.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "Character.AI Privacy Policy",
+          "text": "If we make a material change to the Policy, you will be provided with appropriate notice in accordance with legal requirements such as by email or prominent posting on our website or mobile application.",
+          "labels": []
+        },
+        {
+          "id": "S109",
+          "section": "Character.AI Privacy Policy",
+          "text": "By continuing to use the Services, you are confirming that you have read and understood the latest version of this Policy.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "Character.AI Privacy Policy",
+          "text": "**10.",
+          "labels": []
+        },
+        {
+          "id": "S111",
+          "section": "Character.AI Privacy Policy",
+          "text": "Contact Us** If you have any questions about our Privacy Policy or information practices, please visit our Help Center at support.character.ai, email us at privacy@character.ai, or submit a request at https://support.character.ai/hc/en-us/requests/new.",
+          "labels": []
+        },
+        {
+          "id": "S112",
+          "section": "Character.AI Privacy Policy",
+          "text": "You can also write to us at: Character.AI #1152 700 El Camino Real Suite 120 Menlo Park CA 94025",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}

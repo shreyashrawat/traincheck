@@ -1,585 +1,591 @@
 {
   "policy_id": "stability-ai",
-  "source_url": "https://stability.ai/2025-privacy-policy",
+  "source_url": "https://stability.ai/privacy-policy",
   "annotator": "TEMPLATE",
   "documents": [
     {
       "name": "Policy",
-      "text": "# 2025 Privacy Policy — Stability AI\n\nEffective: July 31, 2025\n\nStability AI (\"Stability\") is a multi-modal generative AI company providing products and services you can use to create and generate content or Outputs (as defined below). This Privacy Policy explains how we collect, use, and when we may disclose your personal data when you use our website, applications, and other places where Stability acts as a *data controller* – for example, when you interact with our applications such as Brand Studio or Stable Audio, or our Application Programming Interface (\"API\") (collectively, our \"Services\").\n\n### **1. Collection of Personal Data**\n\nWe may collect the following categories of personal data depending on how you use our Services:\n\n### **Personal data you provide to us directly**\n\n- **Account Information**: When you use our Services, Stability collects identifiers, including your name and email address, and may also collect or generate identifiers (e.g., User123).\n- **Payment Information**: We (via our third-party partners, such as Stripe) collect your payment information if you purchase our Services.\n- **Inputs and Outputs**: Our Services allow you to insert prompts or inputs (including text, images, and audio, depending on the products you use) (\"Input\"), which can generate a corresponding response or output (\"Output\").\n- **Communication Information**: If you communicate with us or interact with our social media pages, we collect information, including your contact information and the contents of your messages or posts. We also collect your feedback on our Services.\n\n### **Personal data we receive from your use of our Services**\n\nWhen you use our Services, we also receive certain technical information, including:\n\n- **Device Information**. Depending on your device or browser permissions, your device or browser automatically sends us information about when and how you access or use our Services, such as your device type, operating system information, browser information, internet service provider (ISP), and IP address.\n- **Usage Information**. We collect information about your use of our Services, such as the dates and times of access, pages you view, and about how you use our Services.\n- **Log Information**. We collect information about how our Services are performing when you use them, including log files and information about any error.\n- **Cookies**. We and our service providers use cookies and similar technologies to manage our Services and to improve your experience. For more information, please visit our Cookie Policy.\n\n### **Information We Receive from Other Sources**\n\nWe receive information from our trusted partners to protect against fraud and other security threats to our Services. We also receive information from marketing vendors that provide us with information about potential customers of our business services.\n\n### **2. Use of Personal Data**\n\nWe use your personal data for the following purposes:\n\n- To provide our Services, including to administer your account, to process your requested payments, and to provide customer support.\n- To improve and develop our Services and conduct research, including to train and improve our models and develop new product features. When we use your Inputs and Outputs to train our models, you can opt-out of our use of this personal data for these training purposes. Learn more.\n- To communicate with you, including to send you information about our Services.\n- To assess your eligibility for and promote our Services, including through interest-based advertising where allowed by law.\n- To prevent fraud, illegal activity, and misuse of our Services, and to protect the safety, security, and integrity of our systems and Services.\n- To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties.\n\nWe do not process sensitive personal data to infer characteristics about a consumer.\n\nWe rely on the following Legal Bases to process your data:\n\n| Purpose | Type of Data | Legal Basis |\n| --- | --- | --- |\n| To provide our Services, including to administer your account, to process your requested payments, and to provide customer support | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as provide an Output in response to your Input. Where necessary for the legitimate interest of our users and Stability to address customer queries. We may have a legal obligation to address customer complaints. |\n| To improve and develop our Services and conduct research, including to train and improve our models and develop new product features | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary for the legitimate interests of third parties and Stability, such as when we develop and improve our Services. |\n| To communicate with you, including to send you information about our Services | Account information, Communication information, Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as using your contact information to send you a notification about our Services. Your consent to process your personal data where required, such as for certain marketing communications. |\n| To assess your eligibility for, and offer you or promote our services, including through interest-based advertising where allowed by law | Account information, Communication information, Device, usage, log, and cookies data | Where allowed by law (including, where required, with your consent), so that we may market our services to you. Where necessary for the legitimate interests of Stability and our users to understand how our Services are being used and to explore ways to develop our business. |\n| To prevent fraud, illegal activity, and misuse of our Services, and to protect the security of our systems and Services | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary to comply with a legal obligation. Where necessary for the legitimate interests of Stability and third parties (such as to protect against security threats to our Services). In limited cases where the processing is necessary to protect individuals, vital interests. |\n| To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary to comply with a legal obligation, such as to comply with payments related record-keeping legal obligations. Where necessary for the legitimate interests of third parties and Stability (such to address a violation of our Terms or Acceptable Use Policy). In limited cases where the processing is necessary to protect individuals, vital interests. |\n\n### **3. Disclosure of Personal Data**\n\nStability will disclose the above categories of personal data to the following third parties and for the purposes explained in this Privacy Policy:\n\n- **Affiliates & corporate partners**. Stability discloses personal data between and among its affiliates and related entities.\n- **Service providers & trusted partners**. Stability may disclose personal data with service providers and trusted partners for various business purposes, including cloud services, and safety and security services.\n- **A significant corporate event**. If Stability is involved in a merger, corporate transaction, bankruptcy, or a transfer of business assets, Stability will disclose your personal data as part of these corporate transactions.\n- **Third-Party Websites and Services**. Our Services may involve integrations with, or may direct you to, third-party websites, apps, and services. By interacting with these third parties, you are providing information directly to that third party. As such, you should review the third party's privacy policy.\n- **Third-Party Partners**. We may provide the personal data of individuals who visit our website to third-party partners, such as advertising partners, analytics providers, and social networks, who may assist us in advertising our Services to you. See our Cookie Policy. Where legally required, we provide you with the option to opt out of targeted advertising on our site and honor Global Privacy Controls (GPC).\n- **Regulatory or legal requirements, safety and security, rights of others, or to enforce our rights**. We may disclose personal data to governmental regulatory authorities as required by law, in response to their requests for information or to assist in investigations. We may also disclose personal data to third parties in connection with disputes or litigation, or if we determine its disclosure is necessary to protect the health and safety of any person, to prevent fraud, credit risk, or illegal activity, to enforce our or others' legal rights, or as otherwise required or permitted by applicable law.\n- **With an individual's consent**. Stability will disclose personal data when an individual gives us permission or directs us to disclose this information.\n\n### **4. Your Rights and Choices**\n\nDepending on where you live and the laws that apply in your country of residence, you may have certain rights regarding your personal data. To exercise your rights, you or an authorized agent may submit a request by emailing us at privacy@stability.ai. When we receive your request, we may ask for additional information to confirm your identity. Stability will not discriminate based on the exercising of privacy rights you may have. You may also have the right to appeal requests that we deny by emailing privacy@stability.ai. Below is a summary of the rights which you may have, subject to certain conditions and exceptions and depending on the laws that apply in your country of residence.\n\n- **Right to know**: The right to know what personal data Stability processes about you and the categories of third parties to whom we disclose it.\n- **Access & data portability**: The right to request a copy of the personal data Stability processes about you and also the right to port your information to a third party.\n- **Deletion**: The right to request that we delete your personal data.\n- **Correction**: While we cannot guarantee the factual accuracy of any outputs due to the technical complexity of our models, you have the right to request that we correct your personal data when it is inaccurate, subject to certain exceptions.\n- **Objection**: You have the right to object to how we process your personal data. If we use your information for marketing, you can opt out of future marketing messages using the unsubscribe link in those messages.\n- **Restriction**: You have the right to restrict our processing of your personal data in certain circumstances.\n- **Withdrawal of consent**: Where Stability's processing of your personal data is based on consent, you have the right to withdraw your consent.\n- **Right to complain to a regulatory authority**: Under many countries' laws, you have the right to file a complaint with the supervisory authority in the place in which you live or work.\n- **Sale & targeted advertising**: We do not sell or share your personal data with third parties in exchange for payment. However, we may provide the personal data of individuals who visit our website to third-party partners, such as advertising partners, analytics providers, and social networks, who may assist us in advertising our Services to you. This may be considered a data \"sale\" or \"sharing\" as those terms are defined under the California Consumer Privacy Act (\"CCPA\") and other applicable US privacy laws. Where legally required, we provide you with the option to opt out of targeted advertising on our site and honor Global Privacy Controls (GPC).\n\n### **5. Data Transfers**\n\nStability processes your personal data on servers located outside of the European Economic Area (\"EEA\"), Switzerland, and the UK, including processing your personal data in our servers in the US. Where information is transferred outside the EEA, Switzerland, or the UK, we rely on:\n\n- **Adequacy decisions**: We rely on the European Commission adequacy decisions under Article 45 GDPR where they recognise that a country outside of the EEA offers an adequate level of data protection; or\n- **Standard contractual clauses (\"SCCs\")**: We rely on the SCCs as approved by the European Commission under Article 46 GDPR (and their approved equivalent for the UK and Switzerland) that allows companies in the EEA to transfer data outside the EEA.\n\n### **6.** **Data Retention and Security Controls**\n\nStability retains your personal data for as long as reasonably necessary for the purposes outlined in this Privacy Policy, depending on factors such as the terms of your agreement, our purposes for processing the data (including whether the data is needed to resolve disputes and to enforce our agreements), and any legal requirements that we are subject to.\n\nThe security of your personal data is important to us. We implement appropriate technical and organizational security measures designed to protect personal data from loss, misuse, and unauthorized access or disclosure. Our security measures are designed to provide the level of security appropriate to the underlying level of risk associated with the data processing.\n\n### **7**. **Children**\n\nOur Services are not directed towards, and we do not knowingly collect personal data from children under the age of 18. If you are the parent or guardian of a child under the age of 18 who you have reason to believe has provided any personal data to us, please email us at privacy@stability.ai.\n\n### **8**. **Contact Information and Data Controller**\n\nIf you live in the European Economic Area (EEA), UK, or Switzerland (the \"European Region\"), the data controller responsible for your personal data is Stability AI Ltd. If you live outside the European Region, the data controller responsible for your personal data is Stability AI US Services Corporation.\n\nIf you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can email us at privacy@stability.ai. You can also write to us as described below:\n\n- Stability AI US Services Corporation c/o Legal, 10250 Constellation Blvd., Suite 2300, Los Angeles, CA 90067 (United States).\n- Stability AI Ltd., FORA-United House, 9 Pembridge Road, London W11 3JY, England, UK.\n\n### **9. Changes to Our Privacy Policy**\n\nWe may update this Privacy Policy from time to time. We will notify you of any material changes to this Privacy Policy, and update the Effective Date at the top of this page.\n",
+      "text": "# Privacy Policy\n\nEffective: September 30, 2026\n\nStability AI (\"Stability\") is a multi-modal generative AI company providing products and services you can use to create and generate content or Outputs (as defined below). This Privacy Policy explains how we collect, use, and when we may disclose your personal data when you use our website, applications, and other places where Stability acts as a *data controller* – for example, when you interact with our applications such as Brand Studio or Stable Audio, or our Application Programming Interface (\"API\") (collectively, our \"Services\").\n\n### 1. Collection of Personal Data\n\nWe may collect the following categories of personal data depending on how you use our Services:\n\n#### Personal data you provide to us directly\n\n- **Account Information**: When you use our Services, Stability collects identifiers, including your name, email address, and birthdate, and may also collect or generate identifiers (e.g., User123). We also collect your account settings and preferences.\n\n- **Payment Information**: We (via our third-party partners, such as Stripe) collect your payment information if you purchase our Services.\n\n- **Inputs and Outputs**: Our Services allow you to insert prompts or inputs (including text, images, and audio, depending on the products you use) (\"Input\"), which can generate a corresponding response or output (\"Output\").\n\n- **Communication Information**: If you communicate with us or interact with our social media pages, we collect information, including your contact information and the contents of your messages or posts. We also collect your feedback on our Services.\n\n- **Other Content:** Our Services may allow you to customize your experience such as with named workflows, descriptions, or notes, and to collaborate with others in your organization, such as with comments or annotations.\n\n#### Personal data we receive from your use of our Services\n\nWhen you use our Services, we also receive certain technical information, including:\n\n- **Device Information**. Depending on your device or browser permissions, your device or browser automatically sends us information about when and how you access or use our Services, such as your device type, operating system information, browser information, internet service provider (ISP), and IP address.\n\n- **Usage Information**. We collect information about your use of our Services, such as the dates and times of access, pages you view, and about how you use our Services, including information about Third-Party Services, where applicable.\n\n- **Log Information**. We collect information about how our Services are performing when you use them, including log files and information about any error.\n\n- **Cookies**. We and our service providers use cookies and similar technologies to manage our Services and to improve your experience. For more information, please visit our Cookie Policy.\n\n#### Information We Receive from Other Sources\n\nWe receive information from our trusted partners to protect against fraud and other security threats to our Services. We also receive information from marketing vendors that provide us with information about potential customers of our business services.\n\n### 2. Use of Personal Data\n\nWe use your personal data for the following purposes:\n\n- To provide our Services, including to administer your account, to process your requested payments, and to provide customer support.\n\n- To improve and develop our Services and features.\n\n- To conduct research and development, including to train, fine-tune, and evaluate machine learning models. When we use your Inputs and Outputs to train our models, you can opt-out of our use of this personal data for these training purposes. Learn more.\n\n- To communicate with you, including to send you information about our Services.\n\n- To assess your eligibility for and promote our Services, including through interest-based advertising where allowed by law.\n\n- To prevent fraud, illegal activity, and misuse of our Services, and to protect the safety, security, and integrity of our systems and Services.\n\n- To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties.\n\nWe do not process sensitive personal data to infer characteristics about a consumer.\n\nWe rely on the following Legal Bases to process your data:\n\n| Purpose | Type of Data | Legal Basis |\n| --- | --- | --- |\n| To provide our Services, including to administer your account, to process your requested payments, and to provide customer support | Account information and settings<br>Payment information<br>Content, including Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as provide an Output in response to your Input.<br>Where necessary for the legitimate interest of our users and Stability to address customer queries.<br>We may have a legal obligation to address customer complaints. |\n| To improve and develop our Services and features | Account information<br>Payment information<br>Content, including Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary for the legitimate interests of third parties and Stability, such as when we develop and improve our Services. |\n| To conduct research and development, including to fine-tune and evaluate machine learning models | Account information<br>Payment information<br>Content, including Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as fine-tuning a Model using your selected Content.<br>Where necessary for the legitimate interests of third parties and Stability, such as when we develop and improve our Models. |\n| To communicate with you, including to send you information about our Services | Account information<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as using your contact information to send you a notification about our Services.<br>Your consent to process your personal data where required, such as for certain marketing communications. |\n| To assess your eligibility for, and offer you or promote our services, including through interest-based advertising where allowed by law | Account information<br>Communication information<br>Device, usage, log, and cookies data | Where allowed by law (including, where required, with your consent), so that we may market our services to you.<br>Where necessary for the legitimate interests of Stability and our users to understand how our Services are being used and to explore ways to develop our business. |\n| To prevent fraud, illegal activity, and misuse of our Services, and to protect the security of our systems and Services | Account information<br>Payment information<br>Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to comply with a legal obligation.<br>Where necessary for the legitimate interests of Stability and third parties (such as to protect against security threats to our Services).<br>In limited cases where the processing is necessary to protect individuals, vital interests. |\n| To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties | Account information<br>Payment information<br>Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to comply with a legal obligation, such as to comply with payments related record-keeping legal obligations.<br>Where necessary for the legitimate interests of third parties (such as to address a violation of our Terms or Acceptable Use Policy).<br>In limited cases where the processing is necessary to protect individuals, vital interests. |\n\n### 3. Disclosure of Personal Data\n\nStability will disclose the above categories of personal data to the following third parties and for the purposes explained in this Privacy Policy:\n\n- **Other users.** Stability discloses personal data, including visible user names, Inputs, Outputs, and Other Content between members of a shared enterprise account or shared workspace, and as necessary to provide our Services.\n\n- **Affiliates & corporate partners**. Stability discloses personal data between and among its affiliates and related entities.\n\n- **Service providers & trusted partners**. Stability may disclose personal data with service providers and trusted partners for various business purposes, including cloud services, and safety and security services.\n\n- **A significant corporate event**. If Stability is involved in a merger, corporate transaction, bankruptcy, or a transfer of business assets, Stability will disclose your personal data as part of these corporate transactions.\n\n- **Third-Party Websites and Services**. Our Services may involve integrations with, or may direct you to, third-party websites, apps, and services. By interacting with these third parties, you are providing information directly to that third party. As such, you should review the third party's privacy policy.\n\n- **Third-Party Partners**. We may provide the personal data of individuals who visit our website to third-party partners, such as advertising partners, analytics providers, and social networks, who may assist us in advertising our Services to you. See our Cookie Policy. Where legally required, we provide you with the option to opt out of targeted advertising on our site and honor Global Privacy Controls (GPC).\n\n- **Regulatory or legal requirements, safety and security, rights of others, or to enforce our rights**. We may disclose personal data to governmental regulatory authorities as required by law, in response to their requests for information or to assist in investigations. We may also disclose personal data to third parties in connection with disputes or litigation, or if we determine its disclosure is necessary to protect the health and safety of any person, to prevent fraud, credit risk, or illegal activity, to enforce our or others' legal rights, or as otherwise required or permitted by applicable law.\n\n- **With an individual's consent**. Stability will disclose personal data when an individual gives us permission or directs us to disclose this information.\n\n### 4. Your Rights and Choices\n\nDepending on where you live and the laws that apply in your country of residence, you may have certain rights regarding your personal data. To exercise your rights, you or an authorized agent may submit a request via our online form. When we receive your request, we may ask for additional information to confirm your identity, or evidence of authorization to act on behalf of the data subject. We will respond to requests to exercise these rights without undue delay and at least within one month. Stability will not discriminate based on the exercising of privacy rights you may have. You may also have the right to appeal requests that we deny by emailing <privacy@stability.ai>. Below is a summary of the rights which you may have, subject to certain conditions and exceptions and depending on the laws that apply in your country of residence.\n\n- **Right to know**: The right to know what personal data Stability processes about you and the categories of third parties to whom we disclose it.\n\n- **Access & data portability**: The right to request a copy of the personal data Stability processes about you and also the right to port your information to a third party.\n\n- **Deletion**: The right to request that we delete your personal data.\n\n- **Correction**: While we cannot guarantee the factual accuracy of any Outputs due to the technical complexity of our models, you have the right to request that we correct your personal data when it is inaccurate, subject to certain exceptions.\n\n- **Objection**: You have the right to object to how we process your personal data. If we use your information for marketing, you can opt out of future marketing messages using the unsubscribe link in those messages. If we use your information for training our models, you can opt-out from your Account Settings. Learn more.\n\n- **Restriction**: You have the right to restrict our processing of your personal data in certain circumstances.\n\n- **Withdrawal of consent**: Where Stability's processing of your personal data is based on consent, you have the right to withdraw your consent.\n\n- **Right to complain to a regulatory authority**: Under many countries' laws, you have the right to file a complaint with the supervisory authority in the place in which you live or work.\n\n- **Sale & targeted advertising**: We do not sell or share your personal data with third parties in exchange for payment. However, we may provide the personal data of individuals who visit our website to third-party partners, such as advertising partners, analytics providers, and social networks, who may assist us in advertising our Services to you. Where legally required, we provide you with the option to opt out of some cookies on our site and honor Global Privacy Controls (GPC).\n\n### 5. Data Transfers\n\nStability processes your personal data on servers located outside of the European Economic Area (\"EEA\"), Switzerland, and the UK, including processing your personal data in our servers in the US. Where information is transferred outside the EEA, Switzerland, or the UK, we rely on:\n\n- **Adequacy decisions**: We rely on the European Commission adequacy decisions under Article 45 GDPR where they recognise that a country outside of the EEA offers an adequate level of data protection; or\n\n- **Standard contractual clauses (\"SCCs\")**: We rely on the SCCs as approved by the European Commission under Article 46 GDPR (and their approved equivalent for the UK and Switzerland) that allows companies in the EEA to transfer data outside the EEA.\n\n### 6. Data Retention and Security Controls\n\nStability retains your personal data for as long as reasonably necessary for the purposes outlined in this Privacy Policy, including for as long as your account is active and the data is needed to provide our Services to you. Actual length of retention depends on factors such as the terms of your agreement, our purposes for processing the data (including whether the data is needed to resolve disputes and to enforce our agreements), and any legal requirements that we are subject to.\n\nThe security of your personal data is important to us. We implement appropriate technical and organizational security measures designed to protect personal data from loss, misuse, and unauthorized access or disclosure. Our security measures are designed to provide the level of security appropriate to the underlying level of risk associated with the data processing.\n\n### 7. Children\n\nOur Services are not directed towards, and we do not knowingly collect personal data from children under the age of 13. Our Services have minimum age requirements, which are set out in our Terms of Service. If you are the parent or guardian who believes a child has provided personal data to us in violation of these requirements please email us at <privacy@stability.ai>. We will investigate the matter and, if appropriate, delete the personal data.\n\n### 8. Contact Information and Data Controller\n\nIf you live in the European Economic Area (EEA), UK, or Switzerland (the \"European Region\"), the data controller responsible for your personal data is Stability AI Ltd. If you live outside the European Region, the data controller responsible for your personal data is Stability AI US Services Corporation.\n\nIf you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can email us at <privacy@stability.ai>. You can also write to us as described below:\n\n- Stability AI US Services Corporation c/o Legal, 10250 Constellation Blvd., Suite 2300, Los Angeles, CA 90067 (United States).\n\n- Stability AI Ltd., FORA-United House, 9 Pembridge Road, London W11 3JY, England, UK.\n\n### 9. Changes to Our Privacy Policy\n\nWe may update this Privacy Policy from time to time. We will notify you of any material changes to this Privacy Policy, and update the Effective Date at the top of this page.\n",
       "sentences": [
         {
           "id": "S1",
-          "section": "2025 Privacy Policy — Stability AI",
-          "text": "Effective: July 31, 2025 Stability AI (\"Stability\") is a multi-modal generative AI company providing products and services you can use to create and generate content or Outputs (as defined below).",
+          "section": "Privacy Policy",
+          "text": "Effective: September 30, 2026 Stability AI (\"Stability\") is a multi-modal generative AI company providing products and services you can use to create and generate content or Outputs (as defined below).",
           "labels": []
         },
         {
           "id": "S2",
-          "section": "2025 Privacy Policy — Stability AI",
+          "section": "Privacy Policy",
           "text": "This Privacy Policy explains how we collect, use, and when we may disclose your personal data when you use our website, applications, and other places where Stability acts as a *data controller* – for example, when you interact with our applications such as Brand Studio or Stable Audio, or our Application Programming Interface (\"API\") (collectively, our \"Services\").",
           "labels": []
         },
         {
           "id": "S3",
-          "section": "**1. Collection of Personal Data**",
-          "text": "We may collect the following categories of personal data depending on how you use our Services:",
+          "section": "1. Collection of Personal Data",
+          "text": "We may collect the following categories of personal data depending on how you use our Services: #### Personal data you provide to us directly - **Account Information**: When you use our Services, Stability collects identifiers, including your name, email address, and birthdate, and may also collect or generate identifiers (e.g., User123).",
           "labels": []
         },
         {
           "id": "S4",
-          "section": "**Personal data you provide to us directly**",
-          "text": "- **Account Information**: When you use our Services, Stability collects identifiers, including your name and email address, and may also collect or generate identifiers (e.g., User123).",
+          "section": "1. Collection of Personal Data",
+          "text": "We also collect your account settings and preferences.",
           "labels": []
         },
         {
           "id": "S5",
-          "section": "**Personal data you provide to us directly**",
+          "section": "1. Collection of Personal Data",
           "text": "- **Payment Information**: We (via our third-party partners, such as Stripe) collect your payment information if you purchase our Services.",
           "labels": []
         },
         {
           "id": "S6",
-          "section": "**Personal data you provide to us directly**",
+          "section": "1. Collection of Personal Data",
           "text": "- **Inputs and Outputs**: Our Services allow you to insert prompts or inputs (including text, images, and audio, depending on the products you use) (\"Input\"), which can generate a corresponding response or output (\"Output\").",
           "labels": []
         },
         {
           "id": "S7",
-          "section": "**Personal data you provide to us directly**",
+          "section": "1. Collection of Personal Data",
           "text": "- **Communication Information**: If you communicate with us or interact with our social media pages, we collect information, including your contact information and the contents of your messages or posts.",
           "labels": []
         },
         {
           "id": "S8",
-          "section": "**Personal data you provide to us directly**",
+          "section": "1. Collection of Personal Data",
           "text": "We also collect your feedback on our Services.",
           "labels": []
         },
         {
           "id": "S9",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "When you use our Services, we also receive certain technical information, including: - **Device Information**.",
+          "section": "1. Collection of Personal Data",
+          "text": "- **Other Content:** Our Services may allow you to customize your experience such as with named workflows, descriptions, or notes, and to collaborate with others in your organization, such as with comments or annotations.",
           "labels": []
         },
         {
           "id": "S10",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "Depending on your device or browser permissions, your device or browser automatically sends us information about when and how you access or use our Services, such as your device type, operating system information, browser information, internet service provider (ISP), and IP address.",
+          "section": "1. Collection of Personal Data",
+          "text": "#### Personal data we receive from your use of our Services When you use our Services, we also receive certain technical information, including: - **Device Information**.",
           "labels": []
         },
         {
           "id": "S11",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "- **Usage Information**.",
+          "section": "1. Collection of Personal Data",
+          "text": "Depending on your device or browser permissions, your device or browser automatically sends us information about when and how you access or use our Services, such as your device type, operating system information, browser information, internet service provider (ISP), and IP address.",
           "labels": []
         },
         {
           "id": "S12",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "We collect information about your use of our Services, such as the dates and times of access, pages you view, and about how you use our Services.",
+          "section": "1. Collection of Personal Data",
+          "text": "- **Usage Information**.",
           "labels": []
         },
         {
           "id": "S13",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "- **Log Information**.",
+          "section": "1. Collection of Personal Data",
+          "text": "We collect information about your use of our Services, such as the dates and times of access, pages you view, and about how you use our Services, including information about Third-Party Services, where applicable.",
           "labels": []
         },
         {
           "id": "S14",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "We collect information about how our Services are performing when you use them, including log files and information about any error.",
+          "section": "1. Collection of Personal Data",
+          "text": "- **Log Information**.",
           "labels": []
         },
         {
           "id": "S15",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "- **Cookies**.",
+          "section": "1. Collection of Personal Data",
+          "text": "We collect information about how our Services are performing when you use them, including log files and information about any error.",
           "labels": []
         },
         {
           "id": "S16",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "We and our service providers use cookies and similar technologies to manage our Services and to improve your experience.",
+          "section": "1. Collection of Personal Data",
+          "text": "- **Cookies**.",
           "labels": []
         },
         {
           "id": "S17",
-          "section": "**Personal data we receive from your use of our Services**",
-          "text": "For more information, please visit our Cookie Policy.",
+          "section": "1. Collection of Personal Data",
+          "text": "We and our service providers use cookies and similar technologies to manage our Services and to improve your experience.",
           "labels": []
         },
         {
           "id": "S18",
-          "section": "**Information We Receive from Other Sources**",
-          "text": "We receive information from our trusted partners to protect against fraud and other security threats to our Services.",
+          "section": "1. Collection of Personal Data",
+          "text": "For more information, please visit our Cookie Policy.",
           "labels": []
         },
         {
           "id": "S19",
-          "section": "**Information We Receive from Other Sources**",
-          "text": "We also receive information from marketing vendors that provide us with information about potential customers of our business services.",
+          "section": "1. Collection of Personal Data",
+          "text": "#### Information We Receive from Other Sources We receive information from our trusted partners to protect against fraud and other security threats to our Services.",
           "labels": []
         },
         {
           "id": "S20",
-          "section": "**2. Use of Personal Data**",
-          "text": "We use your personal data for the following purposes: - To provide our Services, including to administer your account, to process your requested payments, and to provide customer support.",
+          "section": "1. Collection of Personal Data",
+          "text": "We also receive information from marketing vendors that provide us with information about potential customers of our business services.",
           "labels": []
         },
         {
           "id": "S21",
-          "section": "**2. Use of Personal Data**",
-          "text": "- To improve and develop our Services and conduct research, including to train and improve our models and develop new product features.",
+          "section": "2. Use of Personal Data",
+          "text": "We use your personal data for the following purposes: - To provide our Services, including to administer your account, to process your requested payments, and to provide customer support.",
           "labels": []
         },
         {
           "id": "S22",
-          "section": "**2. Use of Personal Data**",
-          "text": "When we use your Inputs and Outputs to train our models, you can opt-out of our use of this personal data for these training purposes.",
+          "section": "2. Use of Personal Data",
+          "text": "- To improve and develop our Services and features.",
           "labels": []
         },
         {
           "id": "S23",
-          "section": "**2. Use of Personal Data**",
-          "text": "Learn more.",
+          "section": "2. Use of Personal Data",
+          "text": "- To conduct research and development, including to train, fine-tune, and evaluate machine learning models.",
           "labels": []
         },
         {
           "id": "S24",
-          "section": "**2. Use of Personal Data**",
-          "text": "- To communicate with you, including to send you information about our Services.",
+          "section": "2. Use of Personal Data",
+          "text": "When we use your Inputs and Outputs to train our models, you can opt-out of our use of this personal data for these training purposes.",
           "labels": []
         },
         {
           "id": "S25",
-          "section": "**2. Use of Personal Data**",
-          "text": "- To assess your eligibility for and promote our Services, including through interest-based advertising where allowed by law.",
+          "section": "2. Use of Personal Data",
+          "text": "Learn more.",
           "labels": []
         },
         {
           "id": "S26",
-          "section": "**2. Use of Personal Data**",
-          "text": "- To prevent fraud, illegal activity, and misuse of our Services, and to protect the safety, security, and integrity of our systems and Services.",
+          "section": "2. Use of Personal Data",
+          "text": "- To communicate with you, including to send you information about our Services.",
           "labels": []
         },
         {
           "id": "S27",
-          "section": "**2. Use of Personal Data**",
-          "text": "- To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties.",
+          "section": "2. Use of Personal Data",
+          "text": "- To assess your eligibility for and promote our Services, including through interest-based advertising where allowed by law.",
           "labels": []
         },
         {
           "id": "S28",
-          "section": "**2. Use of Personal Data**",
-          "text": "We do not process sensitive personal data to infer characteristics about a consumer.",
+          "section": "2. Use of Personal Data",
+          "text": "- To prevent fraud, illegal activity, and misuse of our Services, and to protect the safety, security, and integrity of our systems and Services.",
           "labels": []
         },
         {
           "id": "S29",
-          "section": "**2. Use of Personal Data**",
-          "text": "We rely on the following Legal Bases to process your data: | Purpose | Type of Data | Legal Basis | | --- | --- | --- | | To provide our Services, including to administer your account, to process your requested payments, and to provide customer support | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as provide an Output in response to your Input.",
+          "section": "2. Use of Personal Data",
+          "text": "- To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties.",
           "labels": []
         },
         {
           "id": "S30",
-          "section": "**2. Use of Personal Data**",
-          "text": "Where necessary for the legitimate interest of our users and Stability to address customer queries.",
+          "section": "2. Use of Personal Data",
+          "text": "We do not process sensitive personal data to infer characteristics about a consumer.",
           "labels": []
         },
         {
           "id": "S31",
-          "section": "**2. Use of Personal Data**",
-          "text": "We may have a legal obligation to address customer complaints.",
+          "section": "2. Use of Personal Data",
+          "text": "We rely on the following Legal Bases to process your data: | Purpose | Type of Data | Legal Basis | | --- | --- | --- | | To provide our Services, including to administer your account, to process your requested payments, and to provide customer support | Account information and settings<br>Payment information<br>Content, including Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as provide an Output in response to your Input.<br>Where necessary for the legitimate interest of our users and Stability to address customer queries.<br>We may have a legal obligation to address customer complaints.",
           "labels": []
         },
         {
           "id": "S32",
-          "section": "**2. Use of Personal Data**",
-          "text": "| | To improve and develop our Services and conduct research, including to train and improve our models and develop new product features | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary for the legitimate interests of third parties and Stability, such as when we develop and improve our Services.",
+          "section": "2. Use of Personal Data",
+          "text": "| | To improve and develop our Services and features | Account information<br>Payment information<br>Content, including Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary for the legitimate interests of third parties and Stability, such as when we develop and improve our Services.",
           "labels": []
         },
         {
           "id": "S33",
-          "section": "**2. Use of Personal Data**",
-          "text": "| | To communicate with you, including to send you information about our Services | Account information, Communication information, Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as using your contact information to send you a notification about our Services.",
+          "section": "2. Use of Personal Data",
+          "text": "| | To conduct research and development, including to fine-tune and evaluate machine learning models | Account information<br>Payment information<br>Content, including Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as fine-tuning a Model using your selected Content.<br>Where necessary for the legitimate interests of third parties and Stability, such as when we develop and improve our Models.",
           "labels": []
         },
         {
           "id": "S34",
-          "section": "**2. Use of Personal Data**",
-          "text": "Your consent to process your personal data where required, such as for certain marketing communications.",
+          "section": "2. Use of Personal Data",
+          "text": "| | To communicate with you, including to send you information about our Services | Account information<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to perform a contract with you, such as using your contact information to send you a notification about our Services.<br>Your consent to process your personal data where required, such as for certain marketing communications.",
           "labels": []
         },
         {
           "id": "S35",
-          "section": "**2. Use of Personal Data**",
-          "text": "| | To assess your eligibility for, and offer you or promote our services, including through interest-based advertising where allowed by law | Account information, Communication information, Device, usage, log, and cookies data | Where allowed by law (including, where required, with your consent), so that we may market our services to you.",
+          "section": "2. Use of Personal Data",
+          "text": "| | To assess your eligibility for, and offer you or promote our services, including through interest-based advertising where allowed by law | Account information<br>Communication information<br>Device, usage, log, and cookies data | Where allowed by law (including, where required, with your consent), so that we may market our services to you.<br>Where necessary for the legitimate interests of Stability and our users to understand how our Services are being used and to explore ways to develop our business.",
           "labels": []
         },
         {
           "id": "S36",
-          "section": "**2. Use of Personal Data**",
-          "text": "Where necessary for the legitimate interests of Stability and our users to understand how our Services are being used and to explore ways to develop our business.",
+          "section": "2. Use of Personal Data",
+          "text": "| | To prevent fraud, illegal activity, and misuse of our Services, and to protect the security of our systems and Services | Account information<br>Payment information<br>Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to comply with a legal obligation.<br>Where necessary for the legitimate interests of Stability and third parties (such as to protect against security threats to our Services).<br>In limited cases where the processing is necessary to protect individuals, vital interests.",
           "labels": []
         },
         {
           "id": "S37",
-          "section": "**2. Use of Personal Data**",
-          "text": "| | To prevent fraud, illegal activity, and misuse of our Services, and to protect the security of our systems and Services | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary to comply with a legal obligation.",
+          "section": "2. Use of Personal Data",
+          "text": "| | To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties | Account information<br>Payment information<br>Inputs and Outputs<br>Communication information<br>Device, usage, log, and cookies data | Where necessary to comply with a legal obligation, such as to comply with payments related record-keeping legal obligations.<br>Where necessary for the legitimate interests of third parties (such as to address a violation of our Terms or Acceptable Use Policy).<br>In limited cases where the processing is necessary to protect individuals, vital interests.",
           "labels": []
         },
         {
           "id": "S38",
-          "section": "**2. Use of Personal Data**",
-          "text": "Where necessary for the legitimate interests of Stability and third parties (such as to protect against security threats to our Services).",
-          "labels": []
-        },
-        {
-          "id": "S39",
-          "section": "**2. Use of Personal Data**",
-          "text": "In limited cases where the processing is necessary to protect individuals, vital interests.",
-          "labels": []
-        },
-        {
-          "id": "S40",
-          "section": "**2. Use of Personal Data**",
-          "text": "| | To comply with legal obligations and to protect the rights, privacy, or safety of our users, Stability AI, or third parties | Account information, Payment information, Inputs and Outputs, Communication information, Device, usage, log, and cookies data | Where necessary to comply with a legal obligation, such as to comply with payments related record-keeping legal obligations.",
-          "labels": []
-        },
-        {
-          "id": "S41",
-          "section": "**2. Use of Personal Data**",
-          "text": "Where necessary for the legitimate interests of third parties and Stability (such to address a violation of our Terms or Acceptable Use Policy).",
-          "labels": []
-        },
-        {
-          "id": "S42",
-          "section": "**2. Use of Personal Data**",
-          "text": "In limited cases where the processing is necessary to protect individuals, vital interests.",
-          "labels": []
-        },
-        {
-          "id": "S43",
-          "section": "**2. Use of Personal Data**",
+          "section": "2. Use of Personal Data",
           "text": "|",
           "labels": []
         },
         {
-          "id": "S44",
-          "section": "**3. Disclosure of Personal Data**",
-          "text": "Stability will disclose the above categories of personal data to the following third parties and for the purposes explained in this Privacy Policy: - **Affiliates & corporate partners**.",
+          "id": "S39",
+          "section": "3. Disclosure of Personal Data",
+          "text": "Stability will disclose the above categories of personal data to the following third parties and for the purposes explained in this Privacy Policy: - **Other users.** Stability discloses personal data, including visible user names, Inputs, Outputs, and Other Content between members of a shared enterprise account or shared workspace, and as necessary to provide our Services.",
           "labels": []
         },
         {
-          "id": "S45",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S40",
+          "section": "3. Disclosure of Personal Data",
+          "text": "- **Affiliates & corporate partners**.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "3. Disclosure of Personal Data",
           "text": "Stability discloses personal data between and among its affiliates and related entities.",
           "labels": []
         },
         {
-          "id": "S46",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S42",
+          "section": "3. Disclosure of Personal Data",
           "text": "- **Service providers & trusted partners**.",
           "labels": []
         },
         {
-          "id": "S47",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S43",
+          "section": "3. Disclosure of Personal Data",
           "text": "Stability may disclose personal data with service providers and trusted partners for various business purposes, including cloud services, and safety and security services.",
           "labels": []
         },
         {
-          "id": "S48",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S44",
+          "section": "3. Disclosure of Personal Data",
           "text": "- **A significant corporate event**.",
           "labels": []
         },
         {
-          "id": "S49",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S45",
+          "section": "3. Disclosure of Personal Data",
           "text": "If Stability is involved in a merger, corporate transaction, bankruptcy, or a transfer of business assets, Stability will disclose your personal data as part of these corporate transactions.",
           "labels": []
         },
         {
-          "id": "S50",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S46",
+          "section": "3. Disclosure of Personal Data",
           "text": "- **Third-Party Websites and Services**.",
           "labels": []
         },
         {
-          "id": "S51",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S47",
+          "section": "3. Disclosure of Personal Data",
           "text": "Our Services may involve integrations with, or may direct you to, third-party websites, apps, and services.",
           "labels": []
         },
         {
-          "id": "S52",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S48",
+          "section": "3. Disclosure of Personal Data",
           "text": "By interacting with these third parties, you are providing information directly to that third party.",
           "labels": []
         },
         {
-          "id": "S53",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S49",
+          "section": "3. Disclosure of Personal Data",
           "text": "As such, you should review the third party's privacy policy.",
           "labels": []
         },
         {
-          "id": "S54",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S50",
+          "section": "3. Disclosure of Personal Data",
           "text": "- **Third-Party Partners**.",
           "labels": []
         },
         {
-          "id": "S55",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S51",
+          "section": "3. Disclosure of Personal Data",
           "text": "We may provide the personal data of individuals who visit our website to third-party partners, such as advertising partners, analytics providers, and social networks, who may assist us in advertising our Services to you.",
           "labels": []
         },
         {
-          "id": "S56",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S52",
+          "section": "3. Disclosure of Personal Data",
           "text": "See our Cookie Policy.",
           "labels": []
         },
         {
-          "id": "S57",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S53",
+          "section": "3. Disclosure of Personal Data",
           "text": "Where legally required, we provide you with the option to opt out of targeted advertising on our site and honor Global Privacy Controls (GPC).",
           "labels": []
         },
         {
-          "id": "S58",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S54",
+          "section": "3. Disclosure of Personal Data",
           "text": "- **Regulatory or legal requirements, safety and security, rights of others, or to enforce our rights**.",
           "labels": []
         },
         {
-          "id": "S59",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S55",
+          "section": "3. Disclosure of Personal Data",
           "text": "We may disclose personal data to governmental regulatory authorities as required by law, in response to their requests for information or to assist in investigations.",
           "labels": []
         },
         {
-          "id": "S60",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S56",
+          "section": "3. Disclosure of Personal Data",
           "text": "We may also disclose personal data to third parties in connection with disputes or litigation, or if we determine its disclosure is necessary to protect the health and safety of any person, to prevent fraud, credit risk, or illegal activity, to enforce our or others' legal rights, or as otherwise required or permitted by applicable law.",
           "labels": []
         },
         {
-          "id": "S61",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S57",
+          "section": "3. Disclosure of Personal Data",
           "text": "- **With an individual's consent**.",
           "labels": []
         },
         {
-          "id": "S62",
-          "section": "**3. Disclosure of Personal Data**",
+          "id": "S58",
+          "section": "3. Disclosure of Personal Data",
           "text": "Stability will disclose personal data when an individual gives us permission or directs us to disclose this information.",
           "labels": []
         },
         {
-          "id": "S63",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S59",
+          "section": "4. Your Rights and Choices",
           "text": "Depending on where you live and the laws that apply in your country of residence, you may have certain rights regarding your personal data.",
           "labels": []
         },
         {
-          "id": "S64",
-          "section": "**4. Your Rights and Choices**",
-          "text": "To exercise your rights, you or an authorized agent may submit a request by emailing us at privacy@stability.ai.",
+          "id": "S60",
+          "section": "4. Your Rights and Choices",
+          "text": "To exercise your rights, you or an authorized agent may submit a request via our online form.",
           "labels": []
         },
         {
-          "id": "S65",
-          "section": "**4. Your Rights and Choices**",
-          "text": "When we receive your request, we may ask for additional information to confirm your identity.",
+          "id": "S61",
+          "section": "4. Your Rights and Choices",
+          "text": "When we receive your request, we may ask for additional information to confirm your identity, or evidence of authorization to act on behalf of the data subject.",
           "labels": []
         },
         {
-          "id": "S66",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S62",
+          "section": "4. Your Rights and Choices",
+          "text": "We will respond to requests to exercise these rights without undue delay and at least within one month.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "4. Your Rights and Choices",
           "text": "Stability will not discriminate based on the exercising of privacy rights you may have.",
           "labels": []
         },
         {
-          "id": "S67",
-          "section": "**4. Your Rights and Choices**",
-          "text": "You may also have the right to appeal requests that we deny by emailing privacy@stability.ai.",
+          "id": "S64",
+          "section": "4. Your Rights and Choices",
+          "text": "You may also have the right to appeal requests that we deny by emailing <privacy@stability.ai>.",
           "labels": []
         },
         {
-          "id": "S68",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S65",
+          "section": "4. Your Rights and Choices",
           "text": "Below is a summary of the rights which you may have, subject to certain conditions and exceptions and depending on the laws that apply in your country of residence.",
           "labels": []
         },
         {
-          "id": "S69",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S66",
+          "section": "4. Your Rights and Choices",
           "text": "- **Right to know**: The right to know what personal data Stability processes about you and the categories of third parties to whom we disclose it.",
           "labels": []
         },
         {
-          "id": "S70",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S67",
+          "section": "4. Your Rights and Choices",
           "text": "- **Access & data portability**: The right to request a copy of the personal data Stability processes about you and also the right to port your information to a third party.",
           "labels": []
         },
         {
-          "id": "S71",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S68",
+          "section": "4. Your Rights and Choices",
           "text": "- **Deletion**: The right to request that we delete your personal data.",
           "labels": []
         },
         {
-          "id": "S72",
-          "section": "**4. Your Rights and Choices**",
-          "text": "- **Correction**: While we cannot guarantee the factual accuracy of any outputs due to the technical complexity of our models, you have the right to request that we correct your personal data when it is inaccurate, subject to certain exceptions.",
+          "id": "S69",
+          "section": "4. Your Rights and Choices",
+          "text": "- **Correction**: While we cannot guarantee the factual accuracy of any Outputs due to the technical complexity of our models, you have the right to request that we correct your personal data when it is inaccurate, subject to certain exceptions.",
           "labels": []
         },
         {
-          "id": "S73",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S70",
+          "section": "4. Your Rights and Choices",
           "text": "- **Objection**: You have the right to object to how we process your personal data.",
           "labels": []
         },
         {
-          "id": "S74",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S71",
+          "section": "4. Your Rights and Choices",
           "text": "If we use your information for marketing, you can opt out of future marketing messages using the unsubscribe link in those messages.",
           "labels": []
         },
         {
-          "id": "S75",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S72",
+          "section": "4. Your Rights and Choices",
+          "text": "If we use your information for training our models, you can opt-out from your Account Settings.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "4. Your Rights and Choices",
+          "text": "Learn more.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "4. Your Rights and Choices",
           "text": "- **Restriction**: You have the right to restrict our processing of your personal data in certain circumstances.",
           "labels": []
         },
         {
-          "id": "S76",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S75",
+          "section": "4. Your Rights and Choices",
           "text": "- **Withdrawal of consent**: Where Stability's processing of your personal data is based on consent, you have the right to withdraw your consent.",
           "labels": []
         },
         {
-          "id": "S77",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S76",
+          "section": "4. Your Rights and Choices",
           "text": "- **Right to complain to a regulatory authority**: Under many countries' laws, you have the right to file a complaint with the supervisory authority in the place in which you live or work.",
           "labels": []
         },
         {
-          "id": "S78",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S77",
+          "section": "4. Your Rights and Choices",
           "text": "- **Sale & targeted advertising**: We do not sell or share your personal data with third parties in exchange for payment.",
           "labels": []
         },
         {
-          "id": "S79",
-          "section": "**4. Your Rights and Choices**",
+          "id": "S78",
+          "section": "4. Your Rights and Choices",
           "text": "However, we may provide the personal data of individuals who visit our website to third-party partners, such as advertising partners, analytics providers, and social networks, who may assist us in advertising our Services to you.",
           "labels": []
         },
         {
+          "id": "S79",
+          "section": "4. Your Rights and Choices",
+          "text": "Where legally required, we provide you with the option to opt out of some cookies on our site and honor Global Privacy Controls (GPC).",
+          "labels": []
+        },
+        {
           "id": "S80",
-          "section": "**4. Your Rights and Choices**",
-          "text": "This may be considered a data \"sale\" or \"sharing\" as those terms are defined under the California Consumer Privacy Act (\"CCPA\") and other applicable US privacy laws.",
-          "labels": []
-        },
-        {
-          "id": "S81",
-          "section": "**4. Your Rights and Choices**",
-          "text": "Where legally required, we provide you with the option to opt out of targeted advertising on our site and honor Global Privacy Controls (GPC).",
-          "labels": []
-        },
-        {
-          "id": "S82",
-          "section": "**5. Data Transfers**",
+          "section": "5. Data Transfers",
           "text": "Stability processes your personal data on servers located outside of the European Economic Area (\"EEA\"), Switzerland, and the UK, including processing your personal data in our servers in the US.",
           "labels": []
         },
         {
-          "id": "S83",
-          "section": "**5. Data Transfers**",
+          "id": "S81",
+          "section": "5. Data Transfers",
           "text": "Where information is transferred outside the EEA, Switzerland, or the UK, we rely on: - **Adequacy decisions**: We rely on the European Commission adequacy decisions under Article 45 GDPR where they recognise that a country outside of the EEA offers an adequate level of data protection; or - **Standard contractual clauses (\"SCCs\")**: We rely on the SCCs as approved by the European Commission under Article 46 GDPR (and their approved equivalent for the UK and Switzerland) that allows companies in the EEA to transfer data outside the EEA.",
           "labels": []
         },
         {
-          "id": "S84",
-          "section": "**6.** **Data Retention and Security Controls**",
-          "text": "Stability retains your personal data for as long as reasonably necessary for the purposes outlined in this Privacy Policy, depending on factors such as the terms of your agreement, our purposes for processing the data (including whether the data is needed to resolve disputes and to enforce our agreements), and any legal requirements that we are subject to.",
+          "id": "S82",
+          "section": "6. Data Retention and Security Controls",
+          "text": "Stability retains your personal data for as long as reasonably necessary for the purposes outlined in this Privacy Policy, including for as long as your account is active and the data is needed to provide our Services to you.",
           "labels": []
         },
         {
-          "id": "S85",
-          "section": "**6.** **Data Retention and Security Controls**",
+          "id": "S83",
+          "section": "6. Data Retention and Security Controls",
+          "text": "Actual length of retention depends on factors such as the terms of your agreement, our purposes for processing the data (including whether the data is needed to resolve disputes and to enforce our agreements), and any legal requirements that we are subject to.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "6. Data Retention and Security Controls",
           "text": "The security of your personal data is important to us.",
           "labels": []
         },
         {
-          "id": "S86",
-          "section": "**6.** **Data Retention and Security Controls**",
+          "id": "S85",
+          "section": "6. Data Retention and Security Controls",
           "text": "We implement appropriate technical and organizational security measures designed to protect personal data from loss, misuse, and unauthorized access or disclosure.",
           "labels": []
         },
         {
-          "id": "S87",
-          "section": "**6.** **Data Retention and Security Controls**",
+          "id": "S86",
+          "section": "6. Data Retention and Security Controls",
           "text": "Our security measures are designed to provide the level of security appropriate to the underlying level of risk associated with the data processing.",
           "labels": []
         },
         {
+          "id": "S87",
+          "section": "7. Children",
+          "text": "Our Services are not directed towards, and we do not knowingly collect personal data from children under the age of 13.",
+          "labels": []
+        },
+        {
           "id": "S88",
-          "section": "**7**. **Children**",
-          "text": "Our Services are not directed towards, and we do not knowingly collect personal data from children under the age of 18.",
+          "section": "7. Children",
+          "text": "Our Services have minimum age requirements, which are set out in our Terms of Service.",
           "labels": []
         },
         {
           "id": "S89",
-          "section": "**7**. **Children**",
-          "text": "If you are the parent or guardian of a child under the age of 18 who you have reason to believe has provided any personal data to us, please email us at privacy@stability.ai.",
+          "section": "7. Children",
+          "text": "If you are the parent or guardian who believes a child has provided personal data to us in violation of these requirements please email us at <privacy@stability.ai>.",
           "labels": []
         },
         {
           "id": "S90",
-          "section": "**8**. **Contact Information and Data Controller**",
-          "text": "If you live in the European Economic Area (EEA), UK, or Switzerland (the \"European Region\"), the data controller responsible for your personal data is Stability AI Ltd.",
+          "section": "7. Children",
+          "text": "We will investigate the matter and, if appropriate, delete the personal data.",
           "labels": []
         },
         {
           "id": "S91",
-          "section": "**8**. **Contact Information and Data Controller**",
-          "text": "If you live outside the European Region, the data controller responsible for your personal data is Stability AI US Services Corporation.",
+          "section": "8. Contact Information and Data Controller",
+          "text": "If you live in the European Economic Area (EEA), UK, or Switzerland (the \"European Region\"), the data controller responsible for your personal data is Stability AI Ltd.",
           "labels": []
         },
         {
           "id": "S92",
-          "section": "**8**. **Contact Information and Data Controller**",
-          "text": "If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can email us at privacy@stability.ai.",
+          "section": "8. Contact Information and Data Controller",
+          "text": "If you live outside the European Region, the data controller responsible for your personal data is Stability AI US Services Corporation.",
           "labels": []
         },
         {
           "id": "S93",
-          "section": "**8**. **Contact Information and Data Controller**",
-          "text": "You can also write to us as described below: - Stability AI US Services Corporation c/o Legal, 10250 Constellation Blvd., Suite 2300, Los Angeles, CA 90067 (United States).",
+          "section": "8. Contact Information and Data Controller",
+          "text": "If you have any questions about this Privacy Policy, or have any questions, complaints or requests regarding your personal data, you can email us at <privacy@stability.ai>.",
           "labels": []
         },
         {
           "id": "S94",
-          "section": "**8**. **Contact Information and Data Controller**",
-          "text": "- Stability AI Ltd., FORA-United House, 9 Pembridge Road, London W11 3JY, England, UK.",
+          "section": "8. Contact Information and Data Controller",
+          "text": "You can also write to us as described below: - Stability AI US Services Corporation c/o Legal, 10250 Constellation Blvd., Suite 2300, Los Angeles, CA 90067 (United States).",
           "labels": []
         },
         {
           "id": "S95",
-          "section": "**9. Changes to Our Privacy Policy**",
-          "text": "We may update this Privacy Policy from time to time.",
+          "section": "8. Contact Information and Data Controller",
+          "text": "- Stability AI Ltd., FORA-United House, 9 Pembridge Road, London W11 3JY, England, UK.",
           "labels": []
         },
         {
           "id": "S96",
-          "section": "**9. Changes to Our Privacy Policy**",
+          "section": "9. Changes to Our Privacy Policy",
+          "text": "We may update this Privacy Policy from time to time.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "9. Changes to Our Privacy Policy",
           "text": "We will notify you of any material changes to this Privacy Policy, and update the Effective Date at the top of this page.",
           "labels": []
         }

@@ -1,10 +1,10 @@
 {
   "collection_date": "2026-11-12",
-  "total_products": 30,
-  "fetched_ok": 28,
+  "total_products": 34,
+  "fetched_ok": 32,
   "failed": 2,
-  "total_words": 180763,
-  "total_sentences": 7688,
+  "total_words": 204026,
+  "total_sentences": 8514,
   "entries": [
     {
       "slug": "openai-chatgpt",
@@ -140,40 +140,40 @@
       "slug": "stability-ai",
       "product": "Stability AI",
       "company": "Stability AI",
-      "source_url": "https://stability.ai/2025-privacy-policy",
+      "source_url": "https://stability.ai/privacy-policy",
       "fetched_date": "2026-11-12",
-      "policy_date": "2025-07-31",
-      "word_count": 2345,
-      "sentence_count": 96,
+      "policy_date": "2026-09-30",
+      "word_count": 2521,
+      "sentence_count": 97,
       "status": "ok",
       "failure_reason": null,
-      "notes": "PROVISIONAL: saved file is the 2025 version (effective 2025-07-31). Current version effective 2026-09-30 at https://stability.ai/privacy-policy — re-fetch needed (429-blocked)."
+      "notes": "Re-fetched 2026-11-12 (v1.1): current version effective 2026-09-30, replacing the provisional 2025 file."
     },
     {
       "slug": "runway",
       "product": "Runway",
       "company": "Runway",
-      "source_url": "https://runway-static-assets.s3.amazonaws.com/site/files/runway-privacy-policy-2023.pdf",
+      "source_url": "https://runway.com/privacy-policy",
       "fetched_date": "2026-11-12",
-      "policy_date": "2023-02-17",
-      "word_count": 3250,
-      "sentence_count": 137,
+      "policy_date": "2026-10-23",
+      "word_count": 6213,
+      "sentence_count": 192,
       "status": "ok",
       "failure_reason": null,
-      "notes": "PROVISIONAL: saved file is the 2023 version (effective 2023-02-17, official PDF). Current policy reportedly updated 2026-10-23 at https://runway.com/privacy-policy — re-fetch needed (429-blocked). Treat as placeholder; predates current training/biometric clauses."
+      "notes": "Re-fetched 2026-11-12 (v1.1): current version effective 2026-10-23, replacing the provisional 2023 PDF."
     },
     {
       "slug": "character-ai",
       "product": "Character.AI",
-      "company": "Character.AI",
+      "company": "Character Technologies, Inc.",
       "source_url": "https://character.ai/privacy",
       "fetched_date": "2026-11-12",
-      "policy_date": null,
-      "word_count": null,
-      "sentence_count": null,
-      "status": "failed",
-      "failure_reason": "Browser service HTTP 429 rate limit on the fetch; runtime barred repeating the request. The help-center copy is only a short FAQ summary, not the full policy, and no verbatim full-text mirror was found. Current policy effective 2026-07-01 (per Character.AI's July 1, 2026 update article) — clean re-fetch candidate once the rate limit cools.",
-      "notes": null
+      "policy_date": "2026-07-01",
+      "word_count": 2864,
+      "sentence_count": 112,
+      "status": "ok",
+      "failure_reason": null,
+      "notes": "Fetched 2026-11-12 (v1.1 retry): live page after the v1 429 cooled."
     },
     {
       "slug": "replika",
@@ -250,7 +250,7 @@
       "word_count": null,
       "sentence_count": null,
       "status": "failed",
-      "failure_reason": "Cloudflare 'Client Challenge' block on both fetch attempts; no policy content returned. Live-browser fallback was not available to the fetcher. Khanmigo is governed by Khan Academy's main privacy policy (not the separate Kids policy); a Dec 2023 archived copy exists on sdpc.a4l.org but is stale and third-party hosted — not used.",
+      "failure_reason": "Cloudflare 'Client Challenge' block on both fetch attempts; no policy content returned. Live-browser fallback was not available to the fetcher. Khanmigo is governed by Khan Academy's main privacy policy (not the separate Kids policy); a Dec 2023 archived copy exists on sdpc.a4l.org but is stale and third-party hosted — not used. v1.1 retry: Wayback fetch failed with a transient upstream error (retry barred); live page still Cloudflare-blocked. Needs a live-browser fetch or a fresh-session Wayback retry.",
       "notes": null
     },
     {
@@ -316,7 +316,7 @@
       "sentence_count": 307,
       "status": "ok",
       "failure_reason": null,
-      "notes": "PROVISIONAL: fetched from a Fineprinted GitHub snapshot (elevenlabs.io blocked the fetch); version dated 2026-05-20. A newer version dated 2026-10-09 may exist. Recommend live-browser re-fetch from https://elevenlabs.io/privacy-policy."
+      "notes": "PROVISIONAL: fetched from a Fineprinted GitHub snapshot (elevenlabs.io blocked the fetch); version dated 2026-05-20. A newer version dated 2026-10-09 may exist. Recommend live-browser re-fetch from https://elevenlabs.io/privacy-policy. v1.1 re-fetch attempt failed: live elevenlabs.io blocked, Wayback returned 403. Newer version confirmed updated 2026-10-09 — still needs a live-browser fetch."
     },
     {
       "slug": "suno",
@@ -329,7 +329,7 @@
       "sentence_count": 124,
       "status": "ok",
       "failure_reason": null,
-      "notes": "PROVISIONAL: fetched from suno.tech (suno.com blocked); suno.tech's status as Suno's official domain is uncertain; this version contains no AI-training clause. Recommend live-browser re-fetch from https://suno.com/privacy."
+      "notes": "PROVISIONAL: fetched from suno.tech (suno.com blocked); suno.tech's status as Suno's official domain is uncertain; this version contains no AI-training clause. Recommend live-browser re-fetch from https://suno.com/privacy. v1.1 re-fetch attempt failed: live suno.com blocked, Wayback returned 403. Official URL confirmed as https://suno.com/privacy — still needs a live-browser fetch."
     },
     {
       "slug": "poe",
@@ -394,6 +394,58 @@
       "sentence_count": 248,
       "status": "ok",
       "failure_reason": null,
+      "notes": null
+    },
+    {
+      "slug": "canva",
+      "product": "Canva (Magic Studio)",
+      "company": "Canva",
+      "source_url": "https://www.canva.com/policies/privacy-policy/",
+      "fetched_date": "2026-11-12",
+      "policy_date": "2026-11-02",
+      "word_count": 9847,
+      "sentence_count": 340,
+      "status": "ok",
+      "failure_reason": null,
+      "notes": null
+    },
+    {
+      "slug": "fireflies-ai",
+      "product": "Fireflies.ai",
+      "company": "Fireflies.ai Corp.",
+      "source_url": "https://fireflies.ai/privacy-policy",
+      "fetched_date": "2026-11-12",
+      "policy_date": "2026-09-28",
+      "word_count": 5248,
+      "sentence_count": 205,
+      "status": "ok",
+      "failure_reason": null,
+      "notes": null
+    },
+    {
+      "slug": "nomi",
+      "product": "Nomi",
+      "company": "Glimpse.ai, Inc.",
+      "source_url": "https://nomi.ai/privacy-policy/",
+      "fetched_date": "2026-11-12",
+      "policy_date": "2026-04-27",
+      "word_count": 2165,
+      "sentence_count": 113,
+      "status": "ok",
+      "failure_reason": null,
+      "notes": null
+    },
+    {
+      "slug": "quillbot",
+      "product": "QuillBot",
+      "company": "QuillBot",
+      "source_url": "https://quillbot.com/privacy",
+      "fetched_date": "2026-11-12",
+      "policy_date": null,
+      "word_count": null,
+      "sentence_count": null,
+      "status": "failed",
+      "failure_reason": "Live page is JS-rendered (browser read returned nav links only); Wayback snapshot returned HTTP 403. The legacy-word.quillbot.com copy is the superseded March 1, 2022 version (current policy updated Nov 8, 2025) — deliberately not used. Needs a live-browser fetch.",
       "notes": null
     }
   ]

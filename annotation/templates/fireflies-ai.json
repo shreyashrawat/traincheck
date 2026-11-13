@@ -1,0 +1,1309 @@
+{
+  "policy_id": "fireflies-ai",
+  "source_url": "https://fireflies.ai/privacy-policy",
+  "annotator": "TEMPLATE",
+  "documents": [
+    {
+      "name": "Policy",
+      "text": "# Privacy Policy | Fireflies.ai\n\nLast Updated: September 28, 2026\n\nThis Privacy Policy describes how Fireflies.ai Corp. and our subsidiaries and affiliated companies (collectively, **“Fireflies.ai,” “we,”** or **“us”**) collect, use, disclose, and otherwise process information when you access or use our websites, applications, and other products and services (collectively, our **“Services”**). This Privacy Policy also describes how we process information when you interact with us, such as through our sales and customer support channels. This Privacy Policy does not apply to User Content we process on behalf of our business customers, which is governed by our Terms of Service, Data Processing Agreement, and other applicable agreements covering business customers' access to and use of our Services.\n\nWe may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy. If we make material changes, we will provide you with additional notice (such as by adding a statement to the Services or sending you a notification). We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.\n\n## Contents\n\n1. Collection of Information\n\n2. Use of Information\n\n3. Targeted Advertising and Analytics\n\n4. Disclosure of Information\n\n5. Third Parties\n\n6. Data Retention\n\n7. Your Choices\n\n8. Additional Information for Specific Jurisdictions\n\n9. Contact Us\n\n## Collection of Information\n\nThe information we collect about you depends on how you interact with us. In this section, we describe the categories of information we collect and the sources of this information.\n\n### Information You Provide to Us\n\nWe collect information you provide directly to us. This includes:\n\n- Information you provide in connection with registering for an account, such as your name, company name, email address, physical address, phone number, and any other information you decide to provide;\n\n- Information you provide in order to authenticate an account, including your account name, password, and any other information you decide to provide;\n\n- Information you provide in connection with completing a transaction or purchase using the Services;\n\n- Information you provide in connection with using the Services, including your name, company name, email address, physical address, phone number, and any other information you decide to provide;\n\n- Information you provide via email, through the “contact us” section on our websites, or by using the contact details listed throughout our Services, including your name, company name, email address, physical address, phone number, and any other information you decide to provide;\n\n- Information you provide in order to subscribe to our newsletters and updates, including your email address, the topic for which you wish to receive updates, or any other information you decide to provide to us (you may always unsubscribe from these emails by following the instructions in those communications);\n\n- If you are one of our business customers, suppliers or prospects, we may process limited personal information in the course of our business relation with you, for example when you place an order, request a demo or vice versa. Such information may include your name, company, title, email address, phone number, address, order details, and where applicable and relevant, credit registrations, and credit limits;\n\n- Transaction and limited (non-PCI) payment data; and\n\n- Any other information you may want to share with us, such as personal information related to recruitment / job applications.\n\nAdditionally, if another user refers you to us by providing us with your e-mail address, we may send you a message. However, we will use your email address only to send such other user's messages, unless you otherwise affirmatively provide your information to us.\n\n### Information We Collect Automatically\n\nWe automatically collect information about your interactions with us or our Services, including:\n\n- **Log Data:** We collect information that your browser or device automatically sends when you use our Services, including your IP address, browser type and settings, access dates and times, and the route by which you access our Services.\n\n- **Usage Data:** We collect information about how you access and use our Services, such as the features you use, the actions you take (such as pages viewed and links clicked), and the people with whom you interact through our Services.\n\n- **Device Data:** We collect information about the device you use to access our Services, such as hardware model, operating system, and device identifiers.\n\n- **Meeting and Call Information:** If enabled, certain features and integrations of our Services will collect meeting and call details, such as the names and email addresses of participants and invitees, the title of the meeting, meeting audio and visual files, and other meeting details, like meeting URLs and meeting IDs.\n\n- **Voice Data:** To provide or enable certain features, such as differentiating participants' voices in a meeting for purposes of creating meeting transcripts and summaries, our service providers may use voice recordings to extract or generate data about participants' voice characteristics (“Voice Data”). Voice Data may be considered “biometric identifiers” or “biometric information” in some jurisdictions. Our service providers do not use Voice Data to identify or authenticate individuals, and we never receive or process this information on our own servers.\n\n- **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and SDKs, to collect information about your interactions with the Services and our marketing communications. These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits. For more information about the cookies and similar tracking technologies we use, and the choices available to you, see the Targeted Advertising and Analytics and the Your Choices sections below.\n\n- **Your Content:** With your permission, we collect information and content stored on your device. For example, if you connect your calendar or enable certain integrations, we may access your contacts and calendar.\n\n- **Fireflies Talk:** If you turn on Fireflies Talk, our desktop dictation feature, we collect your voice while a dictation is active. When you stop dictating, we also collect limited information from the application you are using (**“Screen Context”**).\n\n### Information We Collect from Other Sources\n\nWe obtain information from other sources. For example, we receive information from third parties when you enable integrations that link our Services with a third-party service, such as Google, Microsoft, Slack, Webex, or Zoom. The information we receive will depend on the specific integration and may include information such as your name, email address, calendar and meeting information, profile information, email, message, and chat content, and any information you provide to enable the integration. You can see and manage your integrations by signing into your account.\n\nAdditionally, if you create or log in to your Fireflies.ai account through a third-party platform (such as Google or Microsoft), we will have access to certain information from that platform, such as: (1) account data, such as your name, profile picture, username; (2) calendar data, including event titles, descriptions, dates and times, and guest lists; (3) email data, such as your email address; and (4) any other information the third-party platform discloses about you, in accordance with the authorization procedures determined by such platform.\n\n### Information We Derive\n\nWe may derive information or draw inferences about you based on the information we collect. For example, we may infer or derive information about your approximate location based on your IP address. We may also infer your company affiliation based on your email address and certain meeting characteristics based on the recordings generated, such as the general purpose of a meeting.\n\n## Use of Information\n\nWe use the information we collect to provide, operate, and improve our Services, including to capture audio and visual recordings of meetings, generate transcripts and summaries, transcribe and format dictations you create with Fireflies Talk, and enable other integrations you select. We do not use personal information for AI model training and we contractually prohibit our vendors from using this information for their own model training.\n\nWe also use the information we collect to:\n\n- Administer your use of the Services and any accounts you may have with us;\n\n- Develop new products and Services;\n\n- Personalize your experience with us;\n\n- Send you technical notices, security alerts, support messages, and other transactional or relationship messages;\n\n- Send you marketing communications (see the Your Choices section below for information about how to opt out of these communications at any time);\n\n- Monitor and analyze trends, usage, and activities in connection with our products and Services;\n\n- Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the Targeted Advertising and Analytics section below);\n\n- Facilitate promotions, contests, and sweepstakes and process and deliver entries and rewards;\n\n- Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of Fireflies.ai and others;\n\n- Comply with our legal and financial obligations; and\n\n- Create de-identified and aggregate data that cannot reasonably be linked to you.\n\n## Targeted Advertising and Analytics\n\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. To do this, Fireflies.ai and these partners may use cookies, pixels, SDKs, and similar technologies to collect information about your use of our Services and other websites and mobile apps, including your device identifiers, IP address, web browser and mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, order information, items added to cart, and conversion information. This information is used to deliver advertising targeted to you on other companies' websites and mobile apps, understand the effectiveness of this advertising, analyze and track data, determine the popularity of certain content, and better understand your activity.\n\nYou can opt out of ad targeting through cookies and similar technologies on our websites by following the prompts behind the **Your Privacy Choices** link in the site footer. Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit our websites from a new device or browser, or if you clear your browser's cookies. From within our mobile app, you can opt out of these activities by navigating to **Cookies & Privacy** from the Settings menu.\n\nIn addition to ad targeting activities that rely on cookies and similar technologies, we work with advertising partners to translate other identifiers, such as your email address or phone number, into a unique identifier (called a hashed value) that such partners can then use to show ads that promote Fireflies.ai that are more relevant to you across the web and in mobile apps. Depending on where you reside, you may opt out of these disclosures by filling out our web form.\n\nThe activities described in this section may constitute “targeted advertising,” “sharing,” or “selling” under certain privacy laws. See the Additional Information for Specific Jurisdictions section below for details.\n\nYou can also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices or www.youronlinechoices.eu (if you reside in Europe). Your device may also include a feature that allows you to opt out of having certain information collected through mobile apps used for behavioral advertising purposes.\n\n## Disclosure of Information\n\nWe disclose personal information as described in this Privacy Policy and in the following ways:\n\n- **Vendors and Service Providers.** We make personal information available to our vendors, service providers, contractors and consultants who perform services on our behalf, such as companies that assist us with analyzing meeting recordings, transcribing and formatting Fireflies Talk dictations (speech-to-text providers receive dictation audio; text-formatting providers receive the transcribed text and Screen Context), web hosting and cloud infrastructure, payment processing, fraud prevention, security, customer service, analytics, and marketing. More information about our subprocessors is available at https://trust.fireflies.ai/subprocessors.\n\n- **Integration Partners.** If you choose to use integrations we offer on our Services, such as collaboration tools or external AI connectors, we will provide or make available certain information to those partners as needed to enable the integration. Information provided to integration partners will be handled in accordance with their own privacy policy and terms, which you should review carefully.\n\n- **Fireflies.ai Users and Other Meeting Participants.** We share certain information with other users and meeting participants when we have your consent to do so. For example, depending on your settings, we may send a meeting recap email (which may include a summary and a link to meeting content) to select recipients.\n\n- **Community Visitors.** If you interact on our community site, such as to provide product feedback, ask a question, or otherwise post content, your content will be visible to other users of the community site.\n\n- **Law Enforcement Authorities and Individuals Involved in Legal Proceedings.** We may disclose personal information in response to a request for information if we believe that disclosure is in accordance with, or required by, any applicable law, regulation, or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.\n\n- **To Protect the Rights of Fireflies.ai and Others.** We may disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of Fireflies.ai, our users, the public, or others.\n\n- **Professional Advisors.** We disclose personal information to our legal, financial, insurance, and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.\n\n- **Corporate Transactions.** We may disclose personal information in connection with, or during negotiations of, certain corporate transactions, including a merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.\n\n- **Corporate Affiliates.** Personal information is disclosed between and among Fireflies.ai and our parents, affiliates, subsidiaries, and other companies under common control and ownership.\n\n- **With Your Consent or at Your Direction.** We make personal information available to third parties when we have your consent or you intentionally direct us to do so.\n\nWe also disclose aggregated or de-identified information that cannot reasonably be used to identify you. We maintain and use this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.\n\n## Third Parties\n\nOur Services may contain links to other websites, products, or services that we do not own or operate. We are not responsible for the privacy practices of these third parties. Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any information you disclose to these third parties. We encourage you to read their privacy policies before providing any information to them.\n\n## Data Retention\n\nWe store personal information associated with your account for as long as your account remains active. If you close your account, we will delete personal information related to your account within 30 days. We store other personal information for as long as necessary to carry out the purposes for which we originally collected it and for other business purposes explained in this Privacy Policy.\n\nWe also impose a **Zero Data Retention** policy for meeting content, which includes audio, video, transcripts, and summaries of the meeting, and Fireflies Talk data. This means that your meeting content and Fireflies Talk data is not: (1) stored by any third-party vendor after processing; (2) accessed by any third-party vendor once the service is completed; or (3) used for training internal or external AI models.\n\n## Your Choices\n\n### Account Information\n\nYou can access, correct, and delete certain information stored within your Fireflies.ai account at any time by visiting https://app.fireflies.ai/settings or by using our live chat function. You may also email support@fireflies.ai. If you do not have an account but participated in a meeting where our Services were enabled, please reach out to the meeting host to request deletion of the meeting recording. You may also contact us at support@fireflies.ai if you have further questions or require assistance.\n\n### Fireflies Talk\n\nFireflies Talk is off until you turn it on in the desktop application under Settings › Dictation, and you can turn it off there at any time. You can also turn off Screen Context in the same place; with Screen Context off, Fireflies Talk transcribes your dictation without reading the application you are using. Because Fireflies Talk reads what is on your screen, do not use it while viewing protected health information, payment card numbers, passwords or authentication codes, or other information you do not want sent to us and our service providers.\n\n### Meeting Settings\n\nYou can control who can view your meeting recaps and the associated meeting content (such as transcripts, summaries, and recordings) through your account settings and sharing controls. For example, you can adjust privacy settings for an individual meeting recap and choose whether to share it via a link, with workspace teammates, with meeting participants, or keep it visible only to you. You can also set default privacy settings for future meeting recaps through your Meeting Settings. You can learn more about these options here.\n\nFireflies.ai uses cookies and similar tracking technologies, as described above. You can usually adjust your browser settings to remove or reject browser cookies. You can also adjust certain cookie settings by following the prompts behind the **Your Privacy Choices** link in the site footer. Please note that removing or rejecting cookies could affect some of the functionality of our Services.\n\n### Communications Preferences\n\nYou may opt out of receiving promotional emails from Fireflies.ai by following the instructions in those communications. If you opt out, we may still send you non-promotional emails, such as those about your account.\n\n### Desktop and Mobile Push Notifications\n\nWith your permission, we may send push notifications to your desktop or mobile device. You can deactivate these messages at any time by changing the notification settings on your desktop or mobile device.\n\n## Additional Information for Specific Jurisdictions\n\n### Illinois Biometric Information Privacy Act\n\nAs described in the Collection of Information section above, our service providers may extract or generate Voice Data from voice recordings that may be considered “biometric identifiers” or “biometric information” under Illinois law. Our service providers do not use Voice Data to identify or authenticate individuals and we never receive or process Voice Data on our own servers. In addition, to the extent Voice Data is considered “biometric identifiers” or “biometric information,” we maintain a written retention schedule and guidelines for permanently destroying such information when the initial purpose for collecting or obtaining it has been satisfied or within three (3) years of an individual's last interaction with us, whichever occurs first. Where this information is generated or processed by our service providers on our behalf, we require such service providers to permanently destroy it in accordance with this schedule.\n\n### Individuals Residing in Certain U.S. States\n\nSome U.S. states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“State Privacy Laws”). If you reside in California, Iowa, Maryland, Texas, Virginia, or another state where we are subject to similar laws, this section applies to you. This section also serves as our California notice at collection.\n\n#### Additional Disclosures\n\nOur Privacy Policy explains how we collect, use, and disclose information about you, as well as our targeted advertising and analytics practices. As required by certain State Privacy Laws, we use the tables below to explain this same information.\n\n##### Use and Disclosure of Personal Information for Business Purposes\n\n| Category of Personal Information | Use of Personal Information | Categories of Recipients |\n\n| --- | --- | --- |\n\n| Identifiers, such as name, email address, IP address, and other device identifiers. Commercial information, such as your transaction history. Internet or other electronic network activity information, such as browsing behavior. Audio, electronic, visual, or similar information, such as meeting recordings, Fireflies Talk dictation audio, and Screen Context. Professional or employment-related information, such as the type of company you work for. Approximate location, such as the location of your meeting based on your IP address. Inferences drawn from your other personal information, such as your employment status. Sensitive personal information, such as the contents of communications you choose to connect to or share through our integrations (e.g., email or messaging integrations) or that are visible on your screen when you use Fireflies Talk, to the extent this content is treated as sensitive personal information under applicable law. | Provide, operate, and improve our Services, including to capture meetings, generate transcripts and summaries, transcribe and format dictations, and provide features you request. Administer your use of the Services and any accounts you may have with us. Develop new products and Services. Personalize your experience with us. Send you technical notices, security alerts, support messages, and other transactional or relationship messages. Monitor and analyze trends, usage, and activities in connection with our products and Services. Facilitate promotions, contests, and sweepstakes, and process and deliver entries and rewards. Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of Fireflies.ai and others. Comply with our legal and financial obligations. Create de-identified and aggregate data that cannot reasonably be linked to you. | Vendors and service providers. Integration partners. Fireflies.ai users and other meeting participants. Community visitors. Our corporate affiliates. Law enforcement or others involved in legal proceedings. Third parties as needed to protect our users, the public, or our rights. Professional advisors. Parties involved in a corporate transaction. With your consent or at your direction. |\n\nTo the extent we collect sensitive personal information, we only process this data with your consent or to provide you with a requested product or service. We do not use or disclose sensitive personal information for the purpose of inferring characteristics about you.\n\nAs described in the Collection of Information section above, we collect personal information from various sources, including directly from you, automatically when you access or use our Services, and from third-party sources.\n\nWe retain personal information as described above in the Data Retention section. We do not collect, use, or sell personal data for the purpose of training large language models.\n\n#### Sales, Sharing, and Targeted Advertising Activities\n\nWe disclose certain categories of personal information to show you targeted ads on third-party properties and expand the reach and effectiveness of our own marketing campaigns. These disclosures may be considered “sales,” “sharing,” or use of personal information for “targeted advertising” under State Privacy Laws, and the table below covers the categories of personal information we disclose for these purposes and the categories of third parties that receive it.\n\n| Category of Personal Information | Category of Third Parties |\n\n| --- | --- |\n\n| Identifiers, such as name, email address, cookie IDs or device advertising IDs | Marketing and advertising partners |\n\n| Internet and electronic network activity, such as the pages you visited when navigating our Site | Marketing and advertising partners |\n\nWe do not engage in sales, sharing, or targeted advertising using personal information about consumers we know to be under the age of 18.\n\n#### Your Rights under State Privacy Laws\n\n##### Opt Out of Sales, Sharing, and Targeted Advertising\n\nYou may opt out of activities that we engage in that constitute “sales,” “sharing,” or “targeted advertising” under the State Privacy Laws by:\n\n- **Cookies and Similar Technologies:** Following the prompts behind the **Your Privacy Choices** link in the footer of our websites. Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit our websites from a new device or browser, or if you clear your browser's cookies. From within our mobile app, you can opt out of these activities by navigating to **Cookies & Privacy** from the Settings menu; and\n\n- **Other Identifiers:** Filling out our web form to turn off “targeted advertising,” “sharing,” and “sales” based on your email address.\n\nYou can also opt out by visiting our websites with a legally recognized universal opt-out signal enabled, such as Global Privacy Control. If you are not logged in to your account with us, our processing of the signal will be limited to cookie-based sales, sharing, and targeted advertising for the specific browser or device that you are using.\n\n##### Access, Correction, and Deletion\n\nYou have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information. To make any of these requests, you can email us at support@fireflies.ai. To authenticate your request, we may ask you for additional information to verify your identity. Any additional information you provide will be used only to verify your identity and not for any other purpose.\n\n##### Non-retaliation\n\nWe will not retaliate or discriminate against you for exercising your privacy rights.\n\n##### Appeals\n\nIf we deny your request, you may appeal our decision by contacting us at support@fireflies.ai. If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.\n\nIf you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please email us at support@fireflies.ai.\n\nIf you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf. We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request. In some cases, we may contact the individual who is the subject of the request to verify such individual's own identity or confirm the authorized agent has permission to submit the request. If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please email us at support@fireflies.ai.\n\n### International Transfers\n\nFireflies.ai is based in the United States, and we and our service providers process and store personal information on servers located in the United States and other countries. Whenever we make restricted international transfers of personal information, we take steps to ensure that your personal information receives an adequate level of protection (by putting in place appropriate safeguards, such as contractual clauses) or ensure that we can rely on an appropriate derogation under data protection laws. Where relevant, you may request access to any safeguard which we use to transfer your personal information outside of the European Economic Area, the United Kingdom, or Switzerland (although we may need to redact data transfer agreements for confidentiality reasons).\n\nFor personal information about EEA, Swiss, and UK individuals, Fireflies.ai complies with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks and the UK Extension to the EU-U.S. Data Privacy Framework (collectively, the “Frameworks”), each as set forth by the U.S. Department of Commerce. As described in our Frameworks certification, Fireflies.ai has certified that it adheres to the Frameworks Principles with regard to the processing of personal information received from the EEA, Switzerland, and the UK in reliance on the Frameworks. In accordance with the Frameworks, we remain responsible under the Onward Transfer Principle for personal information that we disclose to third parties for processing on our behalf. To learn more about the Frameworks or to view our certification, please visit the Frameworks website. The Federal Trade Commission has jurisdiction over Fireflies.ai's compliance with the Frameworks.\n\nFireflies.ai commits to resolve Frameworks Principles-related inquiries and complaints about our processing of personal data under the Frameworks, and EEA, Swiss, and UK individuals with such inquiries or complaints can contact us at: support@fireflies.ai.\n\n#### Dispute Resolution – Personal Data\n\nIn compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Fireflies AI Corp commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.\n\n#### Dispute Resolution – Human Resources Data\n\nIn compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Fireflies AI Corp commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF in the context of the employment relationship.\n\nIn certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Framework Principles.\n\n### Individuals in Europe\n\nIf you are located in Europe, this section applies to you.\n\n#### Legal Basis for Processing\n\nWhen we process your personal data as described in this Privacy Policy, we do so in reliance on the following lawful bases:\n\n- To perform our responsibilities under our contract with you (e.g., processing payments for and providing the products and services you requested);\n\n- When we have a legitimate interest in processing your personal information to operate our business or protect our interests (e.g., to provide, maintain, and improve our products and services, conduct data analytics, and communicate with you);\n\n- To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have opted out of marketing communications); or\n\n- When we have your consent to do so (e.g., when you opt in to receive marketing communications from us). When consent is the legal basis for our processing of your personal information, you may withdraw such consent at any time.\n\n#### Data Subject Requests\n\nYou have the right to (1) access your personal data, including in a portable format, (2) request erasure of your personal data, and (3) request correction of inaccurate personal data. In addition, you may have the right to object to certain processing or request we restrict certain processing. To exercise any of these rights, please email us at support@fireflies.ai.\n\nIf you have a concern about our processing of personal data, we encourage you to contact us in the first instance by emailing us at security@fireflies.ai. However, if we are not able to resolve it, you have the right to lodge a complaint with the Data Protection Authority where you reside. Contact details for your Data Protection Authority can be found using the links below:\n\n- For individuals in the European Union: https://edpb.europa.eu/about-edpb/board/members_en\n\n- For individuals in the UK: https://ico.org.uk/global/contact-us/\n\n- For individuals in Switzerland: https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html\n\nIf you have questions about this Privacy Policy, please contact us at support@fireflies.ai.\n",
+      "sentences": [
+        {
+          "id": "S1",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "Last Updated: September 28, 2026 This Privacy Policy describes how Fireflies.ai Corp.",
+          "labels": []
+        },
+        {
+          "id": "S2",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "and our subsidiaries and affiliated companies (collectively, **“Fireflies.ai,” “we,”** or **“us”**) collect, use, disclose, and otherwise process information when you access or use our websites, applications, and other products and services (collectively, our **“Services”**).",
+          "labels": []
+        },
+        {
+          "id": "S3",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "This Privacy Policy also describes how we process information when you interact with us, such as through our sales and customer support channels.",
+          "labels": []
+        },
+        {
+          "id": "S4",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "This Privacy Policy does not apply to User Content we process on behalf of our business customers, which is governed by our Terms of Service, Data Processing Agreement, and other applicable agreements covering business customers' access to and use of our Services.",
+          "labels": []
+        },
+        {
+          "id": "S5",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "We may change this Privacy Policy from time to time.",
+          "labels": []
+        },
+        {
+          "id": "S6",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "If we make changes, we will notify you by revising the date at the top of this policy.",
+          "labels": []
+        },
+        {
+          "id": "S7",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "If we make material changes, we will provide you with additional notice (such as by adding a statement to the Services or sending you a notification).",
+          "labels": []
+        },
+        {
+          "id": "S8",
+          "section": "Privacy Policy | Fireflies.ai",
+          "text": "We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.",
+          "labels": []
+        },
+        {
+          "id": "S9",
+          "section": "Contents",
+          "text": "1.",
+          "labels": []
+        },
+        {
+          "id": "S10",
+          "section": "Contents",
+          "text": "Collection of Information 2.",
+          "labels": []
+        },
+        {
+          "id": "S11",
+          "section": "Contents",
+          "text": "Use of Information 3.",
+          "labels": []
+        },
+        {
+          "id": "S12",
+          "section": "Contents",
+          "text": "Targeted Advertising and Analytics 4.",
+          "labels": []
+        },
+        {
+          "id": "S13",
+          "section": "Contents",
+          "text": "Disclosure of Information 5.",
+          "labels": []
+        },
+        {
+          "id": "S14",
+          "section": "Contents",
+          "text": "Third Parties 6.",
+          "labels": []
+        },
+        {
+          "id": "S15",
+          "section": "Contents",
+          "text": "Data Retention 7.",
+          "labels": []
+        },
+        {
+          "id": "S16",
+          "section": "Contents",
+          "text": "Your Choices 8.",
+          "labels": []
+        },
+        {
+          "id": "S17",
+          "section": "Contents",
+          "text": "Additional Information for Specific Jurisdictions 9.",
+          "labels": []
+        },
+        {
+          "id": "S18",
+          "section": "Contents",
+          "text": "Contact Us",
+          "labels": []
+        },
+        {
+          "id": "S19",
+          "section": "Collection of Information",
+          "text": "The information we collect about you depends on how you interact with us.",
+          "labels": []
+        },
+        {
+          "id": "S20",
+          "section": "Collection of Information",
+          "text": "In this section, we describe the categories of information we collect and the sources of this information.",
+          "labels": []
+        },
+        {
+          "id": "S21",
+          "section": "Information You Provide to Us",
+          "text": "We collect information you provide directly to us.",
+          "labels": []
+        },
+        {
+          "id": "S22",
+          "section": "Information You Provide to Us",
+          "text": "This includes: - Information you provide in connection with registering for an account, such as your name, company name, email address, physical address, phone number, and any other information you decide to provide; - Information you provide in order to authenticate an account, including your account name, password, and any other information you decide to provide; - Information you provide in connection with completing a transaction or purchase using the Services; - Information you provide in connection with using the Services, including your name, company name, email address, physical address, phone number, and any other information you decide to provide; - Information you provide via email, through the “contact us” section on our websites, or by using the contact details listed throughout our Services, including your name, company name, email address, physical address, phone number, and any other information you decide to provide; - Information you provide in order to subscribe to our newsletters and updates, including your email address, the topic for which you wish to receive updates, or any other information you decide to provide to us (you may always unsubscribe from these emails by following the instructions in those communications); - If you are one of our business customers, suppliers or prospects, we may process limited personal information in the course of our business relation with you, for example when you place an order, request a demo or vice versa.",
+          "labels": []
+        },
+        {
+          "id": "S23",
+          "section": "Information You Provide to Us",
+          "text": "Such information may include your name, company, title, email address, phone number, address, order details, and where applicable and relevant, credit registrations, and credit limits; - Transaction and limited (non-PCI) payment data; and - Any other information you may want to share with us, such as personal information related to recruitment / job applications.",
+          "labels": []
+        },
+        {
+          "id": "S24",
+          "section": "Information You Provide to Us",
+          "text": "Additionally, if another user refers you to us by providing us with your e-mail address, we may send you a message.",
+          "labels": []
+        },
+        {
+          "id": "S25",
+          "section": "Information You Provide to Us",
+          "text": "However, we will use your email address only to send such other user's messages, unless you otherwise affirmatively provide your information to us.",
+          "labels": []
+        },
+        {
+          "id": "S26",
+          "section": "Information We Collect Automatically",
+          "text": "We automatically collect information about your interactions with us or our Services, including: - **Log Data:** We collect information that your browser or device automatically sends when you use our Services, including your IP address, browser type and settings, access dates and times, and the route by which you access our Services.",
+          "labels": []
+        },
+        {
+          "id": "S27",
+          "section": "Information We Collect Automatically",
+          "text": "- **Usage Data:** We collect information about how you access and use our Services, such as the features you use, the actions you take (such as pages viewed and links clicked), and the people with whom you interact through our Services.",
+          "labels": []
+        },
+        {
+          "id": "S28",
+          "section": "Information We Collect Automatically",
+          "text": "- **Device Data:** We collect information about the device you use to access our Services, such as hardware model, operating system, and device identifiers.",
+          "labels": []
+        },
+        {
+          "id": "S29",
+          "section": "Information We Collect Automatically",
+          "text": "- **Meeting and Call Information:** If enabled, certain features and integrations of our Services will collect meeting and call details, such as the names and email addresses of participants and invitees, the title of the meeting, meeting audio and visual files, and other meeting details, like meeting URLs and meeting IDs.",
+          "labels": []
+        },
+        {
+          "id": "S30",
+          "section": "Information We Collect Automatically",
+          "text": "- **Voice Data:** To provide or enable certain features, such as differentiating participants' voices in a meeting for purposes of creating meeting transcripts and summaries, our service providers may use voice recordings to extract or generate data about participants' voice characteristics (“Voice Data”).",
+          "labels": []
+        },
+        {
+          "id": "S31",
+          "section": "Information We Collect Automatically",
+          "text": "Voice Data may be considered “biometric identifiers” or “biometric information” in some jurisdictions.",
+          "labels": []
+        },
+        {
+          "id": "S32",
+          "section": "Information We Collect Automatically",
+          "text": "Our service providers do not use Voice Data to identify or authenticate individuals, and we never receive or process this information on our own servers.",
+          "labels": []
+        },
+        {
+          "id": "S33",
+          "section": "Information We Collect Automatically",
+          "text": "- **Information Collected by Cookies and Similar Tracking Technologies:** We use tracking technologies, such as cookies, pixels, and SDKs, to collect information about your interactions with the Services and our marketing communications.",
+          "labels": []
+        },
+        {
+          "id": "S34",
+          "section": "Information We Collect Automatically",
+          "text": "These technologies help us improve our Services and marketing communications, personalize your experience, and analyze your interactions with us, including to see which areas and features of our Services are popular and count visits.",
+          "labels": []
+        },
+        {
+          "id": "S35",
+          "section": "Information We Collect Automatically",
+          "text": "For more information about the cookies and similar tracking technologies we use, and the choices available to you, see the Targeted Advertising and Analytics and the Your Choices sections below.",
+          "labels": []
+        },
+        {
+          "id": "S36",
+          "section": "Information We Collect Automatically",
+          "text": "- **Your Content:** With your permission, we collect information and content stored on your device.",
+          "labels": []
+        },
+        {
+          "id": "S37",
+          "section": "Information We Collect Automatically",
+          "text": "For example, if you connect your calendar or enable certain integrations, we may access your contacts and calendar.",
+          "labels": []
+        },
+        {
+          "id": "S38",
+          "section": "Information We Collect Automatically",
+          "text": "- **Fireflies Talk:** If you turn on Fireflies Talk, our desktop dictation feature, we collect your voice while a dictation is active.",
+          "labels": []
+        },
+        {
+          "id": "S39",
+          "section": "Information We Collect Automatically",
+          "text": "When you stop dictating, we also collect limited information from the application you are using (**“Screen Context”**).",
+          "labels": []
+        },
+        {
+          "id": "S40",
+          "section": "Information We Collect from Other Sources",
+          "text": "We obtain information from other sources.",
+          "labels": []
+        },
+        {
+          "id": "S41",
+          "section": "Information We Collect from Other Sources",
+          "text": "For example, we receive information from third parties when you enable integrations that link our Services with a third-party service, such as Google, Microsoft, Slack, Webex, or Zoom.",
+          "labels": []
+        },
+        {
+          "id": "S42",
+          "section": "Information We Collect from Other Sources",
+          "text": "The information we receive will depend on the specific integration and may include information such as your name, email address, calendar and meeting information, profile information, email, message, and chat content, and any information you provide to enable the integration.",
+          "labels": []
+        },
+        {
+          "id": "S43",
+          "section": "Information We Collect from Other Sources",
+          "text": "You can see and manage your integrations by signing into your account.",
+          "labels": []
+        },
+        {
+          "id": "S44",
+          "section": "Information We Collect from Other Sources",
+          "text": "Additionally, if you create or log in to your Fireflies.ai account through a third-party platform (such as Google or Microsoft), we will have access to certain information from that platform, such as: (1) account data, such as your name, profile picture, username; (2) calendar data, including event titles, descriptions, dates and times, and guest lists; (3) email data, such as your email address; and (4) any other information the third-party platform discloses about you, in accordance with the authorization procedures determined by such platform.",
+          "labels": []
+        },
+        {
+          "id": "S45",
+          "section": "Information We Derive",
+          "text": "We may derive information or draw inferences about you based on the information we collect.",
+          "labels": []
+        },
+        {
+          "id": "S46",
+          "section": "Information We Derive",
+          "text": "For example, we may infer or derive information about your approximate location based on your IP address.",
+          "labels": []
+        },
+        {
+          "id": "S47",
+          "section": "Information We Derive",
+          "text": "We may also infer your company affiliation based on your email address and certain meeting characteristics based on the recordings generated, such as the general purpose of a meeting.",
+          "labels": []
+        },
+        {
+          "id": "S48",
+          "section": "Use of Information",
+          "text": "We use the information we collect to provide, operate, and improve our Services, including to capture audio and visual recordings of meetings, generate transcripts and summaries, transcribe and format dictations you create with Fireflies Talk, and enable other integrations you select.",
+          "labels": []
+        },
+        {
+          "id": "S49",
+          "section": "Use of Information",
+          "text": "We do not use personal information for AI model training and we contractually prohibit our vendors from using this information for their own model training.",
+          "labels": []
+        },
+        {
+          "id": "S50",
+          "section": "Use of Information",
+          "text": "We also use the information we collect to: - Administer your use of the Services and any accounts you may have with us; - Develop new products and Services; - Personalize your experience with us; - Send you technical notices, security alerts, support messages, and other transactional or relationship messages; - Send you marketing communications (see the Your Choices section below for information about how to opt out of these communications at any time); - Monitor and analyze trends, usage, and activities in connection with our products and Services; - Target advertisements to you on third-party platforms and websites (for more information and to opt out, see the Targeted Advertising and Analytics section below); - Facilitate promotions, contests, and sweepstakes and process and deliver entries and rewards; - Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of Fireflies.ai and others; - Comply with our legal and financial obligations; and - Create de-identified and aggregate data that cannot reasonably be linked to you.",
+          "labels": []
+        },
+        {
+          "id": "S51",
+          "section": "Targeted Advertising and Analytics",
+          "text": "We engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications.",
+          "labels": []
+        },
+        {
+          "id": "S52",
+          "section": "Targeted Advertising and Analytics",
+          "text": "To do this, Fireflies.ai and these partners may use cookies, pixels, SDKs, and similar technologies to collect information about your use of our Services and other websites and mobile apps, including your device identifiers, IP address, web browser and mobile network information, pages viewed, time spent on pages or in mobile apps, links clicked, order information, items added to cart, and conversion information.",
+          "labels": []
+        },
+        {
+          "id": "S53",
+          "section": "Targeted Advertising and Analytics",
+          "text": "This information is used to deliver advertising targeted to you on other companies' websites and mobile apps, understand the effectiveness of this advertising, analyze and track data, determine the popularity of certain content, and better understand your activity.",
+          "labels": []
+        },
+        {
+          "id": "S54",
+          "section": "Targeted Advertising and Analytics",
+          "text": "You can opt out of ad targeting through cookies and similar technologies on our websites by following the prompts behind the **Your Privacy Choices** link in the site footer.",
+          "labels": []
+        },
+        {
+          "id": "S55",
+          "section": "Targeted Advertising and Analytics",
+          "text": "Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit our websites from a new device or browser, or if you clear your browser's cookies.",
+          "labels": []
+        },
+        {
+          "id": "S56",
+          "section": "Targeted Advertising and Analytics",
+          "text": "From within our mobile app, you can opt out of these activities by navigating to **Cookies & Privacy** from the Settings menu.",
+          "labels": []
+        },
+        {
+          "id": "S57",
+          "section": "Targeted Advertising and Analytics",
+          "text": "In addition to ad targeting activities that rely on cookies and similar technologies, we work with advertising partners to translate other identifiers, such as your email address or phone number, into a unique identifier (called a hashed value) that such partners can then use to show ads that promote Fireflies.ai that are more relevant to you across the web and in mobile apps.",
+          "labels": []
+        },
+        {
+          "id": "S58",
+          "section": "Targeted Advertising and Analytics",
+          "text": "Depending on where you reside, you may opt out of these disclosures by filling out our web form.",
+          "labels": []
+        },
+        {
+          "id": "S59",
+          "section": "Targeted Advertising and Analytics",
+          "text": "The activities described in this section may constitute “targeted advertising,” “sharing,” or “selling” under certain privacy laws.",
+          "labels": []
+        },
+        {
+          "id": "S60",
+          "section": "Targeted Advertising and Analytics",
+          "text": "See the Additional Information for Specific Jurisdictions section below for details.",
+          "labels": []
+        },
+        {
+          "id": "S61",
+          "section": "Targeted Advertising and Analytics",
+          "text": "You can also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices or www.youronlinechoices.eu (if you reside in Europe).",
+          "labels": []
+        },
+        {
+          "id": "S62",
+          "section": "Targeted Advertising and Analytics",
+          "text": "Your device may also include a feature that allows you to opt out of having certain information collected through mobile apps used for behavioral advertising purposes.",
+          "labels": []
+        },
+        {
+          "id": "S63",
+          "section": "Disclosure of Information",
+          "text": "We disclose personal information as described in this Privacy Policy and in the following ways: - **Vendors and Service Providers.** We make personal information available to our vendors, service providers, contractors and consultants who perform services on our behalf, such as companies that assist us with analyzing meeting recordings, transcribing and formatting Fireflies Talk dictations (speech-to-text providers receive dictation audio; text-formatting providers receive the transcribed text and Screen Context), web hosting and cloud infrastructure, payment processing, fraud prevention, security, customer service, analytics, and marketing.",
+          "labels": []
+        },
+        {
+          "id": "S64",
+          "section": "Disclosure of Information",
+          "text": "More information about our subprocessors is available at https://trust.fireflies.ai/subprocessors.",
+          "labels": []
+        },
+        {
+          "id": "S65",
+          "section": "Disclosure of Information",
+          "text": "- **Integration Partners.** If you choose to use integrations we offer on our Services, such as collaboration tools or external AI connectors, we will provide or make available certain information to those partners as needed to enable the integration.",
+          "labels": []
+        },
+        {
+          "id": "S66",
+          "section": "Disclosure of Information",
+          "text": "Information provided to integration partners will be handled in accordance with their own privacy policy and terms, which you should review carefully.",
+          "labels": []
+        },
+        {
+          "id": "S67",
+          "section": "Disclosure of Information",
+          "text": "- **Fireflies.ai Users and Other Meeting Participants.** We share certain information with other users and meeting participants when we have your consent to do so.",
+          "labels": []
+        },
+        {
+          "id": "S68",
+          "section": "Disclosure of Information",
+          "text": "For example, depending on your settings, we may send a meeting recap email (which may include a summary and a link to meeting content) to select recipients.",
+          "labels": []
+        },
+        {
+          "id": "S69",
+          "section": "Disclosure of Information",
+          "text": "- **Community Visitors.** If you interact on our community site, such as to provide product feedback, ask a question, or otherwise post content, your content will be visible to other users of the community site.",
+          "labels": []
+        },
+        {
+          "id": "S70",
+          "section": "Disclosure of Information",
+          "text": "- **Law Enforcement Authorities and Individuals Involved in Legal Proceedings.** We may disclose personal information in response to a request for information if we believe that disclosure is in accordance with, or required by, any applicable law, regulation, or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.",
+          "labels": []
+        },
+        {
+          "id": "S71",
+          "section": "Disclosure of Information",
+          "text": "- **To Protect the Rights of Fireflies.ai and Others.** We may disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of Fireflies.ai, our users, the public, or others.",
+          "labels": []
+        },
+        {
+          "id": "S72",
+          "section": "Disclosure of Information",
+          "text": "- **Professional Advisors.** We disclose personal information to our legal, financial, insurance, and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.",
+          "labels": []
+        },
+        {
+          "id": "S73",
+          "section": "Disclosure of Information",
+          "text": "- **Corporate Transactions.** We may disclose personal information in connection with, or during negotiations of, certain corporate transactions, including a merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.",
+          "labels": []
+        },
+        {
+          "id": "S74",
+          "section": "Disclosure of Information",
+          "text": "- **Corporate Affiliates.** Personal information is disclosed between and among Fireflies.ai and our parents, affiliates, subsidiaries, and other companies under common control and ownership.",
+          "labels": []
+        },
+        {
+          "id": "S75",
+          "section": "Disclosure of Information",
+          "text": "- **With Your Consent or at Your Direction.** We make personal information available to third parties when we have your consent or you intentionally direct us to do so.",
+          "labels": []
+        },
+        {
+          "id": "S76",
+          "section": "Disclosure of Information",
+          "text": "We also disclose aggregated or de-identified information that cannot reasonably be used to identify you.",
+          "labels": []
+        },
+        {
+          "id": "S77",
+          "section": "Disclosure of Information",
+          "text": "We maintain and use this information only in a de-identified fashion and will not attempt to re-identify such information, except as permitted by law.",
+          "labels": []
+        },
+        {
+          "id": "S78",
+          "section": "Third Parties",
+          "text": "Our Services may contain links to other websites, products, or services that we do not own or operate.",
+          "labels": []
+        },
+        {
+          "id": "S79",
+          "section": "Third Parties",
+          "text": "We are not responsible for the privacy practices of these third parties.",
+          "labels": []
+        },
+        {
+          "id": "S80",
+          "section": "Third Parties",
+          "text": "Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any information you disclose to these third parties.",
+          "labels": []
+        },
+        {
+          "id": "S81",
+          "section": "Third Parties",
+          "text": "We encourage you to read their privacy policies before providing any information to them.",
+          "labels": []
+        },
+        {
+          "id": "S82",
+          "section": "Data Retention",
+          "text": "We store personal information associated with your account for as long as your account remains active.",
+          "labels": []
+        },
+        {
+          "id": "S83",
+          "section": "Data Retention",
+          "text": "If you close your account, we will delete personal information related to your account within 30 days.",
+          "labels": []
+        },
+        {
+          "id": "S84",
+          "section": "Data Retention",
+          "text": "We store other personal information for as long as necessary to carry out the purposes for which we originally collected it and for other business purposes explained in this Privacy Policy.",
+          "labels": []
+        },
+        {
+          "id": "S85",
+          "section": "Data Retention",
+          "text": "We also impose a **Zero Data Retention** policy for meeting content, which includes audio, video, transcripts, and summaries of the meeting, and Fireflies Talk data.",
+          "labels": []
+        },
+        {
+          "id": "S86",
+          "section": "Data Retention",
+          "text": "This means that your meeting content and Fireflies Talk data is not: (1) stored by any third-party vendor after processing; (2) accessed by any third-party vendor once the service is completed; or (3) used for training internal or external AI models.",
+          "labels": []
+        },
+        {
+          "id": "S87",
+          "section": "Account Information",
+          "text": "You can access, correct, and delete certain information stored within your Fireflies.ai account at any time by visiting https://app.fireflies.ai/settings or by using our live chat function.",
+          "labels": []
+        },
+        {
+          "id": "S88",
+          "section": "Account Information",
+          "text": "You may also email support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S89",
+          "section": "Account Information",
+          "text": "If you do not have an account but participated in a meeting where our Services were enabled, please reach out to the meeting host to request deletion of the meeting recording.",
+          "labels": []
+        },
+        {
+          "id": "S90",
+          "section": "Account Information",
+          "text": "You may also contact us at support@fireflies.ai if you have further questions or require assistance.",
+          "labels": []
+        },
+        {
+          "id": "S91",
+          "section": "Fireflies Talk",
+          "text": "Fireflies Talk is off until you turn it on in the desktop application under Settings › Dictation, and you can turn it off there at any time.",
+          "labels": []
+        },
+        {
+          "id": "S92",
+          "section": "Fireflies Talk",
+          "text": "You can also turn off Screen Context in the same place; with Screen Context off, Fireflies Talk transcribes your dictation without reading the application you are using.",
+          "labels": []
+        },
+        {
+          "id": "S93",
+          "section": "Fireflies Talk",
+          "text": "Because Fireflies Talk reads what is on your screen, do not use it while viewing protected health information, payment card numbers, passwords or authentication codes, or other information you do not want sent to us and our service providers.",
+          "labels": []
+        },
+        {
+          "id": "S94",
+          "section": "Meeting Settings",
+          "text": "You can control who can view your meeting recaps and the associated meeting content (such as transcripts, summaries, and recordings) through your account settings and sharing controls.",
+          "labels": []
+        },
+        {
+          "id": "S95",
+          "section": "Meeting Settings",
+          "text": "For example, you can adjust privacy settings for an individual meeting recap and choose whether to share it via a link, with workspace teammates, with meeting participants, or keep it visible only to you.",
+          "labels": []
+        },
+        {
+          "id": "S96",
+          "section": "Meeting Settings",
+          "text": "You can also set default privacy settings for future meeting recaps through your Meeting Settings.",
+          "labels": []
+        },
+        {
+          "id": "S97",
+          "section": "Meeting Settings",
+          "text": "You can learn more about these options here.",
+          "labels": []
+        },
+        {
+          "id": "S98",
+          "section": "Meeting Settings",
+          "text": "Fireflies.ai uses cookies and similar tracking technologies, as described above.",
+          "labels": []
+        },
+        {
+          "id": "S99",
+          "section": "Meeting Settings",
+          "text": "You can usually adjust your browser settings to remove or reject browser cookies.",
+          "labels": []
+        },
+        {
+          "id": "S100",
+          "section": "Meeting Settings",
+          "text": "You can also adjust certain cookie settings by following the prompts behind the **Your Privacy Choices** link in the site footer.",
+          "labels": []
+        },
+        {
+          "id": "S101",
+          "section": "Meeting Settings",
+          "text": "Please note that removing or rejecting cookies could affect some of the functionality of our Services.",
+          "labels": []
+        },
+        {
+          "id": "S102",
+          "section": "Communications Preferences",
+          "text": "You may opt out of receiving promotional emails from Fireflies.ai by following the instructions in those communications.",
+          "labels": []
+        },
+        {
+          "id": "S103",
+          "section": "Communications Preferences",
+          "text": "If you opt out, we may still send you non-promotional emails, such as those about your account.",
+          "labels": []
+        },
+        {
+          "id": "S104",
+          "section": "Desktop and Mobile Push Notifications",
+          "text": "With your permission, we may send push notifications to your desktop or mobile device.",
+          "labels": []
+        },
+        {
+          "id": "S105",
+          "section": "Desktop and Mobile Push Notifications",
+          "text": "You can deactivate these messages at any time by changing the notification settings on your desktop or mobile device.",
+          "labels": []
+        },
+        {
+          "id": "S106",
+          "section": "Illinois Biometric Information Privacy Act",
+          "text": "As described in the Collection of Information section above, our service providers may extract or generate Voice Data from voice recordings that may be considered “biometric identifiers” or “biometric information” under Illinois law.",
+          "labels": []
+        },
+        {
+          "id": "S107",
+          "section": "Illinois Biometric Information Privacy Act",
+          "text": "Our service providers do not use Voice Data to identify or authenticate individuals and we never receive or process Voice Data on our own servers.",
+          "labels": []
+        },
+        {
+          "id": "S108",
+          "section": "Illinois Biometric Information Privacy Act",
+          "text": "In addition, to the extent Voice Data is considered “biometric identifiers” or “biometric information,” we maintain a written retention schedule and guidelines for permanently destroying such information when the initial purpose for collecting or obtaining it has been satisfied or within three (3) years of an individual's last interaction with us, whichever occurs first.",
+          "labels": []
+        },
+        {
+          "id": "S109",
+          "section": "Illinois Biometric Information Privacy Act",
+          "text": "Where this information is generated or processed by our service providers on our behalf, we require such service providers to permanently destroy it in accordance with this schedule.",
+          "labels": []
+        },
+        {
+          "id": "S110",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Some U.S.",
+          "labels": []
+        },
+        {
+          "id": "S111",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“State Privacy Laws”).",
+          "labels": []
+        },
+        {
+          "id": "S112",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "If you reside in California, Iowa, Maryland, Texas, Virginia, or another state where we are subject to similar laws, this section applies to you.",
+          "labels": []
+        },
+        {
+          "id": "S113",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "This section also serves as our California notice at collection.",
+          "labels": []
+        },
+        {
+          "id": "S114",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "#### Additional Disclosures Our Privacy Policy explains how we collect, use, and disclose information about you, as well as our targeted advertising and analytics practices.",
+          "labels": []
+        },
+        {
+          "id": "S115",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "As required by certain State Privacy Laws, we use the tables below to explain this same information.",
+          "labels": []
+        },
+        {
+          "id": "S116",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "##### Use and Disclosure of Personal Information for Business Purposes | Category of Personal Information | Use of Personal Information | Categories of Recipients | | --- | --- | --- | | Identifiers, such as name, email address, IP address, and other device identifiers.",
+          "labels": []
+        },
+        {
+          "id": "S117",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Commercial information, such as your transaction history.",
+          "labels": []
+        },
+        {
+          "id": "S118",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Internet or other electronic network activity information, such as browsing behavior.",
+          "labels": []
+        },
+        {
+          "id": "S119",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Audio, electronic, visual, or similar information, such as meeting recordings, Fireflies Talk dictation audio, and Screen Context.",
+          "labels": []
+        },
+        {
+          "id": "S120",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Professional or employment-related information, such as the type of company you work for.",
+          "labels": []
+        },
+        {
+          "id": "S121",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Approximate location, such as the location of your meeting based on your IP address.",
+          "labels": []
+        },
+        {
+          "id": "S122",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Inferences drawn from your other personal information, such as your employment status.",
+          "labels": []
+        },
+        {
+          "id": "S123",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Sensitive personal information, such as the contents of communications you choose to connect to or share through our integrations (e.g., email or messaging integrations) or that are visible on your screen when you use Fireflies Talk, to the extent this content is treated as sensitive personal information under applicable law.",
+          "labels": []
+        },
+        {
+          "id": "S124",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "| Provide, operate, and improve our Services, including to capture meetings, generate transcripts and summaries, transcribe and format dictations, and provide features you request.",
+          "labels": []
+        },
+        {
+          "id": "S125",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Administer your use of the Services and any accounts you may have with us.",
+          "labels": []
+        },
+        {
+          "id": "S126",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Develop new products and Services.",
+          "labels": []
+        },
+        {
+          "id": "S127",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Personalize your experience with us.",
+          "labels": []
+        },
+        {
+          "id": "S128",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Send you technical notices, security alerts, support messages, and other transactional or relationship messages.",
+          "labels": []
+        },
+        {
+          "id": "S129",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Monitor and analyze trends, usage, and activities in connection with our products and Services.",
+          "labels": []
+        },
+        {
+          "id": "S130",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Facilitate promotions, contests, and sweepstakes, and process and deliver entries and rewards.",
+          "labels": []
+        },
+        {
+          "id": "S131",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Detect, investigate, respond to, prosecute, and help protect against security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect the rights and property of Fireflies.ai and others.",
+          "labels": []
+        },
+        {
+          "id": "S132",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Comply with our legal and financial obligations.",
+          "labels": []
+        },
+        {
+          "id": "S133",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Create de-identified and aggregate data that cannot reasonably be linked to you.",
+          "labels": []
+        },
+        {
+          "id": "S134",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "| Vendors and service providers.",
+          "labels": []
+        },
+        {
+          "id": "S135",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Integration partners.",
+          "labels": []
+        },
+        {
+          "id": "S136",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Fireflies.ai users and other meeting participants.",
+          "labels": []
+        },
+        {
+          "id": "S137",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Community visitors.",
+          "labels": []
+        },
+        {
+          "id": "S138",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Our corporate affiliates.",
+          "labels": []
+        },
+        {
+          "id": "S139",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Law enforcement or others involved in legal proceedings.",
+          "labels": []
+        },
+        {
+          "id": "S140",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Third parties as needed to protect our users, the public, or our rights.",
+          "labels": []
+        },
+        {
+          "id": "S141",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Professional advisors.",
+          "labels": []
+        },
+        {
+          "id": "S142",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Parties involved in a corporate transaction.",
+          "labels": []
+        },
+        {
+          "id": "S143",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "With your consent or at your direction.",
+          "labels": []
+        },
+        {
+          "id": "S144",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "| To the extent we collect sensitive personal information, we only process this data with your consent or to provide you with a requested product or service.",
+          "labels": []
+        },
+        {
+          "id": "S145",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "We do not use or disclose sensitive personal information for the purpose of inferring characteristics about you.",
+          "labels": []
+        },
+        {
+          "id": "S146",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "As described in the Collection of Information section above, we collect personal information from various sources, including directly from you, automatically when you access or use our Services, and from third-party sources.",
+          "labels": []
+        },
+        {
+          "id": "S147",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "We retain personal information as described above in the Data Retention section.",
+          "labels": []
+        },
+        {
+          "id": "S148",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "We do not collect, use, or sell personal data for the purpose of training large language models.",
+          "labels": []
+        },
+        {
+          "id": "S149",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "#### Sales, Sharing, and Targeted Advertising Activities We disclose certain categories of personal information to show you targeted ads on third-party properties and expand the reach and effectiveness of our own marketing campaigns.",
+          "labels": []
+        },
+        {
+          "id": "S150",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "These disclosures may be considered “sales,” “sharing,” or use of personal information for “targeted advertising” under State Privacy Laws, and the table below covers the categories of personal information we disclose for these purposes and the categories of third parties that receive it.",
+          "labels": []
+        },
+        {
+          "id": "S151",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "| Category of Personal Information | Category of Third Parties | | --- | --- | | Identifiers, such as name, email address, cookie IDs or device advertising IDs | Marketing and advertising partners | | Internet and electronic network activity, such as the pages you visited when navigating our Site | Marketing and advertising partners | We do not engage in sales, sharing, or targeted advertising using personal information about consumers we know to be under the age of 18.",
+          "labels": []
+        },
+        {
+          "id": "S152",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "#### Your Rights under State Privacy Laws ##### Opt Out of Sales, Sharing, and Targeted Advertising You may opt out of activities that we engage in that constitute “sales,” “sharing,” or “targeted advertising” under the State Privacy Laws by: - **Cookies and Similar Technologies:** Following the prompts behind the **Your Privacy Choices** link in the footer of our websites.",
+          "labels": []
+        },
+        {
+          "id": "S153",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Your opt-out choice will be linked to your browser only; therefore, you will need to renew your opt-out choice if you visit our websites from a new device or browser, or if you clear your browser's cookies.",
+          "labels": []
+        },
+        {
+          "id": "S154",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "From within our mobile app, you can opt out of these activities by navigating to **Cookies & Privacy** from the Settings menu; and - **Other Identifiers:** Filling out our web form to turn off “targeted advertising,” “sharing,” and “sales” based on your email address.",
+          "labels": []
+        },
+        {
+          "id": "S155",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "You can also opt out by visiting our websites with a legally recognized universal opt-out signal enabled, such as Global Privacy Control.",
+          "labels": []
+        },
+        {
+          "id": "S156",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "If you are not logged in to your account with us, our processing of the signal will be limited to cookie-based sales, sharing, and targeted advertising for the specific browser or device that you are using.",
+          "labels": []
+        },
+        {
+          "id": "S157",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "##### Access, Correction, and Deletion You have the right to (1) request to know more about and access your personal information, including in a portable format, (2) request deletion of your personal information, and (3) request correction of inaccurate personal information.",
+          "labels": []
+        },
+        {
+          "id": "S158",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "To make any of these requests, you can email us at support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S159",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "To authenticate your request, we may ask you for additional information to verify your identity.",
+          "labels": []
+        },
+        {
+          "id": "S160",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "Any additional information you provide will be used only to verify your identity and not for any other purpose.",
+          "labels": []
+        },
+        {
+          "id": "S161",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "##### Non-retaliation We will not retaliate or discriminate against you for exercising your privacy rights.",
+          "labels": []
+        },
+        {
+          "id": "S162",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "##### Appeals If we deny your request, you may appeal our decision by contacting us at support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S163",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.",
+          "labels": []
+        },
+        {
+          "id": "S164",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "If you are an authorized agent seeking to make a request to opt out of sales, sharing, or targeted advertising on behalf of a consumer, please email us at support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S165",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "If you reside in California, you may also designate an authorized agent to submit an access, deletion, or correction request on your behalf.",
+          "labels": []
+        },
+        {
+          "id": "S166",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "We may ask authorized agents to submit proof of their authority to make a request, such as a valid power of attorney or proof that they have signed permission from the consumer who is the subject of the request.",
+          "labels": []
+        },
+        {
+          "id": "S167",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "In some cases, we may contact the individual who is the subject of the request to verify such individual's own identity or confirm the authorized agent has permission to submit the request.",
+          "labels": []
+        },
+        {
+          "id": "S168",
+          "section": "Individuals Residing in Certain U.S. States",
+          "text": "If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please email us at support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S169",
+          "section": "International Transfers",
+          "text": "Fireflies.ai is based in the United States, and we and our service providers process and store personal information on servers located in the United States and other countries.",
+          "labels": []
+        },
+        {
+          "id": "S170",
+          "section": "International Transfers",
+          "text": "Whenever we make restricted international transfers of personal information, we take steps to ensure that your personal information receives an adequate level of protection (by putting in place appropriate safeguards, such as contractual clauses) or ensure that we can rely on an appropriate derogation under data protection laws.",
+          "labels": []
+        },
+        {
+          "id": "S171",
+          "section": "International Transfers",
+          "text": "Where relevant, you may request access to any safeguard which we use to transfer your personal information outside of the European Economic Area, the United Kingdom, or Switzerland (although we may need to redact data transfer agreements for confidentiality reasons).",
+          "labels": []
+        },
+        {
+          "id": "S172",
+          "section": "International Transfers",
+          "text": "For personal information about EEA, Swiss, and UK individuals, Fireflies.ai complies with the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S173",
+          "section": "International Transfers",
+          "text": "and Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S174",
+          "section": "International Transfers",
+          "text": "Data Privacy Frameworks and the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S175",
+          "section": "International Transfers",
+          "text": "Data Privacy Framework (collectively, the “Frameworks”), each as set forth by the U.S.",
+          "labels": []
+        },
+        {
+          "id": "S176",
+          "section": "International Transfers",
+          "text": "Department of Commerce.",
+          "labels": []
+        },
+        {
+          "id": "S177",
+          "section": "International Transfers",
+          "text": "As described in our Frameworks certification, Fireflies.ai has certified that it adheres to the Frameworks Principles with regard to the processing of personal information received from the EEA, Switzerland, and the UK in reliance on the Frameworks.",
+          "labels": []
+        },
+        {
+          "id": "S178",
+          "section": "International Transfers",
+          "text": "In accordance with the Frameworks, we remain responsible under the Onward Transfer Principle for personal information that we disclose to third parties for processing on our behalf.",
+          "labels": []
+        },
+        {
+          "id": "S179",
+          "section": "International Transfers",
+          "text": "To learn more about the Frameworks or to view our certification, please visit the Frameworks website.",
+          "labels": []
+        },
+        {
+          "id": "S180",
+          "section": "International Transfers",
+          "text": "The Federal Trade Commission has jurisdiction over Fireflies.ai's compliance with the Frameworks.",
+          "labels": []
+        },
+        {
+          "id": "S181",
+          "section": "International Transfers",
+          "text": "Fireflies.ai commits to resolve Frameworks Principles-related inquiries and complaints about our processing of personal data under the Frameworks, and EEA, Swiss, and UK individuals with such inquiries or complaints can contact us at: support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S182",
+          "section": "International Transfers",
+          "text": "#### Dispute Resolution – Personal Data In compliance with the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S183",
+          "section": "International Transfers",
+          "text": "DPF and the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S184",
+          "section": "International Transfers",
+          "text": "DPF and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S185",
+          "section": "International Transfers",
+          "text": "DPF, Fireflies AI Corp commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S186",
+          "section": "International Transfers",
+          "text": "DPF and the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S187",
+          "section": "International Transfers",
+          "text": "DPF and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S188",
+          "section": "International Transfers",
+          "text": "DPF.",
+          "labels": []
+        },
+        {
+          "id": "S189",
+          "section": "International Transfers",
+          "text": "#### Dispute Resolution – Human Resources Data In compliance with the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S190",
+          "section": "International Transfers",
+          "text": "DPF and the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S191",
+          "section": "International Transfers",
+          "text": "DPF and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S192",
+          "section": "International Transfers",
+          "text": "DPF, Fireflies AI Corp commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S193",
+          "section": "International Transfers",
+          "text": "DPF and the UK Extension to the EU-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S194",
+          "section": "International Transfers",
+          "text": "DPF and the Swiss-U.S.",
+          "labels": []
+        },
+        {
+          "id": "S195",
+          "section": "International Transfers",
+          "text": "DPF in the context of the employment relationship.",
+          "labels": []
+        },
+        {
+          "id": "S196",
+          "section": "International Transfers",
+          "text": "In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Framework Principles.",
+          "labels": []
+        },
+        {
+          "id": "S197",
+          "section": "Individuals in Europe",
+          "text": "If you are located in Europe, this section applies to you.",
+          "labels": []
+        },
+        {
+          "id": "S198",
+          "section": "Individuals in Europe",
+          "text": "#### Legal Basis for Processing When we process your personal data as described in this Privacy Policy, we do so in reliance on the following lawful bases: - To perform our responsibilities under our contract with you (e.g., processing payments for and providing the products and services you requested); - When we have a legitimate interest in processing your personal information to operate our business or protect our interests (e.g., to provide, maintain, and improve our products and services, conduct data analytics, and communicate with you); - To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have opted out of marketing communications); or - When we have your consent to do so (e.g., when you opt in to receive marketing communications from us).",
+          "labels": []
+        },
+        {
+          "id": "S199",
+          "section": "Individuals in Europe",
+          "text": "When consent is the legal basis for our processing of your personal information, you may withdraw such consent at any time.",
+          "labels": []
+        },
+        {
+          "id": "S200",
+          "section": "Individuals in Europe",
+          "text": "#### Data Subject Requests You have the right to (1) access your personal data, including in a portable format, (2) request erasure of your personal data, and (3) request correction of inaccurate personal data.",
+          "labels": []
+        },
+        {
+          "id": "S201",
+          "section": "Individuals in Europe",
+          "text": "In addition, you may have the right to object to certain processing or request we restrict certain processing.",
+          "labels": []
+        },
+        {
+          "id": "S202",
+          "section": "Individuals in Europe",
+          "text": "To exercise any of these rights, please email us at support@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S203",
+          "section": "Individuals in Europe",
+          "text": "If you have a concern about our processing of personal data, we encourage you to contact us in the first instance by emailing us at security@fireflies.ai.",
+          "labels": []
+        },
+        {
+          "id": "S204",
+          "section": "Individuals in Europe",
+          "text": "However, if we are not able to resolve it, you have the right to lodge a complaint with the Data Protection Authority where you reside.",
+          "labels": []
+        },
+        {
+          "id": "S205",
+          "section": "Individuals in Europe",
+          "text": "Contact details for your Data Protection Authority can be found using the links below: - For individuals in the European Union: https://edpb.europa.eu/about-edpb/board/members_en - For individuals in the UK: https://ico.org.uk/global/contact-us/ - For individuals in Switzerland: https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html If you have questions about this Privacy Policy, please contact us at support@fireflies.ai.",
+          "labels": []
+        }
+      ]
+    }
+  ],
+  "items": {
+    "C1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C6": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C7": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C8": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C9": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "C10": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T1": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T2": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T3": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T4": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T5": {
+      "state": "not stated",
+      "evidence": []
+    },
+    "T6": {
+      "state": "not stated",
+      "evidence": []
+    }
+  }
+}
