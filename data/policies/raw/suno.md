@@ -1,208 +1,177 @@
 ---
 product: Suno
 company: Suno
-source_url: https://www.suno.tech/pages/privacy.html
+source_url: https://suno.com/privacy
 fetched_date: 2026-11-12
-policy_date: not stated
+policy_date: 2026-06-23
 ---
-# Privacy — Suno
 
-## Privacy *policy*.
+# Privacy Notice
 
-How Suno Software, Inc. collects, uses, processes, and shares personal information — and how to exercise your privacy rights.
+Last Modified: June 23, 2026
 
-Suno Software, Inc. · Privacy Policy
+This Privacy Notice explains how information about you is collected, used, shared, stored and secured by Suno, Inc. and our affiliates and subsidiaries (collectively referred to as "Suno," "we," "our" and "us") when you use our websites, mobile applications, products, services and/or datasets (collectively, the "Services") or when you otherwise interact with us. This Privacy Notice also explains your choices regarding your information.
 
-Suno Software, Inc. ("**Suno**," "we," "**us**," or "our") provides this Privacy Policy to our website visitors and customers to help you understand how we collect, use, process, and share your personal information, and to help you understand and exercise your privacy rights.
+## Overview
 
-## 1. Scope and updates to this Privacy Policy
+Suno is committed to protecting your privacy and complying with all applicable laws in collecting and processing personal information.
 
-This Privacy Policy applies to personal information processed by us, including on our websites, mobile applications, and other online or offline offerings. To make this Privacy Policy easier to read, our websites, mobile applications, and other offerings are collectively called the "**Services**."
+Our Services contain links to other websites operated by third parties as well as certain features that allow you to initiate interactions between the Services and third-party services or platforms, such as social networks through “liking” or “sharing” our content. Information collected by such third parties is governed by their privacy policies which we encourage you to review to learn about the privacy practices of those third parties. We are not responsible for the privacy or security of, or information found on, these sites or platforms. Information you provide on public or semi-public venues, such as third-party social networking platforms, may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use. Our inclusion of such links or features does not, by itself, imply any endorsement of the content on such platforms or of their owners or operators.
 
-This Privacy Policy does not apply to any of the personal information that we process on behalf of our customers through their use of our Services ("**Customer Data**"). Our customers' respective privacy policies govern their collection and use of Customer Data. Our processing of Customer Data is governed by the contracts that we have in place with our customers, not this Privacy Policy. Any questions or requests relating to Customer Data should be directed to our customer.
+## What Information We Collect
 
-WE MAY REVISE THIS PRIVACY POLICY FROM TIME TO TIME IN OUR SOLE DISCRETION. IF THERE ARE ANY MATERIAL CHANGES TO THIS PRIVACY POLICY, WE WILL NOTIFY YOU AS REQUIRED BY APPLICABLE LAW. YOU UNDERSTAND AND AGREE THAT YOU WILL BE DEEMED TO HAVE ACCEPTED THE UPDATED PRIVACY POLICY IF YOU CONTINUE TO USE OUR SERVICES AFTER THE NEW PRIVACY POLICY TAKES EFFECT.
+We collect information about you when you provide it to us, when you use the Services, and/or when other sources provide it to us. We collect Contact Information, User Account Information, User Activity Information, and Content, as such terms are defined below. The specific types of information included in each of these categories are described in more detail below.
 
-## 2. Personal information we collect
+**1. Information You Provide to Us, including through the Services.** We collect information about you when you input it into the Services (such as completing a web form, creating or accessing your account, or using our chat function) or otherwise provide it directly to us. For example, we collect information when you submit a request for a demonstration or customer support or otherwise communicate with us, or when we establish an account for you. The types of information we collect may include but are not limited to your contact information or your billing contact information (such as your name, physical addresses or geographic location, email addresses and phone numbers), your employer or other company affiliation, your business title, your birthday, and any other information you choose to provide (collectively, "Contact Information"). If we establish an account for you for use of paid and/or secured access portions of the Services, such as an account established in connection with a license to use software platforms and applications (collectively, the "Platform"), we also collect your username and password for said account, and information about your subscription tier and transactions (collectively, "User Account Information"). Our payment processors also collect payment information to provide paid access to the Services, as described further under the heading "Payment Processing" below. Finally, if you use our Services to record or upload data, music, sound, photographs, videos, voice recordings, or other Submissions, including to generate and return Output (as such terms are defined in our Terms of Service, and collectively, "Content"), we collect the data contained and associated with such Content. Content may constitute or contain personal information, depending on the substance and how it is associated with you and your account. If you use the Services through interactive features that allow you to have conversations or otherwise provide iterative creative inputs (such as through our chat-based creation tools), we collect any information submitted through such interactions, including user prompts, Content, or other inputs you provide to assist in the music creation process (“Interactive Chat Information”). Interactive Chat Information, Contact Information, and User Account Information may be associated with User Activity Information that we collect as described below.
 
-The categories of personal information we collect depend on how you interact with us, our Services, and the requirements of applicable law. We collect information that you provide to us, information we obtain automatically when you use our Services, and information from other sources such as third-party services and organisations, as described below.
+**2. Information We Collect Automatically When You Use the Services.** We collect information about you when you use our Services, including establishing a new account, visiting and browsing our websites, installing and using our mobile applications, and taking certain actions within the Services. For example, we collect and log information about the features you use, your access times, pages viewed, browser type, IP address, Internet service provider and/or mobile carrier, how you found our Services, subscription activity, and information about the computer, phone, tablet or other devices you use to access the Services, including hardware model and operating system and version. In connection with your use of the Services, we log information related to your creation, upload, download, processing, access and playback of media and the associated results generated by the Platform, frequently used search terms, creation of Collections and Watchlists, social interactions such as your “likes” and comments, and other actions taken. We collect the information about you when you use the Services as described in this section above (collectively, "User Activity Information") using various technologies, including cookies, as described under the heading "How We Use Cookies" below. Please be advised that such tracking will apply across your use of our Services, whether accessed through web, mobile app, or otherwise. We may also use User Activity Information and Content to generate preferences and personalization profiles that reflect your tastes and creative tendencies. Where we provide such features, you will be able to view, edit, and disable your personalization profile through the applicable feature interface.
 
-### A. Personal information you provide to us directly
+**3. Information We Collect From Other Sources.** If you use the Services on behalf of a company or other organization (such as your employer), we may collect information about you from such company or organization in order to establish an account for you and/or provide support or other Services to you. We may obtain information about you from third-party partners that market and promote our Services, generate leads for us, resell our Services, or provide other services to us. We also receive information about you from login integration partners when you access the Services through a third party account such as Apple, Discord, Microsoft, or Google. We may also obtain information about you from other sources, including information from publicly and commercially available sources and other third parties, as permitted by law. The information we collect from any of these other sources is generally Contact Information.
 
-We may collect personal information that you provide to us.
+## How We Use Your Information
 
-**Account Creation.** We may collect personal information when you create an account, such as name, email address, username, profile picture, etc.
+We use information about you to provide the Services to you, to communicate with you in connection with your use of the Services and/or requests for information, to market and promote products, services and other offerings, to maintain, monitor and secure the Services, for legal and compliance purposes, and to develop and improve our products and services, as follows:
 
-**Purchase.** We may collect personal information and details associated with your purchases, including payment information. Any payments made via our Services are processed by third-party payment processors. We do not directly collect or store any payment card information entered through our Services, but we may receive information associated with your payment card information (e.g., your billing details).
+**1. To Provide Services to You.** We use your information, including Contact Information, User Account Information, User Activity Information, Interactive Chat Information, and Content, in order to perform our contract with you, such as to provide Services to you, including to authenticate you when you log in to the Platform (or other Services with secured access), to configure features of the Services for you, to personalize and customize your experience on the Services (for example, by tailoring creative suggestions to your preferences), and to operate the Services.
 
-**Your Communications with Us.** We may collect personal information, such as email address, phone number, or mailing address when you request information about our Services, register for our newsletter, request customer or technical support, or otherwise communicate with us.
+**2. To Communicate with You.** In order to provide effective Services to you as a matter of our legitimate interests, we use your Contact Information and User Account Information to communicate with you, including in providing support through our telephone, email and chat support channels, and in responding to your requests for information, questions and comments related to Suno's business, products and/or services. From time to time, and in pursuit of the same legitimate interests, we may also send you technical notices, updates, service notifications, security alerts, support, billing and administrative messages in connection with your use of the Services.
 
-**Surveys.** We may contact you to participate in surveys. If you decide to participate, we may collect personal information from you in connection with the survey.
+**3. To Inform You of Offerings.** In order to maintain our business relationship as a matter of our legitimate interests, or where required with your consent, we use your Contact Information and User Activity Information to communicate with you about products, services, offers, promotions, rewards, and events offered by Suno and to provide news and information that we think will be of interest to you, and to understand how you interact with or respond to such communications and advertisements. You can opt out from receiving these types of communications at any time, as discussed under the heading "Opt Out From Receiving Communications" below, and you can restrict some of the User Activity Information we may collect by changing the settings on your browser, as discussed under the heading "Disabling Cookies and Similar Technologies" below.
 
-**Interactive Features.** We and others who use our Services may collect personal information that you submit or make available through our interactive features (e.g., messaging and chat features, commenting functionalities, forums, blogs, and social media pages). Any information you provide using the public sharing features of the Services will be considered "public," unless otherwise required by applicable law, and is not subject to the privacy protections referenced herein. Please exercise caution before revealing any information that may identify you in the real world to other users.
+**4. To Maintain, Monitor and Secure the Services.** We use certain User Account Information, User Activity Information, Interactive Chat Information, and Content to monitor and analyze trends, usage and activities in connection with our Services; to monitor, detect, investigate and/or prevent suspicious, fraudulent, unauthorized or illegal activity; and to secure the Services and communicate with you regarding any security incidents. We process your information for these purposes in order to protect or defend the Services, our rights, the rights of our users, or others, as a matter of our legitimate interests to protect our Services or to comply with any applicable legal obligations.
 
-**Sweepstakes or Contests.** We may collect personal information you provide for any sweepstakes or contests that we offer. In some jurisdictions, we are required to publicly share information of sweepstakes and contest winners.
+**5. For Legal and Compliance Purposes.** We use Contact Information, User Account Information, User Activity Information, and Content as reasonably necessary to (a) comply with any applicable legal obligation, including any applicable law, regulation, legal process or governmental request, and (b) enforce our agreements, policies and terms of service, to exercise or defend any legal claims, protect us against legal liability, or otherwise protect or defend our rights or property.
 
-**Conferences, Trade Shows, and Other Events.** We may collect personal information from individuals when we attend or host conferences, trade shows, and other events.
+**6. To Develop and Improve our Products and Services.** We use certain User Activity Information, Submissions, Interactive Chat Information, and other Content to improve our Services, product offerings, promotional activity, and business, including to train and enhance the models that power our Services as it is in our legitimate interests to improve our Services and provide effective Services to you.
 
-**Business Development and Strategic Partnerships.** We may collect personal information from individuals and third parties to assess and pursue potential business opportunities.
+## How We Use Cookies and Similar Technologies
 
-**Job Applications.** We may post job openings and opportunities on our Services. If you respond to one of these postings, we may collect your personal information, such as your application, CV, cover letter, and/or any other information you provide to us.
+We use cookies and similar technologies such as pixels, web beacons, and software development kits to collect User Activity Information, including your browsing activities and preferences, to improve and customize your user experience and interactions with us. We or third parties use cookies and similar technologies on the Services for the following purposes:
 
-### B. Personal information collected automatically
+**1. Necessary purposes.** These are cookies and similar technologies that are required for the operation of certain Services, including, for example, cookies that enable you to log in to secure areas of the Services.
 
-We may collect personal information automatically when you use our Services.
+**2. Functionality.** These cookies and similar technologies remember choices you make and are used to recognize you when you log in to the Services. This enables us to personalize the Services for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
-**Automatic Collection of Personal Information.** We may collect certain information automatically when you use our Services, such as your Internet protocol (IP) address, user settings, MAC address, cookie identifiers, mobile carrier, mobile advertising and other unique identifiers, browser or device information, location information (including approximate location derived from IP address), and Internet service provider. We may also automatically collect information regarding your use of our Services, such as pages that you visit before, during and after using our Services, information about the links you click, the types of content you interact with, the frequency and duration of your activities, and other information about how you use our Services.
+**3. Analytics.** These cookies and similar technologies collect information about how you use the Services. They allow us to recognize and count the number of visitors and to see how visitors move around within the Services.
 
-**Crash Reports.** If you provide crash reports, we may collect personal information related to such crash reports, including detailed diagnostic information about your device and the activities that led to the crash.
+**4. Targeting or Advertising.** These cookies and similar technologies collect information about your browsing activities in order to understand your interests for marketing purposes. We or third parties may place or recognize these on your browser when you visit certain websites for the purpose of serving you with advertisements regarding our products and services that may be of interest to you. These may also be used for frequency capping purposes (e.g., to ensure we do not display the same advertisement to you repeatedly) and to help us regulate the advertisements you receive and measure their effectiveness. We also use these technologies in our advertisements, email newsletters and/or other communications to collect information such as whether you clicked on an advertisement, opened our communication or clicked on any of the content contained therein. Analytical, targeting and advertising cookies, and the User Activity Information generated from these cookies, are created, stored and/or managed by third-party service providers that provide us with web traffic analytics, sales engagement and marketing automation services, such as Google Analytics.
 
-**Cookie Policy (and Other Technologies).** We, as well as third parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, and other technologies ("**Technologies**") to automatically collect information through your use of our Services.
+Analytical, targeting and advertising cookies, and the User Activity Information generated from these cookies, are created, stored and/or managed by third-party service providers that provide us with web traffic analytics, sales engagement and marketing automation services, such as Google Analytics.
 
-**Cookies.** Cookies are small text files placed in device browsers that store preferences and facilitate and enhance your experience.
+**Disabling Cookies and Similar Technologies**
 
-**Pixel Tags/Web Beacons.** A pixel tag (also known as a web beacon) is a piece of code embedded in our Services that collects information about engagement on our Services. The use of a pixel tag allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. We may also include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
+By using the Services and allowing cookies and similar technologies to be placed by us, you consent to our use of these technologies and the User Activity Information generated from them. You can withdraw or modify your consent by changing the settings on your browser. However, if you choose to disable this function, your experience using the Services may be diminished and some features may not work as intended. Although your browser may allow you to transmit a “Do Not Track” or “opt-out preference” signal, like many websites, our website is not designed to respond to such signals, and we do not use or disclose your information in any way that would legally require us to recognize opt-out preference signals.
 
-Our uses of these Technologies fall into the following general categories:
+## How We Share Your Information
 
-- **Operationally Necessary.** This includes Technologies that allow you access to our Services, applications, and tools that are required to identify irregular website behavior, prevent fraudulent activity, improve security, or allow you to make use of our functionality;
+We may share information about you as discussed below. We do not sell your information to third parties.
 
-- **Performance-Related.** We may use Technologies to assess the performance of our Services, including as part of our analytic practices to help us understand how individuals use our Services (see Analytics below);
+**1. With Other Users.** In connection with your use of certain features of the Services, such as certain sharing and/or collaboration features, we may share information about you (such as your name and email address) and your Content with such other persons, as part of your use of the Services or as otherwise directed by you through your use of relevant features.
 
-- **Functionality-Related.** We may use Technologies that allow us to offer you enhanced functionality when accessing or using our Services. This may include identifying you when you sign into our Services or keeping track of your specified preferences, interests, or past items viewed;
+**2. With Service Providers.** We work with third parties that provide to us engine or application development and/or processing services; information systems hosting, infrastructure, maintenance, backup, storage, security, support and other information technology-related services; artificial-intelligence or machine-learning services that support certain features of the Services; advertising, marketing and related analytics services; promotion, distribution, resale and support services related to our products and services; consulting and other technical and/or business services, which may require access to information about you to perform such services on our behalf. We share your information with these service providers only for our business purposes pursuant to written contracts. Our contracts with these third-party service providers require protection of your information consistent with this Privacy Notice, and require that they retain, use and disclose your information only as necessary to provide the services in accordance with such contracts.
 
-- **Advertising- or Targeting-Related.** We may use first party or third-party Technologies to deliver content, including ads relevant to your interests, on our Services or on third-party digital properties.
+**3. With Your Consent.** We share information about you with third parties when you give us consent or direct us to do so – for example, if you have agreed to be a reference for Suno or have provided a testimonial regarding our Services, or use login integrations provided by third parties such as Discord and Google.
 
-See "Your Privacy Choices and Rights" below to understand your choices regarding these Technologies.
+**4. For Legal and Compliance Purposes.** We may share information about you with a third party if we believe that sharing such information is reasonably necessary to (a) comply with any applicable legal obligation, including applicable law, regulation, legal process or governmental request, including to meet national security requirements, (b) enforce our agreements, policies and terms of service, or to exercise or defend any legal claims, (c) protect the security or integrity of our products and services, and (d) protect Suno, our customers, employees or other persons from harm, legal liability or illegal activities.
 
-**Analytics.** We may use Technologies and other third-party tools to process analytics information on our Services. These Technologies allow us to better understand how our digital Services are used and to continually improve and personalize our Services. Some of our analytics partners include:
+**5. In connection with, or during negotiations of, any merger, sale of all or a portion of our business or assets, bankruptcy, or similar business transaction.** We may, in our legitimate interests or as required by law, share your personal data with a prospective buyer, seller, new owner, or other relevant third party as necessary while negotiating or in relation to a change of corporate control such as restructuring, merger, or sale of our assets.
 
-**Google Analytics.** For more information about how Google uses your personal information (including for its own purposes, e.g., for profiling or linking it to other data), please visit Google Analytics' Privacy Policy. To learn more about how to opt-out of Google Analytics' use of your information, please click here.
+## How We Store and Secure Your Information
 
-**Social Media Platforms.** Our Services may contain social media buttons, which might include widgets such as the "share this" button or other interactive mini programs. These features may collect personal information such as your IP address and which page you are visiting on our Services and may set a cookie to enable the feature to function properly. Your interactions with these platforms are governed by the privacy policy of the company providing it.
+Suno is based in the United States, and we generally store your information on servers located in the United States. We also conduct business in other countries, directly or through one of our subsidiaries or partners, and may transfer your information to and/or store it in such other locations as reasonably necessary to provide the Services or for other legitimate business purposes, in accordance with this Privacy Notice.
 
-### C. Personal information collected from other sources
+If you are a resident in the EEA and / or UK, in order to perform our contract with you and provide our Services to you, your data will be transferred to and processed in the United States. To the extent we further transfer, store or otherwise process your personal data in countries outside the EEA/UK, we will only transfer personal data outside the EEA and/or UK to countries which have been found to have an adequate level of protection for personal data for the purposes of the European and/or United Kingdom General Data Protection Regulation (together, the “GDPR”) or where such transfers are subject to appropriate safeguards. For more information about data transfers, you can contact us at privacy@suno.com.
 
-**Third-Party Services and Sources.** We may obtain personal information about you from other sources, including through third-party services and organizations. For example, if you access our Services through a third-party application, such as an app store, a third-party login service, or a social networking site, we may collect personal information about you from that third-party application that you have made available via your privacy settings.
+While we have implemented commercially reasonable security measures and safeguards intended to protect your personal information, no measures are impenetrable and we cannot guarantee “perfect security”. Any information you send to use electronically, while using the Services or otherwise interacting with us, may not be secure while in transit. You are solely responsible for protecting your password, limiting access to your devices and signing out of websites after your sessions, and we recommend that you do not use insecure channels to send us information you consider to be sensitive or confidential.
 
-**Referrals and Sharing Features.** Our Services may offer various tools and functionalities that allow you to provide personal information about your friends through our referral service. Our referral services may also allow you to forward or share certain content with a friend or colleague, such as an email inviting your friend to use our Services. Please only share with us contact information of people with whom you have a relationship (e.g., relative, friend, neighbour, or co-worker).
+## How Long We Retain Your Information
 
-## 3. How we use your personal information
+We retain your information for as long as is reasonably necessary for the purposes specified in this Privacy Notice. When determining the length of time to retain information, we consider various criteria, including whether we need the information to continue to administer your account, provide the Services, resolve a dispute, enforce our contractual agreements, prevent harm, promote safety, security and integrity, or protect ourselves, including our rights, property or products. To the extent we process your biometric information in connection with the Services, we will retain this data for no longer than three (3) years following your last interaction with us, except as required otherwise by applicable law.
 
-We use your personal information for a variety of business purposes, including to provide our Services, for administrative purposes, and to market our products and Services, as described below.
+## How You Can Opt Out From Receiving Communications, Change Or Request Deletion Of Your Information
 
-### A. Provide our Services
+You can choose the types of communications you wish to receive from us, change your information or request that we delete certain information at any time, as follows:
 
-We use your information to fulfill our contract with you and provide you with our Services, such as: managing your information and accounts; providing access to certain areas, functionalities, and features of our Services; answering requests for customer or technical support; communicating with you about your account, activities on our Services, and policy changes; processing your financial information and other payment methods for products or Services purchased; processing applications if you apply for a job we post on our Services; and allowing you to register for events.
+**1. Opt Out From Receiving Communications.** If you do not wish to receive communications from Suno that do not relate directly to your use of the Services (such as newsletters, event notifications or other marketing communications), you can opt out from receiving such communications at any time. We provide a link in all of our electronic marketing communications to allow you to easily "unsubscribe" to these communications. You can also notify us that you do not wish to receive further communications by contacting us at privacy@suno.com. Please note that, in connection with your use of certain Services, including the Platform, we will still need to send you certain notifications that relate directly to your use of the Services, such as technical notices, updates, service notifications, security alerts, billing and administrative messages, and will need to communicate with you to provide you with support.
 
-### B. Administrative purposes
+**2. Change Your Information.** You can change or update your information with us at any time. To change or update your information, please contact us at support@suno.ai, or contact your primary Suno support representative. However, if your information has been provided to us by your employer or other company for which we have provisioned your account, updates to certain information on your account must be requested by such company.
 
-We use your information for various administrative purposes, such as: pursuing our legitimate interests such as direct marketing, research and development (including marketing research), network and information security, and fraud prevention; detecting security incidents, protecting against malicious, deceptive, fraudulent or illegal activity, and prosecuting those responsible for that activity; measuring interest and engagement in our Services; short-term, transient use, such as contextual customization of ads; improving, upgrading, or enhancing our Services; developing new products and services; ensuring internal quality control and safety; authenticating and verifying individual identities, including requests to exercise your rights under this Privacy Policy; debugging to identify and repair errors with our Services; auditing relating to interactions, transactions, and other compliance activities; sharing personal information with third parties as needed to provide the Services; enforcing our agreements and policies; and carrying out activities that are required to comply with our legal obligations.
+**3. Delete Your Information.** You can request that we delete your information at any time, subject to certain exceptions as discussed below. You can request to have your information deleted through our Privacy Center. We will comply with your request within a reasonable period of time; however, in certain circumstances, we may not be able or required to delete all of your information. For example, if we have provisioned a user account for you and you intend to continue to use portions of the Services requiring access through said account, we must retain certain information in order to maintain your account and your access to the Services. We also retain certain information if required in connection with our performance of a contract (such as a license agreement between us and your employer), if required by law or relevant to a legal proceeding, or for other compliance or auditing purposes, as permitted by law. Please note that we may obtain information about you in the future, as discussed under the heading "Information We Collect From Other Sources," and we may not be able to recognize it as your information due to complying with a previous deletion request from you. In this case, you will need to submit a new request if you wish to have your re-added information deleted. In addition, if we have deidentified, anonymized or aggregated data such that it no longer identifies or relates to you, we may retain and use that information for any lawful purpose.
 
-### C. Marketing and advertising our products and Services
+## Payment Processing
 
-We may use personal information to tailor and provide you with content and advertisements. We may provide you with these materials as permitted by applicable law.
+We utilize third-party service providers that act as resellers of, and/or payment processors for the fees payable for, licenses to certain of our Services and/or content that may be purchased through our Services (each, a "Payment Processor"). In order to purchase such Services through our Services, you will be required to provide credit/debit card and/or financial institution account information directly to the Payment Processor. Such information is not collected or stored by us.
 
-Some of the ways we may market to you include email campaigns, text messages, custom audiences advertising and "interest-based" or "personalized advertising," including through cross-context behavioral advertising.
+## Rights of U.S. Residents
 
-If you have any questions about our marketing practices or if you would like to opt out of the use of your personal information for marketing purposes, you may contact us at any time as set forth in "Contact Us" below.
+This section applies if you are a resident of the State of California, Colorado or another U.S. state that has passed a privacy law similar to the California Consumer Privacy Act (“CCPA”) and requires specific privacy notice disclosures. For purposes of this section, references to “personal information” shall also include “sensitive personal information” as those terms are defined under the CCPA.
 
-### D. With your consent
+Depending on where you live, you may have certain other rights regarding your personal information (in addition to those discussed elsewhere in this Privacy Notice), including:
 
-We may use personal information for other purposes that are clearly disclosed to you at the time you provide personal information or with your consent.
+**1. Notice of Information Collected and Used.** We collect, use and disclose, and over the past 12 months have collected, used and disclosed the following categories of personal information as described further in this Privacy Notice under the headings "What Information We Collect", "How We Use Your Information" and "How we Share Your Information:" identifiers, personal information listed in the California Customer Records statute, commercial information, Internet and similar network activity information, geolocation information, visual and audio information that you upload to the Services, professional or employment-related information, inferences drawn from any of the above categories of personal information to create a profile reflecting your preferences, characteristics, or tendencies, and account access credentials.* We only use and disclose sensitive personal information for the purposes specified in the CCPA or otherwise in line with your consent. We may disclose your personal information as described in this Privacy Notice under the heading "How We Share Your Information," but we do not "sell" or "share" your personal information, as those terms are defined in the CCPA and similar U.S. state privacy laws, nor have we done so in the preceding 12 months. Further, we do not have actual knowledge that we sell or share personal information of California residents under 16 years of age.
 
-### E. Other purposes
+**2. Right to Know Requests.** You may have a right to request (i) the categories and specific pieces of personal information about you that we have collected, (ii) the categories of sources from which such information was collected, (iii) the business or commercial purposes for which such information was collected and (iv) the categories of third parties with which such information is disclosed and the business purposes for such disclosure.
 
-We also use your personal information for other purposes as requested by you or as permitted by applicable law.
+**3. Right to Delete Requests.** You may have a right to request that we delete personal information we maintain about you.
 
-**De-identified and Aggregated Information.** We may use personal information to create de-identified and/or aggregated information, such as demographic information, information about the device from which you access our Services, or other analyses we create.
+**4. Right to Correct Requests.** You may have a right to request that we correct inaccurate personal information we maintain about you.
 
-## 4. How we disclose your personal information
+**5. Right to Request Deletion of Visible Content.** California residents under the age of 18 who have registered to use the Services and who posted Content that is visible to other users can request that such Content be removed from the Services. Such request must state that they personally made such Content available to other users and detail where such Content is posted. We will make reasonable good faith efforts to remove the Content from prospective public view or anonymize it so the minor cannot be individually identified in relation to such Content. This removal process cannot ensure complete or comprehensive removal. For instance, third parties may have republished the Content and archived copies of it may be stored by search engines and others that we do not control.
 
-We disclose your personal information to third parties for a variety of business purposes, including to provide our Services, to protect us or others, or in the event of a major business transaction such as a merger, sale, or asset transfer, as described below.
+You may submit a request to exercise any of these rights through our Privacy Center. We will not discriminate against you for exercising these rights. However, we will need to verify your request by asking you to provide at least two pieces of personal information (e.g., full name and email address) as reasonably necessary to properly identify you. You may also designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us. Upon receipt of a verifiable request, we will respond to such request as required by, and subject to certain restrictions and exemptions under, applicable laws. If we deny your request, you may appeal our decision by contacting us by email at privacy@suno.com.
 
-### A. Disclosures to provide our Services
+## Rights of EEA Residents
 
-The categories of third parties with whom we may share your personal information are described below.
+If you are a resident of the European Economic Area (EEA) and/or UK, you have certain rights regarding our processing of your personal data (in addition to those discussed elsewhere in this Privacy Notice):
 
-**Service Providers.** We may share your personal information with our third-party service providers and vendors that assist us with the provision of our Services. This includes service providers and vendors that provide us with IT support, hosting, payment processing, customer service, and related services.
+**1. Access:** You have the right to receive a copy of your information that we process.
 
-**Business Partners.** We may share your personal information with business partners to provide you with a product or service you have requested. We may also share your personal information with business partners with whom we jointly offer products or services.
+**2. Portability:** You have the right to request that we transfer your data in an easily readable format to another company.
 
-**Affiliates.** We may share your personal information with our company affiliates, for example: for our administrative purposes, IT management, or for them to provide services to you or support and supplement the Services we provide.
+**3. Restriction of processing to storage only:** You have the right to require us to stop processing the personal information we hold about you, other than for storage purposes, in certain circumstances.
 
-**Advertising Partners.** We may share your personal information with third-party advertising partners. These third-party advertising partners may set Technologies and other tracking tools on our Services to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s) visited, location, time of day). These advertising partners may use this information (and similar information collected from other services) for purposes of delivering personalized advertisements to you when you visit digital properties within their networks. This practice is commonly referred to as "interest-based advertising" or "personalized advertising."
+**4. Objection:** You have the right to object to our processing of your personal information in certain circumstances.
 
-**APIs/SDKs.** We may use third-party application program interfaces ("APIs") and software development kits ("SDKs") as part of the functionality of our Services. For more information about our use of APIs and SDKs, please contact us as set forth in "Contact Us" below.
+**5. Withdrawal of consent:** Where we rely on consent to process your personal information, you have the right to withdraw this consent.
 
-### B. Disclosures to protect us or others
+**6. Complaints:** If you have complaints about how we process your personal data, please contact us and we will respond to your request as soon as possible. If you think we have infringed data protection laws, you have the right to file a complaint with the data protection supervisory authority in the EEA country in which you live or work or where you think we have infringed data protection laws, or with the UK Information Commissioner's Office, as applicable to you.
 
-We may access, preserve, and disclose any information we store associated with you to external parties if we, in good faith, believe doing so is required or appropriate to: comply with law enforcement or national security requests and legal process, such as a court order or subpoena; protect your, our, or others' rights, property, or safety; enforce our policies or contracts; collect amounts owed to us; or assist with an investigation or prosecution of suspected or actual illegal activity.
+Please note that a number of these rights only apply in certain circumstances, and all of these rights may be limited by law. For example, where fulfilling your request would adversely affect other individuals or our trade secrets or intellectual property, where there are overriding public interests or where we are required by law to retain your personal information.
 
-### C. Disclosure in the event of merger, sale, or other asset transfers
+To exercise any of these rights, you can contact us online by email at privacy@suno.com or through our Privacy Center. We will respond to requests to exercise these rights without undue delay and at least within one month (though this may be extended by a further two months in certain circumstances).
 
-If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
+## Other Important Privacy Information
 
-## 5. Your privacy choices and rights
+**Suno Acting as a Data Processor**
 
-**Your Privacy Choices.** The privacy choices you may have about your personal information are determined by applicable law and are described below.
+In connection with the use of certain Services by our customers or other parties, such as under license agreements pertaining to use of our Platform and related Services, our customers or other parties and their designated end users may upload, process, store and/or share data through the Services (or may provide data to us through other means for processing), the contents of which are generally not known to us but may contain personal information. In these circumstances, we are acting as a "data processor" or "service provider". We process such data in accordance with the terms and conditions of our written agreements with, and any related instructions received from, such customers and other parties. This Privacy Notice does not apply to our processing of information as a data processor/service provider.
 
-**Email Communications.** If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. Note that you will continue to receive transaction-related emails regarding products or Services you have requested. We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding our Services or updates to our Terms or this Privacy Policy).
+**Use by Children**
 
-**Text Messages.** If you receive an unwanted text message from us, you may opt out of receiving future text messages from us by following the instructions in the text message you have received from us or by otherwise contacting us as set forth in "Contact Us" below.
+Our Services are not intended to be used by individuals under the age of 13, and we do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us at privacy@suno.com.
 
-**Mobile Devices.** We may send you push notifications through our mobile application. You may opt out from receiving these push notifications by changing the settings on your mobile device. With your consent, we may also collect precise location-based information via our mobile application. You may opt out of this collection by changing the settings on your mobile device.
+**Additional Information About Biometric Data**
 
-**Phone Calls.** If you receive an unwanted phone call from us, you may opt out of receiving future phone calls from us by following the instructions which may be available on the call or by otherwise contacting us as set forth in "Contact Us" below.
+When you choose to use certain voice-enabled features of the Services, we may collect, store, use, and otherwise process voice recordings to create voice models and generate audio Outputs. For example, when you use our Voices feature, we analyze characteristics of speech and develop a voice model capable of generating audio that resembles your voice. This process involves the processing of data that may be considered biometric identifiers or biometric information depending on where you reside, what laws apply, and how we use the information. We use this information to provide and develop our Services, including to train and enhance the models that power our Services, as further explained in the section above, How We Use Your Information. We may disclose this information to our affiliates and service providers to provide and develop our Services, as further explained in the section above, How We Share Your Information. We will retain this information for no longer than three (3) years following your last interaction with us (at which point, we will erase the informat, except as required otherwise by applicable law.
 
-**"Do Not Track."** Do Not Track ("DNT") is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
+**Data Protection Representatives**
 
-**Cookies and Personalised Advertising.** You may stop or restrict the placement of Technologies on your device or remove them by adjusting your preferences as your browser or device permits. However, if you adjust your preferences, our Services may not work properly. Please note that cookie-based opt-outs are not effective on mobile applications. However, you may opt-out of personalized advertisements on some mobile applications by following the instructions for Android, iOS, and others.
+VeraSafe has been appointed as Suno's representative for data protection matters in the European Union and the United Kingdom, pursuant to Article 27 of the EU General Data Protection Regulation and Article 27 of the UK General Data Protection Regulation, respectively. If you are located in the European Economic Area or the United Kingdom, VeraSafe can be contacted in addition to privacy@suno.com, only on matters related to the processing of personal data.
 
-**Your Privacy Rights.** In accordance with applicable law, you may have the right to:
+To make such an inquiry, please contact VeraSafe using this contact form: https://verasafe.com/public-resources/contact-data-protection-representative
 
-- **Access to and Portability of Your Personal Information,** including: (i) confirming whether we are processing your personal information; (ii) obtaining access to or a copy of your personal information; and (iii) receiving an electronic copy of personal information that you have provided to us, or asking us to send that information to another company in a structured, commonly used, and machine readable format (also known as the "right of data portability");
+Alternatively, VeraSafe can be contacted at:
 
-- **Request Correction** of your personal information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your personal information;
+European Union: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland — Tel: +420 228 881 031
 
-- **Request Deletion** of your personal information;
+United Kingdom: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom — Tel: +44 (20) 4532 2003
 
-- **Request Restriction** of or Object to our processing of your personal information where the processing of your personal information is based on our legitimate interest or for direct marketing purposes; and
+**Changes to our Privacy Notice**
 
-- **Withdraw your Consent** to our processing of your personal information. Please note that your withdrawal will only take effect for future processing and will not affect the lawfulness of processing before the withdrawal.
+We may change this Privacy Notice from time to time. We will post any Privacy Notice changes on this page, with a revised date at the top of this page. If the changes are material, we will provide a more prominent notice by adding a notice on the homepages of our websites or login screens for the Services, or by sending you an email notification. We encourage you to review the Privacy Notice whenever you access the Services to stay informed about our data privacy practices and your choices regarding your information.
 
-If you would like to exercise any of these rights, please contact us as set forth in "Contact Us" below. We will process such requests in accordance with applicable laws.
+If you disagree with this Privacy Notice and/or any changes hereto, you will need to stop using the Services.
 
-## 6. Security of your information
+**Contact**
 
-We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unauthorized access, use, disclosure, or loss of personal information.
-
-By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Services. If we learn of a security system's breach, we may attempt to notify you electronically by posting a notice on our Services, by mail, or by sending an email to you.
-
-## 7. Retention of personal information
-
-We store the personal information we collect as described in this Privacy Policy for as long as you use our Services, or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
-
-## 8. Supplemental notice for California residents
-
-**California Shine the Light.** The California "Shine the Light" law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties.
-
-**Right for minors to remove posted content.** Where required by law, California residents under the age of 18 may request to have their posted content or information removed from the publicly-viewable portions of the Services by contacting us directly as set forth in "Contact Us" below.
-
-## 9. Supplemental notice for Nevada residents
-
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties who intend to license or sell that personal information. You can exercise this right by contacting us at support@suno.tech with the subject line "Nevada Do Not Sell Request" and providing us with your name and the email address associated with your account. Please note that we do not currently sell your personal information as sales are defined in Nevada Revised Statutes Chapter 603A. If you have any questions, please contact us as set forth in "Contact Us" below.
-
-## 10. Children's information
-
-The Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children. If you are a parent or guardian and wish to review information collected from your child, or have that information modified or deleted, you may contact us as described in "Contact Us" below. If we become aware that a child has provided us with personal information in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it.
-
-## 11. Other provisions
-
-**Third-Party Websites/Applications.** The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third-party services are not controlled by us. We encourage our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen, or approve, and are not responsible for, the privacy practices or content of such other websites or applications. Providing personal information to third-party websites or applications is at your own risk.
-
-The Company is the controller of the personal information we process under this Privacy Policy.
-
-If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights as detailed in this Privacy Policy, please contact us at: **Email:** support@suno.tech
-
-**Mail:** Suno Software, Inc. · 500 7th Avenue, Floor 12 · New York, NY 10018
+If you have any questions or concerns regarding this Privacy Notice, please email us at privacy@suno.com.

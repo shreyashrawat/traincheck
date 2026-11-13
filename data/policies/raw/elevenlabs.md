@@ -1,356 +1,309 @@
 ---
 product: ElevenLabs
 company: ElevenLabs
-source_url: https://github.com/shreyash0712/fineprinted/blob/HEAD/data/snapshots/elevenlabs.io/privacy-policy/4dce381fa543353ca24e7c00365d2c04a2b8221b2de4e0f20a4dfb6ba0dbf3f6.md
+source_url: https://elevenlabs.io/privacy-policy
 fetched_date: 2026-11-12
-policy_date: 2026-05-20
+policy_date: 2026-10-09
 ---
-Privacy Policy
 
-Updated 20 May 2026
+# Privacy Policy
 
-Portuguese translation available at: elevenlabs.io/privacy-policy-portuguese
+Updated 9 October 2026
 
-This Privacy Policy (“Policy”) explains how Eleven Labs Inc. and our affiliates (which, as of the date above, includes Eleven Labs Ltd., Eleven Labs Poland sp. z o.o., Eleven Labs Auto India Private Limited, Eleven Labs Technology Middle East Limited, and Eleven Labs Japan Godo Kaisha) (together, “ElevenLabs”, “we”, “our”, or “us”) process Personal Data (defined below) of individuals who access or use our Websites (including reception.ai) or Services (jointly referred to as the “Services” for purposes of this Policy) or otherwise engage with ElevenLabs.
+## 1. Introduction and scope
 
-This Policy also explains your rights and choices about how we use your Personal Data, including how you may be able to access or update certain information about you. Where processing is based on consent, and to the extent permitted by law, by using the Services or otherwise engaging with ElevenLabs, you consent to the use of your Personal Data as described in this Policy.
+This Privacy Policy explains how we use your personal information when you use our Services. It applies to everyone globally, but depending on where you live, there may be a few extra points for you to know.
 
-1. Definitions; Scope.
+**About this Policy and when it applies**
 
-(a) Definitions. In this Policy, “Personal Data” means any information relating to an identified or identifiable individual, such as an individual's name, address, telephone number, or email address. In certain jurisdictions, this may also be referred to as “Personal Information.” Other capitalized terms not defined herein shall have the meanings ascribed to them in our terms of service, available at elevenlabs.io/terms-of-use or elevenlabs.io/terms-of-use-eu, as applicable (“Terms of Service”).
+This Privacy Policy (“Policy”) explains how we, ElevenLabs, collect and use your personal information. It applies when:
 
-(b) Scope. This Policy applies only for instances in which ElevenLabs acts as a responsible party (i.e. data controller) under applicable laws, including where ElevenLabs provides Services to individual users. This Policy does not apply when we offer our Services and process Personal Data on behalf of enterprise/business customers. We act as a service provider/data processor for those relationships, and our use of Personal Data in connection therewith is governed by the applicable Data Processing Addendum set forth in such customer’s agreement.
+- you visit our websites (including https://elevenlabs.io/ or reception.ai);
+- you use any of our services through our websites, mobile apps, or APIs (which we refer to collectively as our “Services”);
+- you contact us; or
+- others give us information about you.
 
-2. Categories of Personal Data We Collect.
+This Policy also explains your rights in connection with your personal information and how to use them.
 
-(a) Personal Data You Provide to Us
+This Policy does not cover personal information we collect when you use ElevenLabs services through one of our business customers (for example, if you use an ElevenLabs service through your employer or our technology powers voice functionality on a service offered by another company). When we do that we act as a “service provider” or ”data processor”. In those cases, the business customer's contract with us, not this Policy, governs how we use the information. If you have questions about personal information we process for one of our customers, please contact that customer directly.
 
-Account & Contact Details. When you set up an account to use our Services, we may ask you to provide your contact and other account-related details such as your name, email address, phone number, address, and your account and contact preferences.
+This Policy applies to all our users around the world. If you are resident in Brazil, the EEA, UK or Switzerland, India or the United States please read the extra information that applies to you.
 
-Services Input & Output. We process your Input (which may include text, audio, or other content) and Output and any other information you provide in connection with your use of the Services, including any Personal Information contained therein.
+If you have any questions or concerns about our use of your personal information, please email dpo@elevenlabs.io
 
-Audio Recordings and Voice Data. In addition to any audio recordings of your voice that you choose to share with us, which may include Personal Data, we also collect data about your voice (“Voice Data”) in order to provide our Services to you. You may also submit additional audio recordings for ElevenLabs to verify that the voice featured in the provided audio recording is yours.
+## 2. Personal Information We Process
 
-Profile Information and User Content. When you sign up for our Services, you may indicate how you intend to use the Services (e.g., professional use). If you decide to make your voice model available to other users in the Voice Library, you can choose to include a profile description including your name, bio/description, your social media usernames and links to your social media accounts, and the characteristics of your voice. Some such profile information you provide will be viewable by other users of our Services.
+We collect and process different categories of personal information in connection with our Services, including information you provide to us directly, information we collect when you use our Services, and information we receive or collect from third party sources.
 
-Feedback/Communications. If you contact us directly, express interest in using our Services, or otherwise provide us with feedback, we collect Personal Data including your name, email address, the contents of a message and attachments that you may send to us, and other information you choose to provide. If you subscribe to our newsletter, then we will collect Personal Data from you, such as your name and email address. When we send you emails, we may track whether you open them to learn how to deliver a better customer experience and improve our Services. If you respond to a survey, we will capture your responses and any other Personal Data you provide.
+**(a) Personal Information You Provide to Us**
 
-Payment Details. When you register to use any of our paid Services or decide to get paid by making your voice model available to other users, our third-party payment processor, Stripe, collects and processes your payment-related information, such as your name, email, billing address, credit/debit card or banking information or other financial information. Please consult Stripe's privacy policy here.
+**Account & Contact Details.** When you set up an account to use our Services, we ask you for details such as your name, email address, phone number, address, and your account and contact preferences.
+**Inputs & Outputs.** You can type or upload prompts into our AI tools. We call these inputs. Inputs can include text, voice, or other content. We create results from Inputs which we call outputs. Both inputs and outputs can include personal information.
+**Voice data and voice models.** One kind of input is voice data. This could be an audio recording or live narration of your voice, or someone else's voice you ask us to use. We use these voices to create the output of a synthetic copy of the voice called a "voice model".
+**Profile Information.** When you sign up, you can choose to tell us more information - for example how you plan to use the Services (e.g. personal, professional, educational) and how you heard about us. If you add your voice model to the Voice Library, you can also choose to include profile information such as your name, bio/description, and information about social media accounts.
+**Feedback/Communications.** If you contact us, sign up for our newsletter, participate in a survey or send feedback, we collect information such as your name, email address, and anything you include in your message or answers.
+**Payment Details.** You might pay for our Services, or become eligible to be paid. If so, we'll send you to our payment processor. They will collect and use your payment details under their own Privacy Policy.
+**Verification Information.** Where the law allows or requires us to do so, we may ask you to prove your age or who you are. This might use your information about you like your date of birth, proof of address, a copy of an ID, or your voice.
+**Other Information You Provide.** We collect other information you may provide to us, such as when you use our alpha or beta services (i.e. where we are testing new products and features), participate in our responsible disclosure program, attend our events, or otherwise interact with us.
 
-Verification Information. As permissible by applicable law, we may ask you to provide verification of your age or identity to use our Services. This may include, for example, date of birth, proof of address, copy of a personal identification card or passport.
+**(b) Personal Information We Collect Automatically**
 
-Other Information You Provide. We may collect other information you may provide to us, such as when you use our alpha or beta products and services, participate in our responsible disclosure program, attend events hosted by us, or otherwise interact with us online or offline. Some of these services, programs, events, or engagements may have additional terms.
+**Location Information.** When you use our Services, we work out your rough location, such as your city. We do this from your IP address.
+**Device Information.** We collect information about the device and network you use to access our Services, including IP address, browser type, operating system version, software, phone carrier and manufacturer, app installs, device IDs, advertising IDs, and push notification tokens.
+**Usage Information.** We collect information about how you use our Services (and/or third party services that you access through our Services). This includes what you view and how and when you use our Services. Our understanding of your usage may include the use of tools that look at mouse movements, clicks, keystrokes, data or text entered, which of our emails you've opened and which pages you visit.
 
-(b) Personal Data We May Otherwise Collect From You and/or Your Device
+We may collect the information above using cookies, pixel tags, SDKs, or similar technologies (which we refer to collectively as “Cookies”). For more information about our use of Cookies, please see the “Cookies” section.
 
-Information from Cookies and Similar Technologies. We and our third-party partners may collect information about you using cookies, pixel tags, SDKs, or similar technologies (“Cookies”). See the “Your Cookie Choices” section of this Policy for further detail. Categories of information we may collect using cookies include:
+**(c) Personal Information We Collect from Third Parties**
 
-Location Information. When you use our Services, we infer your general location information, for example by using your internet protocol (IP) address. In some jurisdictions, we will ask for your permission before doing so.
+**Contact Details and Voice Data.** In certain circumstances, we may collect information (such as your name and identification information) and voice data from third parties. For example, where a registered user provides the voice data or other information about another person, we collect that information.
+**Publicly Available or Licensed Information.** Where permitted by applicable laws, we obtain publicly available or third-party information to train our models and systems. By training, we mean providing data to our AI models and systems so they can operate more effectively.
+**Third-Party Logins.** If you sign up or log in using an account you have with a third party, we'll receive information from that company, such as your name, email address, username, and profile picture.
+**Information from Partners.** Where the law allows us, we may receive information from third-party partners that helps with things like identity or background checks, data enrichment, and stopping fraud and crime.
 
-Device Information. We receive information about the device and software you use to access our Services, including IP address, web browser type, operating system version, phone carrier and manufacturer, application installations and versions, device identifiers, mobile advertising identifiers, and push notification tokens.
+In connection with your use of our Services, any use of information received from Google Workspace APIs will adhere to the Google User Data Policy including Google's Limited Use Requirements.
 
-Usage Information. We receive information about your interactions with our Services, the content you view, the actions you take, the features with which you interact when you are using the Services, and the dates and times of your visits.
+## 3. How We Use Your Personal Information and Our Legal Basis
 
-(c) Personal Data We Collect from Third Parties
+We use your personal information for different purposes connected to your use of our Services, the development of our Services, compliance with law and the protection of our, and third party, rights and interests.
 
-Information from Third Parties. Where permitted by applicable laws, we collect publicly available information from third-party sites to enable the training of our models and systems. We may also work with third parties directly to collect information such as to enable the training of our models and systems.
+**(a) Purpose and Legal Basis**
 
-Third-Party Logins. If you choose to register or log in to our Services using your account with third parties, we receive Personal Data about you from such third parties, such as your name, email address, username, and profile picture.
+The table below shows why we use your personal information and, where data protection law requires it, the legal basis we rely on for each purpose. If you live in a country that requires a legal basis for processing, and a legal basis listed here doesn't apply, we'll rely on consent or another basis the law of your country allows.
 
-Information from Service Providers. We may receive information from third-party service providers that are authorized to share your Personal Data with us, including in connection with verification / background checks, data enrichment, and ‘Know Your Customer’ (KYC) and ‘Anti-Money Laundering’ (AML) checks.
+**Provide our Services:** We use your personal information to provide the Services you request. For example we process your information: In inputs in order to create outputs. For example, if you use voice modelling, our AI analyzes how you speak. It then builds a voice model that can create audio that sounds like you. However, we do not use voice data to infer sensitive information about you, such as your health, ethnicity or political opinions. To share your outputs with other users, if you choose that; To provide technical support.
+Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communication; Verification Information; Location Information; Device Information; Third-Party Logins.
+Legal basis (where relevant under applicable law): Depending on the circumstances and applicable law: Necessary for the performance of our contract with you. Legitimate interests - namely our interests in providing our Services to you. Where this involves the processing of special category, such as when we use your voice data to check that it belongs to you, we also rely on consent.
 
-In some cases, we need to collect your Personal Data to provide you with our Services. In these cases, if you choose not to provide the requested Personal Data, you may not be able to use our Services. We will tell you if providing Personal Data is required by law or under a contract and the consequences of failing to provide it, if applicable.
+**Check that your voice or other inputs belong to you:** Check that your voice or other inputs are really yours. For example, for some Services like voice cloning, we may ask you to record yourself so we can confirm the voice you upload is yours. When we use your voice data to check it belongs to you, we may be handling biometric or sensitive or special category data under some laws.
+Data Categories: Voice data and voice models.
+Legal basis: Depending on the circumstances and applicable law: Necessary for the performance of our contract with you. Legitimate interests - namely our interests in ensuring that we verify the voice relates to a particular individual. Where this involves the processing of special category, such as when we use your voice data to check that it belongs to you, we also rely on consent or (in limited circumstances) substantial public interest.
 
-3. Purposes of Processing Personal Data and Legal Basis.
+**Personalize our Services:** We may use your personal information to enhance and personalize your experience of our Services, including suggesting content and features that could be of interest to you.
+Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communication; Verification Information; Location Information; Device Information; Usage Information.
+Legal basis: Depending on the circumstances and applicable law: Legitimate interests - namely our interest in providing you with an optimised and personalized version of the Services. Or, if required by law, with your consent.
 
-(a) Purpose and Legal Basis
+**Send you Service or support communications:** We may use your personal information to send Service or support-related communications to you (for example, about updating your account details or updates to our Terms of Service), as well as to respond to your inquiries.
+Data Categories: Account & Contact Details; Profile Information.
+Legal basis: Depending on the circumstances and applicable law: Necessary for the performance of our contract with you. Or, legitimate interest - namely our interest in communicating with you about our Services or your interest in our Services.
 
-The table below describes the purposes for which we process your Personal Data when acting as a data controller and the legal bases for such processing. When we rely on legitimate interest as the legal grounds to process your Personal Data, you have the right to object to that processing using the online form set out in Section 8 (“Your Rights”). Please note that where the legal bases specified are not applicable in your country, we will rely on consent or other available grounds to process your Personal Data.
+**Send you marketing communications:** We may use your personal information to send you marketing communications (including emails or push notifications).
+Data Categories: Account & Contact Details; Profile Information; Location Information; Usage Information; Device Information.
+Legal basis: Depending on the circumstances and applicable law: With your consent. Or, if permitted by law - legitimate interests - namely our interest in promoting and marketing our services.
 
-Purpose Description Legal Ground (where required under applicable law)
+**Keep our services safe and protect rights:** We use your personal information to find and stop unlawful or harmful activity. We use it to uphold and enforce our Prohibited Use Policy and Terms of Service. We use it to protect our rights and other people's rights. We use it to set up, bring, and defend legal claims. We use it to respond to law enforcement, regulators or public authorities.
+Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communications; Verification Information; Location Information; Device Information; Usage Information; Third-Party Logins; Information from Partners.
+Legal basis: Legitimate interests - namely our interest in protecting our Services, other users, and third parties against fraud and other potentially harmful or illegal activities. Where this involves the processing of special category data, we also rely on it being necessary for: reasons of substantial public interest; the establishment, exercise or defence of legal claims.
 
-Providing the services We may process your Personal Data to provide the Services you request from us, as described in the applicable Terms of Service. The processing is necessary for entering into, or performance of a contract to which you are a party
+**Fixing issues with our service:** We may use your personal information to investigate and fix errors that affect our Services.
+Data Categories: Account & Contact Details; Inputs & Outputs; Feedback/Communications; Location Information; Device Information; Usage Information.
+Legal basis: Legitimate interests - namely our legitimate interests in maintaining proper and optimal functioning of our Services.
 
-Collecting your audio recordings and other Voice Data for use in connection with our Services We collect the audio recordings of your voice that you choose to share with us, as well as any other Voice Data to provide our Services to you. The processing is necessary for entering into, or performance of a contract to which you are a party
+**Analysing your use of and improving our Services:** We may use your personal information to understand how our Services are used. This helps us spot trends, improve the Services, and to build new services.
+Data Categories: Account & Contact Details; Inputs & Outputs; Profile Information; Feedback/Communications; Verification Information; Location Information; Device Information; Usage Information; Third-Party Logins.
+Legal basis: Legitimate interests - namely our interest in understanding how our Services are used and can be improved. Or, if required by law - with your consent.
 
-Generating your voice model or otherwise interpreting your voice if you use it for Services such as speech synthesis, elevenagents, dubbing, or translation We may process the audio recordings of your voice that you provide to us, which include your Personal Data, such as your Voice Data as well as any Personal Data you choose to provide, to provide elevenagents services or to create a voice model that will generate synthetic audio sounding like your voice, as further described below in Section 2b (“Personal Data and ElevenLabs Voice Modeling Services”). The processing is necessary for entering into, or performance of a contract to which you are a party.
+**Complying with legal obligations:** We may use your personal information to meet a legal obligation. For example this could be accounting, tax or anti-money laundering rules, or a court order.
+Data Categories: Potentially all categories of data, dependent on the nature of the legal obligation or order.
+Legal basis: Compliance with a legal obligation. Where this involves the processing of special category data, we also rely on it being necessary for: reasons of substantial public interest; the establishment, exercise or defence of legal claims.
 
-Allowing others to generate synthetic audio using your voice model You may decide to make your voice model available in the Voice Library for other users to use to generate synthetic audio sounding like your voice, and we process your Voice Data, including your voice model, for this purpose. The processing is necessary for entering into, or performance of a contract to which you are a party.
+**Research and develop our AI models:** We use your personal information to research, build, train and improve our AI models. This includes our models learning patterns in speech and audio. For more information about our training practices, and controls we offer you, see here.
+Data Categories: Inputs & Outputs; Device Information; Usage Information; Publicly Available or Licensed Information; Information from Partners.
+Legal basis: Legitimate interests - namely to develop and improve our Services. Or, if required by law - with your consent.
 
-Verifying that it is your voice featured in the audio recordings provided by you or another user If you use our professional voice cloning services, we may process an audio recording that you provide us and Voice Data to verify that the voice featured in other audio recordings you provided is yours. Where another user wishes to use your Voice Data with your consent, we may process an audio recording that you provide to us to verify that it is your voice and that you consent to the use of your voice by the third party. We may process your Personal Data to protect against and prevent malicious, deceptive, fraudulent, illegitimate, or illegal activity, and to prevent the generation of “Deep Fakes.” We may use this data to help us defend ourselves in the event of a claim arising out of any attempted unlawful use of our Services. When we process your Voice Data for identity verification purposes, your Voice Data may constitute biometric data under applicable laws and so we will be processing your Special Category or sensitive Personal Data. Depending on the circumstances and applicable law, we may rely on different legal bases for such processing, including compliance with legal obligations, the performance of a contract, legitimate interests, or other applicable legal grounds. The processing may also be necessary for the establishment, exercise, or defense of legal claims.
+**Marketing and advertising to you on our Service and third party services:** We may use your personal information to serve you with more relevant marketing and advertising on our Services as well as on third-party websites, apps, digital properties, and to measure the effectiveness of such activities. We do not use voice data to target individuals.
+Data Categories: Location Information; Device Information; Usage Information.
+Legal basis: Depending on the circumstances and applicable law: Consent. Or, if permitted by law, legitimate interests - namely our interest in promoting our Services and understanding the effectiveness of these campaigns.
 
-Personalizing your experience With your permission, we may process your Personal Data to personalize your experience when you access our Services, including suggesting content and features that could be of interest to you.
+**Other purposes:** If we intend to use your personal information for other purposes, we will make this clear when the personal information is collected.
+Data Categories: As indicated at the point we collect this information.
+Legal basis: As indicated at the point we collect this information.
 
-We have a legitimate interest in using your Personal Data for the purpose of personalizing your experience.
+## 4. Data Recipients
 
-Communicating with you
+We share your personal information with third parties that support us in providing and marketing our Services and where necessary, to protect and support our business interests and the interests of our users.
 
-We may process your Personal Data to communicate with you, provide you with updates and other information relating to our Services, provide information that you request, respond to your comments and questions, and otherwise, provide customer support. We have a legitimate interest in using your Personal Data for communicating updates and providing support. In addition, such communications may be necessary in accordance with our contract with you.
+We may share your personal information with the following categories of recipients.
 
-Communicating with you For potential users, we may process your Personal Data to send Marketing Communications including emails to provide information regarding products or Services that may interest you. You have provided your consent.
+**Affiliates.** We may share your personal information with the ElevenLabs group of companies for the purposes described in this policy. You can see the names of our "Affiliates" listed in our Trust Center.
+**Vendors and Service Providers.** We share your personal information with vendors and service providers who help us run the Services and handle data on our behalf. They help with things like content moderation, service eligibility, intellectual property protection, analytics, web hosting, data analysis or enrichment, advertising, marketing, IT, customer service and auditing. We also share information with vendors and partners who work with us to provide parts of our Services, such as payment processing and background checks.
 
-Billing and accounting
+You can find out more information about these categories of recipients here.
 
-We may process your Personal Data to handle any payments from you or to you as described in the applicable Terms of Service, including keeping records of payments. The processing is necessary for entering into, or performance of a contract to which you are a party.
+**Other Users and Third Parties through Sharing Features.** If you choose to use sharing features, we share your information with other users — for example, if you add your voice model to the Voice Library, your voice is available to users of that service. Other features may allow you to share information directly with other users or with unaffiliated third parties that process the data in accordance with their own privacy policies. Only share information with those you trust.
+**Partners.** We share your personal information with third party partners who help us advertise and promote our Services. This includes companies that help us with background checks, analytics and advertising partners, payment processors or partners who may jointly develop or promote our services.
+**When the law requires it, or to protect rights.** We may share your personal information with law enforcement, regulators, and public authorities. We may share it as part of legal proceedings. We also do this where we believe it's needed for a legal process or to follow an order from a court, regulator or other authority. We also do this to protect your, our, or other people's rights, property, or safety, or to find, stop, or report illegal activity.
+**Business sale or reorganisation.** We may be involved in a merger sale or reorganisation. This could affect some of all of our business. If so, we may share your personal information with advisers, possible buyers, and others involved in the deal.
+**Other Data Recipients.** We will only disclose your information to other third-parties with your consent or where we are required or permitted by law to do so.
 
-Preventing fraud
+## 5. International Data Transfers
 
-We may process your Personal Data to protect against and prevent fraud and money laundering, and protect against malicious, deceptive, fraudulent, or illegal activity, including to prosecute those responsible for such activity. We have a legitimate interest in using your Personal Data to conduct due diligence and take appropriate measures to protect against and prevent fraud. In addition, such processing may be necessary to fulfil obligations under our contract with you.
+ElevenLabs may transfer your personal information to recipients based outside of the country that you reside. Where it does, it will implement measures to ensure the adequate protection of your information.
 
-Data Storage We may store your Personal Data, including Voice Data, using third-party cloud services. We have a legitimate interest to store your Personal Data for providing our Services and maintaining our relationship with you. In addition, such storage may be necessary to fulfil obligations under our contract with you.
+Our affiliates, partners, and service providers work in many countries. So when you use our Services, your personal information may move outside the area where you live. Wherever you are, your personal information will be transferred to the United States for storage. Some countries set extra rules for moving personal information outside the place you live. Depending on where you live, we protect your information in the following ways.
 
-Safety
+We may only send it only to countries that relevant authorities have decided will adequately protect it.
+We may use approved contract terms, such as the EU Standard Contractual Clauses, the Brazil Standard Contractual Clauses, or, in Japan, contracts with safeguards equal to Japanese data protection law).
+We may rely on another legal ground such as your consent.
 
-We may process your Personal Data to safeguard our platform and services, and to ensure security and safety, which may include administering a responsible disclosure program. We have a legitimate interest in using your Personal Data to ensure security and safety. In addition, processing your personal data to safeguard our platform and services, and to ensure security and safety, may be necessary to fulfil obligations under our contract with you.
+Please refer to the Additional Information for Specific Countries for further information for those territories.
 
-Providing technical support
+For more information about how we transfer personal information or to obtain a copy of the contractual safeguards we use for such transfers (to the extent you are entitled to this under applicable law), you may contact us using the contact details indicated in the “Contact Us” section below.
 
-We use Personal Data to provide technical support, including diagnosing and resolving any issues you report. The processing is necessary for entering into, or performance of a contract to which you are a party.
+Please note that the data protection laws in the locations where we transfer or process data may differ from those in your area.
 
-Understanding usage
+## 6. Data Retention
 
-We may process your Personal Data to understand the usage of our Services, to understand trends and preferences, to improve and repair errors in the Services, and to develop new products, services, features, and functionalities. We have a legitimate interest in using your Personal Data for the purpose of understanding usage.
+We generally keep your personal information for as long as necessary to provide you with our Services or as otherwise required or permitted by law or to protect our rights. After this we will either securely delete or de-identify it.
+We keep your personal information only as long as we need it for the reasons we collected it, for example, for as long as you have an account with us, or as long as the law requires. We take measures to delete your personal information or de-identify it when no longer needed unless we are required or permitted by law to keep this information for a longer period.
 
-Understanding usage Our understanding of your usage may include the use of tools that look at mouse movements, clicks, keystrokes, data or text entered, and the pages you visit. We obtain your consent to the placement of tracking technologies that are used for these purposes.
+To decide how long to keep information, we weigh several things. These include the type of information, the Service you used, how long our relationship lasts, any time periods the law sets, and any time limits for legal claims. We won't keep data we generate about your voice for longer than 3 years after your last interaction with us, unless the law requires or allows otherwise.
 
-Aggregated Data Generation
+## 7. Cookies
 
-We may process your Personal Data to generate deidentified or aggregate data that we may use for any lawful purposes including product and service improvement activities, research, and other similar purposes. We will maintain and use data in an anonymous or deidentified format. Unless required by law, we will not attempt to reidentify the information. We have a legitimate interest in using your Personal Data to generate anonymized or aggregate data.
+Our Services use cookies and similar technologies to make them work, to improve them, to allow us to understand how you engage with them and for marketing and advertising.
 
-Administrative and legal
+Cookies, pixel tags, SDKs, or similar technologies (which we refer to collectively as “Cookies”) are technologies used to collect information about a user's device and their activities on a website, app or online service. We and our partners, such as analytics and advertising partners, may collect information from your device using Cookies to understand your online activities over time and across different services (including our Services).
 
-We may use your Personal Data to address any administrative or legal issues pertaining to ElevenLabs, including without limitation intellectual property infringement, defamation, rights of privacy issues, to enforce our Terms of Service, or as necessary to establish, exercise or defend our legal rights or to respond to requests or communications from law enforcement agencies, regulatory bodies and public authorities.
+The information we may collect via Cookies is described in the “Information we collect automatically” part of Section 2 of this Policy.
 
-We have a legitimate interest in using your Personal Data to address administrative and legal issues.
+**Types of Cookies**
 
-Compliance
+Cookies set by us are called “first party Cookies”. We also use third-party Cookies; these are set by a domain different to the one you are accessing. We may use both session cookies and persistent Cookies. A session Cookie disappears after you close your browser. A persistent Cookie remains and may be used by your browser on subsequent visits to our Services. Cookies used on our Services can be categorised as follows:
 
-We may process your Personal Data for compliance with legal obligations to which we are subject, for instance, to comply with accounting, tax rules or anti-money laundering rules, or as mandated by a court order, judicial process, or governmental agency.
+**Strictly Necessary Cookies.** These Cookies are essential to provide our Services. For example, they let you log in and help us to spot bots. You cannot turn these off, because our Services need them.
+**Preferences.** These Cookies remember things that change how our Services work or look, such as your language or region.
+**Statistics.** These Cookies help us see how our Services perform and how visitors use them.
+**Marketing.** These Cookies are used to track users across our Services and third party services. These Cookies help us to deliver more relevant marketing and advertising and measure how well our campaigns work.
 
-We need it to comply with a legal obligation, for instance, to comply with a court order.
+Depending on your location, we may ask for your consent before we use any non-essential Cookies. You can manage your choices through the Cookie Settings link on the footer of our website. In addition, you have the following controls concerning the use of Cookies.
 
-Research and development of AI models
+**Browser Settings.** Certain web browsers allow you to refuse Cookies or delete certain Cookies. Please note that if you choose to block all Cookies, doing so may impair your use of our Services.
+**Google Analytics Opt-out.** To opt out from Google Analytics' use of information collected on the Services through Cookies, you can download the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.
+**Universal Opt-out Signals.** If you choose to use a tool to communicate your consent choices automatically through a legally determined opt-out preference signal, such as Global Privacy Control/GPC, on your browser or device, ElevenLabs will honor those signals as a request to opt-out of targeting & marketing cookies.
 
-We may process your Personal Data to research, develop, train and/or otherwise improve our AI models. This may include processing audio, text, video content, your preferences or feedback, and/or any metadata associated with any of the foregoing that you provide or that is collected or generated in connection with your use of the Services. Our training practices are designed to disassociate (or fully remove) data included in the training dataset that could reasonably identify you with your audio, video or related content.
+## 8. Your Rights
 
-We have a legitimate interest in using your Personal Data for the purpose of research and development, specifically to improve our AI models and make them more effective for our users. Where required under applicable law, we rely on your consent for such processing in the alternative.
+Data protection laws give some people certain rights in relation to their personal information. You can exercise these rights in your account settings or via our online form.
 
-Other purposes
+**(a) Your Rights**
 
-If we intend to use your Personal Data for other purposes, we will provide specific notice at the time the Personal Data is collected.
+Data protection laws give individuals certain rights regarding the collection and use of their personal information. Depending on the laws that apply in your country and that we are subject to, you may have the right to do the following.
 
-Please consult the relevant specific notice.
+To ask for a copy of your personal information.
+To ask us to correct personal information about you that is wrong.
+To ask us to restrict, delete or where applicable, anonymize your personal information.
+To ask us to transfer your personal information (portability).
+To object to some uses of your information. For example:
+Opt out of training: You can opt out of our use of your personal information at any time by navigating to the 'Data use' menu in the 'Terms and Privacy' section of your ElevenLabs account. The opt-out only applies to and affects use of your personal information for training after you opt-out.
+To opt-out of marketing communications that we send you. Specifically, you can:
+Deactivate Push Notifications: You can deactivate push notifications that you have enabled at any time by changing the notification settings on your mobile device.
+Unsubscribe from Marketing Emails: You can unsubscribe from marketing emails at any time by following the instructions contained within the email or by using this unsubscribe form. Please be aware that you may continue to receive promotional communications from us for a short time after opt-out while your request is processed. Note that you will still receive service related communications (i.e. emails sent about account or customer service related matters) after you have opted out of marketing.
+To withdraw your consent to any processing that is based on your consent.
+To complain to your local privacy regulator about our use of your personal information. We ask that you contact us first, so we can try to help, but you do not have to.
 
-We only rely on our legitimate interests to process your Personal Data when we determine that these interests are not overridden by your rights and interests. When we use your information because we have a legitimate interest to do so, you may have the right to object to that use.
+**(b) Exercising Your Rights**
 
-(b) Personal Data and ElevenLabs Voice Modeling Services
+You can exercise some of your rights directly via your account or account settings. For example, you can access and correct some of the personal information we process via your account or delete your account.
+Alternatively, you can exercise any of these rights via our online form (or to the extent that the online form is unavailable, by emailing our Data Protection Officer at the following email address: dpo@elevenlabs.io). Using this form enables us to collect information we need to verify your identity, and manage your request more efficiently.
+Similarly, if submitting a request via email, please specify the right you would like to exercise and the country you reside in.
+We will fulfil any rights requests in accordance with applicable data protection laws.
 
-ElevenLabs uses Voice Data to provide its voice services, including voice modeling, speech-to-speech, and dubbing services. For voice modeling, when you provide us with recordings of your voice, we utilize our proprietary, AI-based technologies that analyze your speech characteristics to formulate a distinct voice model of your vocal traits. This voice model can be used to generate audio resembling your voice. Depending on where you reside and how we use your Voice Data (as set out in this Policy), applicable law may define your Voice Data as biometric data. We do not use Voice Data to infer characteristics about an individual.
+## 9. Third Parties
 
-(c) Personal Data and ElevenLabs Training Models
+We are not responsible for the privacy practices of any third party services that our Services may link to.
 
-ElevenLabs uses Voice Data to help our models and products learn about patterns and connections in speech and audio content and to improve our Services. We do not use Voice Data, Personal Data, or publicly available data used for training to profile or target consumers.
+Our Services may link to other websites, products, or services that we do not run. We are not responsible for how those companies handle privacy. This Policy does not apply to what you do on those websites, products or services. We encourage you to read their privacy policies before providing any information to them.
 
-(d) Content Moderation and User Suspension
+## 10. Children's Privacy
 
-ElevenLabs does not undertake to review all Content and expressly disclaims any duty or obligation to monitor or review content. However, to maintain the integrity and security of your data, and for fraud prevention purposes, ElevenLabs reserves the right to moderate all Input (including voice and text data input) and Output (including voice or other outputs). In certain circumstances, ElevenLabs may share your Input or Output, which may include Personal Data, with third parties to support the content moderation and safety initiatives. Users found to have engaged in activity that violates the Prohibited Use Policy may be subject to termination or suspension under the applicable Terms of Service.
+Our Services are not intended for, and we do not knowingly process personal information of, anyone under 18.
 
-4. Data Recipients.
+Our Services are not meant for or directed at children under the age of 18. We do not knowingly collect, store, or use personal information of anyone under 18.
 
-Your Personal Data may be shared with:
+If you are under 18, you are not allowed to send us any personal information. If we become aware that we have inadvertently received personal information from or about a child under the age of 18, we will delete it.
 
-Affiliates. We may share any Personal Data we receive with our current or future affiliates for any of the purposes described in this Privacy Policy.
+Additionally, all users are strictly prohibited from uploading, transmitting, emailing, or otherwise providing us with voice data from or about anyone under the age of 18. If you believe we may have inadvertently processed such personal information, please contact us at dpo@elevenlabs.io.
 
-Vendors and Service Providers. We may share your Personal Data with third-party vendors and service providers who provide services such as verification/background checks, content moderation, website hosting, data analysis or enrichment, advertising, information technology and related infrastructure provision, customer service, email delivery, auditing, and payment processing.
+## 11. Updates to this Policy
 
-Other Users. We may share your Personal Data with other users if you instruct us to do so, for instance, if you decide to make your voice model available to other users in the Voice Library, or if you decide to include a profile/description for other users to consult. If you decide to make your voice model available to other users in the Voice Library, we will also post a sample of the synthetic audio generated from your voice model for other users to preview how the voice will sound. Certain services and features may allow you to display or share information directly with other users. For example, you may share files or Output or send information to users outside of our tool. Be sure you trust any user with whom you share information.
+We will notify you of any significant changes to this Policy.
 
-Third Parties. We may jointly develop, promote, or offer products and features with other companies or partners which may require providing access to your Personal Data for the purpose of (a) providing, maintaining or supporting the services you requested, (b) analyzing and improving our services, and (c) marketing, advertising and other promotional activities. Certain services and features may allow you to display or share information with third parties. For example, you may share files or Output or send information to third-party applications. Be sure you trust any third party with whom you share information.
+We may update this Policy from time to time. We will tell you if we make any material changes to the Policy as the law requires.
 
-As Required By Law and Similar Disclosures. We may access, preserve, and disclose your Personal Data with law enforcement agencies, regulatory bodies, and public authorities or pursuant to the exercise of legal proceedings if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal process, such as a court order or subpoena; or (b) protect your, our, or others' rights, property, or safety. For the avoidance of doubt, the disclosure of your Personal Data may occur per this section if you use our Services to create any objectionable content.
+To see when this Policy was last updated, please see the “Updated” date at the top.
 
-Merger, Sale, or Other Asset Transfers. We may disclose your Personal Data to service providers, advisors, potential transactional partners, or other third parties in connection with the consideration, negotiation, or completion of a corporate transaction or re-organization, such as an event in which we are acquired by or merged with another company, or we sell, liquidate, or transfer all or a portion of our assets.
+## 12. Contact Us
 
-Other Data Recipients. We may also disclose your information to other third-parties where we have received your consent to do so. For example, to the extent you request that we refer you to a third-party services provider or you participate in an event we co-host with a third-party, we may request your consent to disclose your Personal Data to such third-party in connection with such activities. Such consent will include the purposes for which the third-party intends to use the information.
+For any questions regarding this Policy or our processing of your personal information, please contact our Data Protection Officer at dpo@elevenlabs.io.
 
-5. International Data Transfers.
+You may also write to our Data Protection Office at:
 
-We maintain hosting and/or server locations in the United States, the Netherlands, and Singapore. This means we may transfer your Personal Data outside your country, state or province of residence, depending on your location at that time. Regardless of your location, all Personal Data will be transferred to the United States for storage.
+Data Protection Office
 
-The data will be transferred for the time required to fulfill the purpose for which it is processed. It can be shared with our service providers and ElevenLabs’ affiliates for the purposes listed in Section 3. In such cases, ElevenLabs is the controller of the data, and the service providers are processors or controllers, as the case may be.
-
-If you reside in the EEA, Switzerland or the UK, please note that ElevenLabs is certified to the EU-US and Swiss-US Data Privacy Framework (“DPF”), as well as the UK Extension to the EU-US DPF, which the European Commission has determined to provide adequate level protection concerning the transfer of your Personal Information to the US.
-
-You can find further information about our DPF Certification at elevenlabs.io/eu-us-data-privacy-framework-policy.
-
-Please note that this certification applies only to ElevenLabs’ U.S. entity; our other entities, subsidiaries, and affiliates are not covered under the DPF program.
-
-We may transfer personal data to the following categories of recipients:
-
-Recipient Category Countries Purpose of Transfer Data Types Transferred
-
-Cloud service providers (e.g., Google Cloud) United States, Netherlands, Singapore Storage & security Name, voice data, account details, user history
-
-Payment processors (e.g., Stripe) United States Payment processing Name, credit card details, billing address
-
-Marketing analytics platforms (e.g., Google Analytics) United States User analytics IP address, device info, browsing history
-
-Customer support (e.g., Slack) United States Customer service & technical support Contact details
-
-Depending on where you reside, we apply appropriate protections when we transfer your Personal Data outside of your country of residence. These protections may include:
-
-Transferring Personal Data to countries which have been found to provide adequate protection by the competent authorities, as appropriate (if you live in Europe, see the list of countries subject to an adequacy decision by the European Commission here);
-
-Using contractual protections (i.e., EU Standard Contractual Clauses, Brazil Standard Contractual Clauses, or, if you live in Japan, contracts containing safeguards equal to Japanese data protection law) for the transfer of Personal Data;
-
-If you live in Europe, transferring to recipients who have certified to participate in the EU-U.S. Data Privacy Framework, or adopted binding corporate rules; or
-
-Obtaining your express consent.
-
-For more information about how we transfer Personal Data, or to the extent applicable laws afford such right, to obtain a copy of the contractual safeguards we use for such transfers, you may contact us using the contact details indicated in the “Contact Us” section below.
-
-Please note that the data protection laws in the locations where we transfer or process data may differ from those in your area. While the data is in another jurisdiction, it may be accessed by the courts, law enforcement, and national security authorities.
-
-6. Data Retention.
-
-We take measures to delete your Personal Data or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it unless we are required or permitted by law to keep this information for a longer period. When determining the specific retention period, we consider various factors, such as the type of service provided to you, the nature and length of our relationship with you, and mandatory retention periods provided by law and any relevant statute of limitations. ElevenLabs will not keep data it generates about your voice longer than 3 years after your last interaction with us, except as required by law.
-
-7. Your Cookie Choices.
-
-Cookies, pixel tags, SDKs, or similar technologies are technologies used to collect information about users and their activities on a website. We and our third-party partners, such as analytics and advertising partners, may collect information about you using Cookies to collect information about your online activities over time and across different services.
-
-The information collected via Cookies may include information such as unique identifiers, system information, IP address, web browser, device type, and the web pages that you visit just before or just after you use the Services, as well as information about your interactions with the Services, such as the date and time of your visit, and where you have clicked. More information about the data categories and elements collected using Cookies can be found in Section 2(b).
-
-Types of Cookies
-
-We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Services. Cookies we or our third-party partners place may fall under one of the following purposes:
-
-Strictly Necessary Cookies. Cookies that are essential to make our Services available to you, for example, to provide login functionality or to identify bots who try to access our website. These cookies cannot be disabled as we cannot provide you with the Services without this type of Cookie.
-
-Performing & Analytics Cookies. Cookies for website and app analytics purposes to support operation, maintenance, and improvement of our Services. We may use our own analytics Cookies or third-party analytics providers, such as Google Analytics, to collect and process certain analytics data on our behalf and understand how you engage with our Services. You can learn about Google's practices by going to https://www.google.com/policies/privacy/partners/.
-
-Targeting & Marketing Cookies. Cookies that may be ours or our third-party partners and support us and our advertisers in serving relevant advertising on our sites as well as sites that are not owned or operated by us to promote our services, articles, or events. The Cookies are used to make advertising messages more relevant to you and your interests or prevent the same ad from continuously re-appearing.
-
-Depending on the country in which you are located, you may be asked to provide your consent for our use of Cookies (except for strictly necessary Cookies). In addition, you have the following choices concerning the use of Cookies.
-
-Browser Settings. Certain web browsers allow you to manage your preferences relating to Cookies. You can set your browser to refuse Cookies or delete certain Cookies. Please note that if you choose to block all Cookies, doing so may impair the use of our Services.
-
-Google Analytics Opt-out. To opt out from Google Analytics' use of information collected on the Services through Cookies, you can download the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.
-
-Third Party Advertising Companies' Opt-Out. We work with third party advertising partners to show you ads that we think may interest you. Some of our advertising partners are members of the Network Advertising Initiative or the Digital Advertising Alliance. If you do not wish to receive personalized ads, please visit their opt-out pages to learn about how you may opt out of receiving web-based personalized ads from member companies. You can access any settings offered by your mobile operating system to limit ad tracking, or you can install the AppChoices mobile app to learn more about how you may opt out of personalized ads in mobile apps.
-
-Universal Opt-out Signals. Where a site visitor chooses to use a tool to communicate their consent choices automatically through an opt-out preference signal, such as Global Privacy Control/GPC, on your browser or device, ElevenLabs will honor those signals as a request to opt-out of targeting & marketing cookies.
-
-8. Your Rights.
-
-(a) Data Subject Rights
-
-Depending on where you are located or reside, you may have certain rights regarding the Personal Data we maintain about you and certain choices about what Personal Data we collect from you, how we use it, and how we communicate with you. Such rights may include the rights to:
-
-Access Your Personal Data: Receive confirmation of processing and request access to the Personal Data we maintain about you. Most of your Personal Data can be accessed and exported by logging into your account. Where provided by applicable law, you may request that we include a description of the purpose of the processing of your personal data, third parties with which your data has been shared, and information regarding the safeguards for international data transfer.
-
-Correct Your Personal Data: Request to update and correct inaccuracies in your Personal Data. Most of your Personal Data can be accessed and corrected by logging into your account and accessing your account settings.
-
-Delete Your Account: Request to close your account by submitting your request using your account settings (see more information here).
-
-Delete Your Personal Data: Request that ElevenLabs delete all Personal Data we maintain about you including your account and the Voice Data associated with your account. This deletion also includes the personal data processed under the legal basis of consent. Where provided by applicable law, you may request that your Personal Data be anonymized rather than deleted.
-
-Restrict or Object To Processing of Your Personal Data: Restrict or object to the processing of your Personal Data, where applicable.
-
-Request Portability of Your Personal Data: Request to transfer your Personal Data to another authorized organization.
-
-Withdraw Consent: You may withdraw any consent you previously provided to us regarding the processing of your Personal Data at any time. We will apply your preferences going forward and this will not affect the lawfulness of the processing before you withdraw your consent. The Voice Library Addendum provides more information about consent withdrawals in the context of the Voice Library.
-
-Opt-out of Processing Your Data for Training: You may opt out of our use of your Personal Data for training at any time by navigating to the 'Data use' menu in the 'Terms and Privacy' section of your ElevenLabs account. For clarity, the opt-out will only apply with respect to Personal Data provided or made available following the submission of the opt-out.
-
-Deactivate Push Notifications: If you use one of our mobile applications, with your permission, we may send push notifications to your mobile device. You can deactivate these notifications at any time by changing the notification settings on your mobile device.
-
-Unsubscribe from Marketing Communications: You may unsubscribe from receiving marketing communications at any time by following the instructions contained within the email or by using this unsubscribe form. Please be aware that if you opt out of receiving commercial emails from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take some time for us to process your request and you may receive promotional communications from us that you have opted out from during that period, to the extent permitted by applicable law. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
-
-Anonymization. To the extent provided by law, you may ask to have your Personal Data anonymized. In such case, where anonymization is not feasible, we will inform you as to the reasons why such anonymization is not feasible. To have your Personal Data anonymized means the Personal Data will be processed in a manner such that it is not possible to associate such information with you, directly or indirectly.
-
-Right to Information About Shared Entities. To the extent provided by law, you may have rights to be informed about other companies with which we share your Personal Information.
-
-You may exercise these rights, as applicable, by using this online form (or to the extent such online form is unavailable, by emailing our Data Protection Office at the following email address: legal@elevenlabs.io). If using the form, please select “Other” and, whether using the form or submitting a request via email, include the right you would like to exercise in the subject (e.g., “Withdraw my Consent”) and note the location in which you reside. Before fulfilling your request, we may ask you to provide reasonable information to verify your identity and/or residence. Please note that applicable law may provide for exceptions and limitations to each of these rights.
-
-In addition to the rights listed above, you may also have the right to lodge a complaint with a supervisory authority, including in your country of residence, place of work, or where an incident took place.
-
-(b) United States Residents
-
-Residents of certain U.S. states, including California, Connecticut, Colorado, Utah, Virginia, Oregon, Montana, or Texas, have additional privacy rights disclosures regarding their Personal Information, as described below. In certain U.S. states, you have the following rights in addition to those listed in Section 8(a):
-
-Sale of Personal Information, Sharing for Cross-Context Behavioral Advertising, and Targeted Advertising
-
-When we share Personal Information through our targeting Cookies or with vendors that provide advertising services to us, that is considered a sale or sharing for cross-context behavioral advertising or targeted advertising under certain U.S. state privacy laws. You can opt out of the sale of your Personal Information, including the sharing of your Personal Information for targeted or cross-contextual behavioral advertising by clicking 'Modify Cookies' in the website footer and adjusting your settings.
-
-The following types of Personal Information may be processed for purposes of targeted advertising, and may have been “shared” or “sold” in the 12 months prior to the last modified date of the privacy policy:
-
-Online Identifiers: IP address; unique identifier.
-
-Each category of Personal Information listed above may be “shared” with or “sold” to the following third parties in connection with our marketing activities:
-
-Advertising vendors (e.g., affiliate marketing companies, tracking technology providers).
-
-Parties to a corporate transaction (e.g., if we are involved in the purchase, sale, lease, or other acquisition of our systems containing personal information).
-
-Due to the fact that our services are intended for users aged 18 or over, we do not knowingly “sell” or “share” Personal Information of individuals under the age of 18.
-
-Do Not Track. Our websites and apps are not designed to respond to “do not track” requests from browsers.
-
-Authorized Agents. In those states where it is applicable, your authorized agent may submit a request to exercise any of the above rights on your behalf. ElevenLabs may request additional information to verify their authority to act on your behalf before processing any requests.
-
-(c) Residents of India
-
-If you are in India, in addition to the rights in Section 8(a), you also have the following rights regarding your Personal Data:
-
-Right to nominate: You have the right to nominate any individual who will exercise the rights available to you in case of your death or incapacity.
-
-Right of grievance redressal: You have the right to contact us about how we process your Personal Data, our obligations in relation to such Personal Data and/or with regard to your rights regarding such Personal Data. You may exercise these rights by contacting us as described in Section 14, unless otherwise required under the law.
-
-9. Third Parties.
-
-Our Services may contain links to other websites, products, or services that we do not own or operate. We are not responsible for the privacy practices of these third parties. Please be aware that this Privacy Policy does not apply to your activities on these third-party services or any information you disclose to these third parties. We encourage you to read their privacy policies before providing any information to them.
-
-10. Security.
-
-We implement reasonable security measures to secure and protect your Personal Data. The up-to-date list of measures along with relevant audit certifications can be obtained at: https://compliance.elevenlabs.io/. We note that, as no electronic transmission or storage of information can be entirely secure, we can make no guarantees as to the security or privacy of your information, to the extent permitted by applicable law.
-
-11. Children's Privacy.
-
-Our Services are not intended for or directed at children under the age of 18 and ElevenLabs does not knowingly collect, store, or process Personal Data from children under the age of 18.
-
-If you are under the age of 18, you are not permitted to submit any Personal Data to us for any Service. If we become aware that we have inadvertently received Personal Data from a child under the age of 18, we will delete that information from our records.
-
-Additionally, all users are strictly prohibited from uploading, transmitting, emailing, or otherwise making Voice Data from children under the age of 18 available to us or other users or using them for any of our Services. If you believe we may have inadvertently processed such Personal Data, please contact us at legal@elevenlabs.io.
-
-12. Additional Information About Biometric Data.
-
-Certain ElevenLabs’ Service may involve the collection of biometric information. We collect this information for verification purposes. We may disclose this information where necessary to our affiliates, service providers, and /or other collaborators to provide you with and develop our services. We will retain your biometric data until it is no longer needed for the purposes in which it was collected, or after 3 years of the termination of our relationship with you, whichever is sooner.
-
-13. Updates to this Policy.
-
-We may periodically update this Policy. If there are significant changes, we will notify you as required by law.
-
-14. Contact Us.
-
-For any questions regarding this Policy or our processing of your Personal Data, please contact our Data Protection Officer at legal@elevenlabs.io.
-
-You may also write our Data Protection Office at: Eleven Labs Inc.
-
+Eleven Labs Inc.
 169 Madison Ave #2484
-
 New York, NY 10016
-
 United States
 
-For residents of Brazil, our Data Protection Officer is Paulo Eduardo Lilia, who can be reached at legal@elevenlabs.io.
+## 13. Additional Information for Specific Countries
 
-You may exercise these rights, as applicable, by using this online form (or to the extent such online form is unavailable, by emailing legal@elevenlabs.io). If using the form, please select “Other” and, whether using the form or submitting a request via email, include the right you would like to exercise in the subject (e.g., “Withdraw my Consent”) and note the location in which you reside. Before fulfilling your request, we may ask you to provide reasonable information to verify your identity and/or residence. Please note that applicable law may provide for exceptions and limitations to each of these rights.
+Certain countries require us to provide you with additional information about our processing of your personal information. If you are located in Brazil, the EEA/UK or Switzerland, India or the United States, please note the additional information below.
 
-If you are located in the European Economic Area, the UK or Switzerland, the controller for the processing of your Voice Data is
+**(a) Additional Information for Residents of Brazil**
 
-Eleven Labs Poland sp. z o.o.
+For residents of Brazil, our Data Protection Officer is Paulo Eduardo Lilia, who can be reached at dpo@elevenlabs.io.
 
-Lipska 27/22 Street, 03-908
+**(b) Additional Information for Residents of the EEA/UK or Switzerland**
 
-Warsaw, Poland
+If you are a resident in the European Economic Area (“EEA”), UK or Switzerland then please note the following additional information:
+
+**Data controller:**
+
+The data controller is:
+
+ElevenLabs Poland sp. z o.o.
+Plac Marszałka Józefa Piłsudskiego 8, 00-073
+Warsaw
+Poland
+
+You can contact ElevenLabs Poland sp. Z.o.o using the details provided above or by email to dpo@elevenlabs.io
+
+**International transfers:**
+
+If ElevenLabs transfers your personal information to a country outside of the EEA (for EEA residents), the UK (for UK residents) or Switzerland (for Swiss residents) we will ensure that these transfers comply with the laws in the country in which you reside.
+
+In practice, this means that ElevenLabs will only transfer your personal information to a non-EEA, UK or Swiss recipient either where:
+
+(i) Adequacy - the recipient is located in a country that the European Commission, the UK Secretary of State and/or Swiss Federal Council has decided is adequate to receive personal information from the country in which you reside (as applicable). This includes for example transfers made to recipients certified under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF);
+(ii) Standard Contractual Clauses - the recipient has signed appropriate contractual terms with ElevenLabs that incorporate the European Commission's Standard Contractual Clauses or the UK Information Commissioner's International Data Transfer Agreement or International Data Transfer Addendum (as applicable); or
+(iii) Derogation - a data transfer derogation applies (for example, where you have consented to the transfer of your personal information).
+
+**ElevenLabs' DPF Certification**
+
+For transfers from the EU, UK and Switzerland to ElevenLabs in the United States, ElevenLabs relies on and complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
+
+You can find further information about our DPF Certification and commitment to the DPF at elevenlabs.io/eu-us-data-privacy-framework-policy. Please note that this certification applies only to ElevenLabs' U.S. entity. Transfers of personal information out of the EEA, UK and/or Switzerland to our other entities are carried out in reliance on one of the measures above.
+
+We have implemented transfer impact assessments for transfers that rely on the Standard Contractual Clauses. If you have further questions about our international data transfers and the specific measures we use in any case, you can contact us using the information in the “Contact Us” section.
+
+**(c) Additional Information for Residents of India**
+
+If you are a resident in India, in addition to the rights set out in the “Your Rights” section above, you also have the following rights regarding your personal information:
+
+**Right to nominate:** You have the right to nominate any individual who will exercise the rights available to you in case of your death or incapacity.
+**Right of grievance redressal:** You have the right to contact us about how we process your personal information, our obligations in relation to such personal information and/or with regard to your rights regarding such personal information. You may exercise these rights by contacting us as described in Section 12, unless otherwise required under the law.
+
+**d) Additional Information for Residents of the United States**
+
+Some U.S. state privacy laws require specific disclosures and provide certain privacy rights to their residents, which we cover in this section. This section also serves as our California notice at collection. In other sections of this Policy, we explain the categories of personal information we collect, the sources from which we collect it, how we use the personal information we collect, including information that may be “sensitive” under state privacy laws, and for how long we retain the personal information we collect, and the circumstances in which we disclose it.
+
+**Your Access, Correction, and Deletion Rights**
+
+If you live in a state covered by this section you have the access, correction, and deletion rights set out in the “Your Rights” section above, which you can exercise using the methods we describe in that section. To verify your identity in connection with a rights request, we may ask you to authenticate through your account on our Services or otherwise provide information reasonably necessary for verification purposes. If you live in California, you may use an authorized agent to make requests to access, correct, or delete your personal information. Authorized agents may make requests by emailing dpo@elevenlabs.io. We will ask authorized agents to provide proof of their authority to operate on your behalf and may also ask you to verify your identity with us.
+
+**Your Right to Opt Out of Sales, Sharing for Cross-Context Behavioral Advertising, and Targeted Advertising**
+
+We share limited personal information with advertising partners, social networks, and affiliate marketing companies that help us promote our Services on third-party properties, including through targeting Cookies. These data disclosures are considered sharing for cross-context behavioral advertising or targeted advertising, and may also be considered “selling” personal information, under certain state privacy laws. The categories of personal information we share for these purposes include identifiers (like your IP address, an advertising ID, or a hashed version of your email address or phone number), electronic network activity information (like the page of our website that you visited), and commercial information (like whether you're a paid subscriber). You can opt out by clicking 'Your Privacy Choices' in the website footer and adjusting your settings. You can also opt out by visiting our Services with a legally recognized opt-out mechanism enabled, such as the Global Privacy Control.
+
+We do not knowingly “sell” or “share” personal information of individuals under the age of 18.

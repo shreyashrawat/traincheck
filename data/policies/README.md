@@ -1,6 +1,6 @@
-# TrainCheck policy dataset (v1.1, raw)
+# TrainCheck policy dataset (v1.2, raw)
 
-Raw privacy-policy texts for 32 of 34 target consumer AI products — the source material
+Raw privacy-policy texts for all 34 target consumer AI products — the source material
 for TrainCheck's ML training dataset. Each file is the full text of one
 product's official privacy policy, saved for annotation (sentence-level
 labels against the 16-item TrainCheck rubric) and classifier training.
@@ -35,35 +35,31 @@ in each file's frontmatter and in the manifest. Policies change: the
 `policy_date` is the version that was annotated, and re-fetching later
 may return a newer version.
 
-## Collection status (2026-11-12, v1.1)
+## Collection status (2026-11-12, v1.2)
 
-32 of 34 fetched OK (**204,026 words, 8,514 sentences**). v1 shipped
-28 of 30; the v1.1 round added 3 new policies (Canva, Fireflies.ai,
-Nomi), landed the Character.AI retry, and re-fetched Stability AI and
-Runway from their current official policies. 2 failed:
+34 of 34 fetched OK (**222,996 words, 9,200 sentences**). 0 failed,
+0 provisional. v1 shipped 28 of 30; the v1.1 round added 3 new policies
+(Canva, Fireflies.ai, Nomi), landed the Character.AI retry, and
+re-fetched Stability AI and Runway from their current official policies.
+The v1.2 round closed the collection:
 
-- **Khanmigo** — Khan Academy's policy page returns a Cloudflare
-  challenge on every attempt; the Wayback retry failed with a transient
-  fetch error. Re-fetch from
-  https://www.khanacademy.org/about/privacy-policy (Khanmigo is governed
-  by the main policy, not the separate Kids policy) — likely needs a
-  live browser.
-- **QuillBot** — live page is JS-rendered (a browser read returns nav
-  links only); Wayback returned 403. Current policy updated Nov 8,
-  2025; the legacy 2022 copy was deliberately not used. Needs a live
-  browser.
+- **Khanmigo** — recovered via a live-browser read of Khan Academy's
+  main privacy policy (Khanmigo is governed by the main policy, not the
+  separate Kids policy); automated fetches were Cloudflare-blocked and
+  the Wayback retry failed. Policy dated 2026-01-30.
+- **QuillBot** — recovered via a live-browser read of the Learneo, Inc.
+  umbrella policy covering QuillBot (JS-rendered page; Wayback 403).
+  Policy updated 2026-08-17.
+- **ElevenLabs** — re-fetched from the official policy via a
+  live-browser read, replacing the provisional 2026-05-20 Fineprinted
+  snapshot. Current version updated 2026-10-09.
+- **Suno** — re-fetched from the official https://suno.com/privacy via a
+  live-browser read, replacing the provisional suno.tech copy. Current
+  version last modified 2026-06-23.
 
-2 fetched files are still **provisional** and should be re-fetched from
-the official current policy before their annotations are trusted for
-training (details in the manifest `notes`):
-
-- **ElevenLabs** — from a third-party GitHub snapshot (elevenlabs.io
-  blocked the fetch); a newer version (updated 2026-10-09) exists. The
-  v1.1 re-fetch also failed (live blocked, Wayback 403).
-- **Suno** — from suno.tech, whose status as Suno's official domain is
-  uncertain; this version has no AI-training clause. The v1.1 re-fetch
-  also failed (live blocked, Wayback 403); official URL confirmed as
-  https://suno.com/privacy.
+Navigation-only table-of-contents lists were stripped from ElevenLabs
+(`Quicklinks`) and Suno (the Overview contents list), matching the
+Khanmigo and QuillBot files, so templates contain policy text only.
 
 ## From raw text to annotations
 

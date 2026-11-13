@@ -1,10 +1,10 @@
 {
   "collection_date": "2026-11-12",
   "total_products": 34,
-  "fetched_ok": 32,
-  "failed": 2,
-  "total_words": 204026,
-  "total_sentences": 8514,
+  "fetched_ok": 34,
+  "failed": 0,
+  "total_words": 222996,
+  "total_sentences": 9200,
   "entries": [
     {
       "slug": "openai-chatgpt",
@@ -246,12 +246,12 @@
       "company": "Khan Academy",
       "source_url": "https://www.khanacademy.org/about/privacy-policy",
       "fetched_date": "2026-11-12",
-      "policy_date": null,
-      "word_count": null,
-      "sentence_count": null,
-      "status": "failed",
-      "failure_reason": "Cloudflare 'Client Challenge' block on both fetch attempts; no policy content returned. Live-browser fallback was not available to the fetcher. Khanmigo is governed by Khan Academy's main privacy policy (not the separate Kids policy); a Dec 2023 archived copy exists on sdpc.a4l.org but is stale and third-party hosted — not used. v1.1 retry: Wayback fetch failed with a transient upstream error (retry barred); live page still Cloudflare-blocked. Needs a live-browser fetch or a fresh-session Wayback retry.",
-      "notes": null
+      "policy_date": "2026-01-30",
+      "word_count": 10841,
+      "sentence_count": 408,
+      "status": "ok",
+      "failure_reason": null,
+      "notes": "governed by Khan Academy's main privacy policy (not the separate Kids policy); fetched via live-browser read 2026-11-12 (automated fetch Cloudflare-blocked; Wayback retry failed)"
     },
     {
       "slug": "adobe-firefly",
@@ -309,27 +309,27 @@
       "slug": "elevenlabs",
       "product": "ElevenLabs",
       "company": "ElevenLabs",
-      "source_url": "https://github.com/shreyash0712/fineprinted/blob/HEAD/data/snapshots/elevenlabs.io/privacy-policy/4dce381fa543353ca24e7c00365d2c04a2b8221b2de4e0f20a4dfb6ba0dbf3f6.md",
+      "source_url": "https://elevenlabs.io/privacy-policy",
       "fetched_date": "2026-11-12",
-      "policy_date": "2026-05-20",
-      "word_count": 6682,
-      "sentence_count": 307,
+      "policy_date": "2026-10-09",
+      "word_count": 5430,
+      "sentence_count": 270,
       "status": "ok",
       "failure_reason": null,
-      "notes": "PROVISIONAL: fetched from a Fineprinted GitHub snapshot (elevenlabs.io blocked the fetch); version dated 2026-05-20. A newer version dated 2026-10-09 may exist. Recommend live-browser re-fetch from https://elevenlabs.io/privacy-policy. v1.1 re-fetch attempt failed: live elevenlabs.io blocked, Wayback returned 403. Newer version confirmed updated 2026-10-09 — still needs a live-browser fetch."
+      "notes": "Re-fetched 2026-11-12 (v1.2): current version updated 2026-10-09 via live-browser read, replacing the provisional 2026-05-20 Fineprinted snapshot. Table-of-contents list stripped (consistent with Khanmigo/QuillBot)."
     },
     {
       "slug": "suno",
       "product": "Suno",
       "company": "Suno",
-      "source_url": "https://www.suno.tech/pages/privacy.html",
+      "source_url": "https://suno.com/privacy",
       "fetched_date": "2026-11-12",
-      "policy_date": "not stated",
-      "word_count": 3659,
-      "sentence_count": 124,
+      "policy_date": "2026-06-23",
+      "word_count": 5353,
+      "sentence_count": 182,
       "status": "ok",
       "failure_reason": null,
-      "notes": "PROVISIONAL: fetched from suno.tech (suno.com blocked); suno.tech's status as Suno's official domain is uncertain; this version contains no AI-training clause. Recommend live-browser re-fetch from https://suno.com/privacy. v1.1 re-fetch attempt failed: live suno.com blocked, Wayback returned 403. Official URL confirmed as https://suno.com/privacy — still needs a live-browser fetch."
+      "notes": "Re-fetched 2026-11-12 (v1.2): official suno.com policy, last modified 2026-06-23, via live-browser read, replacing the provisional suno.tech copy. Table-of-contents list stripped (consistent with Khanmigo/QuillBot)."
     },
     {
       "slug": "poe",
@@ -438,15 +438,15 @@
     {
       "slug": "quillbot",
       "product": "QuillBot",
-      "company": "QuillBot",
+      "company": "Learneo, Inc.",
       "source_url": "https://quillbot.com/privacy",
       "fetched_date": "2026-11-12",
-      "policy_date": null,
-      "word_count": null,
-      "sentence_count": null,
-      "status": "failed",
-      "failure_reason": "Live page is JS-rendered (browser read returned nav links only); Wayback snapshot returned HTTP 403. The legacy-word.quillbot.com copy is the superseded March 1, 2022 version (current policy updated Nov 8, 2025) — deliberately not used. Needs a live-browser fetch.",
-      "notes": null
+      "policy_date": "2026-08-17",
+      "word_count": 7687,
+      "sentence_count": 257,
+      "status": "ok",
+      "failure_reason": null,
+      "notes": "Learneo, Inc. umbrella policy covering QuillBot; fetched via live-browser read 2026-11-12 (JS-rendered; Wayback 403)"
     }
   ]
 }
